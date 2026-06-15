@@ -17,8 +17,11 @@
   .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
   .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
   .year-chip:hover { background:#1b365d; color:#fff; }
-  .year-chip.src { background:#eef3ea; border-color:#cdddb9; color:#2f5524; }
-  .year-chip.src:hover { background:#2f5524; color:#fff; }
+  .filepair { display:inline-flex; margin:.12rem .4rem .12rem 0; }
+  .filepair .year-chip { margin:0; }
+  .filepair .dl { border-radius:.35rem 0 0 .35rem; }
+  .filepair .pg { border-radius:0 .35rem .35rem 0; border-left:none; padding:.12rem .45rem; background:#eef3ea; border-color:#cdddb9; color:#2f5524; }
+  .filepair .pg:hover { background:#2f5524; color:#fff; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
   details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
@@ -285,20 +288,17 @@ function renderFiles() {
         const items = g.files.slice().sort((a, b) =>
           (yearNum(chipLabel(a)) - yearNum(chipLabel(b))) || chipLabel(a).localeCompare(chipLabel(b)));
         const latest = items[items.length - 1];
-        const pages = new Set(items.map(x => x.sourceUrl));
-        const multiPage = pages.size > 1;
+        const multiPage = new Set(items.map(x => x.sourceUrl)).size > 1;
 
-        const dlChips = items.map(x =>
-          '<a class="year-chip" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
+        // every file gets a pair: ⬇ download the file, and ↗ the page it lives on
+        const chips = items.map(x =>
+          '<span class="filepair">'
+          + '<a class="year-chip dl" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
           + esc(x.file.kind) + " (" + esc(chipLabel(x)) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
-          + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>").join("");
-
-        // when years live on different pages, give each its own source-page link
-        const srcBlock = multiPage
-          ? '<div class="file-cols mb-1 mt-2">↗ source page (differs by year):</div><div>'
-            + items.map(x => '<a class="year-chip src" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" title="'
-              + esc(x.sourceName) + '">↗ ' + esc(chipLabel(x)) + "</a>").join("") + "</div>"
-          : "";
+          + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>"
+          + '<a class="year-chip pg" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" '
+          + 'title="Open the page where this file is hosted: ' + esc(x.sourceName) + '">↗</a>'
+          + "</span>").join("");
 
         const yrs = items.map(x => yearNum(chipLabel(x))).filter(y => y > 0);
         let span = "";
@@ -307,14 +307,11 @@ function renderFiles() {
             ? '<span class="badge bg-secondary">' + items.length + " yrs · " + Math.min(...yrs) + "–" + Math.max(...yrs) + "</span> "
             : '<span class="badge bg-secondary">' + items.length + " items</span> ";
         }
-        const titleLink = '<a href="' + esc(latest.sourceUrl) + '" target="_blank" rel="noopener" '
-          + 'title="Go to the page where the latest is hosted">' + highlight(esc(g.title), terms) + " ↗</a>";
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
-          + '<h6 class="mb-1">' + titleLink + "</h6>" + span + "</div>"
+          + '<h6 class="mb-1">' + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
           + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
-          + '<div class="file-cols mb-1">⬇ download a file:</div><div>' + dlChips + "</div>"
-          + srcBlock + "</div>";
+          + '<div class="file-cols mb-1">each file: <b>⬇</b> download · <b>↗</b> page it lives on</div><div>' + chips + "</div></div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
