@@ -158,6 +158,24 @@ source that duplicates an existing metric, add it to the relevant overlap's
 - OSSE per-pupil **expenditure** ≠ DCPS budget **allocation**.
 - OSSE audited enrollment is the count everyone else republishes.
 
+## Automation
+
+Two layers, different cadence:
+
+- **Layer 1 — deterministic refresh (no browser).** `./refresh.sh` re-downloads
+  every known file, re-profiles, and regenerates. Catches files OSSE/DCPS updated
+  *in place* and flags dead links (`error`). Runs unattended — see
+  `.github/workflows/refresh.yml` (monthly GitHub Action that commits drift), or a
+  plain cron: `0 9 1 * * cd /path/to/schools && ./refresh.sh`.
+- **Layer 2 — discovery (needs this skill).** Finding new years/files and resolving
+  Box/Egnyte needs Playwright + judgment, so it can't be a dumb cron. Run this skill
+  when a new year posts, **or** schedule it as a recurring cloud agent with
+  `/schedule` (e.g. monthly) so an agent re-runs the harvest → profile → generate
+  end to end. That's the closest thing to fully-automated updates.
+
+Rule of thumb: Layer 1 keeps existing files fresh automatically; Layer 2 (this
+skill, ideally scheduled) brings in what's new.
+
 ## Definition of done
 - [ ] All `sources.yaml` URLs resolve, `status` accurate, `last_verified` bumped.
 - [ ] New school-year files added to `data_files.yaml` (Box links resolved).

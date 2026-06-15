@@ -1,0 +1,39 @@
+name: Refresh DC schools catalog
+
+# Layer-1 (deterministic) automation: monthly re-download + re-profile + regenerate,
+# committing any drift. Catches in-place file updates and dead links. Does NOT
+# discover new files/years or resolve Box/Egnyte — run the update-dc-schools-data
+# skill for that. Activates once this repo is pushed to GitHub.
+
+on:
+  schedule:
+    - cron: "0 9 1 * *"   # 09:00 UTC on the 1st of each month
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Refresh catalog
+        run: |
+          python profile_files.py --refresh
+          python generate_readme.py
+      - name: Commit any changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add catalog.js README.md file_profiles.json
+          if git diff --cached --quiet; then
+            echo "No changes — catalog is current."
+          else
+            git commit -m "Automated monthly catalog refresh"
+            git push
+          fi
