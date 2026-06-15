@@ -37,7 +37,7 @@
   <div class="row g-2 mb-3">
     <div class="col-12 col-lg-5">
       <input id="q" type="search" class="form-control form-control-lg"
-             placeholder="Search: enrollment, truancy, spending, graduation, boundaries…" autofocus>
+             placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
     </div>
     <div class="col-6 col-lg-2"><select id="owner" class="form-select"></select></div>
     <div class="col-6 col-lg-2"><select id="topic" class="form-select"></select></div>
@@ -46,12 +46,14 @@
   </div>
 
   <ul class="nav nav-tabs mb-3">
-    <li class="nav-item"><a class="nav-link active" href="#" id="tab-sources">Sources</a></li>
+    <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" id="tab-sources">Sources</a></li>
     <li class="nav-item"><a class="nav-link" href="#" id="tab-overlaps">Same data, different places</a></li>
   </ul>
 
   <div id="count" class="meta mb-2"></div>
-  <div id="results"></div>
+  <div id="files"></div>
+  <div id="results" style="display:none"></div>
   <div id="overlaps" style="display:none"></div>
 </div>
 
@@ -79,7 +81,7 @@ const AUTH_LABEL = {
 };
 
 // single home for filter state — nothing else writes these
-const state = { q: "", owner: "", topic: "", authority: "", view: "sources" };
+const state = { q: "", owner: "", topic: "", authority: "", view: "files" };
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -186,11 +188,55 @@ function renderOverlaps() {
   }).join("");
 }
 
+// ----- flat file index: one entry per downloadable file, searchable by its own
+// name + source + every tab/column/table-header it contains -----
+const ALL_FILES = CAT.sources.flatMap(s => (s.files || []).map(f => {
+  const bits = [f.name, s.name, s.owner, f.year || ""];
+  for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
+  bits.push(...(f.columns || []));
+  for (const t of f.tables || []) bits.push(...t.header);
+  return { file: f, sourceName: s.name, sourceUrl: s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
+}));
+
+// Short terms (AP, SAT, EL) match whole words only, so "AP" doesn't hit "chapter".
+// Longer terms (enroll, attendance) match as substrings.
+function fileTermMatch(text, term) {
+  if (term.length <= 3) {
+    return new RegExp("\\b" + term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i").test(text);
+  }
+  return text.includes(term);
+}
+
+function renderFiles() {
+  const terms = queryTerms();
+  const hits = ALL_FILES.filter(e => {
+    if (state.owner && e.owner !== state.owner) return false;
+    return terms.every(t => fileTermMatch(e.text, t));
+  });
+  document.getElementById("count").textContent = hits.length + " of " + ALL_FILES.length + " files";
+  document.getElementById("files").innerHTML = hits.length
+    ? hits.map(e =>
+        '<div class="file-line"><a href="' + esc(e.file.url) + '" target="_blank" rel="noopener">'
+        + highlight(esc(e.file.name), terms) + "</a> "
+        + '<span class="text-muted">[' + esc(e.file.kind) + (e.file.year ? " · " + esc(e.file.year) : "") + "]</span>"
+        + '<div class="file-cols">' + esc(e.owner) + " · " + esc(e.sourceName) + " — "
+        + highlight(esc(fileSummary(e.file)), terms) + "</div></div>").join("")
+    : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
+}
+
+const VIEWS = {
+  files:    { div: "files",    tab: "tab-files",    render: renderFiles },
+  sources:  { div: "results",  tab: "tab-sources",  render: renderSources },
+  overlaps: { div: "overlaps", tab: "tab-overlaps", render: renderOverlaps },
+};
+
 function render() {
-  const showSources = state.view === "sources";
-  document.getElementById("results").style.display = showSources ? "" : "none";
-  document.getElementById("overlaps").style.display = showSources ? "none" : "";
-  if (showSources) renderSources(); else renderOverlaps();
+  for (const [name, v] of Object.entries(VIEWS)) {
+    const active = name === state.view;
+    document.getElementById(v.div).style.display = active ? "" : "none";
+    document.getElementById(v.tab).classList.toggle("active", active);
+  }
+  VIEWS[state.view].render();
 }
 
 // ----- build filter dropdowns from the data -----
@@ -226,16 +272,11 @@ document.getElementById("clear").addEventListener("click", () => {
   for (const id of ["owner", "topic", "authority"]) document.getElementById(id).value = "";
   render();
 });
-document.getElementById("tab-sources").addEventListener("click", e => {
-  e.preventDefault(); state.view = "sources";
-  e.target.classList.add("active"); document.getElementById("tab-overlaps").classList.remove("active");
-  render();
-});
-document.getElementById("tab-overlaps").addEventListener("click", e => {
-  e.preventDefault(); state.view = "overlaps";
-  e.target.classList.add("active"); document.getElementById("tab-sources").classList.remove("active");
-  render();
-});
+for (const [name, v] of Object.entries(VIEWS)) {
+  document.getElementById(v.tab).addEventListener("click", e => {
+    e.preventDefault(); state.view = name; render();
+  });
+}
 
 render();
 </script>
