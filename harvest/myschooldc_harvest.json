@@ -1,0 +1,620 @@
+{
+  "count": 123,
+  "links": [
+    {
+      "section": "Year over Year Comparisons",
+      "text": "Seats Made Available in Lottery and Waitlist Movement",
+      "href": "https://public.tableau.com/app/profile/aaron2446/viz/MSDCSeatsandWaitlistOfferData_draft/MSDCPublicDisplay"
+    },
+    {
+      "section": "Year over Year Comparisons",
+      "text": "Click here.",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260602_MySchoolDC_Tableau_Data.xlsx"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "Total applications and results from 2018 to 2026 lotteries",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Total_Applications.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-number-of-applications-by-grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_bygrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Seats_Available.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_and_Seats_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_and_Seats_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_and_Seats_Offered_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY22_23_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applications-and-seats-offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_seats_offered.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Unique_Applicants_Waitlists.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Unique_Applicants_Waitlisted.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Unique_Applicants_Waitlisted.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Unique_Applicants_Waitlisted.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_waitlisted.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_unique_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_unique_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_unique_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-unique-applicants-on-wls-by-grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_waitlist.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Preferred_Language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Language_Percent.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applicants-by-preferred-language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_preferred_language.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Distribution_Applications_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/u396/SY23_24_Applicants_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-distribution-of-applications-by-war.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_byward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_Grade_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Grade_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Grade_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Grade_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_byward_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_applications_byward_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_byward_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_byward_grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2016_Lottery_Applications_byWardandGrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2015_R1_Applications_byWardandGrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2014_R1_Applications_byWardandGrade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Ward_Residence.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Rate_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Rate_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Rate_Ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_match_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Ward%20of%20Residence.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-ward-of-residence.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_ward.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Median_School_Selection.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Median_School_Choices_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Median_School_Choices_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Median_School_Choices_by_Grade.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicant_median_school_selection.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Median%20Number%20of%20School%20Selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-median-number-of-school-selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_median_number_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2026",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Grade_School_Selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2025",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Grade_School_Selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2024",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Grade_School_Selection.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2023",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Grade_School_Selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2022",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_match_grade_school_selection.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2021",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2020",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2019",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2018",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2017",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Grade%20and%20Number%20of%20School%20Selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2016",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-grade-and-number-of-s.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2015",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Lottery Data",
+      "text": "2014",
+      "href": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_grade_selections.pdf"
+    },
+    {
+      "section": "Research Requests for Non-Public Data",
+      "text": "My School DC Process and Requirements to Conduct Research",
+      "href": "https://www.myschooldc.org/sites/default/files/u21/MSDC_Data_Request_Process.pdf"
+    },
+    {
+      "section": "My School DC Research",
+      "text": "Giving At-Risk Students Preference in a Unified Lottery for Public Schools",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/MSDC%20At-Risk%20Preference%20in%20a%20Unified%20Lottery%204.26.2018_Final.pdf"
+    },
+    {
+      "section": "My School DC Research",
+      "text": "Dual Language Immersion Demand",
+      "href": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/Dual%20Language%20Immersion%20Demand%20Research%20FINAL.pdf"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Downloaded data files — regenerate with `python profile_files.py`
+data_cache/
+
+# Playwright MCP scratch output
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

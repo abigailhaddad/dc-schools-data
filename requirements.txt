@@ -1,0 +1,6 @@
+pyyaml
+requests
+openpyxl
+pandas
+pypdf
+pdfplumber

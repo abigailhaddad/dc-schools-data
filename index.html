@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DC Schools Data — Source Finder</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  body { background:#f6f7f9; }
+  .topbar { background:#1b365d; color:#fff; }
+  .src-card { background:#fff; border:1px solid #e3e6ea; border-radius:.5rem; padding:1rem 1.25rem; margin-bottom:.85rem; }
+  .src-card h5 { margin-bottom:.35rem; }
+  .badge-auth-authoritative { background:#1e7e34; }
+  .badge-auth-derived       { background:#b8860b; }
+  .badge-auth-republished   { background:#2a6db0; }
+  .badge-auth-third-party   { background:#6c757d; }
+  .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
+  .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
+  .file-cols { color:#566; font-size:.8rem; }
+  details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
+  .meta { font-size:.85rem; color:#566; }
+  .note { font-size:.86rem; color:#333; }
+  mark { padding:0 .1em; }
+  .overlap-card { background:#fff; border-left:4px solid #1b365d; border-radius:.4rem; padding:.9rem 1.1rem; margin-bottom:.85rem; }
+</style>
+</head>
+<body>
+
+<div class="topbar py-3 mb-3">
+  <div class="container">
+    <h3 class="mb-0">DC K-12 Public Schools — Data Source Finder</h3>
+    <div class="small opacity-75" id="subtitle">loading…</div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row g-2 mb-3">
+    <div class="col-12 col-lg-5">
+      <input id="q" type="search" class="form-control form-control-lg"
+             placeholder="Search: enrollment, truancy, spending, graduation, boundaries…" autofocus>
+    </div>
+    <div class="col-6 col-lg-2"><select id="owner" class="form-select"></select></div>
+    <div class="col-6 col-lg-2"><select id="topic" class="form-select"></select></div>
+    <div class="col-6 col-lg-2"><select id="authority" class="form-select"></select></div>
+    <div class="col-6 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
+  </div>
+
+  <ul class="nav nav-tabs mb-3">
+    <li class="nav-item"><a class="nav-link active" href="#" id="tab-sources">Sources</a></li>
+    <li class="nav-item"><a class="nav-link" href="#" id="tab-overlaps">Same data, different places</a></li>
+  </ul>
+
+  <div id="count" class="meta mb-2"></div>
+  <div id="results"></div>
+  <div id="overlaps" style="display:none"></div>
+</div>
+
+<footer class="container py-4 meta">
+  Generated from <code>sources.yaml</code> + <code>data_files.yaml</code>. Edit those and run
+  <code>python generate_readme.py</code> to rebuild. <span id="verified"></span>
+</footer>
+
+<script src="catalog.js"></script>
+<script>
+// ----- fail loud if the data didn't load -----
+if (!window.CATALOG) {
+  document.getElementById("results").innerHTML =
+    '<div class="alert alert-danger">catalog.js did not load. Run <code>python generate_readme.py</code>, '
+    + 'and open this page over http (e.g. <code>python -m http.server</code>) if your browser blocks local scripts.</div>';
+  throw new Error("CATALOG missing");
+}
+
+const CAT = window.CATALOG;
+const AUTH_LABEL = {
+  "authoritative": "authoritative",
+  "derived": "derived (sector subset)",
+  "republished": "republished",
+  "third-party": "third-party",
+};
+
+// single home for filter state — nothing else writes these
+const state = { q: "", owner: "", topic: "", authority: "", view: "sources" };
+
+function esc(s) {
+  return String(s == null ? "" : s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+// highlight each query term in already-escaped text
+function highlight(escaped, terms) {
+  let html = escaped;
+  for (const t of terms) {
+    if (t.length < 2) continue;
+    const re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+    html = html.replace(re, "<mark>$1</mark>");
+  }
+  return html;
+}
+
+function queryTerms() {
+  return state.q.toLowerCase().split(/\s+/).filter(Boolean);
+}
+
+function matches(source) {
+  const terms = queryTerms();
+  if (!terms.every(t => source.search.includes(t))) return false;
+  if (state.owner && source.owner !== state.owner) return false;
+  if (state.topic && !source.topics.includes(state.topic)) return false;
+  if (state.authority && source.authority !== state.authority) return false;
+  return true;
+}
+
+function fileSummary(f) {
+  if (f.status === "needs_browser") return "behind Box/Egnyte — resolve in a browser";
+  if (f.status === "error") return "download/parse error";
+  if (f.kind === "xlsx" || f.kind === "xls") {
+    const tabs = f.tabs || [];
+    const biggest = tabs.slice().sort((a, b) => b.n_rows - a.n_rows)[0];
+    const cols = biggest && biggest.columns.length ? " — cols: " + biggest.columns.slice(0, 10).join(", ") : "";
+    return tabs.length + " tab(s): " + tabs.map(t => t.name).join(", ") + cols;
+  }
+  if (f.kind === "csv") return (f.n_rows != null ? f.n_rows + " rows × " : "") + (f.columns || []).length
+    + " cols — " + (f.columns || []).slice(0, 10).join(", ");
+  if (f.kind === "pdf") return f.has_tabular_data
+    ? f.n_pages + " pages, extractable tables on ~" + f.n_table_pages + " page(s)"
+    : f.n_pages + " pages (narrative; no extractable tables)";
+  return f.kind;
+}
+
+function sourceCard(source, terms) {
+  const topics = source.topics.map(t => '<span class="topic-tag">' + esc(t) + "</span>").join("");
+  const files = source.files || [];
+  let filesHtml = "";
+  if (files.length) {
+    const lines = files.map(f =>
+      '<div class="file-line"><a href="' + esc(f.url) + '" target="_blank" rel="noopener">'
+      + esc(f.name) + "</a> <span class=\"text-muted\">[" + esc(f.kind)
+      + (f.year ? " · " + esc(f.year) : "") + "]</span><div class=\"file-cols\">"
+      + esc(fileSummary(f)) + "</div></div>").join("");
+    filesHtml = '<details class="files mt-2"><summary>' + files.length
+      + " downloadable file(s) — tabs & columns</summary>" + lines + "</details>";
+  }
+  const note = source.notes
+    ? '<div class="note mt-2">' + highlight(esc(source.notes), terms) + "</div>" : "";
+  return '<div class="src-card">'
+    + '<h5><a href="' + esc(source.url) + '" target="_blank" rel="noopener">'
+    + highlight(esc(source.name), terms) + "</a></h5>"
+    + '<div class="mb-1">'
+    + '<span class="badge badge-auth-' + esc(source.authority) + '">' + esc(AUTH_LABEL[source.authority] || source.authority) + "</span> "
+    + '<span class="badge bg-light text-dark border">' + esc(source.owner) + "</span> "
+    + (source.status && source.status !== "ok" ? '<span class="badge bg-warning text-dark">' + esc(source.status) + "</span>" : "")
+    + "</div><div class=\"mb-1\">" + topics + "</div>"
+    + '<div class="meta">' + esc(source.format) + " · updated " + esc(source.cadence) + " · " + esc(source.years) + "</div>"
+    + note + filesHtml + "</div>";
+}
+
+function renderSources() {
+  const terms = queryTerms();
+  const hits = CAT.sources.filter(matches);
+  document.getElementById("count").textContent =
+    hits.length + " of " + CAT.sources.length + " sources";
+  document.getElementById("results").innerHTML =
+    hits.length ? hits.map(s => sourceCard(s, terms)).join("")
+                : '<div class="alert alert-light border">No sources match. Try fewer words or Clear.</div>';
+}
+
+function overlapMatches(ov) {
+  const terms = queryTerms();
+  if (!terms.length) return true;
+  const blob = (ov.topic + " " + ov.difference + " " + ov.sources.map(s => s.name).join(" ")).toLowerCase();
+  return terms.every(t => blob.includes(t));
+}
+
+function renderOverlaps() {
+  const terms = queryTerms();
+  const hits = CAT.overlaps.filter(overlapMatches);
+  document.getElementById("count").textContent = hits.length + " overlap topics";
+  document.getElementById("overlaps").innerHTML = hits.map(ov => {
+    const links = ov.sources.map(s =>
+      '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name)
+      + "</a> <span class=\"badge badge-auth-" + esc(s.authority) + "\">"
+      + esc(AUTH_LABEL[s.authority] || s.authority) + "</span> <span class=\"text-muted small\">" + esc(s.owner) + "</span></li>").join("");
+    return '<div class="overlap-card"><h5>' + highlight(esc(ov.topic), terms) + "</h5>"
+      + '<p class="note">' + highlight(esc(ov.difference), terms) + "</p>"
+      + "<ul class=\"mb-0\">" + links + "</ul></div>";
+  }).join("");
+}
+
+function render() {
+  const showSources = state.view === "sources";
+  document.getElementById("results").style.display = showSources ? "" : "none";
+  document.getElementById("overlaps").style.display = showSources ? "none" : "";
+  if (showSources) renderSources(); else renderOverlaps();
+}
+
+// ----- build filter dropdowns from the data -----
+function option(value, label) {
+  const o = document.createElement("option");
+  o.value = value; o.textContent = label; return o;
+}
+function fillSelect(id, values, allLabel) {
+  const sel = document.getElementById(id);
+  sel.appendChild(option("", allLabel));
+  for (const v of values) sel.appendChild(option(v, v));
+}
+
+const ownersWithSources = CAT.owners.map(o => o.key).filter(k => CAT.sources.some(s => s.owner === k));
+const allTopics = [...new Set(CAT.sources.flatMap(s => s.topics))].sort();
+fillSelect("owner", ownersWithSources, "All owners");
+fillSelect("topic", allTopics, "All topics");
+fillSelect("authority", ["authoritative", "derived", "republished", "third-party"], "Any authority");
+
+document.getElementById("subtitle").textContent =
+  CAT.sources.length + " sources · " + CAT.sources.reduce((n, s) => n + (s.files ? s.files.length : 0), 0)
+  + " profiled files · verified " + CAT.last_verified;
+document.getElementById("verified").textContent = "Last verified " + CAT.last_verified + ".";
+
+// ----- bind events once (elements are long-lived; no re-binding) -----
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+document.getElementById("owner").addEventListener("change", e => { state.owner = e.target.value; render(); });
+document.getElementById("topic").addEventListener("change", e => { state.topic = e.target.value; render(); });
+document.getElementById("authority").addEventListener("change", e => { state.authority = e.target.value; render(); });
+document.getElementById("clear").addEventListener("click", () => {
+  state.q = state.owner = state.topic = state.authority = "";
+  document.getElementById("q").value = "";
+  for (const id of ["owner", "topic", "authority"]) document.getElementById(id).value = "";
+  render();
+});
+document.getElementById("tab-sources").addEventListener("click", e => {
+  e.preventDefault(); state.view = "sources";
+  e.target.classList.add("active"); document.getElementById("tab-overlaps").classList.remove("active");
+  render();
+});
+document.getElementById("tab-overlaps").addEventListener("click", e => {
+  e.preventDefault(); state.view = "overlaps";
+  e.target.classList.add("active"); document.getElementById("tab-sources").classList.remove("active");
+  render();
+});
+
+render();
+</script>
+</body>
+</html>

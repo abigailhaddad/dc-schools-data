@@ -1,0 +1,964 @@
+# DC K-12 Public Schools Data — Source Catalog
+# =============================================
+# This file is the SOURCE OF TRUTH. Edit it, then run `python generate_readme.py`
+# to regenerate README.md.
+#
+# Scope: K-12 public education data (DCPS + public charters) published by OSSE,
+# DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for
+# Education (DME), plus a few cross-cutting citywide sources. No higher ed.
+#
+# Field reference (per source):
+#   id           short stable slug (used to cross-reference in `overlaps`)
+#   name         human title
+#   owner        publishing entity (see `owners` block below for display order)
+#   url          canonical working URL
+#   topics       list of subject tags (used to group the overlap analysis)
+#   authority    authoritative | derived | republished | third-party  -- see legend
+#   status       ok | js-rendered | login-required | stale | unstable | unverified
+#   format       how the data is delivered
+#   cadence      how often it updates
+#   years        what time span the page/file actually holds
+#   notes        gotchas, fragmentation, where older years live, overlaps
+#
+# `last_verified` is the month the research sweep confirmed these URLs.
+last_verified: "2026-06"
+
+owners:
+  - key: OSSE
+    name: "OSSE — Office of the State Superintendent of Education"
+    blurb: "DC's state education agency. Authoritative cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings."
+  - key: DCPS
+    name: "DCPS — DC Public Schools"
+    blurb: "The traditional public school district. Publishes its own (DCPS-only) enrollment, outcomes, budgets, surveys, profiles, and facilities data — much of it a subset of OSSE's."
+  - key: "DC PCSB"
+    name: "DC PCSB — DC Public Charter School Board"
+    blurb: "Authorizer/regulator of DC's public charter schools. Publishes charter directories, the School Quality Report (SQR) accountability framework, finances, and equity data."
+  - key: DME
+    name: "DME — Deputy Mayor for Education"
+    blurb: "Mayor's office for education strategy. Runs EdScape (the neighborhood education-landscape tool), the Master Facilities Plan, and boundary/enrollment-planning data."
+  - key: "My School DC"
+    name: "My School DC — Common Lottery"
+    blurb: "The single DCPS + charter application/lottery. Publishes lottery participation, match rates, and waitlist data."
+  - key: "Open Data DC"
+    name: "Open Data DC / DCGIS"
+    blurb: "The city's open-data and GIS portal. Machine-readable school locations and attendance-zone boundaries."
+  - key: "DC Policy Center"
+    name: "DC Policy Center (third party)"
+    blurb: "Nonprofit think tank. Its annual 'State of D.C. Schools' and data tools synthesize and visualize OSSE/DME source data."
+  - key: "U.S. Census"
+    name: "U.S. Census Bureau"
+    blurb: "School-age / under-18 population — the citywide denominator for enrollment-planning and capture-rate analysis."
+  - key: EmpowerK12
+    name: "EmpowerK12 (third party)"
+    blurb: "Nonprofit that builds the interactive dashboards over OSSE Report Card data that OSSE/PCSB do not host themselves."
+
+# Authority legend (rendered into README):
+#   authoritative – the official system of record for this metric
+#   derived       – a sector subset re-published from the authoritative source (DCPS-only / charter-only)
+#   republished   – the same numbers re-hosted/analyzed, often pointing back to the source
+#   third-party   – produced by a non-government organization from official data
+
+sources:
+
+  # ============================== OSSE ==============================
+  - id: osse-data-reports
+    name: "OSSE Data and Reports (main landing)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [landing, enrollment, assessment, attendance, graduation, discipline, finance, demographics]
+    authority: authoritative
+    status: ok
+    format: "Web portal of links to files & dashboards"
+    cadence: "Rolling; underlying datasets annual"
+    years: "Links span SY2014-15 to SY2024-25 by dataset"
+    notes: "Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes."
+
+  - id: osse-report-card-resource-library
+    name: "DC School Report Card Resource Library (downloads)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [assessment, attendance, graduation, discipline, enrollment, demographics, finance, educators]
+    authority: authoritative
+    status: ok
+    format: "Excel (.xlsx) files (some via Box) + PDF technical guides"
+    cadence: "Annual; new section posted ~December"
+    years: "2018–2025, each year its own section"
+    notes: "The single richest source of downloadable school-level OSSE data. Per-year filenames are INCONSISTENT — verify each year's exact link on the page."
+
+  - id: dc-school-report-card-site
+    name: "DC School Report Card (public interactive site)"
+    owner: OSSE
+    url: "https://dcschoolreportcard.org/"
+    topics: [accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles]
+    authority: authoritative
+    status: js-rendered
+    format: "Interactive web app (search/browse; not bulk download)"
+    cadence: "Annual, refreshed ~December with prior school year"
+    years: "Displays latest year only (SY2024-25); history in the Resource Library"
+    notes: "Cross-sector (DCPS + charter). Mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. JS app blocks crawlers (503) — open in a real browser. For analysis use the Resource Library files."
+
+  - id: osse-star-technical-guide
+    name: "DC School Report Card & STAR Framework Technical Guide"
+    owner: OSSE
+    url: "https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide"
+    topics: [accountability, methodology]
+    authority: authoritative
+    status: ok
+    format: "PDF (one per year)"
+    cadence: "Annual, with each report card release"
+    years: "2018–2025 (latest Sept 2025 update)"
+    notes: "Methodology for every STAR metric. Essential companion to the data files."
+
+  - id: osse-assessment-2025
+    name: "Statewide Assessment Results 2024-25 (DC CAPE / MSAA)"
+    owner: OSSE
+    url: "https://osse.dc.gov/assessmentresults2025"
+    topics: [assessment]
+    authority: authoritative
+    status: ok
+    format: "Excel files (hosted on Box) + PDF deck"
+    cadence: "Annual, released late summer/fall"
+    years: "2024-25 only on this page"
+    notes: "DC CAPE replaced PARCC in 2023. Data files sit behind Box share links; the State/LEA/School-level files are resolved and profiled below. Box file_ids change when OSSE re-uploads — re-resolve each year with the update skill."
+
+  - id: osse-assessment-archive
+    name: "Statewide Assessment Results 2023-24 (+ older-year archive index)"
+    owner: OSSE
+    url: "https://osse.dc.gov/assessmentresults2024"
+    topics: [assessment]
+    authority: authoritative
+    status: ok
+    format: "Excel (Box) + PDF"
+    cadence: "Annual"
+    years: "2023-24 on page; also indexes 2022-23, 2021-22, 2018-19, 2017-18, 2016-17, 2015-16, 2014-15"
+    notes: "Best entry point for OLDER assessment years. URL pattern changed over time: old years use /page/YYYY-YY-parcc-and-msaa-..., new years use /assessmentresultsYYYY — a key fragmentation point."
+
+  - id: osse-enrollment-audit
+    name: "Audited Enrollment Reports & Data"
+    owner: OSSE
+    url: "https://osse.dc.gov/enrollment"
+    topics: [enrollment, demographics]
+    authority: authoritative
+    status: ok
+    format: "Per-year PDF audit report + Excel (.xlsx) data"
+    cadence: "Annual; fall count, finalized ~winter (Jan/Feb)"
+    years: "FY2012 (SY2011-12) → FY2026; older 2006–2010 section; SLED hosts 2001–2009"
+    notes: "THE canonical enrollment source — independently audited per DC Code 38-1804.02. Drives per-pupil funding. DCPS, PCSB, EdScape and the MFP all build on this. Each year is a separate click-through page. Note OSSE data-suppression policy hides 0%/100% small-subgroup values."
+
+  - id: osse-aggregate-enrollment
+    name: "Report Card Aggregate Enrollment Data (demographics file)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [demographics, enrollment]
+    authority: authoritative
+    status: ok
+    format: "Excel (.xlsx)"
+    cadence: "Annual"
+    years: "2018–2025 (one file per year in the Resource Library)"
+    notes: "Best downloadable source for school-level demographics (race/ethnicity, SWD, EL, at-risk, economic disadvantage). Filenames vary by year — find the year's exact 'Aggregate Enrollment Data' file in the Resource Library."
+
+  - id: osse-special-ed
+    name: "Specialized Education Data and Reports"
+    owner: OSSE
+    url: "https://osse.dc.gov/service/specialized-education-data-and-reports"
+    topics: [demographics, special-education]
+    authority: authoritative
+    status: ok
+    format: "PDF + Excel"
+    cadence: "Annual (federal FFY cycle)"
+    years: "Reports to the Public FFY2008–FFY2023-24; APRs FFY2020–2024"
+    notes: "Mostly statewide/aggregate. For school-level special-ed counts use the Report Card Aggregate Enrollment file or EdScape."
+
+  - id: osse-attendance
+    name: "School Year Attendance Reporting (chronic absenteeism/truancy)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting"
+    topics: [attendance]
+    authority: authoritative
+    status: ok
+    format: "PDF report + 2 mid-year briefs + Excel files"
+    cadence: "Full report ~November; mid-year briefs during the year"
+    years: "2024-25 on page; 2023-24 at /attendancesy202324; earlier years on own pages"
+    notes: "OSSE leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' SY24-25: 39.5% chronic absenteeism, 36.8% chronic truancy."
+
+  - id: osse-attendance-dashboard
+    name: "OSSE Attendance Dashboard"
+    owner: OSSE
+    url: "https://osse.dc.gov/attendancedashboard"
+    topics: [attendance]
+    authority: authoritative
+    status: ok
+    format: "Interactive dashboard + user-guide PDF"
+    cadence: "Monthly updates (cumulative year-to-date, not real-time)"
+    years: "Current school year (rolling); history via annual report pages"
+    notes: "Citywide DCPS + charter. Embedded viz needs a browser to render."
+
+  - id: osse-graduation
+    name: "High School Graduation Rates / ACGR"
+    owner: OSSE
+    url: "https://osse.dc.gov/service/high-school-graduation-rates-0"
+    topics: [graduation]
+    authority: authoritative
+    status: ok
+    format: "Recent years: direct Excel (.xlsx); older years: /publication/ pages"
+    cadence: "Annual, released ~winter for prior spring cohort"
+    years: "2024-25 back to 2010-11 (+2009) — ~15 years"
+    notes: "Cross-sector (DCPS + charter), 4-yr and 5-yr ACGR with subgroups. 2020-21+ link straight to .xlsx; 2019-20 and earlier use /publication/ pages — a fragmentation point. SY24-25: 78.7% 4-yr."
+
+  - id: osse-discipline
+    name: "OSSE Discipline Report ('State of Discipline')"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/discipline-report"
+    topics: [discipline]
+    authority: authoritative
+    status: ok
+    format: "PDF reports (school detail in appendices); rare supplementary Excel"
+    cadence: "Annual (latest 2024-25 dated 12/30/2025)"
+    years: "2013-14 through 2024-25 (2014-15 appears missing)"
+    notes: "Suspensions/expulsions/involuntary dismissals per the Student Fair Access to School Act. Mostly PDF — only 2017-18 has a clean supplementary Excel; by-school data otherwise lives in report appendices."
+
+  - id: osse-finance-ppe
+    name: "Report Card School Finance Data (per-pupil expenditures)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [finance]
+    authority: authoritative
+    status: ok
+    format: "Excel (.xlsx)"
+    cadence: "Annual"
+    years: "2021–2025 files in the Resource Library"
+    notes: "ESSA per-pupil expenditure (PPE) by school and LEA, split by funding source and expenditure type. This is actual EXPENDITURE (cross-sector), distinct from DCPS budget ALLOCATIONS — see overlaps."
+
+  - id: osse-educator-workforce
+    name: "DC Educator Workforce Data"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/dc-educator-workforce-data"
+    topics: [educators]
+    authority: authoritative
+    status: ok
+    format: "PDF reports + Excel (.xlsx) at state/LEA/school level"
+    cadence: "Comprehensive reports biennial; retention briefs annual"
+    years: "Reports 2018-19, 2021-22, 2023-24; data files 2021-22 to 2024-25"
+    notes: "Counts, demographics, preparation, retention, supply/demand for DCPS + charter educators. Staffing snapshot as of Oct 5 each year."
+
+  - id: osse-prek
+    name: "Pre-Kindergarten Reports ('State of Pre-K in DC')"
+    owner: OSSE
+    url: "https://osse.dc.gov/publication/pre-kindergarten-reports-state-pre-k-district-columbia"
+    topics: [early-childhood, enrollment]
+    authority: authoritative
+    status: ok
+    format: "PDF"
+    cadence: "Annual"
+    years: "2012 through 2024"
+    notes: "Narrative + summary stats on pre-K access/quality, not a granular by-school dataset."
+
+  - id: osse-early-learning
+    name: "Early Learning Reports (child care, subsidy, Pay Equity Fund)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/early-learning-reports"
+    topics: [early-childhood, finance]
+    authority: authoritative
+    status: ok
+    format: "PDF + linked data"
+    cadence: "Mixed — quarterly subsidy/educator reports; cost model every ~3 years"
+    years: "Cost model 2016/2018/2021/2023/2024; Pay Equity Fund FY25–FY26"
+    notes: "Best entry for early childhood beyond pre-K enrollment."
+
+  - id: osse-essa-plan
+    name: "DC ESSA State Plan"
+    owner: OSSE
+    url: "https://osse.dc.gov/essa"
+    topics: [accountability, methodology]
+    authority: authoritative
+    status: ok
+    format: "Web page linking PDFs"
+    cadence: "Updated on amendment"
+    years: "2017 original; 2022 amendment (approved June 2023); 2026-27 waiver pending"
+    notes: "Defines the STAR framework, the 16 measures, weights, and assessment requirements."
+
+  - id: osse-sled
+    name: "SLED — Statewide Longitudinal Education Data (OSSE Reports)"
+    owner: OSSE
+    url: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, assessment, graduation, landing]
+    authority: authoritative
+    status: login-required
+    format: "Public PDF/Excel/Tableau links + login-gated Qlik Sense reports"
+    cadence: "Varies; most annual"
+    years: "Includes historical enrollment-audit Excel SY2001–2009"
+    notes: "Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal."
+
+  # ============================== DCPS ==============================
+  - id: dcps-school-data-hub
+    name: "DCPS School Data (data hub landing)"
+    owner: DCPS
+    url: "https://dcps.dc.gov/service/school-data"
+    topics: [landing]
+    authority: derived
+    status: ok
+    format: "Web page (link directory)"
+    cadence: "As underlying resources change"
+    years: "n/a (directory)"
+    notes: "The intended front door for DCPS data, but many items live one or two clicks deeper."
+
+  - id: dcps-glance-enrollment
+    name: "DCPS at a Glance: Enrollment"
+    owner: DCPS
+    url: "https://dcps.dc.gov/node/966292"
+    topics: [enrollment, demographics]
+    authority: derived
+    status: ok
+    format: "Web page, static HTML tables"
+    cadence: "Annual, after fall audited-enrollment release"
+    years: "SY17-18 through SY25-26 shown inline"
+    notes: "District TOTALS only (not school-by-school). For school-level use the downloadable dataset or OSSE."
+
+  - id: dcps-glance-attendance
+    name: "DCPS at a Glance: Attendance"
+    owner: DCPS
+    url: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+    authority: derived
+    status: ok
+    format: "PDF reports (one per year)"
+    cadence: "Annual"
+    years: "SY11-12 through SY24-25 (14 reports)"
+    notes: "District-level aggregate, filed per DC Code 38-203(i). Granular school-level attendance is better via OSSE."
+
+  - id: dcps-downloadable-datasets
+    name: "DCPS Downloadable Data Sets (index)"
+    owner: DCPS
+    url: "https://dcps.dc.gov/service/dcps-downloadable-data-sets"
+    topics: [enrollment, assessment, graduation, attendance]
+    authority: derived
+    status: ok
+    format: "Web page indexing Excel (.xlsx) files"
+    cadence: "Varies by dataset"
+    years: "Varies by dataset"
+    notes: "Index of school-and-subgroup-level files: Enrollment, Graduation, DC CAS, SAT, AP, PARCC, Attendance. Each metric is a separate page of yearly Excel files rather than one tidy multi-year table."
+
+  - id: dcps-dataset-enrollment
+    name: "DCPS Data Set — Enrollment"
+    owner: DCPS
+    url: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
+    topics: [enrollment]
+    authority: derived
+    status: ok
+    format: "Excel (.xlsx), one file per year"
+    cadence: "Annual, after audit certification"
+    years: "Multiple years (separate files)"
+    notes: "DCPS-only, school-by-school by grade. Derived from / overlaps OSSE audited enrollment (the cross-sector authority)."
+
+  - id: dcps-dataset-graduation
+    name: "DCPS Data Set — Graduation Rates"
+    owner: DCPS
+    url: "https://dcps.dc.gov/node/1018352"
+    topics: [graduation]
+    authority: derived
+    status: ok
+    format: "Excel (.xlsx), one file per year"
+    cadence: "Annual"
+    years: "2012 through 2025 (14 files)"
+    notes: "DCPS high-school 4-yr ACGR by school + subgroup. Overlaps OSSE graduation data (cross-sector authority)."
+
+  - id: dcps-fast-facts
+    name: "DCPS Fast Facts"
+    owner: DCPS
+    url: "https://dcps.dc.gov/featured-content/dcps-fast-facts-2025"
+    topics: [enrollment, demographics, landing]
+    authority: derived
+    status: ok
+    format: "PDF (2-page fact sheet)"
+    cadence: "Annual (2025 ed. published Mar 2025)"
+    years: "Latest year; older editions only via direct PDF URLs"
+    notes: "District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation."
+
+  - id: dcps-school-profiles
+    name: "DCPS School Profiles ('Find a School')"
+    owner: DCPS
+    url: "https://profiles.dcps.dc.gov/"
+    topics: [profiles, enrollment, boundaries]
+    authority: derived
+    status: ok
+    format: "Interactive web app"
+    cadence: "~Annual; enrollment updates each year"
+    years: "Current school year (not labeled)"
+    notes: "Per-school pages (address, principal, ward, grades, programs, enrollment). Filter/compare; 'Locate Your Boundary School' by address. Per-school URLs like profiles.dcps.dc.gov/332."
+
+  - id: dcps-surveys
+    name: "DCPS Stakeholder / Panorama Satisfaction Surveys"
+    owner: DCPS
+    url: "https://dcps.dc.gov/surveys"
+    topics: [surveys, school-climate]
+    authority: authoritative
+    status: ok
+    format: "PDF + Excel aggregates; interactive Panorama portal"
+    cadence: "Annual (administered each spring)"
+    years: "Panorama 2018, 2019, 2021, 2022; legacy reports 2011, 2013–2017"
+    notes: "Student/family/staff experience surveys. District results at bit.ly/dcpsresults; school-level/raw data requires staff Panorama login."
+
+  - id: dcps-budget-portal
+    name: "DCPS Budget Transparency Portal"
+    owner: DCPS
+    url: "https://dcpsbudget.com/"
+    topics: [finance]
+    authority: authoritative
+    status: ok
+    format: "Web portal + downloadable Excel spreadsheets"
+    cadence: "Annual budget cycle (initial budgets ~late winter/spring)"
+    years: "Current cycle (FY27) + 'Budget Archives'"
+    notes: "School-by-school budget ALLOCATIONS under the three-factor model (enrollment / targeted / stability). Standalone .com domain, not under dcps.dc.gov — easy to miss. Allocation, not expenditure — differs from OSSE PPE."
+
+  - id: dcps-capital-commitment
+    name: "A Capital Commitment — Strategic Plan & Scorecards"
+    owner: DCPS
+    url: "https://dcps.dc.gov/capitalcommitment"
+    topics: [strategy, outcomes]
+    authority: authoritative
+    status: ok
+    format: "Web page + linked PDF plan"
+    cadence: "Plan per 5-year cycle; metrics updated periodically"
+    years: "2023–2028 current; priors 2017-2022, 2012-2017"
+    notes: "Strategic goals/metrics. Plan PDF and scorecards largely on the external dcpsstrong.com site — an off-domain fragment."
+
+  - id: dcps-equity
+    name: "DCPS Equity Strategy & Framework"
+    owner: DCPS
+    url: "https://dcps.dc.gov/equity"
+    topics: [equity]
+    authority: derived
+    status: ok
+    format: "Web page + PDF framework (2018)"
+    cadence: "Infrequent"
+    years: "Framework 2018"
+    notes: "Policy/narrative more than data. The annual school-level Equity Reports with underlying data are published by OSSE, not DCPS."
+
+  - id: dcps-feeder-patterns
+    name: "DCPS Feeder Patterns"
+    owner: DCPS
+    url: "https://dcps.dc.gov/feederpatterns"
+    topics: [boundaries]
+    authority: authoritative
+    status: ok
+    format: "Web page linking per-year PDFs"
+    cadence: "Annual"
+    years: "SY14-15 through SY26-27"
+    notes: "Which schools feed into which (geographic + programmatic). Unusually complete multi-year archive vs. other DCPS data."
+
+  - id: dcps-find-inboundary
+    name: "Find Your In-Boundary School (address lookup)"
+    owner: DCPS
+    url: "https://enrolldcps.dc.gov/node/41"
+    topics: [boundaries]
+    authority: authoritative
+    status: ok
+    format: "Interactive address-lookup tool"
+    cadence: "Updated when boundaries/feeders change"
+    years: "Current boundaries"
+    notes: "On the enrolldcps.dc.gov subdomain. Boundary POLICY and redrawing are run by DME, not DCPS."
+
+  - id: dcps-modernizations
+    name: "DCPS Modernizations"
+    owner: DCPS
+    url: "https://dcps.dc.gov/page/modernizations"
+    topics: [facilities]
+    authority: derived
+    status: ok
+    format: "Web page + PACE prioritization PDF"
+    cadence: "Updated as projects change"
+    years: "Current list; framework dated 2022"
+    notes: "Facilities data is split across DCPS, DGS (dgs.dc.gov/page/dcps-school-projects), and EdScape Ch.3 — significant fragmentation for capital/facilities."
+
+  - id: dcps-school-directory
+    name: "DCPS School Directory"
+    owner: DCPS
+    url: "https://dcps.dc.gov/service/school-data"
+    topics: [profiles]
+    authority: authoritative
+    status: ok
+    format: "PDF (per year)"
+    cadence: "Annual"
+    years: "Per school year (e.g. SY24-25)"
+    notes: "Crosswalk of DCPS school IDs, names, addresses, wards, types. Latest year linked from the data hub; older years only via direct PDF URLs."
+
+  # ============================== DC PCSB ==============================
+  - id: pcsb-transparency-hub
+    name: "DC PCSB Transparency Hub"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/transparency-hub"
+    topics: [landing, finance, discipline, equity, profiles]
+    authority: authoritative
+    status: ok
+    format: "Web portal (links to PDF / Excel / Egnyte / Google Sheets)"
+    cadence: "Continuously updated; docs annual"
+    years: "Multiple; varies by document"
+    notes: "The single most comprehensive index of PCSB charter data: budgets, audits, 990s, financials, at-risk spending, equity reports, discipline/attendance, charter agreements, site reviews, school profiles, openings/closures. Many financial docs hosted off-site on Egnyte."
+
+  - id: pcsb-charter-data
+    name: "Public Charter School Data (sector overview)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/about-us/public-charter-school-data"
+    topics: [landing, enrollment, assessment, graduation]
+    authority: authoritative
+    status: ok
+    format: "Web page (links to sub-dashboards)"
+    cadence: "Annual"
+    years: "Current"
+    notes: "Citywide charter rollups (enrollment, assessment, growth/closures, graduation, profiles). Cites 133 schools / 66 LEAs / ~47,525 students."
+
+  - id: pcsb-student-enrollment
+    name: "Charter Student Enrollment"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/student-enrollment"
+    topics: [enrollment, demographics]
+    authority: republished
+    status: ok
+    format: "Static tables + spreadsheet download + link to OSSE"
+    cadence: "Annual"
+    years: "SY22-23, 23-24, 24-25 shown; historical spreadsheet 1967–present"
+    notes: "Charter-only enrollment by grade/tier/demographics/ward + market share. Audited counts sourced from OSSE; PCSB republishes/analyzes the charter slice. Static tables, NOT Tableau."
+
+  - id: pcsb-assessment
+    name: "Statewide Assessment Results (charter)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/test-results-parcc"
+    topics: [assessment]
+    authority: republished
+    status: unstable
+    format: "Web page / dashboard"
+    cadence: "Annual"
+    years: "Multiple"
+    notes: "Charter ELA/math on the DC statewide test. URL still says 'parcc' though DC moved to DC CAPE. Overlaps OSSE/Report Card (the authority). Site occasionally returns HTTP 520."
+
+  - id: pcsb-school-profiles
+    name: "School Profiles / Find a DC Public Charter School"
+    owner: "DC PCSB"
+    url: "https://www.dcpcsb.org/school-profiles"
+    topics: [profiles, accountability]
+    authority: authoritative
+    status: ok
+    format: "Interactive searchable directory"
+    cadence: "Updated yearly / as schools open/close"
+    years: "Current roster"
+    notes: "Canonical 'find a charter school' tool. Filter by feature/ward/grade/status; each entry links to its School Quality Report. No bulk export."
+
+  - id: pcsb-directory-pdf
+    name: "Public Charter School Directory (annual PDF)"
+    owner: "DC PCSB"
+    url: "https://www.dcpcsb.org/2025-26-public-charter-school-directory"
+    topics: [profiles]
+    authority: authoritative
+    status: ok
+    format: "PDF"
+    cadence: "Annual (school year)"
+    years: "2025-26 latest; prior years at /YYYY-YY-... URLs"
+    notes: "Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact."
+
+  - id: pcsb-sqr
+    name: "School Quality Report (SQR)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/families/school-quality-report"
+    topics: [accountability]
+    authority: authoritative
+    status: unstable
+    format: "Web page / per-school report"
+    cadence: "Annual (released fall)"
+    years: "Current; history via PMF archive"
+    notes: "Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. Aggregated at /schoolquality (sometimes bot-blocked)."
+
+  - id: pcsb-aspire
+    name: "ASPIRE System (current charter accountability framework)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/aspire-system"
+    topics: [accountability, methodology]
+    authority: authoritative
+    status: ok
+    format: "Web page (framework docs / PDF)"
+    cadence: "Annual"
+    years: "Current"
+    notes: "The board-approved system that replaced the PMF and underlies the SQR. Important: PMF data pages look authoritative but are frozen at 2018-19."
+
+  - id: pcsb-pmf-archive
+    name: "Performance Management Framework (PMF) — archive"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/performance-management-framework-pmf"
+    topics: [accountability, methodology]
+    authority: republished
+    status: stale
+    format: "PDF books/guides + Excel data files (via Egnyte)"
+    cadence: "Was annual"
+    years: "SY2011-12 through 2018-19 (ARCHIVED)"
+    notes: "Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. HARVEST GAP: 9 PMF books/guides are direct PDFs (profiled); the ~13 machine-readable PMF Excel score files are on Egnyte (browser-only download — not script-fetchable, not profiled)."
+
+  - id: pcsb-equity-reports
+    name: "School Equity Reports (charter)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/school-equity-reports"
+    topics: [equity, discipline, attendance]
+    authority: republished
+    status: stale
+    format: "PDF (via Egnyte)"
+    cadence: "Was annual"
+    years: "SY2012-13 through 2017-18 (ARCHIVED)"
+    notes: "Per-school attendance, discipline, mobility/withdrawal, growth. PCSB now redirects this detail to OSSE's DC School Report Card; its own reports stop at 2017-18. HARVEST GAP: the 2017 per-school equity PDFs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity PDFs are on Egnyte (browser-only, not profiled)."
+
+  - id: pcsb-discipline-attendance
+    name: "Annual Discipline & Attendance Report (charter)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/attendance-and-discipline-report"
+    topics: [discipline, attendance]
+    authority: republished
+    status: ok
+    format: "Web page / PDF"
+    cadence: "Annual"
+    years: "Multiple"
+    notes: "Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (the cross-sector authority)."
+
+  - id: pcsb-school-finances
+    name: "Charter School Finances (spending, budgets, audits, 990s)"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/school-finances"
+    topics: [finance]
+    authority: authoritative
+    status: unstable
+    format: "Web page / PDF / Excel (much via Egnyte)"
+    cadence: "Annual"
+    years: "Multiple"
+    notes: "Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. HARVEST GAP: the 4 citywide At-Risk Funding reports are profiled; the bulk is per-school documents NOT catalogued individually — ~249 fiscal-audit PDFs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on Egnyte (browser-only). Open the page to browse a specific school."
+
+  - id: pcsb-growth-closures
+    name: "Charter School Growth and Closures"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/charter-school-growth-and-closures"
+    topics: [profiles, openings-closures]
+    authority: authoritative
+    status: ok
+    format: "Web page + Google Sheet"
+    cadence: "Updated as events occur"
+    years: "1996–present"
+    notes: "History of 80+ closed/consolidated campuses: year opened/closed, reason, closure type. Full list via linked Google Sheet."
+
+  - id: pcsb-board-meetings
+    name: "DC PCSB Board Meetings & Events"
+    owner: "DC PCSB"
+    url: "https://dcpcsb.org/events"
+    topics: [governance, openings-closures]
+    authority: authoritative
+    status: ok
+    format: "Event calendar (agendas/minutes as PDF)"
+    cadence: "Monthly board meetings"
+    years: "Current + archive"
+    notes: "Charter approvals/conditions/closures/replications are decided and recorded here."
+
+  # ============================== DME ==============================
+  - id: edscape
+    name: "EdScape (education landscape tool)"
+    owner: DME
+    url: "https://edscape.dc.gov/"
+    topics: [landing, enrollment, demographics, facilities, boundaries]
+    authority: republished
+    status: ok
+    format: "Interactive Tableau dashboards + Excel downloads + PDF summaries"
+    cadence: "Rolling, several releases/year"
+    years: "Through SY2025-26; some series back to SY2013-14"
+    notes: "DME's neighborhood education-data platform. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools."
+
+  - id: edscape-release-notes
+    name: "EdScape — Release Notes (changelog)"
+    owner: DME
+    url: "https://edscape.dc.gov/page/edscape-release-notes"
+    topics: [methodology]
+    authority: republished
+    status: ok
+    format: "Web page (changelog)"
+    cadence: "Updated with each release"
+    years: "2021–2026 release history"
+    notes: "Best single page for tracking what data was added and when (e.g. May 2026: new 5- & 10-yr enrollment projections dashboard)."
+
+  - id: edscape-enrollment-patterns
+    name: "EdScape — Enrollment Patterns (cross-sector / where students attend)"
+    owner: DME
+    url: "https://edscape.dc.gov/page/enrollment-patterns-index"
+    topics: [enrollment, boundaries]
+    authority: republished
+    status: ok
+    format: "Interactive dashboards + Excel"
+    cadence: "Annual+"
+    years: "Through SY2025-26 (foundations SY2013-14 on)"
+    notes: "In-boundary / out-of-boundary / charter enrollment, cross-sector & cross-ward flows, student commute, feeder patterns, grade progression. The core 'where students actually attend' analysis."
+
+  - id: edscape-facilities
+    name: "EdScape — Public School Facilities (capacity/utilization/locations)"
+    owner: DME
+    url: "https://edscape.dc.gov/page/facilities-index"
+    topics: [facilities]
+    authority: republished
+    status: ok
+    format: "Interactive dashboards + maps + Excel"
+    cadence: "Annual+"
+    years: "SY2013-14 through SY2025-26"
+    notes: "Building counts/locations, programmatic capacity, utilization (how full), unfilled seats, DCPS modernizations. Produced with DC PCSB, DCPS, OSSE, DGS — the cross-sector facilities view."
+
+  - id: dme-facility-planning
+    name: "DME — Public Education Facility Planning"
+    owner: DME
+    url: "https://dme.dc.gov/service/public-education-facility-planning"
+    topics: [facilities, landing]
+    authority: authoritative
+    status: ok
+    format: "Web page (service hub)"
+    cadence: "As-needed"
+    years: "2018–present"
+    notes: "Hub for the Master Facilities Plan, all supplements, classification/utilization maps, vacant-facility info, and LEA-level enrollment (~115 DCPS + ~112 charter buildings)."
+
+  - id: mfp-2023
+    name: "DC Public Education Master Facilities Plan 2023"
+    owner: DME
+    url: "https://dme.dc.gov/mfp2023"
+    topics: [facilities, enrollment, projections]
+    authority: authoritative
+    status: ok
+    format: "Report PDF + Excel appendices (via Box)"
+    cadence: "~Every 5 years (full plan)"
+    years: "2023 edition; projections ~decade forward"
+    notes: "Comprehensive facilities plan: conditions, utilization, enrollment trends/projections, capital investment, housing-pipeline impacts. Priors: MFP 2018 (dme.dc.gov/MFP2018)."
+
+  - id: mfp-2024-supplement
+    name: "2024 Master Facilities Plan Annual Supplement"
+    owner: DME
+    url: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
+    topics: [facilities, projections, enrollment]
+    authority: authoritative
+    status: ok
+    format: "Report PDF + Excel appendices"
+    cadence: "Annual supplement"
+    years: "SY2024-25 data + 5/10-yr forward projections"
+    notes: "Released Sept 2025 (latest as of June 2026). Updated capacity/utilization and enrollment projections. Note: the freshest projections now live in EdScape rather than the MFP supplements."
+
+  - id: dme-boundary-study
+    name: "DME — Boundary and Student Assignment Study 2023 (data supplement)"
+    owner: DME
+    url: "https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement"
+    topics: [boundaries, enrollment, demographics]
+    authority: authoritative
+    status: ok
+    format: "Excel datasheets + PDFs + interactive maps"
+    cadence: "One-time study (2023)"
+    years: "SY2022-23 / SY2023-24 + historical trends"
+    notes: "School-level enrollment/demographics/capacity/distance, boundary map series, feeder patterns, population forecasts, PreK waitlists, utilization, segregation analysis."
+
+  - id: dme-download-data
+    name: "DME — Download Data (legacy datasets)"
+    owner: DME
+    url: "https://dme.dc.gov/page/download-data"
+    topics: [enrollment, facilities, boundaries]
+    authority: republished
+    status: ok
+    format: "Downloadable Excel/CSV/PDF"
+    cadence: "Legacy/archival"
+    years: "SY2014-15 through SY2023-24"
+    notes: "DEAD END as of June 2026 — this page no longer hosts files; it now just links out to EdScape and OpenData DC. The actual downloadable datasets (e.g. 'Enrollments per DCPS Boundary') moved to EdScape's chapter pages and are harvested under EdScape. Kept here because it's still the URL people get sent to."
+
+  - id: dme-facility-maps
+    name: "DME — Interactive School Facility Maps"
+    owner: DME
+    url: "https://dme.dc.gov/page/interactive-school-facility-maps"
+    topics: [facilities]
+    authority: republished
+    status: ok
+    format: "Interactive Tableau maps + data downloads (recent years)"
+    cadence: "Annual (one map per school year)"
+    years: "SY2015-16 through SY2025-26"
+    notes: "Standalone facility-location maps; content now also inside EdScape Ch.3. Early years lack downloadable data."
+
+  # ============================== Cross-cutting ==============================
+  - id: myschooldc-lottery
+    name: "My School DC — Lottery Data ('By the Numbers')"
+    owner: "My School DC"
+    url: "https://www.myschooldc.org/resources/data"
+    topics: [lottery, enrollment]
+    authority: authoritative
+    status: ok
+    format: "Report PDFs + Excel/CSV + interactive Tableau (waitlist movement)"
+    cadence: "Annual; results each spring (Mar/Apr)"
+    years: "2014 (first lottery) through 2026"
+    notes: "The common lottery (one application for DCPS + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. Administered jointly by OSSE/DME. The authoritative demand/choice dataset."
+
+  - id: opendata-dcps-locations
+    name: "Open Data DC — DC Public Schools (point locations)"
+    owner: "Open Data DC"
+    url: "https://opendata.dc.gov/datasets/dc-public-schools/about"
+    topics: [profiles, gis]
+    authority: authoritative
+    status: js-rendered
+    format: "GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API"
+    cadence: "Updated as schools change (~annually)"
+    years: "Current/live snapshot"
+    notes: "Point locations of every DCPS campus. ArcGIS layer: Education_WebMercator/MapServer layer 5. /about page is client-rendered; metadata verified via data.gov mirror."
+
+  - id: opendata-charter-locations
+    name: "Open Data DC — DC Charter Schools (point locations)"
+    owner: "Open Data DC"
+    url: "https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about"
+    topics: [profiles, gis]
+    authority: authoritative
+    status: js-rendered
+    format: "GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API"
+    cadence: "Updated as campuses change (~annually)"
+    years: "Current/live snapshot"
+    notes: "Point locations of every charter campus. Same MapServer (layer 1) as DCPS schools."
+
+  - id: opendata-attendance-zones
+    name: "Open Data DC — School Attendance Zones (ES/MS/HS boundaries)"
+    owner: "Open Data DC"
+    url: "https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about"
+    topics: [boundaries, gis]
+    authority: authoritative
+    status: js-rendered
+    format: "GIS polygon layers — Shapefile / GeoJSON / CSV + ArcGIS REST API"
+    cadence: "Updated on boundary revisions"
+    years: "Current; historical layers SY10-11→SY22-23"
+    notes: "DCPS in-boundary zone polygons (only DCPS has zones; charters don't). HS zones are spread across multiple vintage MapServer layers — the most fragmented GIS data. DME also posts shapefiles at dme.dc.gov/page/new-boundary-shape-files."
+
+  - id: dc-policy-state-of-schools
+    name: "DC Policy Center — State of D.C. Schools (annual)"
+    owner: "DC Policy Center"
+    url: "https://www.dcpolicycenter.org/publications/stateofdcschools2024-25/"
+    topics: [enrollment, assessment, graduation, attendance, educators, landing]
+    authority: third-party
+    status: ok
+    format: "Web page + full report PDF + one-pager (EN/ES)"
+    cadence: "Annual, spring (March)"
+    years: "Annual series 2018-19 through 2024-25 (7 editions)"
+    notes: "Best single narrative synthesis of the whole system (DCPS + charters), built on OSSE/DME source data. Produced with Education Forward DC. Hub: dcpolicycenter.org/education-policy-initiative/."
+
+  - id: census-acs-school-age
+    name: "U.S. Census ACS — DC school-age / under-18 population"
+    owner: "U.S. Census"
+    url: "https://data.census.gov/"
+    topics: [population, projections]
+    authority: authoritative
+    status: ok
+    format: "Web tables / CSV / Census Data API"
+    cadence: "Annual (ACS 1-yr citywide; 5-yr for ward/tract)"
+    years: "ACS 1-yr 2005–2024; 5-yr 2009–2024"
+    notes: "Tables S0101 (Age) and B09001 (Under 18) — the citywide school-age denominator for capture-rate / demand analysis that DME and DC Policy Center use against enrollment and births."
+
+  - id: empowerk12-dashboard
+    name: "EmpowerK12 — DC school accountability/outcomes dashboards"
+    owner: EmpowerK12
+    url: "https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings"
+    topics: [accountability, assessment]
+    authority: third-party
+    status: ok
+    format: "Interactive dashboards"
+    cadence: "Updated when OSSE releases"
+    years: "Recent years"
+    notes: "Nonprofit-built interactive dashboards over OSSE Report Card raw data (DCPS + charters together) — useful because OSSE/PCSB host few interactive views themselves."
+
+# =====================================================================
+# OVERLAPS — where the same data appears in multiple places, and how they
+# differ. This is the heart of the catalog: the point is not just to list
+# sources but to say which one to trust and why they disagree.
+# =====================================================================
+overlaps:
+  - topic: "Enrollment counts"
+    sources: [osse-enrollment-audit, dcps-dataset-enrollment, pcsb-student-enrollment, edscape-enrollment-patterns, dc-school-report-card-site]
+    difference: >
+      OSSE's audited enrollment is the single authoritative count — independently
+      verified each fall, cross-sector, and the basis for funding. DCPS and PCSB
+      each republish only their own sector's slice (DCPS by school/grade; PCSB by
+      tier/ward + market-share analysis). EdScape takes the same OSSE figures and
+      geocodes them to neighborhoods/wards/boundaries and adds projections. The
+      Report Card displays per-school enrollment for browsing. If numbers differ,
+      trust OSSE audited; the others may use different rounding, vintage, or
+      small-cell suppression.
+
+  - topic: "School accountability ratings"
+    sources: [dc-school-report-card-site, osse-star-technical-guide, pcsb-sqr, pcsb-aspire, pcsb-pmf-archive, empowerk12-dashboard]
+    difference: >
+      THESE ARE NOT THE SAME SCALE. OSSE's STAR rating is 1–5 stars and covers
+      BOTH DCPS and charters. DC PCSB's School Quality Report (SQR), built on the
+      ASPIRE system, scores charters 0–100 and assigns Tier 1/2/3 — charters only.
+      The older PMF (archived at 2018-19) is yet another charter tiering. A charter
+      can have both a STAR rating and an SQR tier that are not directly comparable.
+      Always state which framework (and which year/version) a 'score' or 'tier'
+      came from. EmpowerK12 re-presents the OSSE STAR data interactively.
+
+  - topic: "Assessment / proficiency (ELA & math)"
+    sources: [osse-assessment-2025, osse-assessment-archive, dc-school-report-card-site, dcps-downloadable-datasets, pcsb-assessment]
+    difference: >
+      OSSE is the authority — it administers DC CAPE (formerly PARCC) and posts
+      cross-sector results plus the Report Card display. DCPS's downloadable PARCC/
+      assessment files cover only DCPS schools; PCSB's page covers only charters.
+      The sector pages are convenient subsets but can lag OSSE and apply different
+      suppression. For comparisons across sectors or years, use OSSE's files.
+
+  - topic: "Graduation rate (ACGR)"
+    sources: [osse-graduation, dcps-dataset-graduation, dc-school-report-card-site]
+    difference: >
+      OSSE publishes the official cross-sector 4- and 5-year ACGR with subgroups.
+      DCPS's downloadable graduation dataset is the DCPS-only subset of the same
+      calculation. Use OSSE for charter or cross-sector figures.
+
+  - topic: "Attendance / chronic absenteeism"
+    sources: [osse-attendance, osse-attendance-dashboard, dc-school-report-card-site, dcps-glance-attendance, pcsb-discipline-attendance]
+    difference: >
+      OSSE owns the citywide attendance metrics and leads with chronic absenteeism
+      and chronic truancy (a 10% threshold), not 'in-seat attendance.' DCPS's at-a-
+      glance PDFs are district-level aggregates; PCSB's report is charter-only.
+      Watch the metric definition — 'attendance rate' (DCPS narrative) and 'chronic
+      absenteeism' (OSSE) answer different questions.
+
+  - topic: "Discipline (suspensions/expulsions)"
+    sources: [osse-discipline, dc-school-report-card-site, pcsb-equity-reports, pcsb-discipline-attendance]
+    difference: >
+      OSSE's 'State of Discipline' report + the Report Card are the current
+      cross-sector authority (by-school detail lives in PDF appendices). PCSB's own
+      School Equity Reports carried charter discipline/mobility but are archived at
+      SY2017-18 — PCSB now redirects to OSSE. Use OSSE for anything recent.
+
+  - topic: "Demographics (race, SWD, EL, at-risk)"
+    sources: [osse-aggregate-enrollment, dc-school-report-card-site, edscape, dcps-glance-enrollment, pcsb-student-enrollment]
+    difference: >
+      OSSE's Report Card 'Aggregate Enrollment Data' Excel is the authoritative
+      school-level demographic breakdown. EdScape recasts it by neighborhood/ward.
+      DCPS and PCSB pages show only their own sector and often only district/sector
+      totals. Small subgroups may be suppressed in OSSE files (0%/100% hidden).
+
+  - topic: "Per-pupil money"
+    sources: [osse-finance-ppe, dcps-budget-portal, pcsb-school-finances]
+    difference: >
+      These measure DIFFERENT things. OSSE's ESSA per-pupil EXPENDITURE reports
+      show what was actually spent per pupil (cross-sector, ex-post). DCPS's budget
+      portal shows ALLOCATIONS under the three-factor model (ex-ante, DCPS only).
+      PCSB's finance pages show charter actuals/audits. Don't compare a DCPS
+      allocation to an OSSE expenditure as if they're the same number.
+
+  - topic: "Facilities, capacity & utilization"
+    sources: [edscape-facilities, mfp-2023, mfp-2024-supplement, dcps-modernizations, dme-facility-maps]
+    difference: >
+      EdScape Ch.3 and the Master Facilities Plan are the cross-sector planning
+      views (capacity, utilization, projections) produced by DME with OSSE/DCPS/
+      PCSB/DGS. DCPS's modernizations page (+ DGS) covers only DCPS capital projects.
+      For 'how full is each building citywide,' use EdScape/MFP; for 'what DCPS is
+      renovating,' use DCPS/DGS.
+
+  - topic: "Boundaries & feeder patterns"
+    sources: [dcps-feeder-patterns, dcps-find-inboundary, opendata-attendance-zones, dme-boundary-study, edscape-enrollment-patterns]
+    difference: >
+      Only DCPS has attendance boundaries/feeders (charters are citywide-choice).
+      DCPS publishes the human-readable feeder PDFs and address lookup; Open Data DC
+      has the GIS polygon shapefiles (current + historical vintages); DME owns the
+      boundary POLICY and the 2023 study data. EdScape shows how enrollment actually
+      flows across those boundaries.
+
+  - topic: "School directory / locations"
+    sources: [opendata-dcps-locations, opendata-charter-locations, dcps-school-profiles, pcsb-school-profiles, pcsb-directory-pdf, dc-school-report-card-site]
+    difference: >
+      For machine-readable locations of all schools, use Open Data DC GIS (separate
+      DCPS and charter layers). For human browsing, DCPS Profiles (DCPS only) and
+      PCSB School Profiles / Directory (charter only) are the directories; the
+      Report Card lists both sectors. School-ID crosswalks: DCPS School Directory
+      PDF and the OSSE enrollment files.
