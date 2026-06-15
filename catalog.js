@@ -99,14 +99,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "methodology"
      ],
      "tabs": [
       {
@@ -346,14 +339,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "methodology"
      ],
      "tabs": [
       {
@@ -601,13 +587,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "advanced-coursework"
      ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2025",
@@ -716,14 +696,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -830,14 +803,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "attendance"
      ],
      "tabs": [
       {
@@ -944,14 +910,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -1007,14 +966,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "student-movement"
      ],
      "tabs": [
       {
@@ -1121,14 +1073,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -1190,14 +1135,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -1259,14 +1197,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -1328,14 +1259,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -1409,14 +1333,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "discipline"
      ],
      "tabs": [
       {
@@ -1493,14 +1410,8 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
       "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -1607,14 +1518,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "profiles"
      ],
      "tabs": [
       {
@@ -1667,14 +1571,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "profiles"
      ],
      "tabs": [
       {
@@ -1726,14 +1623,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -1861,14 +1751,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -1906,14 +1789,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -1962,14 +1838,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -2054,13 +1923,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -2162,14 +2025,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -2206,14 +2062,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "graduation"
      ],
      "tabs": [
       {
@@ -2250,14 +2099,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -2332,14 +2174,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -2468,13 +2303,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "advanced-coursework"
      ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2024",
@@ -2541,14 +2370,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -2592,14 +2414,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -2706,14 +2521,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -2778,14 +2586,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "attendance"
      ],
      "tabs": [
       {
@@ -2892,14 +2693,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -2955,14 +2749,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "discipline"
      ],
      "tabs": [
       {
@@ -3039,14 +2826,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -3084,14 +2864,8 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
       "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -3156,14 +2930,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "profiles"
      ],
      "tabs": [
       {
@@ -3216,14 +2983,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "student-movement"
      ],
      "tabs": [
       {
@@ -3330,13 +3090,6 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
       "educators"
      ],
      "series": "Educators (Teachers & School Leaders)",
@@ -4125,14 +3878,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "methodology"
      ],
      "tabs": [
       {
@@ -4361,14 +4107,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "finance"
      ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2023",
@@ -4453,14 +4192,8 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
       "finance",
-      "educators"
+      "methodology"
      ],
      "tabs": [
       {
@@ -4515,14 +4248,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -4566,14 +4292,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -4706,13 +4425,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "advanced-coursework"
      ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2023",
@@ -4779,14 +4492,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "attendance"
      ],
      "tabs": [
       {
@@ -4893,14 +4599,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "profiles"
      ],
      "tabs": [
       {
@@ -4953,14 +4652,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -5016,14 +4708,8 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
       "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -5088,14 +4774,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "student-movement"
      ],
      "tabs": [
       {
@@ -5202,14 +4881,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -5242,14 +4914,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "discipline"
      ],
      "tabs": [
       {
@@ -5326,14 +4991,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -5440,14 +5098,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -5485,14 +5136,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -5554,14 +5198,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -5697,13 +5334,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "advanced-coursework"
      ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2022",
@@ -5770,14 +5401,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "assessment"
      ],
      "tabs": [
       {
@@ -5884,14 +5508,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "attendance"
      ],
      "tabs": [
       {
@@ -5998,14 +5615,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -6061,14 +5671,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "discipline"
      ],
      "tabs": [
       {
@@ -6145,14 +5748,8 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
       "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -6217,14 +5814,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "finance"
      ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2022",
@@ -6298,14 +5888,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "student-movement"
      ],
      "tabs": [
       {
@@ -6412,13 +5995,6 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
       "educators"
      ],
      "series": "Educators (Teachers & School Leaders)",
@@ -6463,14 +6039,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -6532,14 +6101,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -6608,13 +6170,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "advanced-coursework"
      ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2021",
@@ -6681,14 +6237,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "attendance"
      ],
      "tabs": [
       {
@@ -6795,14 +6344,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "profiles"
      ],
      "tabs": [
       {
@@ -6845,14 +6387,8 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
       "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -6917,14 +6453,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "school-climate"
      ],
      "tabs": [
       {
@@ -6974,14 +6503,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "student-movement"
      ],
      "tabs": [
       {
@@ -7088,13 +6610,6 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
       "educators"
      ],
      "series": "Educators (Teachers & School Leaders)",
@@ -7142,14 +6657,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "finance"
      ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2021",
@@ -7223,14 +6731,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -7306,14 +6807,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -7378,14 +6872,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "finance"
      ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2020",
@@ -7445,14 +6932,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -7587,14 +7067,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "needs_browser",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": []
     },
@@ -7605,14 +7078,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "finance"
      ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2019",
@@ -7672,14 +7138,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -7897,14 +7356,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "finance",
-      "educators"
+      "accountability"
      ],
      "tabs": [
       {
@@ -8028,14 +7480,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "accountability",
-      "assessment",
-      "attendance",
-      "graduation",
-      "discipline",
-      "enrollment",
-      "demographics",
-      "profiles"
+      "accountability"
      ],
      "columns": [
       "LEA_Code",
@@ -8075,7 +7520,6 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "accountability",
       "methodology"
      ],
      "n_pages": 71,
@@ -11736,7 +11180,6 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "demographics",
       "enrollment"
      ],
      "tabs": [
@@ -12011,7 +11454,8 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "finance"
+      "finance",
+      "methodology"
      ],
      "tabs": [
       {
@@ -12692,8 +12136,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 326,
      "has_tabular_data": true,
@@ -12760,8 +12203,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 116,
      "has_tabular_data": true,
@@ -12848,8 +12290,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 300,
      "has_tabular_data": true,
@@ -12916,8 +12357,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 102,
      "has_tabular_data": true,
@@ -13023,8 +12463,7 @@ window.CATALOG = {
      "year": "2013",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 328,
      "has_tabular_data": true,
@@ -13093,8 +12532,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 25,
      "has_tabular_data": true,
@@ -13197,8 +12635,7 @@ window.CATALOG = {
      "year": "2013",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 304,
      "has_tabular_data": true,
@@ -13276,8 +12713,7 @@ window.CATALOG = {
      "year": "2012",
      "status": "ok",
      "topics": [
-      "accountability",
-      "methodology"
+      "accountability"
      ],
      "n_pages": 29,
      "has_tabular_data": true,
@@ -13404,8 +12840,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "equity",
-      "discipline",
-      "attendance"
+      "methodology"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Definitions Guide",
@@ -13421,9 +12856,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Academy of Hope Adult PCS",
@@ -13476,9 +12909,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Briya PCS",
@@ -13523,9 +12954,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Carlos Rosario International PCS",
@@ -13578,9 +13007,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Community College Preparatory Academy PCS",
@@ -13625,9 +13052,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "LAYC Career Academy PCS",
@@ -13672,9 +13097,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Maya Angelou PCS Young Adult Learning Center",
@@ -13719,9 +13142,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "The Next Step El Proximo Paso PCS",
@@ -13766,9 +13187,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "equity",
-      "discipline",
-      "attendance"
+      "equity"
      ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "YouthBuild PCS",
@@ -13831,8 +13250,8 @@ window.CATALOG = {
      "year": "2022-23",
      "status": "ok",
      "topics": [
-      "discipline",
-      "attendance"
+      "attendance",
+      "discipline"
      ],
      "n_pages": 27,
      "has_tabular_data": true,
@@ -13927,8 +13346,8 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "discipline",
-      "attendance"
+      "attendance",
+      "discipline"
      ],
      "n_pages": 25,
      "has_tabular_data": true,
@@ -14001,8 +13420,8 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "discipline",
-      "attendance"
+      "attendance",
+      "discipline"
      ],
      "n_pages": 22,
      "has_tabular_data": true,
@@ -14083,8 +13502,8 @@ window.CATALOG = {
      "year": "2020-14",
      "status": "ok",
      "topics": [
-      "discipline",
-      "attendance"
+      "attendance",
+      "discipline"
      ],
      "n_pages": 3,
      "has_tabular_data": false,
@@ -14098,8 +13517,8 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "discipline",
-      "attendance"
+      "attendance",
+      "discipline"
      ],
      "n_pages": 18,
      "has_tabular_data": true,
@@ -14191,7 +13610,8 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "finance"
+      "finance",
+      "demographics"
      ],
      "n_pages": 70,
      "has_tabular_data": true,
@@ -14262,7 +13682,8 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "finance"
+      "finance",
+      "demographics"
      ],
      "n_pages": 47,
      "has_tabular_data": true,
@@ -14335,7 +13756,8 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "finance"
+      "finance",
+      "demographics"
      ],
      "n_pages": 16,
      "has_tabular_data": true,
@@ -14445,7 +13867,8 @@ window.CATALOG = {
      "year": "2010",
      "status": "ok",
      "topics": [
-      "finance"
+      "finance",
+      "demographics"
      ],
      "n_pages": 15,
      "has_tabular_data": true,
@@ -14648,8 +14071,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -14785,8 +14207,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -14859,8 +14280,8 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "boundaries",
+      "enrollment"
      ],
      "tabs": [
       {
@@ -14938,8 +14359,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15048,8 +14468,8 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "attendance",
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15095,8 +14515,8 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "boundaries",
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15191,8 +14611,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15342,8 +14761,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15386,8 +14804,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "enrollment",
-      "boundaries"
+      "enrollment"
      ],
      "tabs": [
       {
@@ -15585,8 +15002,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Tableau underlying data",
      "label": "unknown",
@@ -15641,8 +15057,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Total Applications & Results",
      "label": "2018",
@@ -15715,8 +15130,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2026",
@@ -15732,8 +15146,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2025",
@@ -15749,8 +15162,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2024",
@@ -15766,8 +15178,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2023",
@@ -15783,8 +15194,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2022",
@@ -15800,8 +15210,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2021",
@@ -15817,8 +15226,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2020",
@@ -15834,8 +15242,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2019",
@@ -15851,8 +15258,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2018",
@@ -15868,8 +15274,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2017",
@@ -15885,8 +15290,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
@@ -15902,8 +15306,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2015",
@@ -15919,8 +15322,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2014",
@@ -15936,8 +15338,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2026",
@@ -15959,8 +15360,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2025",
@@ -15982,8 +15382,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2024",
@@ -16005,8 +15404,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2023",
@@ -16033,8 +15431,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2022",
@@ -16061,8 +15458,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2021",
@@ -16094,8 +15490,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2020",
@@ -16152,8 +15547,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2019",
@@ -16210,8 +15604,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2018",
@@ -16236,8 +15629,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2017",
@@ -16262,8 +15654,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2016",
@@ -16288,8 +15679,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2015",
@@ -16314,8 +15704,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2014",
@@ -16340,8 +15729,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2026",
@@ -16398,8 +15786,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2025",
@@ -16456,8 +15843,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2024",
@@ -16514,8 +15900,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2023",
@@ -16572,8 +15957,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2022",
@@ -16630,8 +16014,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2021",
@@ -16688,8 +16071,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2020",
@@ -16746,8 +16128,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2019",
@@ -16804,8 +16185,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2018",
@@ -16829,8 +16209,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2017",
@@ -16854,8 +16233,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
@@ -16879,8 +16257,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2015",
@@ -16904,8 +16281,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2014",
@@ -16930,7 +16306,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2026",
@@ -16956,8 +16332,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2025",
@@ -16983,8 +16358,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2024",
@@ -17010,8 +16384,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2023",
@@ -17037,8 +16410,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2022",
@@ -17065,7 +16437,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2021",
@@ -17092,7 +16464,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2020",
@@ -17119,7 +16491,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2019",
@@ -17146,7 +16518,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2018",
@@ -17173,7 +16545,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2017",
@@ -17200,7 +16572,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2016",
@@ -17227,7 +16599,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2015",
@@ -17254,7 +16626,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2014",
@@ -17280,8 +16652,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2026",
@@ -17307,8 +16678,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2025",
@@ -17334,8 +16704,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2024",
@@ -17361,8 +16730,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2023",
@@ -17387,8 +16755,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2022",
@@ -17413,8 +16780,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2021",
@@ -17439,8 +16805,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2020",
@@ -17465,8 +16830,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2019",
@@ -17491,8 +16855,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2018",
@@ -17517,8 +16880,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2017",
@@ -17543,8 +16905,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2016",
@@ -17569,8 +16930,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2015",
@@ -17595,8 +16955,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Ward",
      "label": "2014",
@@ -17621,8 +16980,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2026",
@@ -17646,8 +17004,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2025",
@@ -17671,8 +17028,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2024",
@@ -17696,8 +17052,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2023",
@@ -17722,8 +17077,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2022",
@@ -17748,8 +17102,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2021",
@@ -17774,8 +17127,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2020",
@@ -17800,8 +17152,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2019",
@@ -17826,8 +17177,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2018",
@@ -17852,8 +17202,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2017",
@@ -17878,8 +17227,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2016",
@@ -17904,8 +17252,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2015",
@@ -17930,8 +17277,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2014",
@@ -17956,8 +17302,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2026",
@@ -17979,8 +17324,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2025",
@@ -18002,8 +17346,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2024",
@@ -18019,8 +17362,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2023",
@@ -18042,8 +17384,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2022",
@@ -18065,8 +17406,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2021",
@@ -18088,8 +17428,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2020",
@@ -18111,8 +17450,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2019",
@@ -18134,8 +17472,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2018",
@@ -18151,8 +17488,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2017",
@@ -18168,8 +17504,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2016",
@@ -18185,8 +17520,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2015",
@@ -18202,8 +17536,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2014",
@@ -18219,8 +17552,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2026",
@@ -18242,8 +17574,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2025",
@@ -18265,8 +17596,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2024",
@@ -18288,8 +17618,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2023",
@@ -18311,8 +17640,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2022",
@@ -18334,8 +17662,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2021",
@@ -18357,8 +17684,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2020",
@@ -18380,8 +17706,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2019",
@@ -18403,8 +17728,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2018",
@@ -18426,8 +17750,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2017",
@@ -18449,8 +17772,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2016",
@@ -18472,8 +17794,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2015",
@@ -18495,8 +17816,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Median # of School Selections",
      "label": "2014",
@@ -18518,8 +17838,7 @@ window.CATALOG = {
      "year": "2026",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2026",
@@ -18544,8 +17863,7 @@ window.CATALOG = {
      "year": "2025",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2025",
@@ -18570,8 +17888,7 @@ window.CATALOG = {
      "year": "2024",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2024",
@@ -18596,8 +17913,7 @@ window.CATALOG = {
      "year": "2023",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2023",
@@ -18622,8 +17938,7 @@ window.CATALOG = {
      "year": "2022",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2022",
@@ -18648,8 +17963,7 @@ window.CATALOG = {
      "year": "2021",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2021",
@@ -18674,8 +17988,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2020",
@@ -18700,8 +18013,7 @@ window.CATALOG = {
      "year": "2019",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2019",
@@ -18726,8 +18038,7 @@ window.CATALOG = {
      "year": "2018",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2018",
@@ -18752,8 +18063,7 @@ window.CATALOG = {
      "year": "2017",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2017",
@@ -18778,8 +18088,7 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2016",
@@ -18804,8 +18113,7 @@ window.CATALOG = {
      "year": "2015",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2015",
@@ -18830,8 +18138,7 @@ window.CATALOG = {
      "year": "2014",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2014",
@@ -18856,8 +18163,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "lottery"
      ],
      "series": "Lottery: Other / research",
      "label": "unknown",
@@ -18874,7 +18180,7 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Other / research",
      "label": "unknown",
@@ -18966,8 +18272,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "lottery",
-      "enrollment"
+      "demographics"
      ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "unknown",
@@ -19048,8 +18353,7 @@ window.CATALOG = {
      "year": "current",
      "status": "ok",
      "topics": [
-      "profiles",
-      "gis"
+      "profiles"
      ],
      "columns": [
       "X",
@@ -19116,8 +18420,7 @@ window.CATALOG = {
      "year": "current",
      "status": "ok",
      "topics": [
-      "profiles",
-      "gis"
+      "profiles"
      ],
      "columns": [
       "X",

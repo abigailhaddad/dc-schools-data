@@ -141,6 +141,41 @@ def derive_series(source_id: str, name: str, year):
     return {}
 
 
+# Per-file topic inference from the file NAME (the source's topic list is too
+# broad — the Resource Library is tagged with everything). One place to improve.
+FILE_TOPIC_RULES = [
+    (r"applicant|application|lottery|waitlist|match rate|seats|school selection|my ?school ?dc", "lottery"),
+    (r"\bela\b|\bmath|parcc|dc cape|\bcape\b|msaa|proficien|assessment|science|growth|participation|advanced coursework|\bsat\b|ap,? ib", "assessment"),
+    (r"ap,? ib|advanced coursework|\bsat\b|\bib\b", "advanced-coursework"),
+    (r"attendance|truancy|absentee|miss school", "attendance"),
+    (r"discipline|suspension|expulsion", "discipline"),
+    (r"graduation|college enrollment|acgr|\bgrad\b", "graduation"),
+    (r"finance|financial|per[- ]pupil|expenditure|spending|budget|funding|\b990\b", "finance"),
+    (r"teacher|school leader|educator|workforce", "educators"),
+    (r"student movement|mobility", "student-movement"),
+    (r"boundary|feeder|in-boundary|attendance zone", "boundaries"),
+    (r"facilit|capacity|utilization|modernization", "facilities"),
+    (r"enrollment|enrolled", "enrollment"),
+    (r"race|ethnicity|english learner|at[- ]risk|special ed|economically|preferred language|demographic", "demographics"),
+    (r"accountability|\bstar\b|summative|floors and targets|\bpmf\b|aspire|school quality|\bsqr\b|long term goal|aggregate public|aggregate data file|cross-?tabulated", "accountability"),
+    (r"\bequity\b", "equity"),
+    (r"dc says|\bclass\b|learning environment|survey|panorama|climate", "school-climate"),
+    (r"data dictionary|\bmcc\b|technical guide|metric calculation|reporting standard|definition", "methodology"),
+    (r"directory|course catalog|\bprofile|locations", "profiles"),
+]
+
+
+def infer_file_topics(name: str, fallback: list[str]) -> list[str]:
+    low = name.lower()
+    topics = [topic for pat, topic in FILE_TOPIC_RULES if re.search(pat, low)]
+    # dedupe, preserve order
+    seen, out = set(), []
+    for t in topics:
+        if t not in seen:
+            seen.add(t); out.append(t)
+    return out or fallback
+
+
 def file_for_js(rec: dict, src: dict | None) -> dict:
     """Trim a profiled-file record down to what the front end needs to show + search.
     `src` is the file's OWN source (for authority + topics — may differ across a
@@ -148,7 +183,9 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
     prof = rec.get("profile", {})
     out = {"name": rec["name"], "url": rec["url"], "kind": rec["kind"],
            "year": rec.get("year"), "status": rec.get("status"),
-           "topics": (src or {}).get("topics", [])}
+           # per-FILE topics inferred from the name (accurate); fall back to the
+           # file's own tagged topics, then the source's broad list
+           "topics": infer_file_topics(rec["name"], rec.get("topics") or (src or {}).get("topics", []))}
     if rec.get("page"):
         out["page"] = rec["page"]
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))

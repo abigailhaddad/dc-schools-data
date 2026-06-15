@@ -226,6 +226,8 @@ def main() -> int:
                "url": entry["url"], "kind": entry["kind"], "year": entry.get("year")}
         if entry.get("page"):
             rec["page"] = entry["page"]
+        if entry.get("topics"):
+            rec["topics"] = entry["topics"]
 
         if needs_browser(entry["url"]):
             rec["status"] = "needs_browser"

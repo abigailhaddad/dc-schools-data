@@ -187,7 +187,7 @@ function renderOverlaps() {
 // ----- flat file index: one entry per downloadable file, searchable by its own
 // name + source + every tab/column/table-header it contains -----
 const ALL_FILES = CAT.sources.flatMap(s => (s.files || []).map(f => {
-  const bits = [f.name, s.name, s.owner, f.year || ""];
+  const bits = [f.name, s.name, s.owner, f.year || "", (f.topics || []).join(" ")];
   for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
   bits.push(...(f.columns || []));
   for (const t of f.tables || []) bits.push(...t.header);
@@ -245,9 +245,10 @@ function yearNum(y) { const m = String(y || "").match(/(19|20)\d{2}/); return m 
 
 function renderFiles() {
   const terms = queryTerms();
+  // search + owner filter at the file level; topic is applied per SERIES below
+  // (so a topic click shows the whole dataset, every year — not just tagged files)
   const hits = ALL_FILES.filter(e => {
     if (state.owner && e.owner !== state.owner) return false;
-    if (state.topic && !(e.file.topics || []).includes(state.topic)) return false;
     return terms.every(t => fileTermMatch(e.text, t));
   });
 
@@ -267,11 +268,14 @@ function renderFiles() {
   const chipLabel = x => x.file.label || x.file.year || "?";
   const maxYear = g => Math.max(...g.files.map(x => yearNum(chipLabel(x))), 0);
   // most years first, then most recent, then title
-  const list = [...groups.values()].sort((a, b) =>
+  let list = [...groups.values()].sort((a, b) =>
     b.files.length - a.files.length || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
+  if (state.topic)
+    list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
 
+  const shownFiles = list.reduce((n, g) => n + g.files.length, 0);
   document.getElementById("count").textContent =
-    list.length + " dataset series · " + hits.length + " of " + ALL_FILES.length + " files";
+    list.length + " dataset series · " + shownFiles + " files";
 
   document.getElementById("files").innerHTML = list.length
     ? list.map(g => {

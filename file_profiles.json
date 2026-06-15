@@ -6,6 +6,9 @@
     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=l1fz6ucfcut7q7pg8qzbo3l9ffb19pmm&file_id=f_1962534999838",
     "kind": "xlsx",
     "year": "2024-25",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -123,6 +126,9 @@
     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=a1bx09uvrx0i066n2alof3onbfivboen&file_id=f_1962545899005",
     "kind": "xlsx",
     "year": "2024-25",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -242,6 +248,9 @@
     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=h1bdtjr77dgxsllrsrmv9p358f6j9ket&file_id=f_1962543801303",
     "kind": "xlsx",
     "year": "2024-25",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -368,6 +377,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Assessment%202025_PublicDeck%20_FINAL.pdf",
     "kind": "pdf",
     "year": "2024-25",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 41,
@@ -523,6 +535,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Finance%20Data%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -601,6 +616,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Common%20Financial%20Reporting%20Standards%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "finance",
+      "methodology"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -693,6 +712,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "demographics",
+      "enrollment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -746,6 +769,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Attendance%20Report.pdf",
     "kind": "pdf",
     "year": "2024-25",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 50,
@@ -812,6 +838,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2025%20Report%20Card%20Technical%20Guide%20%28September%202025%20Update%29.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "accountability",
+      "methodology"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 71,
@@ -1033,6 +1063,10 @@
     "url": "https://opendata.dc.gov/api/download/v1/items/90b2efbd069842f29817615611619c9b/csv?layers=0",
     "kind": "csv",
     "year": "2017-18",
+    "topics": [
+      "accountability",
+      "gis"
+    ],
     "profile": {
       "kind": "csv",
       "n_rows": 203,
@@ -1059,6 +1093,10 @@
     "url": "https://opendata.dc.gov/api/download/v1/items/4ac321b2d409438ebd76a6569ad94034/csv?layers=5",
     "kind": "csv",
     "year": "current",
+    "topics": [
+      "profiles",
+      "gis"
+    ],
     "profile": {
       "kind": "csv",
       "n_rows": 124,
@@ -1112,6 +1150,10 @@
     "url": "https://opendata.dc.gov/api/download/v1/items/a3832935b1d644e48c887e6ec5a65fcd/csv?layers=1",
     "kind": "csv",
     "year": "current",
+    "topics": [
+      "profiles",
+      "gis"
+    ],
     "profile": {
       "kind": "csv",
       "n_rows": 150,
@@ -1163,6 +1205,10 @@
     "url": "https://opendata.dc.gov/api/download/v1/items/85fce54dea6946dea827c02a6bda88bb/csv?layers=23",
     "kind": "csv",
     "year": "2014-15 to 2016-17",
+    "topics": [
+      "assessment",
+      "gis"
+    ],
     "profile": {
       "kind": "csv",
       "n_rows": 189364,
@@ -1203,6 +1249,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website.xlsx",
     "kind": "xlsx",
     "year": "2026",
+    "topics": [
+      "methodology"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 32,
@@ -1510,6 +1559,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary%20%289.30.25%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "methodology"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 33,
@@ -1826,6 +1878,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Advanced%20Coursework%20and%20SAT%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "advanced-coursework"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -1952,6 +2007,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -2078,6 +2136,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -2204,6 +2265,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -2271,6 +2335,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "student-movement"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -2397,6 +2464,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%203-12%20Student%20Metric%20Scores%20%282025%29v3.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -2472,6 +2542,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%20PK-12%20Family%20Metric%20Scores%20%282025%29v3.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -2547,6 +2620,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%20PK-12%20Staff%20Metric%20Scores%20%282025%29v3.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -2622,6 +2698,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Adult%20Student%20and%20Staff%20Metric%20Scores%20%282025%29v3.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -2711,6 +2790,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "discipline"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -2803,6 +2885,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -2929,6 +3014,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20LEA%20Course%20Catalog%20%282025%29_v2%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "profiles"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -2991,6 +3079,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20Information%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "profiles"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -3050,6 +3141,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Accountability%20Scores%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -3199,6 +3293,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Floors%20and%20Targets%20%282025%29_0.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -3246,6 +3343,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20MSAA%20Participation%20Data%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -3304,6 +3404,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20DC%20CAPE%20Science%20and%20DLM%20Cross%20Tabulated%20Data%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -3401,6 +3504,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20DC%20CAPE%20and%20MSAA%20Cross-Tabulated%20Data%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -3518,6 +3624,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State%20Overall%20Assessment%20Growth%20Metric%20Scores%20Cross%20Tabulated%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -3564,6 +3673,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State%20Overall%20ACGR%20Metric%20Scores%20Cross%20Tabulated%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -3610,6 +3722,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20-%202024-25%20Progress%20Toward%20Long%20Term%20Goals%20%282025%29.xlsx",
     "kind": "xlsx",
     "year": "2025",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -3698,6 +3813,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Accountability%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -3847,6 +3965,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Advanced%20Coursework%20and%20SAT%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "advanced-coursework"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -3925,6 +4046,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data%20%282%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "enrollment",
+      "demographics"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -3978,6 +4103,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -4104,6 +4232,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20Science%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -4182,6 +4313,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -4308,6 +4442,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -4375,6 +4512,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "discipline"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -4467,6 +4607,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Floors%20and%20Targets%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -4514,6 +4657,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores%20%282024%29.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -4592,6 +4738,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20Information%20%282024%29%20update.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "profiles"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -4652,6 +4801,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores%20%282024%29_0.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "student-movement"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -4778,6 +4930,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Data%20Files%20%28Oct%2028%29_0.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "educators"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 42,
@@ -5651,6 +5806,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20MCC%20Data%20Dictionary%20for%20LEAs%20-%20August%20Update.xlsx",
     "kind": "xlsx",
     "year": "2024",
+    "topics": [
+      "methodology"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 31,
@@ -5945,6 +6103,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Finance%20Data%20%282023%29.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 7,
@@ -6045,6 +6206,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Common%20Financial%20Reporting%20Standards%20%282023%29.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -6111,6 +6275,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "enrollment",
+      "demographics"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -6164,6 +6332,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data_1.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -6317,6 +6488,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20-%20Metric%20Scores_0.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "advanced-coursework"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -6395,6 +6569,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -6521,6 +6698,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20-%20Data%20%282023%29.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "profiles"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -6581,6 +6761,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -6648,6 +6831,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores_0.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -6726,6 +6912,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "student-movement"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -6852,6 +7041,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20-%20Summative%20Score%20Data%20%282023%29.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 2,
@@ -6892,6 +7084,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20Data%20%282023%29.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "discipline"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -6984,6 +7179,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023%20DC%20School%20Report%20Card%20Assessment-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -7110,6 +7308,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023%20DC%20School%20Report%20Card%20Floors%20and%20Targets%20Public%20Data.xlsx",
     "kind": "xlsx",
     "year": "2023",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -7157,6 +7358,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "enrollment",
+      "demographics"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -7230,6 +7435,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -7386,6 +7594,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "advanced-coursework"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -7464,6 +7675,9 @@
     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=xbjixab1cegi868y205be1duiahwb20t&file_id=f_1267017259127",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -7590,6 +7804,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -7716,6 +7933,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%284.3.23%29.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -7783,6 +8003,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "discipline"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -7875,6 +8098,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -7953,6 +8179,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20School%20Finance%20Data%20%282%29.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -8040,6 +8269,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores_0.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "student-movement"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -8166,6 +8398,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Teachers%20and%20School%20Leaders%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2022",
+    "topics": [
+      "educators"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -8217,6 +8452,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Metrics_1.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "enrollment",
+      "demographics"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -8290,6 +8529,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Alternative%20Schools%20Metrics.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -8371,6 +8613,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20Metrics.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "advanced-coursework"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -8449,6 +8694,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Attendance%20Metrics%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "attendance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -8575,6 +8823,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Directory%20Data.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "profiles"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -8627,6 +8878,10 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20Metrics.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "enrollment",
+      "graduation"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -8705,6 +8960,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Learning%20Environment%20Data_0.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "school-climate"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -8766,6 +9024,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Student%20Movement%20Metrics.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "student-movement"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -8892,6 +9153,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Teacher%20and%20School%20Leader%20Metrics.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "educators"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -8946,6 +9210,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20School%20Finance.xlsx",
     "kind": "xlsx",
     "year": "2021",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -9033,6 +9300,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data.xlsx",
     "kind": "xlsx",
     "year": "2020",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -9122,6 +9392,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Public%20Data%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2020",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -9200,6 +9473,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Per-Pupil%20Expenditures%20File.xlsx",
     "kind": "xlsx",
     "year": "2020",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -9273,6 +9549,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data_.xlsx",
     "kind": "xlsx",
     "year": "2019",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -9429,6 +9708,9 @@
     "url": "https://app.box.com/s/tb3ipg32wo48di3ph58llnpim5632fn9",
     "kind": "xlsx",
     "year": "2019",
+    "topics": [
+      "accountability"
+    ],
     "status": "needs_browser"
   },
   "osse-rl-2019-school-card-per-pupil-expenditures-file-2019": {
@@ -9438,6 +9720,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Report%20Card_School%20Finance%20Public%20File.xlsx",
     "kind": "xlsx",
     "year": "2019",
+    "topics": [
+      "finance"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -9511,6 +9796,9 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20DC%20School%20Report%20Card%20and%20STAR%20Framework%20Public%20Data_2.xlsx",
     "kind": "xlsx",
     "year": "2018",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 15,
@@ -9762,6 +10050,9 @@
     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=bzcnvfcfptfgn1937tphy4x8tzvrl27d&file_id=f_2115750109619",
     "kind": "xlsx",
     "year": "2018",
+    "topics": [
+      "accountability"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 7,
@@ -9879,6 +10170,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260602_MySchoolDC_Tableau_Data.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -9941,6 +10235,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Total_Applications.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10032,6 +10329,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_by_Grade.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10052,6 +10353,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_by_Grade.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10072,6 +10377,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_by_Grade.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10092,6 +10401,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_by_Grade.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10112,6 +10425,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10132,6 +10448,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10152,6 +10471,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10172,6 +10494,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10192,6 +10517,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10212,6 +10540,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10232,6 +10563,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-number-of-applications-by-grade.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10252,6 +10587,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10272,6 +10610,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_bygrade.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10292,6 +10633,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Seats_Available.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10318,6 +10662,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_and_Seats_by_Grade.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10344,6 +10692,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_and_Seats_by_Grade.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10370,6 +10722,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_and_Seats_Offered_by_Grade.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10401,6 +10757,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY22_23_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10432,6 +10791,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10468,6 +10830,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10529,6 +10894,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10590,6 +10958,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10619,6 +10990,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10648,6 +11022,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applications-and-seats-offered.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10677,6 +11054,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10706,6 +11086,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_seats_offered.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10735,6 +11118,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Unique_Applicants_Waitlists.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10853,6 +11239,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Unique_Applicants_Waitlisted.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -10966,6 +11355,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Unique_Applicants_Waitlisted.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11084,6 +11476,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Unique_Applicants_Waitlisted.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11202,6 +11597,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_waitlisted.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11315,6 +11713,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_unique_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11428,6 +11829,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_unique_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11536,6 +11940,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_unique_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11644,6 +12051,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11672,6 +12082,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11700,6 +12113,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-unique-applicants-on-wls-by-grade.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11728,6 +12145,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11756,6 +12176,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_waitlist.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11784,6 +12207,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Preferred_Language.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11814,6 +12241,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Language_Percent.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11844,6 +12275,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Language.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11874,6 +12309,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Language.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11904,6 +12343,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_language.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11934,6 +12377,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11964,6 +12411,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -11994,6 +12445,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12024,6 +12479,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12054,6 +12513,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12084,6 +12547,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applicants-by-preferred-language.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12114,6 +12581,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12144,6 +12615,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_preferred_language.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery",
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12174,6 +12649,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Distribution_Applications_Ward.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12204,6 +12682,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Ward.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12234,6 +12715,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Ward.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12264,6 +12748,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/u396/SY23_24_Applicants_Ward.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12293,6 +12780,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_Ward.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12322,6 +12812,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12351,6 +12844,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12380,6 +12876,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12409,6 +12908,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12438,6 +12940,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12467,6 +12972,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-distribution-of-applications-by-war.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12496,6 +13004,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12525,6 +13036,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_byward.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12554,6 +13068,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_Grade_Ward.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12582,6 +13099,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Grade_Ward.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12610,6 +13130,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Grade_Ward.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12638,6 +13161,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Grade_Ward.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12667,6 +13193,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade_ward.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12696,6 +13225,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_byward_grade.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12725,6 +13257,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_applications_byward_grade.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12754,6 +13289,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward_grade.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12783,6 +13321,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_byward_grade.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12812,6 +13353,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_byward_grade.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12841,6 +13385,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2016_Lottery_Applications_byWardandGrade.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12870,6 +13417,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2015_R1_Applications_byWardandGrade.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12899,6 +13449,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2014_R1_Applications_byWardandGrade.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12928,6 +13481,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Ward_Residence.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12954,6 +13510,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Rate_Ward.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -12980,6 +13539,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Rate_Ward.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13000,6 +13562,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Rate_Ward.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13026,6 +13591,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_match_ward.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13052,6 +13620,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13078,6 +13649,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13104,6 +13678,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13130,6 +13707,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13150,6 +13730,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Ward%20of%20Residence.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13170,6 +13753,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-ward-of-residence.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13190,6 +13776,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13210,6 +13799,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_ward.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13230,6 +13822,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Median_School_Selection.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13256,6 +13851,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Median_School_Choices_by_Grade.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13282,6 +13881,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Median_School_Choices_by_Grade.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13308,6 +13911,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Median_School_Choices_by_Grade.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13334,6 +13941,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicant_median_school_selection.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13360,6 +13970,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13386,6 +13999,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13412,6 +14028,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13438,6 +14057,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13464,6 +14086,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Median%20Number%20of%20School%20Selections.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13490,6 +14115,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-median-number-of-school-selections.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13516,6 +14144,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13542,6 +14173,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_median_number_selections.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13568,6 +14202,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Grade_School_Selections.pdf",
     "kind": "pdf",
     "year": "2026",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13597,6 +14234,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Grade_School_Selections.pdf",
     "kind": "pdf",
     "year": "2025",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13626,6 +14266,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Grade_School_Selection.pdf",
     "kind": "pdf",
     "year": "2024",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13655,6 +14298,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Grade_School_Selections.pdf",
     "kind": "pdf",
     "year": "2023",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13684,6 +14330,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_match_grade_school_selection.pdf",
     "kind": "pdf",
     "year": "2022",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13713,6 +14362,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2021",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13742,6 +14394,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2020",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13771,6 +14426,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2019",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13800,6 +14458,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13829,6 +14490,10 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Grade%20and%20Number%20of%20School%20Selections.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13858,6 +14523,10 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-grade-and-number-of-s.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "lottery",
+      "enrollment"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13887,6 +14556,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13916,6 +14588,9 @@
     "url": "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_grade_selections.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 1,
@@ -13945,6 +14620,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/u21/MSDC_Data_Request_Process.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 6,
@@ -13967,6 +14645,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/MSDC%20At-Risk%20Preference%20in%20a%20Unified%20Lottery%204.26.2018_Final.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "lottery"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 27,
@@ -14208,6 +14889,9 @@
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/Dual%20Language%20Immersion%20Demand%20Research%20FINAL.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "demographics"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 19,
@@ -14382,6 +15066,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 12,
@@ -14545,6 +15232,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2024.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -14633,6 +15323,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Enrollments%20per%20DCPS%20Boundary_2025.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "boundaries"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -14724,6 +15417,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Distance_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -14854,6 +15550,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Students%20Miss%20School_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -14911,6 +15610,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Feeders_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "boundaries"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -15025,6 +15727,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_GPR_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 12,
@@ -15202,6 +15907,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Total%20Public%20School%20Enrollment_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -15256,6 +15964,9 @@
     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Public%20School%20Enrollment%20by%20Grade_2026.xlsx",
     "kind": "xlsx",
     "year": "unknown",
+    "topics": [
+      "enrollment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 6,
@@ -15330,6 +16041,10 @@
     "url": "https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf",
     "kind": "pdf",
     "year": "2022-23",
+    "topics": [
+      "attendance",
+      "discipline"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 27,
@@ -15433,6 +16148,10 @@
     "url": "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "attendance",
+      "discipline"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 25,
@@ -15544,6 +16263,10 @@
     "url": "https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "attendance",
+      "discipline"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 22,
@@ -15697,6 +16420,10 @@
     "url": "https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf",
     "kind": "pdf",
     "year": "2020-14",
+    "topics": [
+      "attendance",
+      "discipline"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 3,
@@ -15719,6 +16446,10 @@
     "url": "https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "attendance",
+      "discipline"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 18,
@@ -15858,6 +16589,9 @@
     "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf",
     "kind": "pdf",
     "year": "2018",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 70,
@@ -16057,6 +16791,9 @@
     "url": "https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf",
     "kind": "pdf",
     "year": "2017",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 47,
@@ -16257,6 +16994,9 @@
     "url": "https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 16,
@@ -16427,6 +17167,9 @@
     "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf",
     "kind": "pdf",
     "year": "2010",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 15,
@@ -16602,6 +17345,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 137,
@@ -16892,6 +17638,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 326,
@@ -17073,6 +17822,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 116,
@@ -17361,6 +18113,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf",
     "kind": "pdf",
     "year": "2016",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 300,
@@ -17552,6 +18307,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf",
     "kind": "pdf",
     "year": "2015",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 102,
@@ -17854,6 +18612,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf",
     "kind": "pdf",
     "year": "2013",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 328,
@@ -18039,6 +18800,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf",
     "kind": "pdf",
     "year": "2014",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 25,
@@ -18228,6 +18992,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf",
     "kind": "pdf",
     "year": "2013",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 304,
@@ -18441,6 +19208,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf",
     "kind": "pdf",
     "year": "2012",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 29,
@@ -18654,6 +19424,9 @@
     "url": "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 2,
@@ -18675,6 +19448,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18734,6 +19510,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18785,6 +19564,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18844,6 +19626,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18895,6 +19680,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18946,6 +19734,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -18997,6 +19788,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -19048,6 +19842,9 @@
     "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf",
     "kind": "pdf",
     "year": "unknown",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "pdf",
       "n_pages": 4,
@@ -19100,6 +19897,9 @@
     "kind": "xlsx",
     "year": "2023-24",
     "page": "https://osse.dc.gov/assessmentresults2024",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 7,
@@ -19247,6 +20047,9 @@
     "kind": "xlsx",
     "year": "2023-24",
     "page": "https://osse.dc.gov/assessmentresults2024",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 7,
@@ -19394,6 +20197,9 @@
     "kind": "xlsx",
     "year": "2023-24",
     "page": "https://osse.dc.gov/assessmentresults2024",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 7,
@@ -19551,6 +20357,9 @@
     "kind": "xlsx",
     "year": "2022-23",
     "page": "https://osse.dc.gov/node/1671391",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -19735,6 +20544,9 @@
     "kind": "xlsx",
     "year": "2022-23",
     "page": "https://osse.dc.gov/node/1671391",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 8,
@@ -19901,6 +20713,9 @@
     "kind": "xlsx",
     "year": "2022-23",
     "page": "https://osse.dc.gov/node/1671391",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -20103,6 +20918,9 @@
     "kind": "xlsx",
     "year": "2022-23",
     "page": "https://osse.dc.gov/node/1671391",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -20170,6 +20988,9 @@
     "kind": "xlsx",
     "year": "2021-22",
     "page": "https://osse.dc.gov/node/1613796",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -20257,6 +21078,9 @@
     "kind": "xlsx",
     "year": "2021-22",
     "page": "https://osse.dc.gov/node/1613796",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -20342,6 +21166,9 @@
     "kind": "xlsx",
     "year": "2021-22",
     "page": "https://osse.dc.gov/node/1613796",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -20451,6 +21278,9 @@
     "kind": "xlsx",
     "year": "2018-19",
     "page": "https://osse.dc.gov/node/1420701",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -20548,6 +21378,9 @@
     "kind": "xlsx",
     "year": "2018-19",
     "page": "https://osse.dc.gov/node/1420701",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -20645,6 +21478,9 @@
     "kind": "xlsx",
     "year": "2018-19",
     "page": "https://osse.dc.gov/node/1420701",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -20752,6 +21588,9 @@
     "kind": "xlsx",
     "year": "2018-19",
     "page": "https://osse.dc.gov/node/1420701",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -20807,6 +21646,9 @@
     "kind": "xlsx",
     "year": "2018-19",
     "page": "https://osse.dc.gov/node/1420701",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -20916,6 +21758,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -21013,6 +21858,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -21110,6 +21958,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -21217,6 +22068,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -21272,6 +22126,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -21381,6 +22238,9 @@
     "kind": "xlsx",
     "year": "2017-18",
     "page": "https://osse.dc.gov/node/1348731",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -21506,6 +22366,9 @@
     "kind": "xlsx",
     "year": "2016-17",
     "page": "https://osse.dc.gov/node/1267021",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -21603,6 +22466,9 @@
     "kind": "xlsx",
     "year": "2016-17",
     "page": "https://osse.dc.gov/node/1267021",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 9,
@@ -21700,6 +22566,9 @@
     "kind": "xlsx",
     "year": "2016-17",
     "page": "https://osse.dc.gov/node/1267021",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -21798,6 +22667,9 @@
     "kind": "xlsx",
     "year": "2016-17",
     "page": "https://osse.dc.gov/node/1267021",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -21907,6 +22779,9 @@
     "kind": "xlsx",
     "year": "2016-17",
     "page": "https://osse.dc.gov/node/1267021",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -21962,6 +22837,9 @@
     "kind": "xlsx",
     "year": "2015-16",
     "page": "https://osse.dc.gov/node/1185345",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -22046,6 +22924,9 @@
     "kind": "xlsx",
     "year": "2015-16",
     "page": "https://osse.dc.gov/node/1185345",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -22130,6 +23011,9 @@
     "kind": "xlsx",
     "year": "2015-16",
     "page": "https://osse.dc.gov/node/1185345",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -22185,6 +23069,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -22258,6 +23145,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -22337,6 +23227,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "demographics"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 5,
@@ -22416,6 +23309,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 3,
@@ -22485,6 +23381,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "other"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
@@ -22543,6 +23442,9 @@
     "kind": "xlsx",
     "year": "2014-15",
     "page": "https://osse.dc.gov/node/1184545",
+    "topics": [
+      "assessment"
+    ],
     "profile": {
       "kind": "xlsx",
       "n_sheets": 4,
