@@ -224,7 +224,15 @@ function stripYearTokens(name) {
     .replace(/[_]+/g, " ");
 }
 function seriesTitle(name) {
-  return stripYearTokens(name).replace(/\s*[-–:]\s*$/, "").replace(/\s{2,}/g, " ").trim() || name;
+  let t = stripYearTokens(name)
+    .replace(/^\s*(Enrollment Patterns|Population and Students|Public School Facilities|School Equity Reports|Discipline & Attendance|At-Risk Funding|PMF Archive)\s*[—–-]\s*/i, "")
+    .replace(/EdScape[_ ]Chapter\s*\d+[_ ]*(Enrollment Patterns|Population and Students)?/i, "")
+    .replace(/^\s*DC School Report(\s*Card)?\s*/i, "")
+    .replace(/\s*[-–]?\s*Metric Scores\s*$/i, "")
+    .replace(/\s*Metrics\s*$/i, "")
+    .replace(/\s*[-–:]\s*$/, "")
+    .replace(/\s{2,}/g, " ").trim();
+  return t || stripYearTokens(name).replace(/\s{2,}/g, " ").trim() || name;
 }
 // Aggressive normalization for the GROUPING key only (titles stay readable):
 // collapse applicant/application drift, drop filler + boilerplate words, so the
@@ -260,8 +268,10 @@ function renderFiles() {
     groups.get(key).files.push(e.file);
   }
   const chipLabel = f => f.label || f.year || "?";
+  const maxYear = g => Math.max(...g.files.map(f => yearNum(chipLabel(f))), 0);
+  // most years first, then most recent, then title
   const list = [...groups.values()].sort((a, b) =>
-    a.owner.localeCompare(b.owner) || b.files.length - a.files.length || a.title.localeCompare(b.title));
+    b.files.length - a.files.length || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
 
   document.getElementById("count").textContent =
     list.length + " dataset series · " + hits.length + " of " + ALL_FILES.length + " files";
