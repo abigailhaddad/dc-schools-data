@@ -100,6 +100,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Release Schedule",
@@ -337,6 +348,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Release Schedule",
@@ -581,6 +603,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2025",
      "tabs": [
@@ -687,6 +720,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -791,6 +835,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -895,6 +950,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -948,6 +1014,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1052,6 +1129,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1111,6 +1199,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1170,6 +1269,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1229,6 +1339,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1300,6 +1421,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1374,6 +1506,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1478,6 +1621,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1528,6 +1682,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Overview",
@@ -1577,6 +1742,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1702,6 +1878,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1737,6 +1924,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -1783,6 +1981,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -1864,6 +2073,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -1963,6 +2183,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -1997,6 +2228,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2031,6 +2273,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2103,6 +2356,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2228,6 +2492,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2024",
      "tabs": [
@@ -2292,6 +2567,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2333,6 +2619,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2437,6 +2734,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2499,6 +2807,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2603,6 +2922,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2656,6 +2986,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2730,6 +3071,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2765,6 +3117,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2827,6 +3190,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Overview",
@@ -2877,6 +3251,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -2981,6 +3366,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Educators (Teachers & School Leaders)",
      "label": "2024",
      "tabs": [
@@ -3766,6 +4162,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Summary",
@@ -3992,6 +4399,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2023",
      "tabs": [
@@ -4074,6 +4492,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Overview",
@@ -4126,6 +4555,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4167,6 +4607,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4296,6 +4747,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2023",
      "tabs": [
@@ -4360,6 +4822,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4464,6 +4937,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Overview",
@@ -4514,6 +4998,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4567,6 +5062,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4629,6 +5135,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4733,6 +5250,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4763,6 +5291,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4837,6 +5376,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4941,6 +5491,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -4976,6 +5537,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5035,6 +5607,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5167,6 +5750,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2022",
      "tabs": [
@@ -5231,6 +5825,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5335,6 +5940,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5439,6 +6055,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5492,6 +6119,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5566,6 +6204,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5628,6 +6277,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2022",
      "tabs": [
@@ -5699,6 +6359,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5803,6 +6474,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Educators (Teachers & School Leaders)",
      "label": "2022",
      "tabs": [
@@ -5844,6 +6526,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5903,6 +6596,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -5968,6 +6672,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2021",
      "tabs": [
@@ -6032,6 +6747,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6136,6 +6862,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6176,6 +6913,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6238,6 +6986,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6285,6 +7044,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6389,6 +7159,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "Educators (Teachers & School Leaders)",
      "label": "2021",
      "tabs": [
@@ -6433,6 +7214,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2021",
      "tabs": [
@@ -6504,6 +7296,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6577,6 +7380,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6639,6 +7453,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2020",
      "tabs": [
@@ -6696,6 +7521,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -6828,6 +7664,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "needs_browser",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": []
     },
     {
@@ -6836,6 +7683,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2019",
      "tabs": [
@@ -6893,6 +7751,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -7108,6 +7977,17 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "finance",
+      "educators"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -7230,6 +8110,17 @@ window.CATALOG = {
      "kind": "csv",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "accountability",
+      "assessment",
+      "attendance",
+      "graduation",
+      "discipline",
+      "enrollment",
+      "demographics",
+      "profiles"
+     ],
      "columns": [
       "LEA_Code",
       "LEA_Name",
@@ -7268,6 +8159,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 71,
      "has_tabular_data": true,
      "n_table_pages": 18,
@@ -7363,6 +8259,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "tabs": [
@@ -7464,6 +8364,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 LEA",
      "tabs": [
@@ -7567,6 +8471,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 School",
      "tabs": [
@@ -7677,6 +8585,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024-25",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "n_pages": 41,
@@ -7776,6 +8688,10 @@ window.CATALOG = {
      "kind": "csv",
      "year": "2014-15 to 2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 to 2016-17",
      "columns": [
@@ -7811,6 +8727,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/assessmentresults2024",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 State",
@@ -7940,6 +8860,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/assessmentresults2024",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 LEA",
@@ -8069,6 +8993,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/assessmentresults2024",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 School",
@@ -8208,6 +9136,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1671391",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 State",
@@ -8370,6 +9302,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1671391",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 LEA",
@@ -8516,6 +9452,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1671391",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 School",
@@ -8696,6 +9636,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1671391",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 Particip.",
@@ -8751,6 +9695,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1613796",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 State",
@@ -8826,6 +9774,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1613796",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
@@ -8899,6 +9851,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1613796",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
@@ -8994,6 +9950,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/ELA",
@@ -9069,6 +10029,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/Math",
@@ -9144,6 +10108,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19",
@@ -9239,6 +10207,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 Particip.",
@@ -9282,6 +10254,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 Particip.",
@@ -9377,6 +10353,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/ELA",
@@ -9452,6 +10432,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/Math",
@@ -9527,6 +10511,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
@@ -9622,6 +10610,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 Particip.",
@@ -9665,6 +10657,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 Particip.",
@@ -9760,6 +10756,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
@@ -9871,6 +10871,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/ELA",
@@ -9946,6 +10950,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/Math",
@@ -10021,6 +11029,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
@@ -10107,6 +11119,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
@@ -10202,6 +11218,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 Particip.",
@@ -10245,6 +11265,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1185345",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/ELA",
@@ -10315,6 +11339,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1185345",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/Math",
@@ -10385,6 +11413,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1185345",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 Particip.",
@@ -10428,6 +11460,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
@@ -10491,6 +11527,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
@@ -10556,6 +11596,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
@@ -10621,6 +11665,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
@@ -10680,6 +11728,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
@@ -10726,6 +11778,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "assessment"
+     ],
      "page": "https://osse.dc.gov/node/1184545",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
@@ -10809,6 +11865,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "demographics",
+      "enrollment"
+     ],
      "tabs": [
       {
        "name": "Data Notes",
@@ -10886,6 +11947,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024-25",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "attendance"
+     ],
      "n_pages": 50,
      "has_tabular_data": true,
      "n_table_pages": 4,
@@ -11010,6 +12075,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2024",
      "tabs": [
@@ -11080,6 +12149,10 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "tabs": [
       {
        "name": "Overview",
@@ -11700,6 +12773,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 137,
      "has_tabular_data": true,
      "n_table_pages": 94,
@@ -11784,6 +12862,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 326,
      "has_tabular_data": true,
      "n_table_pages": 117,
@@ -11848,6 +12931,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 116,
      "has_tabular_data": true,
      "n_table_pages": 83,
@@ -11932,6 +13020,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2029",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 300,
      "has_tabular_data": true,
      "n_table_pages": 116,
@@ -11996,6 +13089,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 102,
      "has_tabular_data": true,
      "n_table_pages": 69,
@@ -12099,6 +13197,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2013",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 328,
      "has_tabular_data": true,
      "n_table_pages": 115,
@@ -12165,6 +13268,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2001",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -12265,6 +13373,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2013",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 304,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -12340,6 +13453,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2012",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "accountability",
+      "methodology"
+     ],
      "n_pages": 29,
      "has_tabular_data": true,
      "n_table_pages": 14,
@@ -12464,6 +13582,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Definitions Guide",
      "n_pages": 2,
@@ -12477,6 +13601,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Academy of Hope Adult PCS",
      "n_pages": 4,
@@ -12527,6 +13657,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Briya PCS",
      "n_pages": 4,
@@ -12569,6 +13705,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Carlos Rosario International PCS",
      "n_pages": 4,
@@ -12619,6 +13761,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Community College Preparatory Academy PCS",
      "n_pages": 4,
@@ -12661,6 +13809,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "LAYC Career Academy PCS",
      "n_pages": 4,
@@ -12703,6 +13857,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Maya Angelou PCS Young Adult Learning Center",
      "n_pages": 4,
@@ -12745,6 +13905,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "The Next Step El Proximo Paso PCS",
      "n_pages": 4,
@@ -12787,6 +13953,12 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "equity",
+      "discipline",
+      "attendance"
+     ],
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "YouthBuild PCS",
      "n_pages": 4,
@@ -12848,6 +14020,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022-23",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "discipline",
+      "attendance"
+     ],
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -12940,6 +14117,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "discipline",
+      "attendance"
+     ],
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -13010,6 +14192,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "discipline",
+      "attendance"
+     ],
      "n_pages": 22,
      "has_tabular_data": true,
      "n_table_pages": 13,
@@ -13088,6 +14275,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020-14",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "discipline",
+      "attendance"
+     ],
      "n_pages": 3,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -13099,6 +14291,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "discipline",
+      "attendance"
+     ],
      "n_pages": 18,
      "has_tabular_data": true,
      "n_table_pages": 9,
@@ -13189,6 +14386,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "n_pages": 70,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -13257,6 +14458,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "n_pages": 47,
      "has_tabular_data": true,
      "n_table_pages": 45,
@@ -13327,6 +14532,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "n_pages": 16,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -13434,6 +14643,10 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2010",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "finance"
+     ],
      "n_pages": 15,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -13639,6 +14852,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -13772,6 +14990,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Ch4 Stu Ward 2022-Sch Ward 2022",
@@ -13842,6 +15065,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -13917,6 +15145,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14023,6 +15256,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14066,6 +15304,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14158,6 +15401,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14305,6 +15553,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14345,6 +15598,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "republished",
+     "topics": [
+      "enrollment",
+      "boundaries"
+     ],
      "tabs": [
       {
        "name": "Introduction",
@@ -14548,6 +15806,11 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Tableau underlying data",
      "label": "unknown",
      "tabs": [
@@ -14600,6 +15863,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Total Applications & Results",
      "label": "2018",
      "n_pages": 1,
@@ -14670,6 +15938,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2026",
      "n_pages": 1,
@@ -14683,6 +15956,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2025",
      "n_pages": 1,
@@ -14696,6 +15974,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2024",
      "n_pages": 1,
@@ -14709,6 +15992,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2023",
      "n_pages": 1,
@@ -14722,6 +16010,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2022",
      "n_pages": 1,
@@ -14735,6 +16028,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2021",
      "n_pages": 1,
@@ -14748,6 +16046,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2020",
      "n_pages": 1,
@@ -14761,6 +16064,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2019",
      "n_pages": 1,
@@ -14774,6 +16082,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2018",
      "n_pages": 1,
@@ -14787,6 +16100,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2017",
      "n_pages": 1,
@@ -14800,6 +16118,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -14813,6 +16136,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2015",
      "n_pages": 1,
@@ -14826,6 +16154,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2014",
      "n_pages": 1,
@@ -14839,6 +16172,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2026",
      "n_pages": 1,
@@ -14858,6 +16196,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2025",
      "n_pages": 1,
@@ -14877,6 +16220,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2024",
      "n_pages": 1,
@@ -14896,6 +16244,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2023",
      "n_pages": 1,
@@ -14920,6 +16273,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2022",
      "n_pages": 1,
@@ -14944,6 +16302,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2021",
      "n_pages": 1,
@@ -14973,6 +16336,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2020",
      "n_pages": 1,
@@ -15027,6 +16395,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2019",
      "n_pages": 1,
@@ -15081,6 +16454,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2018",
      "n_pages": 1,
@@ -15103,6 +16481,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2017",
      "n_pages": 1,
@@ -15125,6 +16508,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -15147,6 +16535,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2015",
      "n_pages": 1,
@@ -15169,6 +16562,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2014",
      "n_pages": 1,
@@ -15191,6 +16589,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2026",
      "n_pages": 1,
@@ -15245,6 +16648,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2025",
      "n_pages": 1,
@@ -15299,6 +16707,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2024",
      "n_pages": 1,
@@ -15353,6 +16766,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2023",
      "n_pages": 1,
@@ -15407,6 +16825,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2022",
      "n_pages": 1,
@@ -15461,6 +16884,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2021",
      "n_pages": 1,
@@ -15515,6 +16943,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2020",
      "n_pages": 1,
@@ -15569,6 +17002,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2019",
      "n_pages": 1,
@@ -15623,6 +17061,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2018",
      "n_pages": 1,
@@ -15644,6 +17087,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2017",
      "n_pages": 1,
@@ -15665,6 +17113,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -15686,6 +17139,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2015",
      "n_pages": 1,
@@ -15707,6 +17165,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2014",
      "n_pages": 1,
@@ -15728,6 +17191,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2026",
      "n_pages": 1,
@@ -15751,6 +17219,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2025",
      "n_pages": 1,
@@ -15774,6 +17247,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2024",
      "n_pages": 1,
@@ -15797,6 +17275,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2023",
      "n_pages": 1,
@@ -15820,6 +17303,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2022",
      "n_pages": 1,
@@ -15843,6 +17331,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2021",
      "n_pages": 1,
@@ -15866,6 +17359,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2020",
      "n_pages": 1,
@@ -15889,6 +17387,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2019",
      "n_pages": 1,
@@ -15912,6 +17415,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2018",
      "n_pages": 1,
@@ -15935,6 +17443,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2017",
      "n_pages": 1,
@@ -15958,6 +17471,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2016",
      "n_pages": 1,
@@ -15981,6 +17499,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2015",
      "n_pages": 1,
@@ -16004,6 +17527,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2014",
      "n_pages": 1,
@@ -16027,6 +17555,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2026",
      "n_pages": 1,
@@ -16050,6 +17583,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2025",
      "n_pages": 1,
@@ -16073,6 +17611,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2024",
      "n_pages": 1,
@@ -16096,6 +17639,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2023",
      "n_pages": 1,
@@ -16118,6 +17666,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2022",
      "n_pages": 1,
@@ -16140,6 +17693,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2021",
      "n_pages": 1,
@@ -16162,6 +17720,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2020",
      "n_pages": 1,
@@ -16184,6 +17747,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2019",
      "n_pages": 1,
@@ -16206,6 +17774,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2018",
      "n_pages": 1,
@@ -16228,6 +17801,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2017",
      "n_pages": 1,
@@ -16250,6 +17828,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2016",
      "n_pages": 1,
@@ -16272,6 +17855,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2015",
      "n_pages": 1,
@@ -16294,6 +17882,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Ward",
      "label": "2014",
      "n_pages": 1,
@@ -16316,6 +17909,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2026",
      "n_pages": 1,
@@ -16337,6 +17935,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2025",
      "n_pages": 1,
@@ -16358,6 +17961,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2024",
      "n_pages": 1,
@@ -16379,6 +17987,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2023",
      "n_pages": 1,
@@ -16401,6 +18014,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2022",
      "n_pages": 1,
@@ -16423,6 +18041,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2021",
      "n_pages": 1,
@@ -16445,6 +18068,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2020",
      "n_pages": 1,
@@ -16467,6 +18095,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2019",
      "n_pages": 1,
@@ -16489,6 +18122,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2018",
      "n_pages": 1,
@@ -16511,6 +18149,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2017",
      "n_pages": 1,
@@ -16533,6 +18176,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2016",
      "n_pages": 1,
@@ -16555,6 +18203,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2015",
      "n_pages": 1,
@@ -16577,6 +18230,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2014",
      "n_pages": 1,
@@ -16599,6 +18257,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2026",
      "n_pages": 1,
@@ -16618,6 +18281,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2025",
      "n_pages": 1,
@@ -16637,6 +18305,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2024",
      "n_pages": 1,
@@ -16650,6 +18323,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2023",
      "n_pages": 1,
@@ -16669,6 +18347,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2022",
      "n_pages": 1,
@@ -16688,6 +18371,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2021",
      "n_pages": 1,
@@ -16707,6 +18395,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2020",
      "n_pages": 1,
@@ -16726,6 +18419,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2019",
      "n_pages": 1,
@@ -16745,6 +18443,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2018",
      "n_pages": 1,
@@ -16758,6 +18461,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2017",
      "n_pages": 1,
@@ -16771,6 +18479,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2016",
      "n_pages": 1,
@@ -16784,6 +18497,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2015",
      "n_pages": 1,
@@ -16797,6 +18515,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2014",
      "n_pages": 1,
@@ -16810,6 +18533,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2026",
      "n_pages": 1,
@@ -16829,6 +18557,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2025",
      "n_pages": 1,
@@ -16848,6 +18581,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2024",
      "n_pages": 1,
@@ -16867,6 +18605,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2023",
      "n_pages": 1,
@@ -16886,6 +18629,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2022",
      "n_pages": 1,
@@ -16905,6 +18653,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2021",
      "n_pages": 1,
@@ -16924,6 +18677,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2020",
      "n_pages": 1,
@@ -16943,6 +18701,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2019",
      "n_pages": 1,
@@ -16962,6 +18725,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2018",
      "n_pages": 1,
@@ -16981,6 +18749,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2017",
      "n_pages": 1,
@@ -17000,6 +18773,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2016",
      "n_pages": 1,
@@ -17019,6 +18797,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2015",
      "n_pages": 1,
@@ -17038,6 +18821,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Median # of School Selections",
      "label": "2014",
      "n_pages": 1,
@@ -17057,6 +18845,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2026",
      "n_pages": 1,
@@ -17079,6 +18872,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2025",
      "n_pages": 1,
@@ -17101,6 +18899,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2024",
      "n_pages": 1,
@@ -17123,6 +18926,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2023",
      "n_pages": 1,
@@ -17145,6 +18953,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2022",
      "n_pages": 1,
@@ -17167,6 +18980,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2021",
      "n_pages": 1,
@@ -17189,6 +19007,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2020",
      "n_pages": 1,
@@ -17211,6 +19034,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2019",
      "n_pages": 1,
@@ -17233,6 +19061,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2018",
      "n_pages": 1,
@@ -17255,6 +19088,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2017",
      "n_pages": 1,
@@ -17277,6 +19115,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2016",
      "n_pages": 1,
@@ -17299,6 +19142,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2015",
      "n_pages": 1,
@@ -17321,6 +19169,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2014",
      "n_pages": 1,
@@ -17343,6 +19196,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Other / research",
      "label": "unknown",
      "n_pages": 6,
@@ -17356,6 +19214,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Other / research",
      "label": "unknown",
      "n_pages": 27,
@@ -17445,6 +19308,11 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "lottery",
+      "enrollment"
+     ],
      "series": "Lottery: Applicants by Preferred Language",
      "label": "unknown",
      "n_pages": 19,
@@ -17524,6 +19392,11 @@ window.CATALOG = {
      "kind": "csv",
      "year": "current",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "profiles",
+      "gis"
+     ],
      "columns": [
       "X",
       "Y",
@@ -17589,6 +19462,11 @@ window.CATALOG = {
      "kind": "csv",
      "year": "current",
      "status": "ok",
+     "authority": "authoritative",
+     "topics": [
+      "profiles",
+      "gis"
+     ],
      "columns": [
       "X",
       "Y",

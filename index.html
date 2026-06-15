@@ -15,6 +15,9 @@
   .badge-auth-republished   { background:#2a6db0; }
   .badge-auth-third-party   { background:#6c757d; }
   .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
+  .topic-btn { font-size:.82rem; cursor:pointer; background:#fff; border:1px solid #c5ccd6; color:#234; border-radius:1rem; padding:.18rem .75rem; margin:.15rem .3rem .15rem 0; display:inline-block; }
+  .topic-btn:hover { border-color:#1b365d; }
+  .topic-btn.active { background:#1b365d; color:#fff; border-color:#1b365d; }
   .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
   .year-chip:hover { background:#1b365d; color:#fff; }
   .filepair { display:inline-flex; margin:.12rem .4rem .12rem 0; }
@@ -46,11 +49,12 @@
       <input id="q" type="search" class="form-control form-control-lg"
              placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
     </div>
-    <div class="col-6 col-lg-2"><select id="owner" class="form-select"></select></div>
-    <div class="col-6 col-lg-2"><select id="topic" class="form-select"></select></div>
-    <div class="col-6 col-lg-2"><select id="authority" class="form-select"></select></div>
-    <div class="col-6 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
+    <div class="col-6 col-lg-3"><select id="owner" class="form-select"></select></div>
+    <div class="col-4 col-lg-3"><select id="authority" class="form-select"></select></div>
+    <div class="col-2 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
   </div>
+
+  <div id="topicchips" class="mb-3"></div>
 
   <ul class="nav nav-tabs mb-3">
     <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
@@ -81,11 +85,12 @@ if (!window.CATALOG) {
 
 const CAT = window.CATALOG;
 const AUTH_LABEL = {
-  "authoritative": "authoritative",
-  "derived": "derived (sector subset)",
-  "republished": "republished",
-  "third-party": "third-party",
+  "authoritative": "🟢 authoritative",
+  "derived": "🟡 sector subset",
+  "republished": "🔵 republished",
+  "third-party": "⚪ third-party",
 };
+const AUTH_RANK = { "authoritative": 3, "republished": 2, "derived": 1, "third-party": 0 };
 
 // single home for filter state — nothing else writes these
 const state = { q: "", owner: "", topic: "", authority: "", view: "files" };
@@ -258,6 +263,8 @@ function renderFiles() {
   const terms = queryTerms();
   const hits = ALL_FILES.filter(e => {
     if (state.owner && e.owner !== state.owner) return false;
+    if (state.topic && !(e.file.topics || []).includes(state.topic)) return false;
+    if (state.authority && e.file.authority !== state.authority) return false;
     return terms.every(t => fileTermMatch(e.text, t));
   });
 
@@ -307,8 +314,11 @@ function renderFiles() {
             ? '<span class="badge bg-secondary">' + items.length + " yrs · " + Math.min(...yrs) + "–" + Math.max(...yrs) + "</span> "
             : '<span class="badge bg-secondary">' + items.length + " items</span> ";
         }
+        const auth = items.map(x => x.file.authority).sort((a, b) => (AUTH_RANK[b] || 0) - (AUTH_RANK[a] || 0))[0] || "republished";
+        const authBadge = '<span class="badge badge-auth-' + esc(auth) + '" title="how authoritative this is vs other copies of the same data">'
+          + esc(AUTH_LABEL[auth] || auth) + "</span> ";
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
-          + '<h6 class="mb-1">' + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
+          + '<h6 class="mb-1">' + highlight(esc(g.title), terms) + "</h6><div class=\"text-nowrap\">" + authBadge + span + "</div></div>"
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
           + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
           + '<div class="file-cols mb-1">each file: <b>⬇</b> download · <b>↗</b> page it lives on</div><div>' + chips + "</div></div>";
@@ -328,6 +338,11 @@ function render() {
     document.getElementById(v.div).style.display = active ? "" : "none";
     document.getElementById(v.tab).classList.toggle("active", active);
   }
+  // reflect filter state back onto the controls (single source of truth = state)
+  for (const b of document.querySelectorAll("#topicchips .topic-btn"))
+    b.classList.toggle("active", b.dataset.topic === state.topic);
+  document.getElementById("owner").value = state.owner;
+  document.getElementById("authority").value = state.authority;
   VIEWS[state.view].render();
 }
 
@@ -343,10 +358,25 @@ function fillSelect(id, values, allLabel) {
 }
 
 const ownersWithSources = CAT.owners.map(o => o.key).filter(k => CAT.sources.some(s => s.owner === k));
-const allTopics = [...new Set(CAT.sources.flatMap(s => s.topics))].sort();
 fillSelect("owner", ownersWithSources, "All owners");
-fillSelect("topic", allTopics, "All topics");
 fillSelect("authority", ["authoritative", "derived", "republished", "third-party"], "Any authority");
+
+// clickable topic categories -> set state.topic (one click filters everything)
+const TOPIC_CHIPS = [
+  ["Enrollment", "enrollment"], ["Demographics", "demographics"], ["Test scores", "assessment"],
+  ["Attendance", "attendance"], ["Graduation", "graduation"], ["Discipline", "discipline"],
+  ["Finance", "finance"], ["Ratings", "accountability"], ["Lottery", "lottery"],
+  ["Boundaries", "boundaries"], ["Facilities", "facilities"], ["Educators", "educators"],
+  ["Directory", "profiles"], ["Early childhood", "early-childhood"],
+];
+const availableTopics = new Set(ALL_FILES.flatMap(e => e.file.topics || []));
+for (const [label, tag] of TOPIC_CHIPS) {
+  if (!availableTopics.has(tag)) continue;
+  const b = document.createElement("span");
+  b.className = "topic-btn"; b.dataset.topic = tag; b.textContent = label;
+  b.addEventListener("click", () => { state.topic = state.topic === tag ? "" : tag; render(); });
+  document.getElementById("topicchips").appendChild(b);
+}
 
 document.getElementById("subtitle").textContent =
   CAT.sources.length + " sources · " + CAT.sources.reduce((n, s) => n + (s.files ? s.files.length : 0), 0)
@@ -356,12 +386,11 @@ document.getElementById("verified").textContent = "Last verified " + CAT.last_ve
 // ----- bind events once (elements are long-lived; no re-binding) -----
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("owner").addEventListener("change", e => { state.owner = e.target.value; render(); });
-document.getElementById("topic").addEventListener("change", e => { state.topic = e.target.value; render(); });
 document.getElementById("authority").addEventListener("change", e => { state.authority = e.target.value; render(); });
 document.getElementById("clear").addEventListener("click", () => {
   state.q = state.owner = state.topic = state.authority = "";
   document.getElementById("q").value = "";
-  for (const id of ["owner", "topic", "authority"]) document.getElementById(id).value = "";
+  for (const id of ["owner", "authority"]) document.getElementById(id).value = "";
   render();
 });
 for (const [name, v] of Object.entries(VIEWS)) {

@@ -147,11 +147,15 @@ def derive_series(source_id: str, name: str, year):
     return {}
 
 
-def file_for_js(rec: dict) -> dict:
-    """Trim a profiled-file record down to what the front end needs to show + search."""
+def file_for_js(rec: dict, src: dict | None) -> dict:
+    """Trim a profiled-file record down to what the front end needs to show + search.
+    `src` is the file's OWN source (for authority + topics — may differ across a
+    multi-source series)."""
     prof = rec.get("profile", {})
     out = {"name": rec["name"], "url": rec["url"], "kind": rec["kind"],
-           "year": rec.get("year"), "status": rec.get("status")}
+           "year": rec.get("year"), "status": rec.get("status"),
+           "authority": (src or {}).get("authority", "republished"),
+           "topics": (src or {}).get("topics", [])}
     if rec.get("page"):
         out["page"] = rec["page"]
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
@@ -209,11 +213,11 @@ def search_blob(source: dict, files: list[dict]) -> str:
 
 
 def write_catalog_js(doc, profiles) -> int:
+    src_by_id = {s["id"]: s for s in doc["sources"]}
     files_by_source: dict[str, list[dict]] = defaultdict(list)
     for rec in profiles.values():
-        files_by_source[rec["source_id"]].append(file_for_js(rec))
+        files_by_source[rec["source_id"]].append(file_for_js(rec, src_by_id.get(rec["source_id"])))
 
-    src_by_id = {s["id"]: s for s in doc["sources"]}
     sources_js = []
     for s in doc["sources"]:
         files = files_by_source.get(s["id"], [])
