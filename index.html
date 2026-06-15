@@ -285,8 +285,15 @@ function renderFiles() {
           '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="'
           + esc(fileSummary(f)) + '">' + esc(chipLabel(f)) + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
         const latest = files[files.length - 1];
-        const span = files.length > 1
-          ? '<span class="badge bg-secondary">' + files.length + " yrs</span> " : "";
+        // badge reflects the axis: a year run shows "N yrs · lo–hi"; a per-entity
+        // set (e.g. schools) shows "N items".
+        const yrs = files.map(f => yearNum(chipLabel(f))).filter(y => y > 0);
+        let span = "";
+        if (files.length > 1) {
+          span = yrs.length === files.length
+            ? '<span class="badge bg-secondary">' + files.length + " yrs · " + Math.min(...yrs) + "–" + Math.max(...yrs) + "</span> "
+            : '<span class="badge bg-secondary">' + files.length + " items</span> ";
+        }
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
           + "<h6 class=\"mb-1\">" + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(g.sourceName)
