@@ -22,6 +22,7 @@
   .filepair .dl { border-radius:.35rem 0 0 .35rem; }
   .filepair .pg { border-radius:0 .35rem .35rem 0; border-left:none; padding:.12rem .45rem; background:#eef3ea; border-color:#cdddb9; color:#2f5524; }
   .filepair .pg:hover { background:#2f5524; color:#fff; }
+  .year-chip.hit { outline:2px solid #d97706; outline-offset:1px; font-weight:600; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
   details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
@@ -47,8 +48,9 @@
         <input id="q" type="search" class="form-control form-control-lg"
                placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
       </div>
-      <div class="col-8 col-lg-4"><select id="owner" class="form-select"></select></div>
-      <div class="col-4 col-lg-2 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
+      <div class="col-6 col-lg-3"><select id="owner" class="form-select"></select></div>
+      <div class="col-4 col-lg-3"><select id="year" class="form-select"></select></div>
+      <div class="col-2 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
     </div>
 
     <div id="topicchips" class="mt-2"></div>
@@ -83,7 +85,7 @@ if (!window.CATALOG) {
 
 const CAT = window.CATALOG;
 // single home for filter state — nothing else writes these
-const state = { q: "", owner: "", topic: "", view: "files" };
+const state = { q: "", owner: "", topic: "", year: "", view: "files" };
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -278,6 +280,8 @@ function renderFiles() {
     b.files.length - a.files.length || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
   if (state.topic)
     list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
+  if (state.year)
+    list = list.filter(g => g.files.some(x => yearNum(chipLabel(x)) === +state.year));
 
   const shownFiles = list.reduce((n, g) => n + g.files.length, 0);
   document.getElementById("count").textContent =
@@ -293,7 +297,8 @@ function renderFiles() {
         // every file gets a pair: ⬇ download the file, and ↗ the page it lives on
         const chips = items.map(x =>
           '<span class="filepair">'
-          + '<a class="year-chip dl" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
+          + '<a class="year-chip dl' + (state.year && yearNum(chipLabel(x)) === +state.year ? " hit" : "")
+          + '" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
           + esc(x.file.kind) + " (" + esc(chipLabel(x)) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
           + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>"
           + '<a class="year-chip pg" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" '
@@ -336,6 +341,7 @@ function render() {
   for (const b of document.querySelectorAll("#topicchips .topic-btn"))
     b.classList.toggle("active", b.dataset.topic === state.topic);
   document.getElementById("owner").value = state.owner;
+  document.getElementById("year").value = state.year;
   VIEWS[state.view].render();
   writeHash();
 }
@@ -346,6 +352,7 @@ function writeHash() {
   if (state.q) p.set("q", state.q);
   if (state.owner) p.set("owner", state.owner);
   if (state.topic) p.set("topic", state.topic);
+  if (state.year) p.set("year", state.year);
   if (state.view !== "files") p.set("view", state.view);
   const s = p.toString();
   history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
@@ -364,6 +371,9 @@ function fillSelect(id, values, allLabel) {
 
 const ownersWithSources = CAT.owners.map(o => o.key).filter(k => CAT.sources.some(s => s.owner === k));
 fillSelect("owner", ownersWithSources, "All owners");
+const allYears = [...new Set(ALL_FILES.map(e => yearNum(e.file.label || e.file.year)).filter(y => y > 0))]
+  .sort((a, b) => b - a).map(String);
+fillSelect("year", allYears, "All years");
 // clickable topic categories -> set state.topic (one click filters everything)
 const TOPIC_CHIPS = [
   ["Enrollment", "enrollment"], ["Demographics", "demographics"], ["Test scores", "assessment"],
@@ -389,10 +399,12 @@ document.getElementById("verified").textContent = "Last verified " + CAT.last_ve
 // ----- bind events once (elements are long-lived; no re-binding) -----
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("owner").addEventListener("change", e => { state.owner = e.target.value; render(); });
+document.getElementById("year").addEventListener("change", e => { state.year = e.target.value; render(); });
 document.getElementById("clear").addEventListener("click", () => {
-  state.q = state.owner = state.topic = "";
+  state.q = state.owner = state.topic = state.year = "";
   document.getElementById("q").value = "";
   document.getElementById("owner").value = "";
+  document.getElementById("year").value = "";
   render();
 });
 for (const [name, v] of Object.entries(VIEWS)) {
@@ -407,6 +419,7 @@ for (const [name, v] of Object.entries(VIEWS)) {
   if (hp.get("q")) { state.q = hp.get("q"); document.getElementById("q").value = state.q; }
   if (hp.get("owner")) state.owner = hp.get("owner");
   if (hp.get("topic")) state.topic = hp.get("topic");
+  if (hp.get("year")) state.year = hp.get("year");
   if (hp.get("view") && VIEWS[hp.get("view")]) state.view = hp.get("view");
 })();
 
