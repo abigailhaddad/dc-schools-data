@@ -11687,8 +11687,6645 @@ window.CATALOG = {
    "cadence": "Varies by dataset",
    "years": "Varies by dataset",
    "notes": "Index of school-and-subgroup-level files: Enrollment, Graduation, DC CAS, SAT, AP, PARCC, Attendance. Each metric is a separate page of yearly Excel files rather than one tidy multi-year table.",
-   "files": [],
-   "search": "dcps downloadable data sets (index) dcps index of school-and-subgroup-level files: enrollment, graduation, dc cas, sat, ap, parcc, attendance. each metric is a separate page of yearly excel files rather than one tidy multi-year table. web page indexing excel (.xlsx) files enrollment assessment graduation attendance students headcount count population test scores proficiency parcc dc cape msaa reading math grad rate diploma acgr dropout truancy absenteeism chronic absent"
+   "files": [
+    {
+     "name": "DCPS SY25-26 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY25-26%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY 2025-26",
+       "n_rows": 133,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY24-25 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY24-25%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2024-25",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY 2024-25",
+       "n_rows": 133,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY23-24 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY23-24%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY 2023-24",
+       "n_rows": 133,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY22-23 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY22-23%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY2022-23",
+       "n_rows": 132,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY21-22 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY21-22-Enrollment-Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2021-22",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY2021-22",
+       "n_rows": 132,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY20-21 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY20-21-Enrollment-Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 135,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY19-20 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY19-20-Enrollment-Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2019-20",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 135,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY18-19 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY18-19%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 134,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY17-18 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY17-18%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 136,
+       "columns": [
+        "SCHOOL CODE",
+        "SCHOOL NAME",
+        "By Grade"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY16-17 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY16-17%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 134,
+       "columns": [
+        "DATA AS OF: 10/5/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY15-16 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY15-16%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2015-16",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY15-16 Enrollment Audit",
+       "n_rows": 132,
+       "columns": [
+        "DATA AS OF: 10/5/2015"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY14-15 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY14-15%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY13-14 Enrollment Audit",
+       "n_rows": 131,
+       "columns": [
+        "DATA AS OF: 10/6/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY13-14 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY13-14%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2013-14",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY13-14 Enrollment Audit",
+       "n_rows": 131,
+       "columns": [
+        "DATA AS OF: 10/5/2013"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY12-13 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY12-13%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2012-13",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY12-13 Enrollment Audit",
+       "n_rows": 142,
+       "columns": [
+        "DATA AS OF: 10/5/2012"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS SY11-12 Enrollment Audit",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY11-12%20Enrollment%20Audit.xlsx",
+     "kind": "xlsx",
+     "year": "2011-12",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "tabs": [
+      {
+       "name": "SY11-12 Enrollment Audit",
+       "n_rows": 146,
+       "columns": [
+        "DATA AS OF: 10/5/2011"
+       ]
+      },
+      {
+       "name": "Sheet1",
+       "n_rows": 126,
+       "columns": [
+        "462",
+        "462"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2025 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202025%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "2025",
+       "n_rows": 231,
+       "columns": [
+        "DATA AS OF: October 2025"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2024 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "2024_redact",
+       "n_rows": 224,
+       "columns": [
+        "DATA AS OF: October 2024"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2023 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "2023_redact",
+       "n_rows": 227,
+       "columns": [
+        "DATA AS OF: 11/30/2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2022 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202022%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2022",
+       "n_rows": 231,
+       "columns": [
+        "DATA AS OF: 11/09/2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2021 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2021-Graduation-Data-Overall-Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2021",
+       "n_rows": 231,
+       "columns": [
+        "DATA AS OF: 11/09/2021"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2020 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2020-Graduation-Data-Overall-Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2020",
+       "n_rows": 235,
+       "columns": [
+        "DATA AS OF: 10/30/2020"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2019 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2019-Graduation-Data-Overall-Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2019",
+       "n_rows": 207,
+       "columns": [
+        "DATA AS OF: 11/6/2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2018 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202018%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2018",
+       "n_rows": 201,
+       "columns": [
+        "DATA AS OF: 11/9/2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2017 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202017%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2017",
+       "n_rows": 177,
+       "columns": [
+        "DATA AS OF: 11/3/2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2016 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202016%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2016",
+       "n_rows": 246,
+       "columns": [
+        "DATA AS OF: 10/20/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2015 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202015%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2015",
+       "n_rows": 204,
+       "columns": [
+        "DATA AS OF: 1/26/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2014 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202014%20Graduation%20Data%20Overall%20Subgroup.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Class of 2014",
+       "n_rows": 210,
+       "columns": [
+        "Data as of: 3/8/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2013 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202013%20Graduation%20Data%20Overall%20Subgroup_0.xlsx",
+     "kind": "xlsx",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 217,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DCPS 2012 Graduation Data Overall Subgroup",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202012%20Graduation%20Data%20Overall%20Subgroup_0.xlsx",
+     "kind": "xlsx",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 225,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2013-2014",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2013-2014.xlsx",
+     "kind": "xlsx",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 458,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 35,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 156,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 458,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 359,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 162,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 50,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 168,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 444,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 260,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 458,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 455,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 456,
+       "columns": [
+        "DATA AS OF: 8/5/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2012-2013",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2012-2013.xlsx",
+     "kind": "xlsx",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 518,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 33,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 170,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 517,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 370,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 154,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 40,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 181,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 510,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 292,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 507,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 512,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 510,
+       "columns": [
+        "DATA AS OF: 11/10/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2011-2012",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2011-2012.xlsx",
+     "kind": "xlsx",
+     "year": "2011",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 514,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 43,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 167,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 514,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 363,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 158,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 53,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 156,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 501,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 289,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 512,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 509,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 510,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2010-2011",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2010-2011.xlsx",
+     "kind": "xlsx",
+     "year": "2010",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 542,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 39,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 173,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 542,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 350,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 158,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 534,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 293,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 538,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 536,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 536,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2009-2010",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2009-2010.xlsx",
+     "kind": "xlsx",
+     "year": "2009",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 552,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 164,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 552,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 329,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 141,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 530,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 291,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 548,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 548,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 543,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2008-2009",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2008-2009.xlsx",
+     "kind": "xlsx",
+     "year": "2008",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 566,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 159,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 566,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 341,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 144,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 546,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 336,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 557,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 565,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 559,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2007-2009",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2007-2008.xlsx",
+     "kind": "xlsx",
+     "year": "2007",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 675,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 176,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 675,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 356,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 162,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 648,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 315,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 665,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 671,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 660,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAS Scores - School Year 2006-2007",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2006-2007.xlsx",
+     "kind": "xlsx",
+     "year": "2006",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "tabs": [
+      {
+       "name": "All Students",
+       "n_rows": 697,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 180,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 696,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 375,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 154,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 675,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 330,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 684,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 691,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 684,
+       "columns": [
+        "DATA AS OF: 4/7/2014"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2024-2025 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2024-25 By School",
+       "n_rows": 28,
+       "columns": [
+        "DATA AS OF: 10/20/2025"
+       ]
+      },
+      {
+       "name": "SY2024-25 By Subgroup",
+       "n_rows": 18,
+       "columns": [
+        "DATA AS OF: 10/20/2025"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2023-2024 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20SAT%20Scores_0.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2023-24 By School",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 10/02/2024"
+       ]
+      },
+      {
+       "name": "SY2023-24 By Subgroup",
+       "n_rows": 18,
+       "columns": [
+        "DATA AS OF: 10/02/2024"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2022-2023 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2022-23 By School",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 09/25/2023"
+       ]
+      },
+      {
+       "name": "SY2022-23 By Subgroup",
+       "n_rows": 18,
+       "columns": [
+        "DATA AS OF: 09/25/2023"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2021-2022 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2021-22 By School",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 11/10/2022"
+       ]
+      },
+      {
+       "name": "SY2021-22 By Subgroup",
+       "n_rows": 18,
+       "columns": [
+        "DATA AS OF: 11/10/2022"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2020-2021 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-SATScores.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2020-21 By School",
+       "n_rows": 28,
+       "columns": [
+        "DATA AS OF: 11/23/2021"
+       ]
+      },
+      {
+       "name": "SY2020-21 By Subgroup",
+       "n_rows": 18,
+       "columns": [
+        "DATA AS OF: 11/23/2021"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2019-2020 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-SAT-Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2019-20",
+       "n_rows": 31,
+       "columns": [
+        "DATA AS OF: 01/15/2021"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2018-2019 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2018-19",
+       "n_rows": 30,
+       "columns": [
+        "DATA AS OF: 12/3/2019"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2017-2018 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2017-18",
+       "n_rows": 28,
+       "columns": [
+        "DATA AS OF: 9/14/2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2016-2017 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY2016-17",
+       "n_rows": 28,
+       "columns": [
+        "DATA AS OF: 10/24/2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2015-2016 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY15-16 . Pre-March-2016 SAT",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 9/14/2016"
+       ]
+      },
+      {
+       "name": "SY 15-16 . New SAT",
+       "n_rows": 29,
+       "columns": [
+        "DATA AS OF: 9/14/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2014-2015 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY14-15 . Pre-March-2016 SAT",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 9/14/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2013-2014 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY13-14 . Pre-March-2016 SAT",
+       "n_rows": 31,
+       "columns": [
+        "DATA AS OF: 9/14/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2012-2013 SAT Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20SAT%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "tabs": [
+      {
+       "name": "SY12-13 . Pre-March-2016 SAT",
+       "n_rows": 31,
+       "columns": [
+        "DATA AS OF: 9/14/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2024-2025 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 26,
+       "columns": [
+        "DATA AS OF: 08/28/2025"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 10,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 13,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 44,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2023-2024 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 26,
+       "columns": [
+        "DATA AS OF: 08/22/2024"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 10,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 13,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 43,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2022-2023 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 24,
+       "columns": [
+        "DATA AS OF: 09/25/2023"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 11,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 41,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2021-2022 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 24,
+       "columns": [
+        "DATA AS OF: 11/16/2022"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 10,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 41,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2020-2021 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-APScores.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 24,
+       "columns": [
+        "DATA AS OF: 11/24/2021"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 10,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 41,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2019-2020 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-AP-Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "School",
+       "n_rows": 25,
+       "columns": [
+        "DATA AS OF: 12/14/2020"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 40,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2018-2019 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 45,
+       "columns": [
+        "DATA AS OF: 12/3/2019"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "Gender",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 40,
+       "columns": [
+        "Subject Area",
+        "Number of Tests",
+        "Number of Tests with AP Score of 3, 4, or 5",
+        "Percent Tests Scoring 3, 4, or 5"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 15,
+       "columns": [
+        "Race/Ethnicity",
+        "Number Students with an AP Score",
+        "Number Students with at Least One AP Score of 3, 4, or 5",
+        "Percent Students Scoring 3, 4, or 5"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2017-2018 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 46,
+       "columns": [
+        "DATA AS OF: 10/24/2018"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 10/24/2018"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 38,
+       "columns": [
+        "DATA AS OF: 10/24/2018"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 15,
+       "columns": [
+        "DATA AS OF: 10/24/2018"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2016-2017 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20AP%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 42,
+       "columns": [
+        "DATA AS OF: 10/24/2017"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 10/24/2017"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 39,
+       "columns": [
+        "DATA AS OF: 10/24/2017"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "DATA AS OF: 10/24/2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2015-2016 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20AP%20Scores_1.xlsx",
+     "kind": "xlsx",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 42,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 39,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2014-2015 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20AP%20Scores_0.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 22,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 41,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2013-2014 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20AP%20Scores_1.xlsx",
+     "kind": "xlsx",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 22,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 39,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2012-2013 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20AP%20Scores_1.xlsx",
+     "kind": "xlsx",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 23,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 39,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 14,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Year 2011-2012 AP Scores",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202011-2012%20AP%20Scores_1.xlsx",
+     "kind": "xlsx",
+     "year": "2011",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "tabs": [
+      {
+       "name": "High School",
+       "n_rows": 27,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 9,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Subject Area",
+       "n_rows": 37,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      },
+      {
+       "name": "Race-Ethnicity",
+       "n_rows": 20,
+       "columns": [
+        "DATA AS OF: 11/2/2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAPE Scores – School Year 2024-25",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20CAPE%20Scores%20%E2%80%93%20School%20Year%202024-25.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 460,
+       "columns": [
+        "DATA AS OF: August 2025"
+       ]
+      },
+      {
+       "name": "Female",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Male",
+       "n_rows": 453,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "AmIndAlNa",
+       "n_rows": 64,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Asian",
+       "n_rows": 216,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "BlAfAm",
+       "n_rows": 458,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "HisLa",
+       "n_rows": 421,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Multi",
+       "n_rows": 291,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "PacIslNaH",
+       "n_rows": 36,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "WhCau",
+       "n_rows": 276,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EL",
+       "n_rows": 394,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "SpEd",
+       "n_rows": 459,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EconDisad",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC CAPE Scores – School Year 2023-24",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20Overall%20and%20Subgroups_public_formatted_Read%20Only.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 459,
+       "columns": [
+        "DATA AS OF: August 2024"
+       ]
+      },
+      {
+       "name": "Female",
+       "n_rows": 454,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Male",
+       "n_rows": 452,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "AmIndAlNa",
+       "n_rows": 51,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Asian",
+       "n_rows": 198,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "BlAfAm",
+       "n_rows": 458,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "HisLa",
+       "n_rows": 416,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Multi",
+       "n_rows": 272,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "PacIslNaH",
+       "n_rows": 28,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "WhCau",
+       "n_rows": 268,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EL",
+       "n_rows": 385,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "SpEd",
+       "n_rows": 459,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EconDisad",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2022-23",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202022-23.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 457,
+       "columns": [
+        "DATA AS OF: August 2023"
+       ]
+      },
+      {
+       "name": "Female",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Male",
+       "n_rows": 450,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "AmIndAlNa",
+       "n_rows": 58,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Asian",
+       "n_rows": 187,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "BlAfAm",
+       "n_rows": 459,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "HisLa",
+       "n_rows": 406,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Multi",
+       "n_rows": 253,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "PacIslNaH",
+       "n_rows": 39,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "WhCau",
+       "n_rows": 250,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EL",
+       "n_rows": 375,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "SpEd",
+       "n_rows": 455,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EconDisad",
+       "n_rows": 457,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2021-22",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20Overall%20and%20Subgroups_public_formatted_protected.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 457,
+       "columns": [
+        "DATA AS OF: August 2022"
+       ]
+      },
+      {
+       "name": "Female",
+       "n_rows": 454,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Male",
+       "n_rows": 462,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "AmIndAlNa",
+       "n_rows": 59,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Asian",
+       "n_rows": 178,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "BlAfAm",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "HisLa",
+       "n_rows": 398,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Multi",
+       "n_rows": 250,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "PacIslNaH",
+       "n_rows": 37,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "WhCau",
+       "n_rows": 272,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EL",
+       "n_rows": 366,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "SpEd",
+       "n_rows": 455,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "AtRisk",
+       "n_rows": 453,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores- School Year 2018-19",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-Overall-and-Subgroups_public_formatted.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 476,
+       "columns": [
+        "DATA AS OF: August 2019"
+       ]
+      },
+      {
+       "name": "Female",
+       "n_rows": 469,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Male",
+       "n_rows": 469,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "American Indian",
+       "n_rows": 62,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Asian",
+       "n_rows": 176,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Black",
+       "n_rows": 475,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Hispanic",
+       "n_rows": 397,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Multiracial",
+       "n_rows": 210,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "Pac Islander-Nat Hawaiian",
+       "n_rows": 42,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "White",
+       "n_rows": 230,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "EL (Active and Monitored)",
+       "n_rows": 359,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "SWD (Active)",
+       "n_rows": 472,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      },
+      {
+       "name": "At-Risk",
+       "n_rows": 470,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient",
+        "MSAA - ELA - # Level 1",
+        "MSAA - ELA - # Level 2",
+        "MSAA - ELA - # Level 3",
+        "MSAA - ELA - # Level 4",
+        "MSAA - # of English Language Arts (ELA) Test Takers",
+        "MSAA - ELA # Proficient",
+        "MSAA - ELA - % Proficient",
+        "MSAA - ELA - % Level 1",
+        "MSAA - ELA - % Level 2",
+        "MSAA - ELA - % Level 3",
+        "MSAA - ELA - % Level 4",
+        "MSAA - Math - # Level 1",
+        "MSAA - Math - # Level 2",
+        "MSAA - Math - # Level 3",
+        "MSAA - Math - # Level 4",
+        "MSAA - # of Math Test Takers",
+        "MSAA - Math # Proficient",
+        "MSAA - Math - % Proficient",
+        "MSAA - Math - % Level 1",
+        "MSAA - Math - % Level 2",
+        "MSAA - Math - % Level 3",
+        "MSAA - Math - % Level 4"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2017-18",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202017-18.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 462,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2018"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 456,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 462,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 49,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 183,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 462,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "HIspanic Students",
+       "n_rows": 382,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 205,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 51,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 219,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "EL Students (Active & Monitor)",
+       "n_rows": 337,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "SWD (Active)",
+       "n_rows": 459,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      },
+      {
+       "name": "At-Risk Students",
+       "n_rows": 457,
+       "columns": [
+        "School Code",
+        "School Name",
+        "Grade",
+        "Subgroup",
+        "# of English Language Arts (ELA) Test Takers",
+        "ELA - # Level 1",
+        "ELA - # Level 2",
+        "ELA - # Level 3",
+        "ELA - # Level 4",
+        "ELA - # Level 5",
+        "ELA # Proficient",
+        "ELA - % Level 1",
+        "ELA - % Level 2",
+        "ELA - % Level 3",
+        "ELA - % Level 4",
+        "ELA - % Level 5",
+        "ELA - % Proficient",
+        "# Math Test Takers",
+        "Math - # Level 1",
+        "Math - # Level 2",
+        "Math - # Level 3",
+        "Math - # Level 4",
+        "Math - # Level 5",
+        "Math - # Proficient",
+        "Math - % Level 1",
+        "Math - % Level 2",
+        "Math - % Level 3",
+        "Math - % Level 4",
+        "Math - % Level 5",
+        "Math - % Proficient"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2016-17",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202016-17.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "Overall",
+       "n_rows": 465,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 461,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 463,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 49,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 170,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 465,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 388,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 196,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 53,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 213,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "ELL Students (Active & Monitor)",
+       "n_rows": 336,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "SPED Students (Active & Monitor",
+       "n_rows": 457,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      },
+      {
+       "name": "Econ Disadvantaged Students",
+       "n_rows": 465,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2017"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2015-16",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202015-16.xlsx",
+     "kind": "xlsx",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "All",
+       "n_rows": 461,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 42,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 165,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 461,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 371,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 201,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 64,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 217,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 454,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Eng Lang Learner Students",
+       "n_rows": 306,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 461,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 461,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 459,
+       "columns": [
+        "DATA AS OF: SEPTEMBER 2016"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC PARCC Scores – School Year 2014-15",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015%20Overall%20Subgroup%20Proficiency%20Public.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "tabs": [
+      {
+       "name": "All",
+       "n_rows": 463,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "American Indian Students",
+       "n_rows": 33,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Asian Students",
+       "n_rows": 151,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Black Students",
+       "n_rows": 462,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Hispanic Students",
+       "n_rows": 363,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Multiracial Students",
+       "n_rows": 173,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Nat Hawaiian-Pac Islnd Students",
+       "n_rows": 44,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "White Students",
+       "n_rows": 197,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Special Education Students",
+       "n_rows": 450,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "ELL Students",
+       "n_rows": 280,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Free-Red Price Meal Students",
+       "n_rows": 460,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Male Students",
+       "n_rows": 458,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      },
+      {
+       "name": "Female Students",
+       "n_rows": 458,
+       "columns": [
+        "DATA AS OF: FEBRUARY 2016"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "dcps downloadable data sets (index) dcps index of school-and-subgroup-level files: enrollment, graduation, dc cas, sat, ap, parcc, attendance. each metric is a separate page of yearly excel files rather than one tidy multi-year table. web page indexing excel (.xlsx) files enrollment assessment graduation attendance students headcount count population test scores proficiency parcc dc cape msaa reading math grad rate diploma acgr dropout truancy absenteeism chronic absent dcps sy25-26 enrollment audit sy 2025-26 school code school name by grade dcps sy24-25 enrollment audit sy 2024-25 school code school name by grade dcps sy23-24 enrollment audit sy 2023-24 school code school name by grade dcps sy22-23 enrollment audit sy2022-23 school code school name by grade dcps sy21-22 enrollment audit sy2021-22 school code school name by grade dcps sy20-21 enrollment audit sheet1 school code school name by grade dcps sy19-20 enrollment audit sheet1 school code school name by grade dcps sy18-19 enrollment audit sheet1 school code school name by grade dcps sy17-18 enrollment audit sheet1 school code school name by grade dcps sy16-17 enrollment audit sheet1 data as of: 10/5/2016 dcps sy15-16 enrollment audit sy15-16 enrollment audit data as of: 10/5/2015 dcps sy14-15 enrollment audit sy13-14 enrollment audit data as of: 10/6/2014 dcps sy13-14 enrollment audit sy13-14 enrollment audit data as of: 10/5/2013 dcps sy12-13 enrollment audit sy12-13 enrollment audit data as of: 10/5/2012 dcps sy11-12 enrollment audit sy11-12 enrollment audit data as of: 10/5/2011 sheet1 462 462 dcps 2025 graduation data overall subgroup 2025 data as of: october 2025 dcps 2024 graduation data overall subgroup 2024_redact data as of: october 2024 dcps 2023 graduation data overall subgroup 2023_redact data as of: 11/30/2023 dcps 2022 graduation data overall subgroup class of 2022 data as of: 11/09/2022 dcps 2021 graduation data overall subgroup class of 2021 data as of: 11/09/2021 dcps 2020 graduation data overall subgroup class of 2020 data as of: 10/30/2020 dcps 2019 graduation data overall subgroup class of 2019 data as of: 11/6/2019 dcps 2018 graduation data overall subgroup class of 2018 data as of: 11/9/2018 dcps 2017 graduation data overall subgroup class of 2017 data as of: 11/3/2017 dcps 2016 graduation data overall subgroup class of 2016 data as of: 10/20/2016 dcps 2015 graduation data overall subgroup class of 2015 data as of: 1/26/2016 dcps 2014 graduation data overall subgroup class of 2014 data as of: 3/8/2016 dcps 2013 graduation data overall subgroup sheet1 data as of: 4/7/2014 dcps 2012 graduation data overall subgroup sheet1 data as of: 4/7/2014 dc cas scores - school year 2013-2014 all students data as of: 8/5/2014 american indian students data as of: 8/5/2014 asian students data as of: 8/5/2014 black students data as of: 8/5/2014 hispanic students data as of: 8/5/2014 multiracial students data as of: 8/5/2014 nat hawaiian-pac islnd students data as of: 8/5/2014 white students data as of: 8/5/2014 special education students data as of: 8/5/2014 ell students data as of: 8/5/2014 free-red price meal students data as of: 8/5/2014 male students data as of: 8/5/2014 female students data as of: 8/5/2014 dc cas scores - school year 2012-2013 all students data as of: 11/10/2014 american indian students data as of: 11/10/2014 asian students data as of: 11/10/2014 black students data as of: 11/10/2014 hispanic students data as of: 11/10/2014 multiracial students data as of: 11/10/2014 nat hawaiian-pac islnd students data as of: 11/10/2014 white students data as of: 11/10/2014 special education students data as of: 11/10/2014 ell students data as of: 11/10/2014 free-red price meal students data as of: 11/10/2014 male students data as of: 11/10/2014 female students data as of: 11/10/2014 dc cas scores - school year 2011-2012 all students data as of: 4/7/2014 american indian students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 multiracial students data as of: 4/7/2014 nat hawaiian-pac islnd students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2010-2011 all students data as of: 4/7/2014 american indian students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2009-2010 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2008-2009 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2007-2009 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2006-2007 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 school year 2024-2025 sat scores sy2024-25 by school data as of: 10/20/2025 sy2024-25 by subgroup data as of: 10/20/2025 school year 2023-2024 sat scores sy2023-24 by school data as of: 10/02/2024 sy2023-24 by subgroup data as of: 10/02/2024 school year 2022-2023 sat scores sy2022-23 by school data as of: 09/25/2023 sy2022-23 by subgroup data as of: 09/25/2023 school year 2021-2022 sat scores sy2021-22 by school data as of: 11/10/2022 sy2021-22 by subgroup data as of: 11/10/2022 school year 2020-2021 sat scores sy2020-21 by school data as of: 11/23/2021 sy2020-21 by subgroup data as of: 11/23/2021 school year 2019-2020 sat scores sy2019-20 data as of: 01/15/2021 school year 2018-2019 sat scores sy2018-19 data as of: 12/3/2019 school year 2017-2018 sat scores sy2017-18 data as of: 9/14/2018 school year 2016-2017 sat scores sy2016-17 data as of: 10/24/2017 school year 2015-2016 sat scores sy15-16 . pre-march-2016 sat data as of: 9/14/2016 sy 15-16 . new sat data as of: 9/14/2016 school year 2014-2015 sat scores sy14-15 . pre-march-2016 sat data as of: 9/14/2016 school year 2013-2014 sat scores sy13-14 . pre-march-2016 sat data as of: 9/14/2016 school year 2012-2013 sat scores sy12-13 . pre-march-2016 sat data as of: 9/14/2016 school year 2024-2025 ap scores high school data as of: 08/28/2025 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2023-2024 ap scores high school data as of: 08/22/2024 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2022-2023 ap scores high school data as of: 09/25/2023 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2021-2022 ap scores high school data as of: 11/16/2022 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2020-2021 ap scores high school data as of: 11/24/2021 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2019-2020 ap scores school data as of: 12/14/2020 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 school year 2018-2019 ap scores high school data as of: 12/3/2019 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 school year 2017-2018 ap scores high school data as of: 10/24/2018 gender data as of: 10/24/2018 subject area data as of: 10/24/2018 race-ethnicity data as of: 10/24/2018 school year 2016-2017 ap scores high school data as of: 10/24/2017 gender data as of: 10/24/2017 subject area data as of: 10/24/2017 race-ethnicity data as of: 10/24/2017 school year 2015-2016 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2014-2015 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2013-2014 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2012-2013 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2011-2012 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 dc cape scores – school year 2024-25 overall data as of: august 2025 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc cape scores – school year 2023-24 overall data as of: august 2024 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2022-23 overall data as of: august 2023 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2021-22 overall data as of: august 2022 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 atrisk school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores- school year 2018-19 overall data as of: august 2019 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 american indian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 black school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hispanic school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multiracial school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pac islander-nat hawaiian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 white school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el (active and monitored) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 swd (active) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 at-risk school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2017-18 overall data as of: september 2018 female students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient male students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient american indian students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient asian students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient black students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient hispanic students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient multiracial students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient nat hawaiian-pac islnd students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient white students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient el students (active & monitor) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient swd (active) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient at-risk students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient dc parcc scores – school year 2016-17 overall data as of: september 2017 female students data as of: september 2017 male students data as of: september 2017 american indian students data as of: september 2017 asian students data as of: september 2017 black students data as of: september 2017 hispanic students data as of: september 2017 multiracial students data as of: september 2017 nat hawaiian-pac islnd students data as of: september 2017 white students data as of: september 2017 ell students (active & monitor) data as of: september 2017 sped students (active & monitor data as of: september 2017 econ disadvantaged students data as of: september 2017 dc parcc scores – school year 2015-16 all data as of: september 2016 american indian students data as of: september 2016 asian students data as of: september 2016 black students data as of: september 2016 hispanic students data as of: september 2016 multiracial students data as of: september 2016 nat hawaiian-pac islnd students data as of: september 2016 white students data as of: september 2016 special education students data as of: september 2016 eng lang learner students data as of: september 2016 free-red price meal students data as of: september 2016 male students data as of: september 2016 female students data as of: september 2016 dc parcc scores – school year 2014-15 all data as of: february 2016 american indian students data as of: february 2016 asian students data as of: february 2016 black students data as of: february 2016 hispanic students data as of: february 2016 multiracial students data as of: february 2016 nat hawaiian-pac islnd students data as of: february 2016 white students data as of: february 2016 special education students data as of: february 2016 ell students data as of: february 2016 free-red price meal students data as of: february 2016 male students data as of: february 2016 female students data as of: february 2016"
   },
   {
    "id": "dcps-dataset-enrollment",

@@ -1175,6 +1175,392 @@ _topics: enrollment, assessment, graduation, attendance_
 - **Updated:** Varies by dataset
 - **Years on page:** Varies by dataset
 - **Notes:** Index of school-and-subgroup-level files: Enrollment, Graduation, DC CAS, SAT, AP, PARCC, Attendance. Each metric is a separate page of yearly Excel files rather than one tidy multi-year table.
+- **Data files (profiled):**
+  - [`DCPS SY25-26 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY25-26%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY 2025-26** (133 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY24-25 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY24-25%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY 2024-25** (133 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY23-24 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY23-24%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY 2023-24** (133 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY22-23 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY22-23%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2022-23** (132 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY21-22 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY21-22-Enrollment-Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2021-22** (132 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY20-21 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY20-21-Enrollment-Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (135 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY19-20 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY19-20-Enrollment-Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (135 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY18-19 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY18-19%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (134 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY17-18 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY17-18%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (136 rows × 3 cols) — cols: `SCHOOL CODE`, `SCHOOL NAME`, `By Grade`
+  - [`DCPS SY16-17 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY16-17%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (134 rows × 1 cols) — cols: `DATA AS OF: 10/5/2016`
+  - [`DCPS SY15-16 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY15-16%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY15-16 Enrollment Audit** (132 rows × 1 cols) — cols: `DATA AS OF: 10/5/2015`
+  - [`DCPS SY14-15 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY14-15%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY13-14 Enrollment Audit** (131 rows × 1 cols) — cols: `DATA AS OF: 10/6/2014`
+  - [`DCPS SY13-14 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY13-14%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY13-14 Enrollment Audit** (131 rows × 1 cols) — cols: `DATA AS OF: 10/5/2013`
+  - [`DCPS SY12-13 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY12-13%20Enrollment%20Audit.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY12-13 Enrollment Audit** (142 rows × 1 cols) — cols: `DATA AS OF: 10/5/2012`
+  - [`DCPS SY11-12 Enrollment Audit`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY11-12%20Enrollment%20Audit.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY11-12 Enrollment Audit** (146 rows × 1 cols) — cols: `DATA AS OF: 10/5/2011`
+    - tab **Sheet1** (126 rows × 2 cols) — cols: `462`, `462`
+  - [`DCPS 2025 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202025%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **2025** (231 rows × 1 cols) — cols: `DATA AS OF: October 2025`
+  - [`DCPS 2024 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx) — **xlsx** — 1 tab(s)
+    - tab **2024_redact** (224 rows × 1 cols) — cols: `DATA AS OF: October 2024`
+  - [`DCPS 2023 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx) — **xlsx** — 1 tab(s)
+    - tab **2023_redact** (227 rows × 1 cols) — cols: `DATA AS OF: 11/30/2023`
+  - [`DCPS 2022 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202022%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2022** (231 rows × 1 cols) — cols: `DATA AS OF: 11/09/2022`
+  - [`DCPS 2021 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2021-Graduation-Data-Overall-Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2021** (231 rows × 1 cols) — cols: `DATA AS OF: 11/09/2021`
+  - [`DCPS 2020 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2020-Graduation-Data-Overall-Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2020** (235 rows × 1 cols) — cols: `DATA AS OF: 10/30/2020`
+  - [`DCPS 2019 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2019-Graduation-Data-Overall-Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2019** (207 rows × 1 cols) — cols: `DATA AS OF: 11/6/2019`
+  - [`DCPS 2018 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202018%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2018** (201 rows × 1 cols) — cols: `DATA AS OF: 11/9/2018`
+  - [`DCPS 2017 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202017%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2017** (177 rows × 1 cols) — cols: `DATA AS OF: 11/3/2017`
+  - [`DCPS 2016 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202016%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2016** (246 rows × 1 cols) — cols: `DATA AS OF: 10/20/2016`
+  - [`DCPS 2015 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202015%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2015** (204 rows × 1 cols) — cols: `DATA AS OF: 1/26/2016`
+  - [`DCPS 2014 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202014%20Graduation%20Data%20Overall%20Subgroup.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Class of 2014** (210 rows × 1 cols) — cols: `Data as of: 3/8/2016`
+  - [`DCPS 2013 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202013%20Graduation%20Data%20Overall%20Subgroup_0.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (217 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DCPS 2012 Graduation Data Overall Subgroup`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202012%20Graduation%20Data%20Overall%20Subgroup_0.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (225 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2013-2014`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2013-2014.xlsx) — **xlsx** — 13 tab(s)
+    - tab **All Students** (458 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **American Indian Students** (35 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Asian Students** (156 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Black Students** (458 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Hispanic Students** (359 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Multiracial Students** (162 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Nat Hawaiian-Pac Islnd Students** (50 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **White Students** (168 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Special Education Students** (444 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **ELL Students** (260 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Free-Red Price Meal Students** (458 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Male Students** (455 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+    - tab **Female Students** (456 rows × 1 cols) — cols: `DATA AS OF: 8/5/2014`
+  - [`DC CAS Scores - School Year 2012-2013`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2012-2013.xlsx) — **xlsx** — 13 tab(s)
+    - tab **All Students** (518 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **American Indian Students** (33 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Asian Students** (170 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Black Students** (517 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Hispanic Students** (370 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Multiracial Students** (154 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Nat Hawaiian-Pac Islnd Students** (40 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **White Students** (181 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Special Education Students** (510 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **ELL Students** (292 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Free-Red Price Meal Students** (507 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Male Students** (512 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+    - tab **Female Students** (510 rows × 1 cols) — cols: `DATA AS OF: 11/10/2014`
+  - [`DC CAS Scores - School Year 2011-2012`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2011-2012.xlsx) — **xlsx** — 13 tab(s)
+    - tab **All Students** (514 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **American Indian Students** (43 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (167 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (514 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (363 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Multiracial Students** (158 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Nat Hawaiian-Pac Islnd Students** (53 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (156 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (501 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (289 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (512 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (509 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (510 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2010-2011`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2010-2011.xlsx) — **xlsx** — 11 tab(s)
+    - tab **All Students** (542 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **American Indian Students** (39 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (173 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (542 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (350 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (158 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (534 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (293 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (538 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (536 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (536 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2009-2010`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2009-2010.xlsx) — **xlsx** — 10 tab(s)
+    - tab **All Students** (552 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (164 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (552 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (329 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (141 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (530 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (291 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (548 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (548 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (543 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2008-2009`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2008-2009.xlsx) — **xlsx** — 10 tab(s)
+    - tab **All Students** (566 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (159 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (566 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (341 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (144 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (546 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (336 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (557 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (565 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (559 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2007-2009`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2007-2008.xlsx) — **xlsx** — 10 tab(s)
+    - tab **All Students** (675 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (176 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (675 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (356 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (162 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (648 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (315 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (665 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (671 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (660 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`DC CAS Scores - School Year 2006-2007`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2006-2007.xlsx) — **xlsx** — 10 tab(s)
+    - tab **All Students** (697 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Asian Students** (180 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Black Students** (696 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Hispanic Students** (375 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **White Students** (154 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Special Education Students** (675 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **ELL Students** (330 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Free-Red Price Meal Students** (684 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Male Students** (691 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+    - tab **Female Students** (684 rows × 1 cols) — cols: `DATA AS OF: 4/7/2014`
+  - [`School Year 2024-2025 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20SAT%20Scores.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY2024-25 By School** (28 rows × 1 cols) — cols: `DATA AS OF: 10/20/2025`
+    - tab **SY2024-25 By Subgroup** (18 rows × 1 cols) — cols: `DATA AS OF: 10/20/2025`
+  - [`School Year 2023-2024 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20SAT%20Scores_0.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY2023-24 By School** (27 rows × 1 cols) — cols: `DATA AS OF: 10/02/2024`
+    - tab **SY2023-24 By Subgroup** (18 rows × 1 cols) — cols: `DATA AS OF: 10/02/2024`
+  - [`School Year 2022-2023 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20SAT%20Scores.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY2022-23 By School** (27 rows × 1 cols) — cols: `DATA AS OF: 09/25/2023`
+    - tab **SY2022-23 By Subgroup** (18 rows × 1 cols) — cols: `DATA AS OF: 09/25/2023`
+  - [`School Year 2021-2022 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20SAT%20Scores.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY2021-22 By School** (27 rows × 1 cols) — cols: `DATA AS OF: 11/10/2022`
+    - tab **SY2021-22 By Subgroup** (18 rows × 1 cols) — cols: `DATA AS OF: 11/10/2022`
+  - [`School Year 2020-2021 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-SATScores.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY2020-21 By School** (28 rows × 1 cols) — cols: `DATA AS OF: 11/23/2021`
+    - tab **SY2020-21 By Subgroup** (18 rows × 1 cols) — cols: `DATA AS OF: 11/23/2021`
+  - [`School Year 2019-2020 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-SAT-Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2019-20** (31 rows × 1 cols) — cols: `DATA AS OF: 01/15/2021`
+  - [`School Year 2018-2019 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2018-19** (30 rows × 1 cols) — cols: `DATA AS OF: 12/3/2019`
+  - [`School Year 2017-2018 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2017-18** (28 rows × 1 cols) — cols: `DATA AS OF: 9/14/2018`
+  - [`School Year 2016-2017 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2016-17** (28 rows × 1 cols) — cols: `DATA AS OF: 10/24/2017`
+  - [`School Year 2015-2016 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20SAT%20Scores.xlsx) — **xlsx** — 2 tab(s)
+    - tab **SY15-16 . Pre-March-2016 SAT** (27 rows × 1 cols) — cols: `DATA AS OF: 9/14/2016`
+    - tab **SY 15-16 . New SAT** (29 rows × 1 cols) — cols: `DATA AS OF: 9/14/2016`
+  - [`School Year 2014-2015 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY14-15 . Pre-March-2016 SAT** (27 rows × 1 cols) — cols: `DATA AS OF: 9/14/2016`
+  - [`School Year 2013-2014 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY13-14 . Pre-March-2016 SAT** (31 rows × 1 cols) — cols: `DATA AS OF: 9/14/2016`
+  - [`School Year 2012-2013 SAT Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20SAT%20Scores.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY12-13 . Pre-March-2016 SAT** (31 rows × 1 cols) — cols: `DATA AS OF: 9/14/2016`
+  - [`School Year 2024-2025 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (26 rows × 1 cols) — cols: `DATA AS OF: 08/28/2025`
+    - tab **Gender** (10 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (13 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (44 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+  - [`School Year 2023-2024 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (26 rows × 1 cols) — cols: `DATA AS OF: 08/22/2024`
+    - tab **Gender** (10 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (13 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (43 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+  - [`School Year 2022-2023 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (24 rows × 1 cols) — cols: `DATA AS OF: 09/25/2023`
+    - tab **Gender** (11 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (14 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (41 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+  - [`School Year 2021-2022 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (24 rows × 1 cols) — cols: `DATA AS OF: 11/16/2022`
+    - tab **Gender** (10 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (14 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (41 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+  - [`School Year 2020-2021 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-APScores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (24 rows × 1 cols) — cols: `DATA AS OF: 11/24/2021`
+    - tab **Gender** (10 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (14 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (41 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+  - [`School Year 2019-2020 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-AP-Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **School** (25 rows × 1 cols) — cols: `DATA AS OF: 12/14/2020`
+    - tab **Gender** (9 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (40 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (14 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+  - [`School Year 2018-2019 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (45 rows × 1 cols) — cols: `DATA AS OF: 12/3/2019`
+    - tab **Gender** (9 rows × 4 cols) — cols: `Gender`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+    - tab **Subject Area** (40 rows × 4 cols) — cols: `Subject Area`, `Number of Tests`, `Number of Tests with AP Score of 3, 4, or 5`, `Percent Tests Scoring 3, 4, or 5`
+    - tab **Race-Ethnicity** (15 rows × 4 cols) — cols: `Race/Ethnicity`, `Number Students with an AP Score`, `Number Students with at Least One AP Score of 3, 4, or 5`, `Percent Students Scoring 3, 4, or 5`
+  - [`School Year 2017-2018 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (46 rows × 1 cols) — cols: `DATA AS OF: 10/24/2018`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 10/24/2018`
+    - tab **Subject Area** (38 rows × 1 cols) — cols: `DATA AS OF: 10/24/2018`
+    - tab **Race-Ethnicity** (15 rows × 1 cols) — cols: `DATA AS OF: 10/24/2018`
+  - [`School Year 2016-2017 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20AP%20Scores.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (42 rows × 1 cols) — cols: `DATA AS OF: 10/24/2017`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 10/24/2017`
+    - tab **Subject Area** (39 rows × 1 cols) — cols: `DATA AS OF: 10/24/2017`
+    - tab **Race-Ethnicity** (14 rows × 1 cols) — cols: `DATA AS OF: 10/24/2017`
+  - [`School Year 2015-2016 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20AP%20Scores_1.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (42 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Subject Area** (39 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Race-Ethnicity** (14 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+  - [`School Year 2014-2015 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20AP%20Scores_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (22 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Subject Area** (41 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Race-Ethnicity** (14 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+  - [`School Year 2013-2014 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20AP%20Scores_1.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (22 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Subject Area** (39 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Race-Ethnicity** (14 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+  - [`School Year 2012-2013 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20AP%20Scores_1.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (23 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Subject Area** (39 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Race-Ethnicity** (14 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+  - [`School Year 2011-2012 AP Scores`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202011-2012%20AP%20Scores_1.xlsx) — **xlsx** — 4 tab(s)
+    - tab **High School** (27 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Gender** (9 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Subject Area** (37 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+    - tab **Race-Ethnicity** (20 rows × 1 cols) — cols: `DATA AS OF: 11/2/2016`
+  - [`DC CAPE Scores – School Year 2024-25`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20CAPE%20Scores%20%E2%80%93%20School%20Year%202024-25.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (460 rows × 1 cols) — cols: `DATA AS OF: August 2025`
+    - tab **Female** (456 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male** (453 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **AmIndAlNa** (64 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian** (216 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **BlAfAm** (458 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **HisLa** (421 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multi** (291 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **PacIslNaH** (36 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **WhCau** (276 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL** (394 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SpEd** (459 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EconDisad** (456 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC CAPE Scores – School Year 2023-24`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20Overall%20and%20Subgroups_public_formatted_Read%20Only.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (459 rows × 1 cols) — cols: `DATA AS OF: August 2024`
+    - tab **Female** (454 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male** (452 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **AmIndAlNa** (51 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian** (198 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **BlAfAm** (458 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **HisLa** (416 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multi** (272 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **PacIslNaH** (28 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **WhCau** (268 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL** (385 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SpEd** (459 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EconDisad** (456 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC PARCC Scores – School Year 2022-23`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202022-23.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (457 rows × 1 cols) — cols: `DATA AS OF: August 2023`
+    - tab **Female** (456 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male** (450 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **AmIndAlNa** (58 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian** (187 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **BlAfAm** (459 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **HisLa** (406 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multi** (253 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **PacIslNaH** (39 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **WhCau** (250 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL** (375 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SpEd** (455 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EconDisad** (457 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC PARCC Scores – School Year 2021-22`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20Overall%20and%20Subgroups_public_formatted_protected.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (457 rows × 1 cols) — cols: `DATA AS OF: August 2022`
+    - tab **Female** (454 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male** (462 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **AmIndAlNa** (59 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian** (178 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **BlAfAm** (456 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **HisLa** (398 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multi** (250 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **PacIslNaH** (37 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **WhCau** (272 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL** (366 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SpEd** (455 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **AtRisk** (453 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC PARCC Scores- School Year 2018-19`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-Overall-and-Subgroups_public_formatted.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (476 rows × 1 cols) — cols: `DATA AS OF: August 2019`
+    - tab **Female** (469 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male** (469 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **American Indian** (62 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian** (176 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Black** (475 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Hispanic** (397 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multiracial** (210 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Pac Islander-Nat Hawaiian** (42 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **White** (230 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL (Active and Monitored)** (359 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SWD (Active)** (472 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **At-Risk** (470 rows × 52 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC PARCC Scores – School Year 2017-18`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202017-18.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (462 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2018`
+    - tab **Female Students** (456 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Male Students** (462 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **American Indian Students** (49 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Asian Students** (183 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Black Students** (462 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **HIspanic Students** (382 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Multiracial Students** (205 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **Nat Hawaiian-Pac Islnd Students** (51 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **White Students** (219 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **EL Students (Active & Monitor)** (337 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **SWD (Active)** (459 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+    - tab **At-Risk Students** (457 rows × 30 cols) — cols: `School Code`, `School Name`, `Grade`, `Subgroup`, `# of English Language Arts (ELA) Test Takers`, `ELA - # Level 1`, `ELA - # Level 2`, `ELA - # Level 3`, `ELA - # Level 4`, `ELA - # Level 5`, `ELA # Proficient`, `ELA - % Level 1` …
+  - [`DC PARCC Scores – School Year 2016-17`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202016-17.xlsx) — **xlsx** — 13 tab(s)
+    - tab **Overall** (465 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Female Students** (461 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Male Students** (463 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **American Indian Students** (49 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Asian Students** (170 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Black Students** (465 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Hispanic Students** (388 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Multiracial Students** (196 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Nat Hawaiian-Pac Islnd Students** (53 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **White Students** (213 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **ELL Students (Active & Monitor)** (336 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **SPED Students (Active & Monitor** (457 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+    - tab **Econ Disadvantaged Students** (465 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2017`
+  - [`DC PARCC Scores – School Year 2015-16`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202015-16.xlsx) — **xlsx** — 13 tab(s)
+    - tab **All** (461 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **American Indian Students** (42 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Asian Students** (165 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Black Students** (461 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Hispanic Students** (371 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Multiracial Students** (201 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Nat Hawaiian-Pac Islnd Students** (64 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **White Students** (217 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Special Education Students** (454 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Eng Lang Learner Students** (306 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Free-Red Price Meal Students** (461 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Male Students** (461 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+    - tab **Female Students** (459 rows × 1 cols) — cols: `DATA AS OF: SEPTEMBER 2016`
+  - [`DC PARCC Scores – School Year 2014-15`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015%20Overall%20Subgroup%20Proficiency%20Public.xlsx) — **xlsx** — 13 tab(s)
+    - tab **All** (463 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **American Indian Students** (33 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Asian Students** (151 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Black Students** (462 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Hispanic Students** (363 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Multiracial Students** (173 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Nat Hawaiian-Pac Islnd Students** (44 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **White Students** (197 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Special Education Students** (450 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **ELL Students** (280 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Free-Red Price Meal Students** (460 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Male Students** (458 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+    - tab **Female Students** (458 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
 
 ### [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment)
 
