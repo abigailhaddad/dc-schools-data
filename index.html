@@ -186,13 +186,16 @@ function renderOverlaps() {
 
 // ----- flat file index: one entry per downloadable file, searchable by its own
 // name + source + every tab/column/table-header it contains -----
-const ALL_FILES = CAT.sources.flatMap(s => (s.files || []).map(f => {
-  const bits = [f.name, s.name, s.owner, f.year || "", (f.topics || []).join(" ")];
-  for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
-  bits.push(...(f.columns || []));
-  for (const t of f.tables || []) bits.push(...t.header);
-  return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
-}));
+const ALL_FILES = CAT.sources.flatMap(s => (s.files || [])
+  // drop files we couldn't actually fetch (dead/Box-only) so no chip 404s
+  .filter(f => f.status !== "needs_browser" && f.status !== "error")
+  .map(f => {
+    const bits = [f.name, s.name, s.owner, f.year || "", (f.topics || []).join(" ")];
+    for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
+    bits.push(...(f.columns || []));
+    for (const t of f.tables || []) bits.push(...t.header);
+    return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
+  }));
 
 // Short terms (AP, SAT, EL) match whole words only, so "AP" doesn't hit "chapter".
 // Longer terms (enroll, attendance) match as substrings.
@@ -364,8 +367,8 @@ for (const [label, tag] of TOPIC_CHIPS) {
 }
 
 document.getElementById("subtitle").textContent =
-  CAT.sources.length + " sources · " + CAT.sources.reduce((n, s) => n + (s.files ? s.files.length : 0), 0)
-  + " profiled files · verified " + CAT.last_verified;
+  CAT.sources.length + " sources · " + ALL_FILES.length
+  + " downloadable files · verified " + CAT.last_verified;
 document.getElementById("verified").textContent = "Last verified " + CAT.last_verified + ".";
 
 // ----- bind events once (elements are long-lived; no re-binding) -----

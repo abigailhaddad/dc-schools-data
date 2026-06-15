@@ -12051,6 +12051,8 @@ window.CATALOG = {
       "accountability",
       "methodology"
      ],
+     "series": "PMF Policy & Technical Guides",
+     "label": "2016",
      "n_pages": 137,
      "has_tabular_data": true,
      "n_table_pages": 94,
@@ -12138,6 +12140,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Books (annual charter results)",
+     "label": "2016",
      "n_pages": 326,
      "has_tabular_data": true,
      "n_table_pages": 117,
@@ -12205,6 +12209,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Policy & Technical Guides",
+     "label": "2015",
      "n_pages": 116,
      "has_tabular_data": true,
      "n_table_pages": 83,
@@ -12292,6 +12298,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Books (annual charter results)",
+     "label": "2016",
      "n_pages": 300,
      "has_tabular_data": true,
      "n_table_pages": 116,
@@ -12359,6 +12367,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Policy & Technical Guides",
+     "label": "2015",
      "n_pages": 102,
      "has_tabular_data": true,
      "n_table_pages": 69,
@@ -12465,6 +12475,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Books (annual charter results)",
+     "label": "2013",
      "n_pages": 328,
      "has_tabular_data": true,
      "n_table_pages": 115,
@@ -12534,6 +12546,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Policy & Technical Guides",
+     "label": "2014",
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -12637,6 +12651,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF (other documents)",
+     "label": "2013",
      "n_pages": 304,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -12715,6 +12731,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "series": "PMF Policy & Technical Guides",
+     "label": "2012",
      "n_pages": 29,
      "has_tabular_data": true,
      "n_table_pages": 14,

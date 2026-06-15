@@ -115,6 +115,14 @@ def derive_series(source_id: str, name: str, year):
         school = (m.group(1).strip() if m else name).replace(" - ", " ").strip()
         return {"series": "School Equity Reports (per charter school, 2017-18)", "label": school or name}
 
+    # PMF docs have chaotic filenames (embedded dates). Collapse into clean series.
+    if source_id == "pcsb-pmf-archive":
+        if "book" in low:
+            return {"series": "PMF Books (annual charter results)", "label": year}
+        if re.search(r"guide|technical|policy|guideline", low):
+            return {"series": "PMF Policy & Technical Guides", "label": year}
+        return {"series": "PMF (other documents)", "label": year}
+
     # OSSE renames its annual Report Card datasets, splitting one dataset across
     # eras (AP/IB/SAT -> Advanced Coursework; Per-Pupil Expenditures -> School
     # Finance Data; Teacher & School Leader -> Educator Data). Reconnect them.
