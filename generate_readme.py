@@ -313,11 +313,13 @@ def main() -> int:
       "the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for "
       "Education (DME). The data is real but scattered: split across agencies, "
       "buried on Tableau, with old years on different pages than new ones, and the "
-      "*same* metric often published in several places that don't quite agree. This "
-      "catalog links each source, says **which one to trust**, and — where files are "
-      "directly downloadable — inventories their **tabs and columns**.\n")
+      "*same* metric often published in several places. This catalog links each "
+      "source, groups the files into multi-year dataset series, inventories their "
+      "**tabs and columns** (and tables inside PDFs), and describes — without "
+      "judgment — how the same metric differs across places.\n")
     w(f"> **Scope:** K-12 public (DCPS + charters). No higher ed.  \n"
       f"> **Last verified:** {last_verified}  \n"
+      f"> **Browse it:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  \n"
       f"> **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). "
       f"Do not edit this README by hand — run `python generate_readme.py`.\n")
 
@@ -325,11 +327,14 @@ def main() -> int:
     w("## How this repo works\n")
     w("| File | Purpose |")
     w("| --- | --- |")
-    w("| [`sources.yaml`](sources.yaml) | Hand-curated catalog of every data source + the overlap analysis. **Edit this.** |")
-    w("| [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this.** |")
-    w("| [`profile_files.py`](profile_files.py) | Downloads each file and extracts its tabs/columns (xlsx/csv) or pages/text (pdf) → `file_profiles.json`. |")
-    w("| [`generate_readme.py`](generate_readme.py) | Renders this README from the YAML + profiles. |")
-    w("| `update-dc-schools-data` skill | The process for re-verifying links, finding new files, and regenerating. |\n")
+    w("| [`sources.yaml`](sources.yaml) | Hand-curated catalog of every data source + the \"how sources differ\" notes. **Edit this.** |")
+    w("| [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this** (or append via the harvester). |")
+    w("| [`profile_files.py`](profile_files.py) | Downloads each file and extracts tabs/columns (xlsx/csv) or pages + tables (pdf) → `file_profiles.json`. |")
+    w("| [`add_harvested_files.py`](add_harvested_files.py) | Turns a browser link-harvest into `data_files.yaml` rows (infers year/topics, dedupes). |")
+    w("| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `catalog.js` from the YAML + profiles. |")
+    w("| [`index.html`](index.html) | Static front end (Bootstrap + vanilla JS) that loads `catalog.js`. No build step. |")
+    w("| [`refresh.sh`](refresh.sh) / GitHub Action | Re-download + re-profile + regenerate on a schedule (Layer-1 automation). |")
+    w("| `update-dc-schools-data` skill | The process for re-verifying links, harvesting new files, and regenerating. |\n")
 
     # ---- TOC ----
     w("## Contents\n")

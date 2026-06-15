@@ -1,20 +1,24 @@
 # DC K-12 Public Schools — Data Source Catalog
 
-A map of **where DC public-school data actually lives** — across OSSE, DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for Education (DME). The data is real but scattered: split across agencies, buried on Tableau, with old years on different pages than new ones, and the *same* metric often published in several places that don't quite agree. This catalog links each source, says **which one to trust**, and — where files are directly downloadable — inventories their **tabs and columns**.
+A map of **where DC public-school data actually lives** — across OSSE, DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for Education (DME). The data is real but scattered: split across agencies, buried on Tableau, with old years on different pages than new ones, and the *same* metric often published in several places. This catalog links each source, groups the files into multi-year dataset series, inventories their **tabs and columns** (and tables inside PDFs), and describes — without judgment — how the same metric differs across places.
 
 > **Scope:** K-12 public (DCPS + charters). No higher ed.  
 > **Last verified:** 2026-06  
+> **Browse it:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  
 > **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). Do not edit this README by hand — run `python generate_readme.py`.
 
 ## How this repo works
 
 | File | Purpose |
 | --- | --- |
-| [`sources.yaml`](sources.yaml) | Hand-curated catalog of every data source + the overlap analysis. **Edit this.** |
-| [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this.** |
-| [`profile_files.py`](profile_files.py) | Downloads each file and extracts its tabs/columns (xlsx/csv) or pages/text (pdf) → `file_profiles.json`. |
-| [`generate_readme.py`](generate_readme.py) | Renders this README from the YAML + profiles. |
-| `update-dc-schools-data` skill | The process for re-verifying links, finding new files, and regenerating. |
+| [`sources.yaml`](sources.yaml) | Hand-curated catalog of every data source + the "how sources differ" notes. **Edit this.** |
+| [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this** (or append via the harvester). |
+| [`profile_files.py`](profile_files.py) | Downloads each file and extracts tabs/columns (xlsx/csv) or pages + tables (pdf) → `file_profiles.json`. |
+| [`add_harvested_files.py`](add_harvested_files.py) | Turns a browser link-harvest into `data_files.yaml` rows (infers year/topics, dedupes). |
+| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `catalog.js` from the YAML + profiles. |
+| [`index.html`](index.html) | Static front end (Bootstrap + vanilla JS) that loads `catalog.js`. No build step. |
+| [`refresh.sh`](refresh.sh) / GitHub Action | Re-download + re-profile + regenerate on a schedule (Layer-1 automation). |
+| `update-dc-schools-data` skill | The process for re-verifying links, harvesting new files, and regenerating. |
 
 ## Contents
 
@@ -32,7 +36,7 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 
 ## OSSE — Office of the State Superintendent of Education
 
-_DC's state education agency. Authoritative cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings._
+_DC's state education agency. Cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings._
 
 ### [OSSE Data and Reports (main landing)](https://osse.dc.gov/page/data-and-reports-0)
 
@@ -1780,7 +1784,7 @@ _topics: accountability, methodology_
 - **Format:** Web page (framework docs / PDF)
 - **Updated:** Annual
 - **Years on page:** Current
-- **Notes:** The board-approved system that replaced the PMF and underlies the SQR. Important: PMF data pages look authoritative but are frozen at 2018-19.
+- **Notes:** The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19.
 
 ### [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf)
 
@@ -2123,7 +2127,7 @@ _topics: lottery, enrollment_
 - **Format:** Report PDFs + Excel/CSV + interactive Tableau (waitlist movement)
 - **Updated:** Annual; results each spring (Mar/Apr)
 - **Years on page:** 2014 (first lottery) through 2026
-- **Notes:** The common lottery (one application for DCPS + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. Administered jointly by OSSE/DME. The authoritative demand/choice dataset.
+- **Notes:** The common lottery (one application for DCPS + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. Administered jointly by OSSE/DME. The citywide common-lottery demand/choice dataset.
 - **Data files (profiled):**
   - [`Year over Year Comparisons — 20260602 MySchoolDC Tableau Data`](https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260602_MySchoolDC_Tableau_Data.xlsx) — **xlsx** — 3 tab(s)
     - tab **Notes** (26 rows × 2 cols) — cols: `My School DC Public Tableau Data`, `Release: 06/02/2026`

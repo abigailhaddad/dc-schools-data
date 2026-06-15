@@ -26,7 +26,7 @@ last_verified: "2026-06"
 owners:
   - key: OSSE
     name: "OSSE — Office of the State Superintendent of Education"
-    blurb: "DC's state education agency. Authoritative cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings."
+    blurb: "DC's state education agency. Cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings."
   - key: DCPS
     name: "DCPS — DC Public Schools"
     blurb: "The traditional public school district. Publishes its own (DCPS-only) enrollment, outcomes, budgets, surveys, profiles, and facilities data — much of it a subset of OSSE's."
@@ -577,7 +577,7 @@ sources:
     format: "Web page (framework docs / PDF)"
     cadence: "Annual"
     years: "Current"
-    notes: "The board-approved system that replaced the PMF and underlies the SQR. Important: PMF data pages look authoritative but are frozen at 2018-19."
+    notes: "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19."
 
   - id: pcsb-pmf-archive
     name: "Performance Management Framework (PMF) — archive"
@@ -783,7 +783,7 @@ sources:
     format: "Report PDFs + Excel/CSV + interactive Tableau (waitlist movement)"
     cadence: "Annual; results each spring (Mar/Apr)"
     years: "2014 (first lottery) through 2026"
-    notes: "The common lottery (one application for DCPS + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. Administered jointly by OSSE/DME. The authoritative demand/choice dataset."
+    notes: "The common lottery (one application for DCPS + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. Administered jointly by OSSE/DME. The citywide common-lottery demand/choice dataset."
 
   - id: opendata-dcps-locations
     name: "Open Data DC — DC Public Schools (point locations)"
