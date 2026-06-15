@@ -264,7 +264,7 @@ function renderFiles() {
   for (const e of hits) {
     const key = e.file.series ? e.owner + "|" + e.file.series : seriesKey(e.owner, e.file.name);
     const title = e.file.series || seriesTitle(e.file.name);
-    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, sourceName: e.sourceName, files: [] });
+    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, sourceName: e.sourceName, sourceUrl: e.sourceUrl, files: [] });
     groups.get(key).files.push(e.file);
   }
   const chipLabel = f => f.label || f.year || "?";
@@ -282,8 +282,9 @@ function renderFiles() {
         const files = g.files.slice().sort((a, b) =>
           (yearNum(chipLabel(a)) - yearNum(chipLabel(b))) || chipLabel(a).localeCompare(chipLabel(b)));
         const chips = files.map(f =>
-          '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="'
-          + esc(fileSummary(f)) + '">' + esc(chipLabel(f)) + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
+          '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="Download '
+          + esc(f.kind) + " (" + esc(chipLabel(f)) + ") — " + esc(fileSummary(f)) + '">⬇ '
+          + esc(chipLabel(f)) + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
         const latest = files[files.length - 1];
         // badge reflects the axis: a year run shows "N yrs · lo–hi"; a per-entity
         // set (e.g. schools) shows "N items".
@@ -295,10 +296,11 @@ function renderFiles() {
             : '<span class="badge bg-secondary">' + files.length + " items</span> ";
         }
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
-          + "<h6 class=\"mb-1\">" + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
+          + '<h6 class="mb-1"><a href="' + esc(g.sourceUrl) + '" target="_blank" rel="noopener" '
+          + 'title="Go to the page where this is hosted">' + highlight(esc(g.title), terms) + " ↗</a></h6>" + span + "</div>"
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(g.sourceName)
           + " — " + highlight(esc(fileSummary(latest)), terms) + "</div>"
-          + '<div>' + chips + "</div></div>";
+          + '<div class="file-cols mb-1">⬇ download a file:</div><div>' + chips + "</div></div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
