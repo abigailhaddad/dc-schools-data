@@ -15,6 +15,8 @@
   .badge-auth-republished   { background:#2a6db0; }
   .badge-auth-third-party   { background:#6c757d; }
   .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
+  .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
+  .year-chip:hover { background:#1b365d; color:#fff; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
   details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
@@ -207,20 +209,73 @@ function fileTermMatch(text, term) {
   return text.includes(term);
 }
 
+// strip year / version / date / dedupe tokens so the same dataset across years
+// collapses to one series. Keep case for display; lowercase version is the key.
+function stripYearTokens(name) {
+  return name
+    .replace(/\bSY\s*\d{2}\s*[_-]?\s*\d{2}\b/gi, " ")        // SY23_24
+    .replace(/\b(19|20)\d{2}\s*[-–]\s*\d{2}\b/g, " ")        // 2024-25
+    .replace(/\b\d{1,2}[._]\d{1,2}[._]\d{2,4}\b/g, " ")      // 9.30.25 dates
+    .replace(/\b(19|20)\d{2}\b/g, " ")                       // 2025
+    .replace(/\b\d{4}\b/g, " ")                              // 2223
+    .replace(/\bv\d+\b/gi, " ")                              // v2 / v3
+    .replace(/\([^)]*\)/g, " ")                              // (2025), (9.30.25), (2)
+    .replace(/\b(update|corrected|website|final|nw)\b/gi, " ")
+    .replace(/[_]+/g, " ");
+}
+function seriesTitle(name) {
+  return stripYearTokens(name).replace(/\s*[-–:]\s*$/, "").replace(/\s{2,}/g, " ").trim() || name;
+}
+// Aggressive normalization for the GROUPING key only (titles stay readable):
+// collapse applicant/application drift, drop filler + boilerplate words, so the
+// same dataset under slightly different yearly names lands in one series.
+function seriesKey(owner, name) {
+  const s = stripYearTokens(name).toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\b\d+\b/g, " ")
+    .replace(/applicat\w*|applican\w*/g, "applicant")
+    .replace(/\b(by|and|the|of|for|in|a|to|per|with)\b/g, " ")
+    .replace(/\b(lottery|data|dc|school|report|card|metric|metrics|scores|score|number|public|file|files)\b/g, " ")
+    .replace(/\s+/g, " ").trim();
+  return owner + "|" + s;
+}
+function yearNum(y) { const m = String(y || "").match(/(19|20)\d{2}/); return m ? +m[0] : 0; }
+
 function renderFiles() {
   const terms = queryTerms();
   const hits = ALL_FILES.filter(e => {
     if (state.owner && e.owner !== state.owner) return false;
     return terms.every(t => fileTermMatch(e.text, t));
   });
-  document.getElementById("count").textContent = hits.length + " of " + ALL_FILES.length + " files";
-  document.getElementById("files").innerHTML = hits.length
-    ? hits.map(e =>
-        '<div class="file-line"><a href="' + esc(e.file.url) + '" target="_blank" rel="noopener">'
-        + highlight(esc(e.file.name), terms) + "</a> "
-        + '<span class="text-muted">[' + esc(e.file.kind) + (e.file.year ? " · " + esc(e.file.year) : "") + "]</span>"
-        + '<div class="file-cols">' + esc(e.owner) + " · " + esc(e.sourceName) + " — "
-        + highlight(esc(fileSummary(e.file)), terms) + "</div></div>").join("")
+
+  // group the matching files into dataset series
+  const groups = new Map();
+  for (const e of hits) {
+    const key = seriesKey(e.owner, e.file.name);
+    if (!groups.has(key)) groups.set(key, { title: seriesTitle(e.file.name), owner: e.owner, sourceName: e.sourceName, files: [] });
+    groups.get(key).files.push(e.file);
+  }
+  const list = [...groups.values()].sort((a, b) =>
+    a.owner.localeCompare(b.owner) || b.files.length - a.files.length || a.title.localeCompare(b.title));
+
+  document.getElementById("count").textContent =
+    list.length + " dataset series · " + hits.length + " of " + ALL_FILES.length + " files";
+
+  document.getElementById("files").innerHTML = list.length
+    ? list.map(g => {
+        const files = g.files.slice().sort((a, b) => yearNum(a.year) - yearNum(b.year));
+        const chips = files.map(f =>
+          '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="'
+          + esc(fileSummary(f)) + '">' + esc(f.year || "?") + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
+        const latest = files[files.length - 1];
+        const span = files.length > 1
+          ? '<span class="badge bg-secondary">' + files.length + " yrs</span> " : "";
+        return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
+          + "<h6 class=\"mb-1\">" + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
+          + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(g.sourceName)
+          + " — " + highlight(esc(fileSummary(latest)), terms) + "</div>"
+          + '<div>' + chips + "</div></div>";
+      }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
 
