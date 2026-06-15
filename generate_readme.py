@@ -337,7 +337,7 @@ def main() -> int:
         n = len(by_owner.get(o["key"], []))
         if n:
             w(f"- [{o['name']}](#{slug(o['name'])}) — {n} source(s)")
-    w("- [⚠️ Same data, multiple places (what differs)](#-same-data-multiple-places-what-differs)")
+    w("- [How sources differ (same metric, multiple places)](#how-sources-differ-same-metric-multiple-places)")
     w("- [Known gaps & files needing a browser](#known-gaps--files-needing-a-browser)\n")
 
     # ---- per-owner sections ----
@@ -365,9 +365,9 @@ def main() -> int:
             w("")
 
     # ---- overlaps ----
-    w("## ⚠️ Same data, multiple places (what differs)\n")
-    w("The whole point of the catalog. For each metric below, the same numbers appear "
-      "in several places — here's which to use and why they disagree.\n")
+    w("## How sources differ (same metric, multiple places)\n")
+    w("Some metrics are published in several places. For each, the places it appears "
+      "and how each one is scoped — descriptive, not a recommendation.\n")
     src_by_id = {s["id"]: s for s in sources}
     for ov in overlaps:
         w(f"### {ov['topic']}\n")

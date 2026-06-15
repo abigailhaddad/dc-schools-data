@@ -27,7 +27,7 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 - [DC Policy Center (third party)](#dc-policy-center-third-party) — 1 source(s)
 - [U.S. Census Bureau](#us-census-bureau) — 1 source(s)
 - [EmpowerK12 (third party)](#empowerk12-third-party) — 1 source(s)
-- [⚠️ Same data, multiple places (what differs)](#-same-data-multiple-places-what-differs)
+- [How sources differ (same metric, multiple places)](#how-sources-differ-same-metric-multiple-places)
 - [Known gaps & files needing a browser](#known-gaps--files-needing-a-browser)
 
 ## OSSE — Office of the State Superintendent of Education
@@ -2458,13 +2458,13 @@ _topics: accountability, assessment_
 - **Years on page:** Recent years
 - **Notes:** Nonprofit-built interactive dashboards over OSSE Report Card raw data (DCPS + charters together) — useful because OSSE/PCSB host few interactive views themselves.
 
-## ⚠️ Same data, multiple places (what differs)
+## How sources differ (same metric, multiple places)
 
-The whole point of the catalog. For each metric below, the same numbers appear in several places — here's which to use and why they disagree.
+Some metrics are published in several places. For each, the places it appears and how each one is scoped — descriptive, not a recommendation.
 
 ### Enrollment counts
 
-OSSE's audited enrollment is the single authoritative count — independently verified each fall, cross-sector, and the basis for funding. DCPS and PCSB each republish only their own sector's slice (DCPS by school/grade; PCSB by tier/ward + market-share analysis). EdScape takes the same OSSE figures and geocodes them to neighborhoods/wards/boundaries and adds projections. The Report Card displays per-school enrollment for browsing. If numbers differ, trust OSSE audited; the others may use different rounding, vintage, or small-cell suppression.
+OSSE publishes the cross-sector audited fall count (by school; used for funding). DCPS and PCSB each publish their own sector's slice — DCPS by school/grade, PCSB by tier/ward plus market-share analysis. EdScape geocodes the OSSE figures to neighborhoods/wards/boundaries and adds projections. The Report Card shows per-school enrollment. Counts can differ by rounding, vintage, or small-cell suppression.
 
 Where it appears:
 - [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment) (OSSE)
@@ -2475,7 +2475,7 @@ Where it appears:
 
 ### School accountability ratings
 
-THESE ARE NOT THE SAME SCALE. OSSE's STAR rating is 1–5 stars and covers BOTH DCPS and charters. DC PCSB's School Quality Report (SQR), built on the ASPIRE system, scores charters 0–100 and assigns Tier 1/2/3 — charters only. The older PMF (archived at 2018-19) is yet another charter tiering. A charter can have both a STAR rating and an SQR tier that are not directly comparable. Always state which framework (and which year/version) a 'score' or 'tier' came from. EmpowerK12 re-presents the OSSE STAR data interactively.
+Two different scales. OSSE's STAR rating is 1–5 stars and covers both DCPS and charters. DC PCSB's School Quality Report (SQR), built on the ASPIRE system, scores charters 0–100 with Tier 1/2/3 (charters only). The older PMF (archived at 2018-19) is a separate charter tiering. EmpowerK12 re-presents the OSSE STAR data interactively. A charter can carry both a STAR rating and an SQR tier; they're not the same scale, so note which framework and year a score/tier is from.
 
 Where it appears:
 - [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
@@ -2487,7 +2487,7 @@ Where it appears:
 
 ### Assessment / proficiency (ELA & math)
 
-OSSE is the authority — it administers DC CAPE (formerly PARCC) and posts cross-sector results plus the Report Card display. DCPS's downloadable PARCC/ assessment files cover only DCPS schools; PCSB's page covers only charters. The sector pages are convenient subsets but can lag OSSE and apply different suppression. For comparisons across sectors or years, use OSSE's files.
+OSSE administers DC CAPE (formerly PARCC) and MSAA and posts cross-sector results; the Report Card displays them per school. DCPS and PCSB each post their own sector's subset. Sector pages can lag OSSE's release and may apply different suppression.
 
 Where it appears:
 - [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025) (OSSE)
@@ -2498,7 +2498,7 @@ Where it appears:
 
 ### Graduation rate (ACGR)
 
-OSSE publishes the official cross-sector 4- and 5-year ACGR with subgroups. DCPS's downloadable graduation dataset is the DCPS-only subset of the same calculation. Use OSSE for charter or cross-sector figures.
+OSSE publishes the cross-sector 4- and 5-year ACGR with subgroups. DCPS posts the DCPS-only subset of the same calculation; the Report Card shows it per school.
 
 Where it appears:
 - [High School Graduation Rates / ACGR](https://osse.dc.gov/service/high-school-graduation-rates-0) (OSSE)
@@ -2507,7 +2507,7 @@ Where it appears:
 
 ### Attendance / chronic absenteeism
 
-OSSE owns the citywide attendance metrics and leads with chronic absenteeism and chronic truancy (a 10% threshold), not 'in-seat attendance.' DCPS's at-a- glance PDFs are district-level aggregates; PCSB's report is charter-only. Watch the metric definition — 'attendance rate' (DCPS narrative) and 'chronic absenteeism' (OSSE) answer different questions.
+OSSE publishes citywide chronic absenteeism and chronic truancy (a 10% threshold). DCPS's at-a-glance PDFs are district-level aggregates; PCSB's report is charter-only. Note that 'attendance rate' and 'chronic absenteeism' are different measures.
 
 Where it appears:
 - [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting) (OSSE)
@@ -2518,7 +2518,7 @@ Where it appears:
 
 ### Discipline (suspensions/expulsions)
 
-OSSE's 'State of Discipline' report + the Report Card are the current cross-sector authority (by-school detail lives in PDF appendices). PCSB's own School Equity Reports carried charter discipline/mobility but are archived at SY2017-18 — PCSB now redirects to OSSE. Use OSSE for anything recent.
+OSSE's 'State of Discipline' report and the Report Card carry current cross-sector discipline data (by-school detail in PDF appendices). PCSB's School Equity Reports carried charter discipline/mobility through SY2017-18; later charter discipline appears in the OSSE data.
 
 Where it appears:
 - [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report) (OSSE)
@@ -2528,7 +2528,7 @@ Where it appears:
 
 ### Demographics (race, SWD, EL, at-risk)
 
-OSSE's Report Card 'Aggregate Enrollment Data' Excel is the authoritative school-level demographic breakdown. EdScape recasts it by neighborhood/ward. DCPS and PCSB pages show only their own sector and often only district/sector totals. Small subgroups may be suppressed in OSSE files (0%/100% hidden).
+OSSE's Report Card 'Aggregate Enrollment Data' Excel breaks enrollment down by race/SWD/EL/at-risk at the school level. EdScape recasts it by neighborhood/ward. DCPS and PCSB pages cover their own sector, often as district/sector totals. Small subgroups may be suppressed (0%/100% hidden).
 
 Where it appears:
 - [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
@@ -2539,7 +2539,7 @@ Where it appears:
 
 ### Per-pupil money
 
-These measure DIFFERENT things. OSSE's ESSA per-pupil EXPENDITURE reports show what was actually spent per pupil (cross-sector, ex-post). DCPS's budget portal shows ALLOCATIONS under the three-factor model (ex-ante, DCPS only). PCSB's finance pages show charter actuals/audits. Don't compare a DCPS allocation to an OSSE expenditure as if they're the same number.
+These measure different things. OSSE's ESSA per-pupil reports are actual EXPENDITURE (cross-sector, ex-post). DCPS's budget portal is ALLOCATIONS under the three-factor model (ex-ante, DCPS only). PCSB's finance pages are charter actuals/audits. An allocation and an expenditure aren't the same number.
 
 Where it appears:
 - [Report Card School Finance Data (per-pupil expenditures)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
@@ -2548,7 +2548,7 @@ Where it appears:
 
 ### Facilities, capacity & utilization
 
-EdScape Ch.3 and the Master Facilities Plan are the cross-sector planning views (capacity, utilization, projections) produced by DME with OSSE/DCPS/ PCSB/DGS. DCPS's modernizations page (+ DGS) covers only DCPS capital projects. For 'how full is each building citywide,' use EdScape/MFP; for 'what DCPS is renovating,' use DCPS/DGS.
+EdScape Ch.3 and the Master Facilities Plan give cross-sector capacity, utilization, and projections (DME, with OSSE/DCPS/PCSB/DGS). DCPS's modernizations page and DGS cover DCPS capital projects.
 
 Where it appears:
 - [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index) (DME)
@@ -2559,7 +2559,7 @@ Where it appears:
 
 ### Boundaries & feeder patterns
 
-Only DCPS has attendance boundaries/feeders (charters are citywide-choice). DCPS publishes the human-readable feeder PDFs and address lookup; Open Data DC has the GIS polygon shapefiles (current + historical vintages); DME owns the boundary POLICY and the 2023 study data. EdScape shows how enrollment actually flows across those boundaries.
+Only DCPS has attendance boundaries/feeders (charters are citywide-choice). DCPS publishes the feeder PDFs and an address lookup; Open Data DC has the GIS boundary polygons (current and historical); DME holds the boundary policy and the 2023 study data; EdScape shows how enrollment flows across boundaries.
 
 Where it appears:
 - [DCPS Feeder Patterns](https://dcps.dc.gov/feederpatterns) (DCPS)
@@ -2570,7 +2570,7 @@ Where it appears:
 
 ### School directory / locations
 
-For machine-readable locations of all schools, use Open Data DC GIS (separate DCPS and charter layers). For human browsing, DCPS Profiles (DCPS only) and PCSB School Profiles / Directory (charter only) are the directories; the Report Card lists both sectors. School-ID crosswalks: DCPS School Directory PDF and the OSSE enrollment files.
+Open Data DC has machine-readable locations (separate DCPS and charter GIS layers). DCPS Profiles and PCSB School Profiles/Directory are the human-browsable directories for each sector; the Report Card lists both. School-ID crosswalks: the DCPS School Directory PDF and the OSSE enrollment files.
 
 Where it appears:
 - [Open Data DC — DC Public Schools (point locations)](https://opendata.dc.gov/datasets/dc-public-schools/about) (Open Data DC)
