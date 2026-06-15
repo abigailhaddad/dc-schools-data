@@ -13,6 +13,7 @@ Usage:
 from __future__ import annotations
 
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -92,11 +93,42 @@ def render_file(rec: dict) -> list[str]:
     return lines
 
 
+def derive_series(source_id: str, name: str, year):
+    """Assign per-ENTITY datasets an explicit series + chip label so they group as
+    one row. Year-based series are handled by the front end's heuristic; this is for
+    sets that recur by school (PCSB equity) or by metric under drifting filenames
+    (My School DC lottery). Returns {} to fall back to the year heuristic."""
+    low = name.lower()
+    if source_id == "myschooldc-lottery":
+        if "tableau" in low: s = "Lottery: Tableau underlying data"
+        elif "waitlist" in low: s = "Lottery: Unique Applicants Waitlisted"
+        elif "seats" in low: s = "Lottery: Applications & Seats Offered by Grade"
+        elif "language" in low: s = "Lottery: Applicants by Preferred Language"
+        elif "total application" in low or "results from" in low: s = "Lottery: Total Applications & Results"
+        elif "median" in low: s = "Lottery: Median # of School Selections"
+        elif "match" in low and "ward" in low: s = "Lottery: Match Rate by Ward of Residence"
+        elif "match" in low: s = "Lottery: Match Rate by Grade & # of Selections"
+        elif "distribution" in low: s = "Lottery: Distribution of Applications by Ward"
+        elif "grade" in low and "ward" in low: s = "Lottery: Applicants by Grade and Ward"
+        elif "ward" in low: s = "Lottery: Applicants by Ward"
+        elif "grade" in low: s = "Lottery: Applicants by Grade"
+        else: s = "Lottery: Other / research"
+        return {"series": s, "label": year}
+    if source_id == "pcsb-equity-reports":
+        if "definition" in low:
+            return {"series": "School Equity Reports (per charter school, 2017-18)", "label": "Definitions Guide"}
+        m = re.search(r"public charter school\s+(.*)", name, re.I)
+        school = (m.group(1).strip() if m else name).replace(" - ", " ").strip()
+        return {"series": "School Equity Reports (per charter school, 2017-18)", "label": school or name}
+    return {}
+
+
 def file_for_js(rec: dict) -> dict:
     """Trim a profiled-file record down to what the front end needs to show + search."""
     prof = rec.get("profile", {})
     out = {"name": rec["name"], "url": rec["url"], "kind": rec["kind"],
            "year": rec.get("year"), "status": rec.get("status")}
+    out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}
                        for s in prof.get("sheets", [])]

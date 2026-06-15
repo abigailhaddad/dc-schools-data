@@ -248,13 +248,18 @@ function renderFiles() {
     return terms.every(t => fileTermMatch(e.text, t));
   });
 
-  // group the matching files into dataset series
+  // group the matching files into dataset series. An explicit file.series (set by
+  // the generator for per-school / drifting-name sets) wins; else fall back to the
+  // year-stripping heuristic. The chip shows file.label (e.g. a school name) when
+  // present, otherwise the year.
   const groups = new Map();
   for (const e of hits) {
-    const key = seriesKey(e.owner, e.file.name);
-    if (!groups.has(key)) groups.set(key, { title: seriesTitle(e.file.name), owner: e.owner, sourceName: e.sourceName, files: [] });
+    const key = e.file.series ? e.owner + "|" + e.file.series : seriesKey(e.owner, e.file.name);
+    const title = e.file.series || seriesTitle(e.file.name);
+    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, sourceName: e.sourceName, files: [] });
     groups.get(key).files.push(e.file);
   }
+  const chipLabel = f => f.label || f.year || "?";
   const list = [...groups.values()].sort((a, b) =>
     a.owner.localeCompare(b.owner) || b.files.length - a.files.length || a.title.localeCompare(b.title));
 
@@ -263,10 +268,12 @@ function renderFiles() {
 
   document.getElementById("files").innerHTML = list.length
     ? list.map(g => {
-        const files = g.files.slice().sort((a, b) => yearNum(a.year) - yearNum(b.year));
+        // sort by year when chips are years, else alphabetically (e.g. school names)
+        const files = g.files.slice().sort((a, b) =>
+          (yearNum(chipLabel(a)) - yearNum(chipLabel(b))) || chipLabel(a).localeCompare(chipLabel(b)));
         const chips = files.map(f =>
           '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="'
-          + esc(fileSummary(f)) + '">' + esc(f.year || "?") + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
+          + esc(fileSummary(f)) + '">' + esc(chipLabel(f)) + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
         const latest = files[files.length - 1];
         const span = files.length > 1
           ? '<span class="badge bg-secondary">' + files.length + " yrs</span> " : "";
