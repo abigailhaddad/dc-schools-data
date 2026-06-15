@@ -14,6 +14,7 @@
   .topic-btn { font-size:.82rem; cursor:pointer; background:#fff; border:1px solid #c5ccd6; color:#234; border-radius:1rem; padding:.18rem .75rem; margin:.15rem .3rem .15rem 0; display:inline-block; }
   .topic-btn:hover { border-color:#1b365d; }
   .topic-btn.active { background:#1b365d; color:#fff; border-color:#1b365d; }
+  .filterbar { position:sticky; top:0; z-index:20; background:#f6f7f9; padding:.6rem 0 .3rem; border-bottom:1px solid #e3e6ea; }
   .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
   .year-chip:hover { background:#1b365d; color:#fff; }
   .filepair { display:inline-flex; margin:.12rem .4rem .12rem 0; }
@@ -40,24 +41,26 @@
 </div>
 
 <div class="container">
-  <div class="row g-2 mb-3">
-    <div class="col-12 col-lg-5">
-      <input id="q" type="search" class="form-control form-control-lg"
-             placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
+  <div class="filterbar">
+    <div class="row g-2">
+      <div class="col-12 col-lg-5">
+        <input id="q" type="search" class="form-control form-control-lg"
+               placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
+      </div>
+      <div class="col-8 col-lg-4"><select id="owner" class="form-select"></select></div>
+      <div class="col-4 col-lg-2 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
     </div>
-    <div class="col-8 col-lg-4"><select id="owner" class="form-select"></select></div>
-    <div class="col-4 col-lg-2 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
+
+    <div id="topicchips" class="mt-2"></div>
+
+    <ul class="nav nav-tabs mt-2 mb-0">
+      <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
+      <li class="nav-item"><a class="nav-link" href="#" id="tab-sources">Sources</a></li>
+      <li class="nav-item"><a class="nav-link" href="#" id="tab-overlaps">Same data, different places</a></li>
+    </ul>
   </div>
 
-  <div id="topicchips" class="mb-3"></div>
-
-  <ul class="nav nav-tabs mb-3">
-    <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
-    <li class="nav-item"><a class="nav-link" href="#" id="tab-sources">Sources</a></li>
-    <li class="nav-item"><a class="nav-link" href="#" id="tab-overlaps">Same data, different places</a></li>
-  </ul>
-
-  <div id="count" class="meta mb-2"></div>
+  <div id="count" class="meta mb-2 pt-2"></div>
   <div id="files"></div>
   <div id="results" style="display:none"></div>
   <div id="overlaps" style="display:none"></div>
@@ -334,6 +337,18 @@ function render() {
     b.classList.toggle("active", b.dataset.topic === state.topic);
   document.getElementById("owner").value = state.owner;
   VIEWS[state.view].render();
+  writeHash();
+}
+
+// keep the URL in sync so any filtered view is shareable
+function writeHash() {
+  const p = new URLSearchParams();
+  if (state.q) p.set("q", state.q);
+  if (state.owner) p.set("owner", state.owner);
+  if (state.topic) p.set("topic", state.topic);
+  if (state.view !== "files") p.set("view", state.view);
+  const s = p.toString();
+  history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
 }
 
 // ----- build filter dropdowns from the data -----
@@ -385,6 +400,15 @@ for (const [name, v] of Object.entries(VIEWS)) {
     e.preventDefault(); state.view = name; render();
   });
 }
+
+// restore state from a shared URL (#q=..&topic=..&owner=..&view=..)
+(function initFromHash() {
+  const hp = new URLSearchParams(location.hash.slice(1));
+  if (hp.get("q")) { state.q = hp.get("q"); document.getElementById("q").value = state.q; }
+  if (hp.get("owner")) state.owner = hp.get("owner");
+  if (hp.get("topic")) state.topic = hp.get("topic");
+  if (hp.get("view") && VIEWS[hp.get("view")]) state.view = hp.get("view");
+})();
 
 render();
 </script>
