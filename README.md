@@ -773,6 +773,241 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 - **Data files (profiled):**
   - [`DC Public Schools Student Assessment Results (CSV export)`](https://opendata.dc.gov/api/download/v1/items/85fce54dea6946dea827c02a6bda88bb/csv?layers=23) — **csv** — 189,364 rows × 23 cols
     - cols: `OBJECTID`, `SCHOOL_YEAR`, `SCHOOL_WARD`, `SCHOOL_CODE`, `SCHOOL_NAME`, `LEA_CODE`, `LEA_NAME`, `ASSESSMENT_TYPE`, `SUBJECT`, `TESTED_GRADE_SUBJECT`, `GRADE_OF_ENROLLMENT`, `SUBGROUP`
+  - [`2023-24 State Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5nvo8y8p0zmfef6hrb0ivrbfn3xz2f54&file_id=f_1627757245452) — **xlsx** — 7 tab(s)
+    - tab **Data Notes and Business Rules** (23 rows × 1 cols) — cols: `2023-24 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (34 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (11,959 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (11,959 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Performance Level** (58,116 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Participation** (6,127 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework`, `Count`, `Total Count` …
+    - tab **Subclaim** (188 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Assessment Name`, `Subject`, `Metric`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Percent Meeting Expectations`, `Percent Approaching Expectations`, `Percent Below Expectations` …
+  - [`2023-24 LEA Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x3026w17o4pmrbxjut2io5t51168b5y2&file_id=f_1760741060635) — **xlsx** — 7 tab(s)
+    - tab **Data Notes and Business Rules** (23 rows × 1 cols) — cols: `2023-24 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (30 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (36,247 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (36,247 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Performance Level** (179,473 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Participation** (20,208 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework`, `Count`, `Total Count` …
+    - tab **Subclaim** (4,413 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Percent Meeting Expectations`, `Percent Approaching Expectations` …
+  - [`2023-24 School Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5gs5mber6fgumxraljpx0a3se21295in&file_id=f_1760740978845) — **xlsx** — 7 tab(s)
+    - tab **Data Notes and Business Rules** (23 rows × 1 cols) — cols: `2023-24 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (34 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (94,800 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Approaching, Meeting, Exceeding** (94,800 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Performance Level** (468,842 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Participation** (55,163 rows × 15 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework` …
+    - tab **Subclaim** (13,046 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework` …
+  - [`2022-23 State Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=br596zlfnrfltvw2yoxvaecm2jkhw51e&file_id=f_1300115605451) — **xlsx** — 9 tab(s)
+    - tab **Data Notes and Business Rules** (25 rows × 1 cols) — cols: `2022-23 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (34 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (25,104 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (25,104 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Performance Level** (122,642 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Participation** (12,912 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework`, `Count`, `Total Count` …
+    - tab **Subclaim** (269 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Assessment Name`, `Subject`, `Metric`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Percent Meeting Expectations`, `Percent Approaching Expectations`, `Percent Below Expectations` …
+    - tab **Adjusted Achievement** (197 rows × 11 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `School Framework`, `Total Count`, `Percent`
+    - tab **Accommodations** (38 rows × 10 cols) — cols: `Aggregation Level`, `Asessment Name`, `Subject`, `Student Group`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Total Count`, `Count`, `Percent`
+  - [`2022-23 LEA Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=w3dz0osavcf1x4qenwk9yr4n709go41g&file_id=f_1300113448491) — **xlsx** — 8 tab(s)
+    - tab **Data Notes and Business Rules** (24 rows × 1 cols) — cols: `2022-23 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (30 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (69,126 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (69,126 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Performance Level** (341,324 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Count` …
+    - tab **Participation** (38,779 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework`, `Count`, `Total Count` …
+    - tab **Subclaim** (4,504 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework`, `Percent Meeting Expectations`, `Percent Approaching Expectations` …
+    - tab **Adjusted Achievement** (1,884 rows × 11 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `School Framework`, `Total Count`, `Percent`
+  - [`2022-23 School Level Statewide Assessment Data`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sqqkkz8jrwrqqqxxsij3p65t3xco47u2&file_id=f_1299960704677) — **xlsx** — 9 tab(s)
+    - tab **Data Notes and Business Rules** (24 rows × 1 cols) — cols: `2022-23 Statewide Assessment Results Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (22 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (183,145 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Approaching, Meeting, Exceeding** (183,145 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Performance Level** (700,000 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Performance Level continue** (203,979 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Tested Grade/Subject`, `Grade of Enrollment` …
+    - tab **Participation** (106,577 rows × 15 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Grade of Enrollment`, `School Framework` …
+    - tab **Subclaim** (13,066 rows × 16 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `Metric`, `School Code`, `School Name`, `Assessment Name`, `Subject`, `Student Group`, `Tested Grade/Subject`, `Grade of Enrollment`, `School Framework` …
+    - tab **Adjusted Achievement** (6,806 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `School Framework`, `Total Count` …
+  - [`2022-23 Participation of Students with&nbsp; Disabilities in the Regular Assessment with&nbsp; Accommodations`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20Participation%20with%20Accommodations%20SY2223.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes and Business Rules** (20 rows × 1 cols) — cols: `2022-23 Participation of Students with Disabilities in the Regular Assessment with Accommodations`
+    - tab **School** (1,626 rows × 8 cols) — cols: `Reporting Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Assessment Subject`, `Assessment Name`, `Number of SWDs who tested with accommodations`
+    - tab **LEA** (503 rows × 6 cols) — cols: `Reporting Level`, `LEA Code`, `LEA Name`, `Assessment Subject`, `Assessment Name`, `Number of SWDs who tested with accommodations`
+    - tab **State** (18 rows × 4 cols) — cols: `Reporting Level`, `Assessment Subject`, `Assessment Name`, `Number of SWDs who tested with accommodations`
+  - [`2021-22 State Level PARCC and MSAA Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20State%20Level%20PARCC%20and%20MSAA%20Data.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes and Business Rules** (12 rows × 1 cols) — cols: `Overview:`
+    - tab **prof** (4,752 rows × 12 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Assessment Name`, `Subject`, `Student group`, `Subgroup Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `Count`, `Total Count`, `Percent`
+    - tab **perf_level** (23,128 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Assessment Name`, `Subject`, `Student group`, `Subgroup Value`, `Tested Grade/Subject`, `Grade of Enrollment`, `metric_value`, `Count`, `Total Count` …
+    - tab **subclaim** (77 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Grade of Enrollment`, `Assessment Name`, `Subject`, `Tested Grade/Subject`, `Student group`, `Subclaim`, `Percent Meeting Expectations`, `Percent Approaching Expectations`, `Percent Below Expectations` …
+  - [`2021-22 School, LEA, and State Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20School%2C%20LEA%2C%20and%20State%20Participation.xlsx.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **State** (637 rows × 11 cols) — cols: `Aggregation Level`, `LEA Code`, `School Code`, `Assessment Name`, `Subject`, `Student group`, `Subgroup Value`, `Grade of Enrollment`, `Count`, `Total Count`, `Percent`
+    - tab **LEA** (8,922 rows × 12 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `Assessment Name`, `Subject`, `Student group`, `Subgroup Value`, `Grade of Enrollment`, `Count`, `Total Count`, `Percent`
+    - tab **School** (27,162 rows × 13 cols) — cols: `Aggregation Level`, `LEA Code`, `lea_name`, `School Code`, `School Name`, `Assessment Name`, `Subject`, `Student group`, `Subgroup Value`, `Grade of Enrollment`, `Count`, `Total Count` …
+  - [`2021-22 PARCC and MSAA Participation and Performance Results for Students with Disabilities`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes and Business Rules** (12 rows × 1 cols) — cols: `Overview:`
+    - tab **Data Dictionary** (16,385 rows × 4 cols) — cols: `Data Field`, `Description`, `Permitted Value`, `Data source`
+    - tab **State Output** (82 rows × 14 cols) — cols: `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+`, `Number of Alternate Assessment Test Takers` …
+    - tab **LEA Output** (1,586 rows × 16 cols) — cols: `LEA Code`, `LEA Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations` …
+    - tab **School Output** (4,334 rows × 18 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+` …
+  - [`2018-19 PARCC ELA School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20ELA%201.15.20.Xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **School ELA Overall** (216 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Overall Performance by School`
+    - tab **School ELA Grade 3** (136 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 3 Performance by School`
+    - tab **School ELA Grade 4** (131 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 4 Performance by School`
+    - tab **School ELA Grade 5** (132 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 5 Performance by School`
+    - tab **School ELA Grade 6** (76 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 6 Performance by School`
+    - tab **School ELA Grade 7** (79 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 7 Performance by School`
+    - tab **School ELA Grade 8** (81 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grade 8 Performance by School`
+    - tab **School ELA Grades 9-12** (47 rows × 1 cols) — cols: `2019 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School`
+  - [`2018-19 PARCC Mathematics School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20Math%201.15.20.Xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **School Math Overall** (216 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Overall Performance by School`
+    - tab **School Math Grade 3** (136 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 3 Performance by School`
+    - tab **School Math Grade 4** (131 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 4 Performance by School`
+    - tab **School Math Grade 5** (132 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 5 Performance by School`
+    - tab **School Math Grade 6** (76 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 6 Performance by School`
+    - tab **School Math Grade 7** (160 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 7 Performance by School`
+    - tab **School Math Grade 8** (189 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grade 8 Performance by School`
+    - tab **School Math Grades 9-12** (97 rows × 1 cols) — cols: `2019 PARCC Mathematics Results Grades 9-12 Performance by School`
+  - [`2018-19 Detailed PARCC and MSAA Performance Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018-19%20PARCC%20And%20MSAA%20Performance%202.19.20.Xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (13 rows × 1 cols) — cols: `Overview:`
+    - tab **State Performance** (2,393 rows × 17 cols) — cols: `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2`, `Percent Level 3`, `Percent Level 4` …
+    - tab **LEA Performance** (28,458 rows × 19 cols) — cols: `LEA Code`, `LEA Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2` …
+    - tab **School Performance** (80,322 rows × 22 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations` …
+  - [`2018-19, 2017-18, 2016-17 School, LEA, and State Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation%201.15.20.Xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **State Level** (52 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **LEA Level** (1,924 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **School Level** (7,371 rows × 2 cols) — cols: `ELA`, `Math`
+  - [`2018-19 PARCC and MSAA Participation and Performance Results for Students with Disabilities`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities%201.15.20.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes and Business Rules** (12 rows × 1 cols) — cols: `Overview:`
+    - tab **Data Dictionary** (16,385 rows × 4 cols) — cols: `Data Field`, `Description`, `Permitted Value`, `Data source`
+    - tab **State Output** (73 rows × 14 cols) — cols: `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+`, `Number of Alternate Assessment Test Takers` …
+    - tab **LEA Output** (1,427 rows × 16 cols) — cols: `LEA Code`, `LEA Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations` …
+    - tab **School Output** (4,317 rows × 18 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+` …
+  - [`2017-18 PARCC ELA School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20ELA.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **School ELA Overall** (211 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Overall Performance by School`
+    - tab **School ELA Grade 3** (134 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 3 Performance by School`
+    - tab **School ELA Grade 4** (129 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 4 Performance by School`
+    - tab **School ELA Grade 5** (128 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 5 Performance by School`
+    - tab **School ELA Grade 6** (80 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 6 Performance by School`
+    - tab **School ELA Grade 7** (80 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 7 Performance by School`
+    - tab **School ELA Grade 8** (79 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grade 8 Performance by School`
+    - tab **School ELA Grades 9-12** (46 rows × 1 cols) — cols: `2018 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School`
+  - [`2017-18 PARCC Mathematics School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20Math.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (17 rows × 1 cols) — cols: `Overview:`
+    - tab **School Math Overall** (213 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Overall Performance by School`
+    - tab **School Math Grade 3** (134 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 3 Performance by School`
+    - tab **School Math Grade 4** (129 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 4 Performance by School`
+    - tab **School Math Grade 5** (128 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 5 Performance by School`
+    - tab **School Math Grade 6** (80 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 6 Performance by School`
+    - tab **School Math Grade 7** (161 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 7 Performance by School`
+    - tab **School Math Grade 8** (183 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grade 8 Performance by School`
+    - tab **School Math Grades 9-12** (101 rows × 1 cols) — cols: `2018 PARCC Mathematics Results Grades 9-12 Performance by School`
+  - [`2017-18 Detailed PARCC and MSAA Performance Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018%20PARCC%20and%20MSAA%20Performance.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (13 rows × 1 cols) — cols: `Overview:`
+    - tab **State Performance** (2,685 rows × 17 cols) — cols: `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2`, `Percent Level 3`, `Percent Level 4` …
+    - tab **LEA Performance** (32,379 rows × 19 cols) — cols: `LEA Code`, `LEA Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2` …
+    - tab **School Performance** (88,298 rows × 22 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations` …
+  - [`2017-18 School, LEA, and State Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202017-18.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **State Level** (52 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **LEA Level** (1,924 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **School Level** (7,371 rows × 2 cols) — cols: `ELA`, `Math`
+  - [`2017-18 PARCC and MSAA Participation and Performance Results for Students with Disabilities`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes and Business Rules** (12 rows × 1 cols) — cols: `Overview:`
+    - tab **Data Dictionary** (16,385 rows × 4 cols) — cols: `Data Field`, `Description`, `Permitted Value`, `Data source`
+    - tab **State Output** (73 rows × 14 cols) — cols: `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+`, `Number of Alternate Assessment Test Takers` …
+    - tab **LEA Output** (1,427 rows × 16 cols) — cols: `LEA Code`, `LEA Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations` …
+    - tab **School Output** (4,317 rows × 18 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+` …
+  - [`Detailed 2014 15 PARCC and MSAA Performance`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202014-15%20PARCC%20and%20MSAA%20Performance.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (105 rows × 1 cols) — cols: `Overview:`
+    - tab **State Performance** (1,553 rows × 15 cols) — cols: `School Year`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2`, `Percent Level 3` …
+    - tab **Sector Performance** (2,764 rows × 16 cols) — cols: `School Year`, `Sector`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2` …
+    - tab **LEA Performance** (16,758 rows × 17 cols) — cols: `School Year`, `LEA Code`, `LEA Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1` …
+    - tab **School Performance** (50,383 rows × 20 cols) — cols: `School Year`, `School Ward`, `School Code`, `School Name`, `LEA Code`, `LEA Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value` …
+  - [`2016-17 PARCC ELA School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20ELA_0.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (14 rows × 1 cols) — cols: `Overview:`
+    - tab **School ELA Overall** (208 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Overall Performance by School`
+    - tab **School ELA Grade 3** (132 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 3 Performance by School`
+    - tab **School ELA Grade 4** (125 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 4 Performance by School`
+    - tab **School ELA Grade 5** (128 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 5 Performance by School`
+    - tab **School ELA Grade 6** (79 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 6 Performance by School`
+    - tab **School ELA Grade 7** (76 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 7 Performance by School`
+    - tab **School ELA Grade 8** (72 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grade 8 Performance by School`
+    - tab **School ELA Grades 9-12** (45 rows × 1 cols) — cols: `2017 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School`
+  - [`2016-17 PARCC Mathematics School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20Math_0.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data Notes** (16 rows × 1 cols) — cols: `Overview:`
+    - tab **School Math Overall** (209 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Overall Performance by School`
+    - tab **School Math Grade 3** (132 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 3 Performance by School`
+    - tab **School Math Grade 4** (125 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 4 Performance by School`
+    - tab **School Math Grade 5** (128 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 5 Performance by School`
+    - tab **School Math Grade 6** (79 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 6 Performance by School`
+    - tab **School Math Grade 7** (157 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 7 Performance by School`
+    - tab **School Math Grade 8** (162 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grade 8 Performance by School`
+    - tab **School Math Grades 9-12** (97 rows × 1 cols) — cols: `2017 PARCC Mathematics Results Grades 9-12 Performance by School`
+  - [`2016-17 Detailed PARCC and MSAA Performance Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Detailed%202017%20PARCC%20and%20MSAA%20Performance_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (14 rows × 1 cols) — cols: `Overview:`
+    - tab **State Performance** (1 rows × 14 cols) — cols: `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2`, `Percent Level 3`, `Percent Level 4` …
+    - tab **LEA Performance** (1 rows × 16 cols) — cols: `LEA Code`, `LEA Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations`, `Percent Level 3+`, `Percent Level 1`, `Percent Level 2` …
+    - tab **School Performance** (1 rows × 19 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Assessment Type`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Subgroup`, `Subgroup Value`, `Percent Meeting or Exceeding Expectations` …
+  - [`2016-17 PARCC and MSAA Performance Results for Students with Disabilities`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20PARCC%20-%202016-2017.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Dictionary** (16,385 rows × 4 cols) — cols: `Data Field`, `Description`, `Permitted Value`, `Data source`
+    - tab **Data Notes and Business Rules** (12 rows × 1 cols) — cols: `Overview:`
+    - tab **State Output** (73 rows × 14 cols) — cols: `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+`, `Number of Alternate Assessment Test Takers` …
+    - tab **LEA Output** (1,348 rows × 16 cols) — cols: `LEA Code`, `LEA Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Percent of Students with Disabilities Who Took PARCC with Performance Level 4+`, `Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations` …
+    - tab **School Output** (4,161 rows × 18 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Subject`, `Tested Grade/Subject`, `Grade of Enrollment`, `Total Number of Valid PARCC Test Takers`, `Total Number of PARCC Test Takers with Performance Level 4+`, `Percent of Total PARCC Test Takers with Performance Level 4+`, `Number of Students with Disabilities Who Took PARCC`, `Number of Students with Disabilities Who Took PARCC with Performance Level 4+` …
+  - [`2016-17 School, LEA, and State Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202016-17_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (14 rows × 1 cols) — cols: `Overview:`
+    - tab **State Level** (3 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **LEA Level** (3 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **School Level** (3 rows × 2 cols) — cols: `ELA`, `Math`
+  - [`PARCC ELA school level 2015-16`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20ELA%20school%20level%202015-16_0.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (13 rows × 1 cols) — cols: `Overview:`
+    - tab **School Level ELA** (210 rows × 1 cols) — cols: `English Language Arts/Literacy`
+    - tab **hidden - lookup** (203 rows × 7 cols) — cols: `PerfLevel`, `Test Taken`, `Ward`, `LEACode`, `LEAName`, `SchoolCode`, `SchoolName`
+    - tab **hidden - pct_at_level** (821 rows × 12 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Tested Grade/Subject`, `% level 1`, `% level 2`, `% level 3`, `% level 4`, `% level 5`, `Total valid test takers`
+    - tab **hidden-pct_at_or_above_level** (3,651 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `testedGrade`, `metric`, `pct_at_or_above_level`
+  - [`PARCC Math school level 2015-16`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20Math%20school%20level%202015-16.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (14 rows × 1 cols) — cols: `Overview:`
+    - tab **School Level Math** (210 rows × 1 cols) — cols: `Mathematics`
+    - tab **hidden - lookup** (203 rows × 7 cols) — cols: `PerfLevel`, `Test Taken`, `Ward`, `LEACode`, `LEAName`, `SchoolCode`, `SchoolName`
+    - tab **hidden - pct_at_level** (1,149 rows × 12 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Tested Grade/Subject`, `% level 1`, `% level 2`, `% level 3`, `% level 4`, `% level 5`, `Total valid test takers`
+    - tab **hidden-pct_at_or_above_level** (3,650 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `tested grade/subject`, `level`, `pct_at_or_above_level`
+  - [`School, LEA, and State Participation 2015-16`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202015-16.xlsx) — **xlsx** — 4 tab(s)
+    - tab **State Level** (28 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **LEA Level** (978 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **School Level** (3,817 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **Data Notes** (17 rows × 1 cols) — cols: `Overview:`
+  - [`PARCC 2015 DC Grades 3-8 Aggregate State, Sector, and School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results_0.xlsx) — **xlsx** — 3 tab(s)
+    - tab **School** (20,322 rows × 18 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Tested Grade`, `Subject Category`, `Subgroup`, `Enrollment Grade`, `% level 4+`, `% level 3+`, `% level 1` …
+    - tab **State & Sector** (1,391 rows × 14 cols) — cols: `Sector`, `Tested Grade`, `Subject Category`, `Subgroup`, `Enrollment Grade`, `% level 4+`, `% level 3+`, `% level 1`, `% level 2`, `% level 3`, `% level 4`, `% level 5` …
+    - tab **Data Notes** (21 rows × 1 cols) — cols: `Accountability reporting rules`
+  - [`PARCC 2015 DC Grades 3-8 Math School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Math%20School%20Results_0.xlsx) — **xlsx** — 5 tab(s)
+    - tab **School Level 3-8 Math** (170 rows × 1 cols) — cols: `Grades 3-8 Math`
+    - tab **lookup** (21 rows × 2 cols) — cols: `PerfLevel`, `Breakdown (test taken and/or enrollment grade)`
+    - tab **pct_at_each_level** (1,059 rows × 12 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Breakdown`, `pct_1`, `pct_2`, `pct_3`, `pct_4`, `pct_5`, `test takers`
+    - tab **pct_at_or_above_level** (5,291 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `breakdown`, `level`, `pct_at_or_above_level`
+    - tab **Data Notes** (17 rows × 1 cols) — cols: `Accountability reporting rules`
+  - [`PARCC 2015 DC Grades 3-8 English Language Arts School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20English%20Language%20Arts%20School%20Results_1.xlsx) — **xlsx** — 5 tab(s)
+    - tab **School Level 3-8 ELA** (170 rows × 1 cols) — cols: `Grades 3-8 English`
+    - tab **lookup** (19 rows × 2 cols) — cols: `PerfLevel`, `Test Taken`
+    - tab **pct_at_level** (731 rows × 12 cols) — cols: `School Ward`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Tested Grade`, `pct_1`, `pct_2`, `pct_3`, `pct_4`, `pct_5`, `total_testtakers`
+    - tab **pct_at_or_above_level** (3,651 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `breakdown`, `level`, `pct_at_or_above_level`
+    - tab **Data Notes** (14 rows × 1 cols) — cols: `Accountability reporting rules`
+  - [`PARCC 2015 DC HS Aggregate State, Sector, and School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results.xlsx) — **xlsx** — 3 tab(s)
+    - tab **School** (630 rows × 16 cols) — cols: `School Ward`, `lea code`, `lea name`, `school code`, `school name`, `subject`, `subgroup`, `% level 4+`, `% level 3+`, `% level 1`, `% level 2`, `% level 3` …
+    - tab **State & Sector** (77 rows × 12 cols) — cols: `sector`, `subject`, `subgroup`, `% level 4+`, `% level 3+`, `% level 1`, `% level 2`, `% level 3`, `% level 4`, `% level 5`, `total valid tests`, `% of population`
+    - tab **Data Notes** (16 rows × 1 cols) — cols: `Accountability reporting rules`
+  - [`PARCC 2015 DC High School English II School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20English%20II%20School%20Results_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **School Level HS ELA** (57 rows × 1 cols) — cols: `High School English II`
+    - tab **lookup** (6 rows × 1 cols) — cols: `PerfLevel`
+    - tab **pct_level+_HS_ELA** (219 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `level`, `pct_at_level`, `pct_at_level`
+    - tab **Data Notes** (13 rows × 1 cols) — cols: `Accountability reporting rules`
+  - [`PARCC 2015 DC High School Math School Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Math%20School%20Results_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **School Level HS Math** (56 rows × 1 cols) — cols: `High School Math`
+    - tab **lookup** (6 rows × 1 cols) — cols: `PerfLevel`
+    - tab **pct_level+_HS_Math** (215 rows × 7 cols) — cols: `leacode`, `leaname`, `schoolcode`, `schoolname`, `level`, `pct_at_level`, `pct_at_level`
+    - tab **Data Notes** (13 rows × 1 cols) — cols: `Accountability reporting rules`
 
 ### [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment)
 

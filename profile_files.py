@@ -224,6 +224,8 @@ def main() -> int:
         fid = entry["id"]
         rec = {"id": fid, "source_id": entry["source_id"], "name": entry["name"],
                "url": entry["url"], "kind": entry["kind"], "year": entry.get("year")}
+        if entry.get("page"):
+            rec["page"] = entry["page"]
 
         if needs_browser(entry["url"]):
             rec["status"] = "needs_browser"

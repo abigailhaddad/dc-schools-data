@@ -199,7 +199,7 @@ const ALL_FILES = CAT.sources.flatMap(s => (s.files || []).map(f => {
   for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
   bits.push(...(f.columns || []));
   for (const t of f.tables || []) bits.push(...t.header);
-  return { file: f, sourceName: s.name, sourceUrl: s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
+  return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
 }));
 
 // Short terms (AP, SAT, EL) match whole words only, so "AP" doesn't hit "chapter".

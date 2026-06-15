@@ -124,6 +124,19 @@ def derive_series(source_id: str, name: str, year):
     # OSSE renames its annual Report Card datasets, splitting one dataset across
     # eras (AP/IB/SAT -> Advanced Coursework; Per-Pupil Expenditures -> School
     # Finance Data; Teacher & School Leader -> Educator Data). Reconnect them.
+    # Statewide assessment results (DC CAPE, formerly PARCC) + MSAA, published per
+    # year on separate OSSE pages, at State/LEA/School levels. Connect across years.
+    if source_id in ("osse-assessment-2025", "osse-assessment-archive"):
+        tags = []
+        for kw, tag in [("school level", "School"), ("lea level", "LEA"), ("sea level", "State"),
+                        ("state level", "State"), ("participation", "Particip."),
+                        ("\\bela\\b", "ELA"), ("\\bmath", "Math"), ("science", "Sci"),
+                        ("advanced middle", "Adv MS Math")]:
+            if re.search(kw, low) and tag not in tags:
+                tags.append(tag)
+        label = (str(year or "") + (" " + "/".join(tags) if tags else "")).strip()
+        return {"series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)", "label": label or year}
+
     if source_id.startswith("osse") or "report card" in low or "star framework" in low:
         if re.search(r"advanced coursework|ap,? ib|\bap ib\b|ib and sat|\bap\b.*\bsat\b", low):
             return {"series": "Advanced Coursework (AP, IB & SAT)", "label": year}
@@ -139,6 +152,8 @@ def file_for_js(rec: dict) -> dict:
     prof = rec.get("profile", {})
     out = {"name": rec["name"], "url": rec["url"], "kind": rec["kind"],
            "year": rec.get("year"), "status": rec.get("status")}
+    if rec.get("page"):
+        out["page"] = rec["page"]
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}

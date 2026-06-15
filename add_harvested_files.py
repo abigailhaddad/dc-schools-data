@@ -136,7 +136,7 @@ def main() -> int:
             skipped += 1
             continue
         name = build_name(text, section, href)
-        year = infer_year(section, text, href)
+        year = link.get("year") or infer_year(section, text, href)
         fid = f"{args.id_prefix}-{slugify(name, year)}"
         n = 2
         while fid in seen_ids:
@@ -144,6 +144,9 @@ def main() -> int:
             n += 1
         seen_ids.add(fid)
         topics = "[" + ", ".join(infer_topics(name + " " + section)) + "]"
+        # optional per-file hosting page (overrides the source's page) — used when
+        # one dataset's years live on different pages
+        page_line = f"    page: {json.dumps(link['page'])}\n" if link.get("page") else ""
         rows.append(
             f"  - id: {fid}\n"
             f"    source_id: {args.source_id}\n"
@@ -151,6 +154,7 @@ def main() -> int:
             f"    url: {json.dumps(href)}\n"
             f"    kind: {infer_kind(href)}\n"
             f"    year: {json.dumps(year)}\n"
+            f"{page_line}"
             f"    topics: {topics}\n"
         )
         added += 1

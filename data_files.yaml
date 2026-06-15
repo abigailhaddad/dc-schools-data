@@ -2044,3 +2044,319 @@ data_files:
     kind: pdf
     year: "unknown"
     topics: [other]
+
+  # ---- Harvested from osse-assessment-archive (35 files) ----
+  - id: osse-assess-2023-24-state-level-statewide-assessment-data-2023-24
+    source_id: osse-assessment-archive
+    name: "2023-24 State Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5nvo8y8p0zmfef6hrb0ivrbfn3xz2f54&file_id=f_1627757245452"
+    kind: xlsx
+    year: "2023-24"
+    page: "https://osse.dc.gov/assessmentresults2024"
+    topics: [assessment]
+
+  - id: osse-assess-2023-24-lea-level-statewide-assessment-data-2023-24
+    source_id: osse-assessment-archive
+    name: "2023-24 LEA Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x3026w17o4pmrbxjut2io5t51168b5y2&file_id=f_1760741060635"
+    kind: xlsx
+    year: "2023-24"
+    page: "https://osse.dc.gov/assessmentresults2024"
+    topics: [assessment]
+
+  - id: osse-assess-2023-24-level-statewide-assessment-data-2023-24
+    source_id: osse-assessment-archive
+    name: "2023-24 School Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5gs5mber6fgumxraljpx0a3se21295in&file_id=f_1760740978845"
+    kind: xlsx
+    year: "2023-24"
+    page: "https://osse.dc.gov/assessmentresults2024"
+    topics: [assessment]
+
+  - id: osse-assess-2022-23-state-level-statewide-assessment-data-2022-23
+    source_id: osse-assessment-archive
+    name: "2022-23 State Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=br596zlfnrfltvw2yoxvaecm2jkhw51e&file_id=f_1300115605451"
+    kind: xlsx
+    year: "2022-23"
+    page: "https://osse.dc.gov/node/1671391"
+    topics: [assessment]
+
+  - id: osse-assess-2022-23-lea-level-statewide-assessment-data-2022-23
+    source_id: osse-assessment-archive
+    name: "2022-23 LEA Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=w3dz0osavcf1x4qenwk9yr4n709go41g&file_id=f_1300113448491"
+    kind: xlsx
+    year: "2022-23"
+    page: "https://osse.dc.gov/node/1671391"
+    topics: [assessment]
+
+  - id: osse-assess-2022-23-level-statewide-assessment-data-2022-23
+    source_id: osse-assessment-archive
+    name: "2022-23 School Level Statewide Assessment Data"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sqqkkz8jrwrqqqxxsij3p65t3xco47u2&file_id=f_1299960704677"
+    kind: xlsx
+    year: "2022-23"
+    page: "https://osse.dc.gov/node/1671391"
+    topics: [assessment]
+
+  - id: osse-assess-2022-23-participation-of-students-with-nbsp-disabilities-in-the-regula
+    source_id: osse-assessment-archive
+    name: "2022-23 Participation of Students with&nbsp; Disabilities in the Regular Assessment with&nbsp; Accommodations"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20Participation%20with%20Accommodations%20SY2223.xlsx"
+    kind: xlsx
+    year: "2022-23"
+    page: "https://osse.dc.gov/node/1671391"
+    topics: [assessment]
+
+  - id: osse-assess-2021-22-state-level-parcc-and-msaa-data-2021-22
+    source_id: osse-assessment-archive
+    name: "2021-22 State Level PARCC and MSAA Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20State%20Level%20PARCC%20and%20MSAA%20Data.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    page: "https://osse.dc.gov/node/1613796"
+    topics: [assessment]
+
+  - id: osse-assess-2021-22-lea-and-state-participation-2021-22
+    source_id: osse-assessment-archive
+    name: "2021-22 School, LEA, and State Participation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20School%2C%20LEA%2C%20and%20State%20Participation.xlsx.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    page: "https://osse.dc.gov/node/1613796"
+    topics: [other]
+
+  - id: osse-assess-2021-22-parcc-and-msaa-participation-and-performance-results-for-stude
+    source_id: osse-assessment-archive
+    name: "2021-22 PARCC and MSAA Participation and Performance Results for Students with Disabilities"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    page: "https://osse.dc.gov/node/1613796"
+    topics: [assessment]
+
+  - id: osse-assess-2018-19-parcc-ela-level-2018-19
+    source_id: osse-assessment-archive
+    name: "2018-19 PARCC ELA School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20ELA%201.15.20.Xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/node/1420701"
+    topics: [assessment]
+
+  - id: osse-assess-2018-19-parcc-mathematics-level-2018-19
+    source_id: osse-assessment-archive
+    name: "2018-19 PARCC Mathematics School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20Math%201.15.20.Xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/node/1420701"
+    topics: [other]
+
+  - id: osse-assess-2018-19-detailed-parcc-and-msaa-performance-results-2018-19
+    source_id: osse-assessment-archive
+    name: "2018-19 Detailed PARCC and MSAA Performance Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018-19%20PARCC%20And%20MSAA%20Performance%202.19.20.Xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/node/1420701"
+    topics: [assessment]
+
+  - id: osse-assess-2018-19-2017-18-2016-17-lea-and-state-participation-2018-19
+    source_id: osse-assessment-archive
+    name: "2018-19, 2017-18, 2016-17 School, LEA, and State Participation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation%201.15.20.Xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/node/1420701"
+    topics: [other]
+
+  - id: osse-assess-2018-19-parcc-and-msaa-participation-and-performance-results-for-stude
+    source_id: osse-assessment-archive
+    name: "2018-19 PARCC and MSAA Participation and Performance Results for Students with Disabilities"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities%201.15.20.xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/node/1420701"
+    topics: [assessment]
+
+  - id: osse-assess-2017-18-parcc-ela-level-2017-18
+    source_id: osse-assessment-archive
+    name: "2017-18 PARCC ELA School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20ELA.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [assessment]
+
+  - id: osse-assess-2017-18-parcc-mathematics-level-2017-18
+    source_id: osse-assessment-archive
+    name: "2017-18 PARCC Mathematics School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20Math.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [other]
+
+  - id: osse-assess-2017-18-detailed-parcc-and-msaa-performance-results-2017-18
+    source_id: osse-assessment-archive
+    name: "2017-18 Detailed PARCC and MSAA Performance Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018%20PARCC%20and%20MSAA%20Performance.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [assessment]
+
+  - id: osse-assess-2017-18-lea-and-state-participation-2017-18
+    source_id: osse-assessment-archive
+    name: "2017-18 School, LEA, and State Participation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202017-18.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [other]
+
+  - id: osse-assess-2017-18-parcc-and-msaa-participation-and-performance-results-for-stude
+    source_id: osse-assessment-archive
+    name: "2017-18 PARCC and MSAA Participation and Performance Results for Students with Disabilities"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [assessment]
+
+  - id: osse-assess-detailed-2014-15-parcc-and-msaa-performance-2017-18
+    source_id: osse-assessment-archive
+    name: "Detailed 2014 15 PARCC and MSAA Performance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202014-15%20PARCC%20and%20MSAA%20Performance.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    page: "https://osse.dc.gov/node/1348731"
+    topics: [assessment]
+
+  - id: osse-assess-2016-17-parcc-ela-level-2016-17
+    source_id: osse-assessment-archive
+    name: "2016-17 PARCC ELA School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20ELA_0.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    page: "https://osse.dc.gov/node/1267021"
+    topics: [assessment]
+
+  - id: osse-assess-2016-17-parcc-mathematics-level-2016-17
+    source_id: osse-assessment-archive
+    name: "2016-17 PARCC Mathematics School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20Math_0.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    page: "https://osse.dc.gov/node/1267021"
+    topics: [other]
+
+  - id: osse-assess-2016-17-detailed-parcc-and-msaa-performance-results-2016-17
+    source_id: osse-assessment-archive
+    name: "2016-17 Detailed PARCC and MSAA Performance Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Detailed%202017%20PARCC%20and%20MSAA%20Performance_0.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    page: "https://osse.dc.gov/node/1267021"
+    topics: [assessment]
+
+  - id: osse-assess-2016-17-parcc-and-msaa-performance-results-for-students-with-disabilit
+    source_id: osse-assessment-archive
+    name: "2016-17 PARCC and MSAA Performance Results for Students with Disabilities"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20PARCC%20-%202016-2017.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    page: "https://osse.dc.gov/node/1267021"
+    topics: [assessment]
+
+  - id: osse-assess-2016-17-lea-and-state-participation-2016-17
+    source_id: osse-assessment-archive
+    name: "2016-17 School, LEA, and State Participation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202016-17_0.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    page: "https://osse.dc.gov/node/1267021"
+    topics: [other]
+
+  - id: osse-assess-parcc-ela-level-2015-16-2015-16
+    source_id: osse-assessment-archive
+    name: "PARCC ELA school level 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20ELA%20school%20level%202015-16_0.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    page: "https://osse.dc.gov/node/1185345"
+    topics: [assessment]
+
+  - id: osse-assess-parcc-math-level-2015-16-2015-16
+    source_id: osse-assessment-archive
+    name: "PARCC Math school level 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20Math%20school%20level%202015-16.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    page: "https://osse.dc.gov/node/1185345"
+    topics: [assessment]
+
+  - id: osse-assess-school-lea-and-state-participation-2015-16-2015-16
+    source_id: osse-assessment-archive
+    name: "School, LEA, and State Participation 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202015-16.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    page: "https://osse.dc.gov/node/1185345"
+    topics: [other]
+
+  - id: osse-assess-parcc-2015-grades-3-8-aggregate-state-sector-and-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC Grades 3-8 Aggregate State, Sector, and School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results_0.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [other]
+
+  - id: osse-assess-parcc-2015-grades-3-8-math-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC Grades 3-8 Math School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Math%20School%20Results_0.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [assessment]
+
+  - id: osse-assess-parcc-2015-grades-3-8-english-language-arts-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC Grades 3-8 English Language Arts School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20English%20Language%20Arts%20School%20Results_1.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [demographics]
+
+  - id: osse-assess-parcc-2015-hs-aggregate-state-sector-and-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC HS Aggregate State, Sector, and School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [other]
+
+  - id: osse-assess-parcc-2015-high-english-ii-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC High School English II School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20English%20II%20School%20Results_0.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [other]
+
+  - id: osse-assess-parcc-2015-high-math-results-2014-15
+    source_id: osse-assessment-archive
+    name: "PARCC 2015 DC High School Math School Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Math%20School%20Results_0.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    page: "https://osse.dc.gov/node/1184545"
+    topics: [assessment]

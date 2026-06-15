@@ -7363,6 +7363,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2024-25",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -7462,6 +7464,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2024-25 LEA",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -7563,6 +7567,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2024-25 School",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -7671,6 +7677,8 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024-25",
      "status": "ok",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2024-25",
      "n_pages": 41,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -7768,6 +7776,8 @@ window.CATALOG = {
      "kind": "csv",
      "year": "2014-15 to 2016-17",
      "status": "ok",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15 to 2016-17",
      "columns": [
       "OBJECTID",
       "SCHOOL_YEAR",
@@ -7794,9 +7804,2970 @@ window.CATALOG = {
       "LAST_EDITED_DATE"
      ],
      "n_rows": 189364
+    },
+    {
+     "name": "2023-24 State Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5nvo8y8p0zmfef6hrb0ivrbfn3xz2f54&file_id=f_1627757245452",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "page": "https://osse.dc.gov/assessmentresults2024",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2023-24 State",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 23,
+       "columns": [
+        "2023-24 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 34,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 11959,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 11959,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 58116,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 6127,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 188,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Metric",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Student Group",
+        "Total Count"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2023-24 LEA Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x3026w17o4pmrbxjut2io5t51168b5y2&file_id=f_1760741060635",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "page": "https://osse.dc.gov/assessmentresults2024",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2023-24 LEA",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 23,
+       "columns": [
+        "2023-24 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 30,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 36247,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 36247,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 179473,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 20208,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 4413,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Total Count"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2023-24 School Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5gs5mber6fgumxraljpx0a3se21295in&file_id=f_1760740978845",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "page": "https://osse.dc.gov/assessmentresults2024",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2023-24 School",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 23,
+       "columns": [
+        "2023-24 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 34,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 94800,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 94800,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 468842,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 55163,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 13046,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Total Count"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2022-23 State Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=br596zlfnrfltvw2yoxvaecm2jkhw51e&file_id=f_1300115605451",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1671391",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2022-23 State",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 25,
+       "columns": [
+        "2022-23 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 34,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 25104,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 25104,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 122642,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 12912,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 269,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Metric",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Student Group",
+        "Total Count"
+       ]
+      },
+      {
+       "name": "Adjusted Achievement",
+       "n_rows": 197,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "School Framework",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Accommodations",
+       "n_rows": 38,
+       "columns": [
+        "Aggregation Level",
+        "Asessment Name",
+        "Subject",
+        "Student Group",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Total Count",
+        "Count",
+        "Percent"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2022-23 LEA Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=w3dz0osavcf1x4qenwk9yr4n709go41g&file_id=f_1300113448491",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1671391",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2022-23 LEA",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 24,
+       "columns": [
+        "2022-23 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 30,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 69126,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 69126,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 341324,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 38779,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 4504,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Total Count"
+       ]
+      },
+      {
+       "name": "Adjusted Achievement",
+       "n_rows": 1884,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "School Framework",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2022-23 School Level Statewide Assessment Data",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sqqkkz8jrwrqqqxxsij3p65t3xco47u2&file_id=f_1299960704677",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1671391",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2022-23 School",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 24,
+       "columns": [
+        "2022-23 Statewide Assessment Results Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 22,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 183145,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 183145,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 700000,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level continue",
+       "n_rows": 203979,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 106577,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Grade of Enrollment",
+        "School Framework",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Subclaim",
+       "n_rows": 13066,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "Metric",
+        "School Code",
+        "School Name",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "School Framework",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Total Count"
+       ]
+      },
+      {
+       "name": "Adjusted Achievement",
+       "n_rows": 6806,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "School Framework",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2022-23 Participation of Students with&nbsp; Disabilities in the Regular Assessment with&nbsp; Accommodations",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20Participation%20with%20Accommodations%20SY2223.xlsx",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1671391",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2022-23 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 20,
+       "columns": [
+        "2022-23 Participation of Students with Disabilities in the Regular Assessment with Accommodations"
+       ]
+      },
+      {
+       "name": "School",
+       "n_rows": 1626,
+       "columns": [
+        "Reporting Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Assessment Subject",
+        "Assessment Name",
+        "Number of SWDs who tested with accommodations"
+       ]
+      },
+      {
+       "name": "LEA",
+       "n_rows": 503,
+       "columns": [
+        "Reporting Level",
+        "LEA Code",
+        "LEA Name",
+        "Assessment Subject",
+        "Assessment Name",
+        "Number of SWDs who tested with accommodations"
+       ]
+      },
+      {
+       "name": "State",
+       "n_rows": 18,
+       "columns": [
+        "Reporting Level",
+        "Assessment Subject",
+        "Assessment Name",
+        "Number of SWDs who tested with accommodations"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2021-22 State Level PARCC and MSAA Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20State%20Level%20PARCC%20and%20MSAA%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2021-22",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1613796",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2021-22 State",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 12,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "prof",
+       "n_rows": 4752,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Student group",
+        "Subgroup Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "perf_level",
+       "n_rows": 23128,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Student group",
+        "Subgroup Value",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "metric_value",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "subclaim",
+       "n_rows": 77,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Grade of Enrollment",
+        "Assessment Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Student group",
+        "Subclaim",
+        "Percent Meeting Expectations",
+        "Percent Approaching Expectations",
+        "Percent Below Expectations",
+        "Total Count"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2021-22 School, LEA, and State Participation",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20School%2C%20LEA%2C%20and%20State%20Participation.xlsx.xlsx",
+     "kind": "xlsx",
+     "year": "2021-22",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1613796",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2021-22 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State",
+       "n_rows": 637,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Student group",
+        "Subgroup Value",
+        "Grade of Enrollment",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "LEA",
+       "n_rows": 8922,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "Assessment Name",
+        "Subject",
+        "Student group",
+        "Subgroup Value",
+        "Grade of Enrollment",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "School",
+       "n_rows": 27162,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "lea_name",
+        "School Code",
+        "School Name",
+        "Assessment Name",
+        "Subject",
+        "Student group",
+        "Subgroup Value",
+        "Grade of Enrollment",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2021-22 PARCC and MSAA Participation and Performance Results for Students with Disabilities",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx",
+     "kind": "xlsx",
+     "year": "2021-22",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1613796",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2021-22 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 12,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 16385,
+       "columns": [
+        "Data Field",
+        "Description",
+        "Permitted Value",
+        "Data source"
+       ]
+      },
+      {
+       "name": "State Output",
+       "n_rows": 82,
+       "columns": [
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "LEA Output",
+       "n_rows": 1586,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "School Output",
+       "n_rows": 4334,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018-19 PARCC ELA School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20ELA%201.15.20.Xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1420701",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2018-19 School/ELA",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School ELA Overall",
+       "n_rows": 216,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 3",
+       "n_rows": 136,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 4",
+       "n_rows": 131,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 5",
+       "n_rows": 132,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 6",
+       "n_rows": 76,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 7",
+       "n_rows": 79,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 8",
+       "n_rows": 81,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grades 9-12",
+       "n_rows": 47,
+       "columns": [
+        "2019 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018-19 PARCC Mathematics School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20Math%201.15.20.Xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1420701",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2018-19 School/Math",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School Math Overall",
+       "n_rows": 216,
+       "columns": [
+        "2019 PARCC Mathematics Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 3",
+       "n_rows": 136,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 4",
+       "n_rows": 131,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 5",
+       "n_rows": 132,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 6",
+       "n_rows": 76,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 7",
+       "n_rows": 160,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 8",
+       "n_rows": 189,
+       "columns": [
+        "2019 PARCC Mathematics Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grades 9-12",
+       "n_rows": 97,
+       "columns": [
+        "2019 PARCC Mathematics Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018-19 Detailed PARCC and MSAA Performance Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018-19%20PARCC%20And%20MSAA%20Performance%202.19.20.Xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1420701",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2018-19",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 13,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Performance",
+       "n_rows": 2393,
+       "columns": [
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      },
+      {
+       "name": "LEA Performance",
+       "n_rows": 28458,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      },
+      {
+       "name": "School Performance",
+       "n_rows": 80322,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018-19, 2017-18, 2016-17 School, LEA, and State Participation",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation%201.15.20.Xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1420701",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2018-19 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Level",
+       "n_rows": 52,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "LEA Level",
+       "n_rows": 1924,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "School Level",
+       "n_rows": 7371,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018-19 PARCC and MSAA Participation and Performance Results for Students with Disabilities",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities%201.15.20.xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1420701",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2018-19 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 12,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 16385,
+       "columns": [
+        "Data Field",
+        "Description",
+        "Permitted Value",
+        "Data source"
+       ]
+      },
+      {
+       "name": "State Output",
+       "n_rows": 73,
+       "columns": [
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "LEA Output",
+       "n_rows": 1427,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "School Output",
+       "n_rows": 4317,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017-18 PARCC ELA School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20ELA.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18 School/ELA",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School ELA Overall",
+       "n_rows": 211,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 3",
+       "n_rows": 134,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 4",
+       "n_rows": 129,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 5",
+       "n_rows": 128,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 6",
+       "n_rows": 80,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 7",
+       "n_rows": 80,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 8",
+       "n_rows": 79,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grades 9-12",
+       "n_rows": 46,
+       "columns": [
+        "2018 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017-18 PARCC Mathematics School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20Math.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18 School/Math",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 17,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School Math Overall",
+       "n_rows": 213,
+       "columns": [
+        "2018 PARCC Mathematics Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 3",
+       "n_rows": 134,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 4",
+       "n_rows": 129,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 5",
+       "n_rows": 128,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 6",
+       "n_rows": 80,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 7",
+       "n_rows": 161,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 8",
+       "n_rows": 183,
+       "columns": [
+        "2018 PARCC Mathematics Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grades 9-12",
+       "n_rows": 101,
+       "columns": [
+        "2018 PARCC Mathematics Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017-18 Detailed PARCC and MSAA Performance Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018%20PARCC%20and%20MSAA%20Performance.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 13,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Performance",
+       "n_rows": 2685,
+       "columns": [
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      },
+      {
+       "name": "LEA Performance",
+       "n_rows": 32379,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      },
+      {
+       "name": "School Performance",
+       "n_rows": 88298,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers",
+        "Percent Subclaim Level 1 (Met or Exceeded Expectations)",
+        "Percent Subclaim Level 2 (Nearly Met Expectations)",
+        "Percent Subclaim Level 3 (Below Expectations)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017-18 School, LEA, and State Participation",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202017-18.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Level",
+       "n_rows": 52,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "LEA Level",
+       "n_rows": 1924,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "School Level",
+       "n_rows": 7371,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017-18 PARCC and MSAA Participation and Performance Results for Students with Disabilities",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 12,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 16385,
+       "columns": [
+        "Data Field",
+        "Description",
+        "Permitted Value",
+        "Data source"
+       ]
+      },
+      {
+       "name": "State Output",
+       "n_rows": 73,
+       "columns": [
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "LEA Output",
+       "n_rows": 1427,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "School Output",
+       "n_rows": 4317,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Detailed 2014 15 PARCC and MSAA Performance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202014-15%20PARCC%20and%20MSAA%20Performance.xlsx",
+     "kind": "xlsx",
+     "year": "2017-18",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1348731",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2017-18",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 105,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Performance",
+       "n_rows": 1553,
+       "columns": [
+        "School Year",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      },
+      {
+       "name": "Sector Performance",
+       "n_rows": 2764,
+       "columns": [
+        "School Year",
+        "Sector",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      },
+      {
+       "name": "LEA Performance",
+       "n_rows": 16758,
+       "columns": [
+        "School Year",
+        "LEA Code",
+        "LEA Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      },
+      {
+       "name": "School Performance",
+       "n_rows": 50383,
+       "columns": [
+        "School Year",
+        "School Ward",
+        "School Code",
+        "School Name",
+        "LEA Code",
+        "LEA Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 PARCC ELA School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20ELA_0.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1267021",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2016-17 School/ELA",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 14,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School ELA Overall",
+       "n_rows": 208,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 3",
+       "n_rows": 132,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 4",
+       "n_rows": 125,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 5",
+       "n_rows": 128,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 6",
+       "n_rows": 79,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 7",
+       "n_rows": 76,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grade 8",
+       "n_rows": 72,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School ELA Grades 9-12",
+       "n_rows": 45,
+       "columns": [
+        "2017 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 PARCC Mathematics School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20Math_0.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1267021",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2016-17 School/Math",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 16,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School Math Overall",
+       "n_rows": 209,
+       "columns": [
+        "2017 PARCC Mathematics Results Overall Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 3",
+       "n_rows": 132,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 3 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 4",
+       "n_rows": 125,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 4 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 5",
+       "n_rows": 128,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 5 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 6",
+       "n_rows": 79,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 6 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 7",
+       "n_rows": 157,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 7 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grade 8",
+       "n_rows": 162,
+       "columns": [
+        "2017 PARCC Mathematics Results Grade 8 Performance by School"
+       ]
+      },
+      {
+       "name": "School Math Grades 9-12",
+       "n_rows": 97,
+       "columns": [
+        "2017 PARCC Mathematics Results Grades 9-12 Performance by School"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 Detailed PARCC and MSAA Performance Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Detailed%202017%20PARCC%20and%20MSAA%20Performance_0.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1267021",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2016-17",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 14,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Performance",
+       "n_rows": 1,
+       "columns": [
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      },
+      {
+       "name": "LEA Performance",
+       "n_rows": 1,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      },
+      {
+       "name": "School Performance",
+       "n_rows": 1,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Assessment Type",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Subgroup",
+        "Subgroup Value",
+        "Percent Meeting or Exceeding Expectations",
+        "Percent Level 3+",
+        "Percent Level 1",
+        "Percent Level 2",
+        "Percent Level 3",
+        "Percent Level 4",
+        "Percent Level 5",
+        "Total Number Valid Test Takers"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 PARCC and MSAA Performance Results for Students with Disabilities",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20PARCC%20-%202016-2017.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1267021",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2016-17",
+     "tabs": [
+      {
+       "name": "Data Dictionary",
+       "n_rows": 16385,
+       "columns": [
+        "Data Field",
+        "Description",
+        "Permitted Value",
+        "Data source"
+       ]
+      },
+      {
+       "name": "Data Notes and Business Rules",
+       "n_rows": 12,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Output",
+       "n_rows": 73,
+       "columns": [
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "LEA Output",
+       "n_rows": 1348,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      },
+      {
+       "name": "School Output",
+       "n_rows": 4161,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Subject",
+        "Tested Grade/Subject",
+        "Grade of Enrollment",
+        "Total Number of Valid PARCC Test Takers",
+        "Total Number of PARCC Test Takers with Performance Level 4+",
+        "Percent of Total PARCC Test Takers with Performance Level 4+",
+        "Number of Students with Disabilities Who Took PARCC",
+        "Number of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Percent of Students with Disabilities Who Took PARCC with Performance Level 4+",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations",
+        "Number of Students w/ Disabilities Taking PARCC w/ Registered Accommodations & Performance Level 4+",
+        "Number of Alternate Assessment Test Takers",
+        "Number of Alternate Test Takers with Performance Level 3+",
+        "Percent of Alternate Test Takers with Performance Level 3+"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 School, LEA, and State Participation",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202016-17_0.xlsx",
+     "kind": "xlsx",
+     "year": "2016-17",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1267021",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2016-17 Particip.",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 14,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Level",
+       "n_rows": 3,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "LEA Level",
+       "n_rows": 3,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "School Level",
+       "n_rows": 3,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC ELA school level 2015-16",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20ELA%20school%20level%202015-16_0.xlsx",
+     "kind": "xlsx",
+     "year": "2015-16",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1185345",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2015-16 School/ELA",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 13,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School Level ELA",
+       "n_rows": 210,
+       "columns": [
+        "English Language Arts/Literacy"
+       ]
+      },
+      {
+       "name": "hidden - lookup",
+       "n_rows": 203,
+       "columns": [
+        "PerfLevel",
+        "Test Taken",
+        "Ward",
+        "LEACode",
+        "LEAName",
+        "SchoolCode",
+        "SchoolName"
+       ]
+      },
+      {
+       "name": "hidden - pct_at_level",
+       "n_rows": 821,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Tested Grade/Subject",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "Total valid test takers"
+       ]
+      },
+      {
+       "name": "hidden-pct_at_or_above_level",
+       "n_rows": 3651,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "testedGrade",
+        "metric",
+        "pct_at_or_above_level"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC Math school level 2015-16",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20Math%20school%20level%202015-16.xlsx",
+     "kind": "xlsx",
+     "year": "2015-16",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1185345",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2015-16 School/Math",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 14,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "School Level Math",
+       "n_rows": 210,
+       "columns": [
+        "Mathematics"
+       ]
+      },
+      {
+       "name": "hidden - lookup",
+       "n_rows": 203,
+       "columns": [
+        "PerfLevel",
+        "Test Taken",
+        "Ward",
+        "LEACode",
+        "LEAName",
+        "SchoolCode",
+        "SchoolName"
+       ]
+      },
+      {
+       "name": "hidden - pct_at_level",
+       "n_rows": 1149,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Tested Grade/Subject",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "Total valid test takers"
+       ]
+      },
+      {
+       "name": "hidden-pct_at_or_above_level",
+       "n_rows": 3650,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "tested grade/subject",
+        "level",
+        "pct_at_or_above_level"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School, LEA, and State Participation 2015-16",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202015-16.xlsx",
+     "kind": "xlsx",
+     "year": "2015-16",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1185345",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2015-16 Particip.",
+     "tabs": [
+      {
+       "name": "State Level",
+       "n_rows": 28,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "LEA Level",
+       "n_rows": 978,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "School Level",
+       "n_rows": 3817,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 17,
+       "columns": [
+        "Overview:"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC Grades 3-8 Aggregate State, Sector, and School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results_0.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15",
+     "tabs": [
+      {
+       "name": "School",
+       "n_rows": 20322,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Tested Grade",
+        "Subject Category",
+        "Subgroup",
+        "Enrollment Grade",
+        "% level 4+",
+        "% level 3+",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "Total valid tests",
+        "% of total tested population"
+       ]
+      },
+      {
+       "name": "State & Sector",
+       "n_rows": 1391,
+       "columns": [
+        "Sector",
+        "Tested Grade",
+        "Subject Category",
+        "Subgroup",
+        "Enrollment Grade",
+        "% level 4+",
+        "% level 3+",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "Total valid tests",
+        "% of total tested population"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 21,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC Grades 3-8 Math School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Math%20School%20Results_0.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15 Math",
+     "tabs": [
+      {
+       "name": "School Level 3-8 Math",
+       "n_rows": 170,
+       "columns": [
+        "Grades 3-8 Math"
+       ]
+      },
+      {
+       "name": "lookup",
+       "n_rows": 21,
+       "columns": [
+        "PerfLevel",
+        "Breakdown (test taken and/or enrollment grade)"
+       ]
+      },
+      {
+       "name": "pct_at_each_level",
+       "n_rows": 1059,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Breakdown",
+        "pct_1",
+        "pct_2",
+        "pct_3",
+        "pct_4",
+        "pct_5",
+        "test takers"
+       ]
+      },
+      {
+       "name": "pct_at_or_above_level",
+       "n_rows": 5291,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "breakdown",
+        "level",
+        "pct_at_or_above_level"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 17,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC Grades 3-8 English Language Arts School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20English%20Language%20Arts%20School%20Results_1.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15",
+     "tabs": [
+      {
+       "name": "School Level 3-8 ELA",
+       "n_rows": 170,
+       "columns": [
+        "Grades 3-8 English"
+       ]
+      },
+      {
+       "name": "lookup",
+       "n_rows": 19,
+       "columns": [
+        "PerfLevel",
+        "Test Taken"
+       ]
+      },
+      {
+       "name": "pct_at_level",
+       "n_rows": 731,
+       "columns": [
+        "School Ward",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Tested Grade",
+        "pct_1",
+        "pct_2",
+        "pct_3",
+        "pct_4",
+        "pct_5",
+        "total_testtakers"
+       ]
+      },
+      {
+       "name": "pct_at_or_above_level",
+       "n_rows": 3651,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "breakdown",
+        "level",
+        "pct_at_or_above_level"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 14,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC HS Aggregate State, Sector, and School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15",
+     "tabs": [
+      {
+       "name": "School",
+       "n_rows": 630,
+       "columns": [
+        "School Ward",
+        "lea code",
+        "lea name",
+        "school code",
+        "school name",
+        "subject",
+        "subgroup",
+        "% level 4+",
+        "% level 3+",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "total valid tests",
+        "% of population"
+       ]
+      },
+      {
+       "name": "State & Sector",
+       "n_rows": 77,
+       "columns": [
+        "sector",
+        "subject",
+        "subgroup",
+        "% level 4+",
+        "% level 3+",
+        "% level 1",
+        "% level 2",
+        "% level 3",
+        "% level 4",
+        "% level 5",
+        "total valid tests",
+        "% of population"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 16,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC High School English II School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20English%20II%20School%20Results_0.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15",
+     "tabs": [
+      {
+       "name": "School Level HS ELA",
+       "n_rows": 57,
+       "columns": [
+        "High School English II"
+       ]
+      },
+      {
+       "name": "lookup",
+       "n_rows": 6,
+       "columns": [
+        "PerfLevel"
+       ]
+      },
+      {
+       "name": "pct_level+_HS_ELA",
+       "n_rows": 219,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "level",
+        "pct_at_level",
+        "pct_at_level"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 13,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "PARCC 2015 DC High School Math School Results",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Math%20School%20Results_0.xlsx",
+     "kind": "xlsx",
+     "year": "2014-15",
+     "status": "ok",
+     "page": "https://osse.dc.gov/node/1184545",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2014-15 Math",
+     "tabs": [
+      {
+       "name": "School Level HS Math",
+       "n_rows": 56,
+       "columns": [
+        "High School Math"
+       ]
+      },
+      {
+       "name": "lookup",
+       "n_rows": 6,
+       "columns": [
+        "PerfLevel"
+       ]
+      },
+      {
+       "name": "pct_level+_HS_Math",
+       "n_rows": 215,
+       "columns": [
+        "leacode",
+        "leaname",
+        "schoolcode",
+        "schoolname",
+        "level",
+        "pct_at_level",
+        "pct_at_level"
+       ]
+      },
+      {
+       "name": "Data Notes",
+       "n_rows": 13,
+       "columns": [
+        "Accountability reporting rules"
+       ]
+      }
+     ]
     }
    ],
-   "search": "statewide assessment results 2023-24 (+ older-year archive index) osse best entry point for older assessment years. url pattern changed over time: old years use /page/yyyy-yy-parcc-and-msaa-..., new years use /assessmentresultsyyyy — a key fragmentation point. excel (box) + pdf assessment test scores proficiency parcc dc cape msaa reading math dc public schools student assessment results (csv export) objectid school_year school_ward school_code school_name lea_code lea_name assessment_type subject tested_grade_subject grade_of_enrollment subgroup subgroup_value percent_meeting_or_exceeding_e percent_level_3_ percent_level_1 percent_level_2 percent_level_3 percent_level_4 percent_level_5 total_number_valid_test_takers created_date last_edited_date"
+   "search": "statewide assessment results 2023-24 (+ older-year archive index) osse best entry point for older assessment years. url pattern changed over time: old years use /page/yyyy-yy-parcc-and-msaa-..., new years use /assessmentresultsyyyy — a key fragmentation point. excel (box) + pdf assessment test scores proficiency parcc dc cape msaa reading math dc public schools student assessment results (csv export) objectid school_year school_ward school_code school_name lea_code lea_name assessment_type subject tested_grade_subject grade_of_enrollment subgroup subgroup_value percent_meeting_or_exceeding_e percent_level_3_ percent_level_1 percent_level_2 percent_level_3 percent_level_4 percent_level_5 total_number_valid_test_takers created_date last_edited_date 2023-24 state level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code school code metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code school code assessment name subject metric tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations student group total count 2023-24 lea level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count 2023-24 school level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name school code school name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count 2022-23 state level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code school code metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code school code assessment name subject metric tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations student group total count adjusted achievement aggregation level lea code school code metric assessment name subject student group student group value school framework total count percent accommodations aggregation level asessment name subject student group tested grade/subject grade of enrollment school framework total count count percent 2022-23 lea level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count adjusted achievement aggregation level lea code lea name metric assessment name subject student group student group value school framework total count percent 2022-23 school level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level continue aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric school code school name assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count adjusted achievement aggregation level lea code lea name school code school name metric assessment name subject student group student group value school framework total count percent 2022-23 participation of students with&nbsp; disabilities in the regular assessment with&nbsp; accommodations data notes and business rules 2022-23 participation of students with disabilities in the regular assessment with accommodations school reporting level lea code lea name school code school name assessment subject assessment name number of swds who tested with accommodations lea reporting level lea code lea name assessment subject assessment name number of swds who tested with accommodations state reporting level assessment subject assessment name number of swds who tested with accommodations 2021-22 state level parcc and msaa data data notes and business rules overview: prof aggregation level lea code school code assessment name subject student group subgroup value tested grade/subject grade of enrollment count total count percent perf_level aggregation level lea code school code assessment name subject student group subgroup value tested grade/subject grade of enrollment metric_value count total count percent subclaim aggregation level lea code school code grade of enrollment assessment name subject tested grade/subject student group subclaim percent meeting expectations percent approaching expectations percent below expectations total count 2021-22 school, lea, and state participation data notes overview: state aggregation level lea code school code assessment name subject student group subgroup value grade of enrollment count total count percent lea aggregation level lea code lea name school code assessment name subject student group subgroup value grade of enrollment count total count percent school aggregation level lea code lea_name school code school name assessment name subject student group subgroup value grade of enrollment count total count percent 2021-22 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2018-19 parcc ela school level data notes overview: school ela overall 2019 parcc english language arts/literacy results overall performance by school school ela grade 3 2019 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2019 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2019 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2019 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2019 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2019 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2019 parcc english language arts/literacy results grades 9-12 performance by school 2018-19 parcc mathematics school level data notes overview: school math overall 2019 parcc mathematics results overall performance by school school math grade 3 2019 parcc mathematics results grade 3 performance by school school math grade 4 2019 parcc mathematics results grade 4 performance by school school math grade 5 2019 parcc mathematics results grade 5 performance by school school math grade 6 2019 parcc mathematics results grade 6 performance by school school math grade 7 2019 parcc mathematics results grade 7 performance by school school math grade 8 2019 parcc mathematics results grade 8 performance by school school math grades 9-12 2019 parcc mathematics results grades 9-12 performance by school 2018-19 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) 2018-19, 2017-18, 2016-17 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math 2018-19 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2017-18 parcc ela school level data notes overview: school ela overall 2018 parcc english language arts/literacy results overall performance by school school ela grade 3 2018 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2018 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2018 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2018 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2018 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2018 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2018 parcc english language arts/literacy results grades 9-12 performance by school 2017-18 parcc mathematics school level data notes overview: school math overall 2018 parcc mathematics results overall performance by school school math grade 3 2018 parcc mathematics results grade 3 performance by school school math grade 4 2018 parcc mathematics results grade 4 performance by school school math grade 5 2018 parcc mathematics results grade 5 performance by school school math grade 6 2018 parcc mathematics results grade 6 performance by school school math grade 7 2018 parcc mathematics results grade 7 performance by school school math grade 8 2018 parcc mathematics results grade 8 performance by school school math grades 9-12 2018 parcc mathematics results grades 9-12 performance by school 2017-18 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) 2017-18 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math 2017-18 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ detailed 2014 15 parcc and msaa performance data notes overview: state performance school year assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers sector performance school year sector assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers lea performance school year lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers school performance school year school ward school code school name lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers 2016-17 parcc ela school level data notes overview: school ela overall 2017 parcc english language arts/literacy results overall performance by school school ela grade 3 2017 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2017 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2017 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2017 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2017 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2017 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2017 parcc english language arts/literacy results grades 9-12 performance by school 2016-17 parcc mathematics school level data notes overview: school math overall 2017 parcc mathematics results overall performance by school school math grade 3 2017 parcc mathematics results grade 3 performance by school school math grade 4 2017 parcc mathematics results grade 4 performance by school school math grade 5 2017 parcc mathematics results grade 5 performance by school school math grade 6 2017 parcc mathematics results grade 6 performance by school school math grade 7 2017 parcc mathematics results grade 7 performance by school school math grade 8 2017 parcc mathematics results grade 8 performance by school school math grades 9-12 2017 parcc mathematics results grades 9-12 performance by school 2016-17 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers 2016-17 parcc and msaa performance results for students with disabilities data dictionary data field description permitted value data source data notes and business rules overview: state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2016-17 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math parcc ela school level 2015-16 data notes overview: school level ela english language arts/literacy hidden - lookup perflevel test taken ward leacode leaname schoolcode schoolname hidden - pct_at_level school ward lea code lea name school code school name tested grade/subject % level 1 % level 2 % level 3 % level 4 % level 5 total valid test takers hidden-pct_at_or_above_level leacode leaname schoolcode schoolname testedgrade metric pct_at_or_above_level parcc math school level 2015-16 data notes overview: school level math mathematics hidden - lookup perflevel test taken ward leacode leaname schoolcode schoolname hidden - pct_at_level school ward lea code lea name school code school name tested grade/subject % level 1 % level 2 % level 3 % level 4 % level 5 total valid test takers hidden-pct_at_or_above_level leacode leaname schoolcode schoolname tested grade/subject level pct_at_or_above_level school, lea, and state participation 2015-16 state level ela math lea level ela math school level ela math data notes overview: parcc 2015 dc grades 3-8 aggregate state, sector, and school results school school ward lea code lea name school code school name tested grade subject category subgroup enrollment grade % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of total tested population state & sector sector tested grade subject category subgroup enrollment grade % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of total tested population data notes accountability reporting rules parcc 2015 dc grades 3-8 math school results school level 3-8 math grades 3-8 math lookup perflevel breakdown (test taken and/or enrollment grade) pct_at_each_level school ward lea code lea name school code school name breakdown pct_1 pct_2 pct_3 pct_4 pct_5 test takers pct_at_or_above_level leacode leaname schoolcode schoolname breakdown level pct_at_or_above_level data notes accountability reporting rules parcc 2015 dc grades 3-8 english language arts school results school level 3-8 ela grades 3-8 english lookup perflevel test taken pct_at_level school ward lea code lea name school code school name tested grade pct_1 pct_2 pct_3 pct_4 pct_5 total_testtakers pct_at_or_above_level leacode leaname schoolcode schoolname breakdown level pct_at_or_above_level data notes accountability reporting rules parcc 2015 dc hs aggregate state, sector, and school results school school ward lea code lea name school code school name subject subgroup % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of population state & sector sector subject subgroup % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of population data notes accountability reporting rules parcc 2015 dc high school english ii school results school level hs ela high school english ii lookup perflevel pct_level+_hs_ela leacode leaname schoolcode schoolname level pct_at_level pct_at_level data notes accountability reporting rules parcc 2015 dc high school math school results school level hs math high school math lookup perflevel pct_level+_hs_math leacode leaname schoolcode schoolname level pct_at_level pct_at_level data notes accountability reporting rules"
   },
   {
    "id": "osse-enrollment-audit",
