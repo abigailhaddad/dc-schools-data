@@ -16,13 +16,6 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 | [`generate_readme.py`](generate_readme.py) | Renders this README from the YAML + profiles. |
 | `update-dc-schools-data` skill | The process for re-verifying links, finding new files, and regenerating. |
 
-**Authority** — who to trust when sources disagree:
-
-- 🟢 **authoritative** — the official system of record for this metric
-- 🟡 **derived** — a single-sector subset (DCPS-only / charter-only) re-published from the authoritative source
-- 🔵 **republished** — the same numbers re-hosted or re-analyzed, usually pointing back to the source
-- ⚪ **third-party** — built by a non-government org from official data
-
 ## Contents
 
 - [OSSE — Office of the State Superintendent of Education](#osse--office-of-the-state-superintendent-of-education) — 19 source(s)
@@ -43,7 +36,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [OSSE Data and Reports (main landing)](https://osse.dc.gov/page/data-and-reports-0)
 
-🟢 authoritative · _topics: landing, enrollment, assessment, attendance, graduation, discipline, finance, demographics_
+_topics: landing, enrollment, assessment, attendance, graduation, discipline, finance, demographics_
 
 - **Format:** Web portal of links to files & dashboards
 - **Updated:** Rolling; underlying datasets annual
@@ -52,7 +45,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [DC School Report Card Resource Library (downloads)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
-🟢 authoritative · _topics: assessment, attendance, graduation, discipline, enrollment, demographics, finance, educators_
+_topics: assessment, attendance, graduation, discipline, enrollment, demographics, finance, educators_
 
 - **Format:** Excel (.xlsx) files (some via Box) + PDF technical guides
 - **Updated:** Annual; new section posted ~December
@@ -703,7 +696,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/)
 
-🟢 authoritative · ⚠️ JS app (open in a browser) · _topics: accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles_
+⚠️ JS app (open in a browser) · _topics: accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles_
 
 - **Format:** Interactive web app (search/browse; not bulk download)
 - **Updated:** Annual, refreshed ~December with prior school year
@@ -715,7 +708,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide)
 
-🟢 authoritative · _topics: accountability, methodology_
+_topics: accountability, methodology_
 
 - **Format:** PDF (one per year)
 - **Updated:** Annual, with each report card release
@@ -729,7 +722,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025)
 
-🟢 authoritative · _topics: assessment_
+_topics: assessment_
 
 - **Format:** Excel files (hosted on Box) + PDF deck
 - **Updated:** Annual, released late summer/fall
@@ -764,7 +757,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Statewide Assessment Results 2023-24 (+ older-year archive index)](https://osse.dc.gov/assessmentresults2024)
 
-🟢 authoritative · _topics: assessment_
+_topics: assessment_
 
 - **Format:** Excel (Box) + PDF
 - **Updated:** Annual
@@ -1011,7 +1004,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment)
 
-🟢 authoritative · _topics: enrollment, demographics_
+_topics: enrollment, demographics_
 
 - **Format:** Per-year PDF audit report + Excel (.xlsx) data
 - **Updated:** Annual; fall count, finalized ~winter (Jan/Feb)
@@ -1020,7 +1013,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
-🟢 authoritative · _topics: demographics, enrollment_
+_topics: demographics, enrollment_
 
 - **Format:** Excel (.xlsx)
 - **Updated:** Annual
@@ -1034,7 +1027,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Specialized Education Data and Reports](https://osse.dc.gov/service/specialized-education-data-and-reports)
 
-🟢 authoritative · _topics: demographics, special-education_
+_topics: demographics, special-education_
 
 - **Format:** PDF + Excel
 - **Updated:** Annual (federal FFY cycle)
@@ -1043,7 +1036,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting)
 
-🟢 authoritative · _topics: attendance_
+_topics: attendance_
 
 - **Format:** PDF report + 2 mid-year briefs + Excel files
 - **Updated:** Full report ~November; mid-year briefs during the year
@@ -1057,7 +1050,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard)
 
-🟢 authoritative · _topics: attendance_
+_topics: attendance_
 
 - **Format:** Interactive dashboard + user-guide PDF
 - **Updated:** Monthly updates (cumulative year-to-date, not real-time)
@@ -1066,7 +1059,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [High School Graduation Rates / ACGR](https://osse.dc.gov/service/high-school-graduation-rates-0)
 
-🟢 authoritative · _topics: graduation_
+_topics: graduation_
 
 - **Format:** Recent years: direct Excel (.xlsx); older years: /publication/ pages
 - **Updated:** Annual, released ~winter for prior spring cohort
@@ -1075,7 +1068,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report)
 
-🟢 authoritative · _topics: discipline_
+_topics: discipline_
 
 - **Format:** PDF reports (school detail in appendices); rare supplementary Excel
 - **Updated:** Annual (latest 2024-25 dated 12/30/2025)
@@ -1084,7 +1077,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Report Card School Finance Data (per-pupil expenditures)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
-🟢 authoritative · _topics: finance_
+_topics: finance_
 
 - **Format:** Excel (.xlsx)
 - **Updated:** Annual
@@ -1100,7 +1093,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [DC Educator Workforce Data](https://osse.dc.gov/page/dc-educator-workforce-data)
 
-🟢 authoritative · _topics: educators_
+_topics: educators_
 
 - **Format:** PDF reports + Excel (.xlsx) at state/LEA/school level
 - **Updated:** Comprehensive reports biennial; retention briefs annual
@@ -1109,7 +1102,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Pre-Kindergarten Reports ('State of Pre-K in DC')](https://osse.dc.gov/publication/pre-kindergarten-reports-state-pre-k-district-columbia)
 
-🟢 authoritative · _topics: early-childhood, enrollment_
+_topics: early-childhood, enrollment_
 
 - **Format:** PDF
 - **Updated:** Annual
@@ -1118,7 +1111,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [Early Learning Reports (child care, subsidy, Pay Equity Fund)](https://osse.dc.gov/page/early-learning-reports)
 
-🟢 authoritative · _topics: early-childhood, finance_
+_topics: early-childhood, finance_
 
 - **Format:** PDF + linked data
 - **Updated:** Mixed — quarterly subsidy/educator reports; cost model every ~3 years
@@ -1127,7 +1120,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [DC ESSA State Plan](https://osse.dc.gov/essa)
 
-🟢 authoritative · _topics: accountability, methodology_
+_topics: accountability, methodology_
 
 - **Format:** Web page linking PDFs
 - **Updated:** Updated on amendment
@@ -1136,7 +1129,7 @@ _DC's state education agency. Authoritative cross-sector (DCPS + charter) source
 
 ### [SLED — Statewide Longitudinal Education Data (OSSE Reports)](https://sled.osse.dc.gov/info/OSSE-Reports/)
 
-🟢 authoritative · 🔒 login required · _topics: enrollment, assessment, graduation, landing_
+🔒 login required · _topics: enrollment, assessment, graduation, landing_
 
 - **Format:** Public PDF/Excel/Tableau links + login-gated Qlik Sense reports
 - **Updated:** Varies; most annual
@@ -1149,7 +1142,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS School Data (data hub landing)](https://dcps.dc.gov/service/school-data)
 
-🟡 derived (sector subset) · _topics: landing_
+_topics: landing_
 
 - **Format:** Web page (link directory)
 - **Updated:** As underlying resources change
@@ -1158,7 +1151,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS at a Glance: Enrollment](https://dcps.dc.gov/node/966292)
 
-🟡 derived (sector subset) · _topics: enrollment, demographics_
+_topics: enrollment, demographics_
 
 - **Format:** Web page, static HTML tables
 - **Updated:** Annual, after fall audited-enrollment release
@@ -1167,7 +1160,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS at a Glance: Attendance](https://dcps.dc.gov/node/1185940)
 
-🟡 derived (sector subset) · _topics: attendance_
+_topics: attendance_
 
 - **Format:** PDF reports (one per year)
 - **Updated:** Annual
@@ -1176,7 +1169,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets)
 
-🟡 derived (sector subset) · _topics: enrollment, assessment, graduation, attendance_
+_topics: enrollment, assessment, graduation, attendance_
 
 - **Format:** Web page indexing Excel (.xlsx) files
 - **Updated:** Varies by dataset
@@ -1185,7 +1178,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment)
 
-🟡 derived (sector subset) · _topics: enrollment_
+_topics: enrollment_
 
 - **Format:** Excel (.xlsx), one file per year
 - **Updated:** Annual, after audit certification
@@ -1194,7 +1187,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Data Set — Graduation Rates](https://dcps.dc.gov/node/1018352)
 
-🟡 derived (sector subset) · _topics: graduation_
+_topics: graduation_
 
 - **Format:** Excel (.xlsx), one file per year
 - **Updated:** Annual
@@ -1203,7 +1196,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Fast Facts](https://dcps.dc.gov/featured-content/dcps-fast-facts-2025)
 
-🟡 derived (sector subset) · _topics: enrollment, demographics, landing_
+_topics: enrollment, demographics, landing_
 
 - **Format:** PDF (2-page fact sheet)
 - **Updated:** Annual (2025 ed. published Mar 2025)
@@ -1212,7 +1205,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/)
 
-🟡 derived (sector subset) · _topics: profiles, enrollment, boundaries_
+_topics: profiles, enrollment, boundaries_
 
 - **Format:** Interactive web app
 - **Updated:** ~Annual; enrollment updates each year
@@ -1221,7 +1214,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Stakeholder / Panorama Satisfaction Surveys](https://dcps.dc.gov/surveys)
 
-🟢 authoritative · _topics: surveys, school-climate_
+_topics: surveys, school-climate_
 
 - **Format:** PDF + Excel aggregates; interactive Panorama portal
 - **Updated:** Annual (administered each spring)
@@ -1230,7 +1223,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Budget Transparency Portal](https://dcpsbudget.com/)
 
-🟢 authoritative · _topics: finance_
+_topics: finance_
 
 - **Format:** Web portal + downloadable Excel spreadsheets
 - **Updated:** Annual budget cycle (initial budgets ~late winter/spring)
@@ -1239,7 +1232,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [A Capital Commitment — Strategic Plan & Scorecards](https://dcps.dc.gov/capitalcommitment)
 
-🟢 authoritative · _topics: strategy, outcomes_
+_topics: strategy, outcomes_
 
 - **Format:** Web page + linked PDF plan
 - **Updated:** Plan per 5-year cycle; metrics updated periodically
@@ -1248,7 +1241,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Equity Strategy & Framework](https://dcps.dc.gov/equity)
 
-🟡 derived (sector subset) · _topics: equity_
+_topics: equity_
 
 - **Format:** Web page + PDF framework (2018)
 - **Updated:** Infrequent
@@ -1257,7 +1250,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Feeder Patterns](https://dcps.dc.gov/feederpatterns)
 
-🟢 authoritative · _topics: boundaries_
+_topics: boundaries_
 
 - **Format:** Web page linking per-year PDFs
 - **Updated:** Annual
@@ -1266,7 +1259,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [Find Your In-Boundary School (address lookup)](https://enrolldcps.dc.gov/node/41)
 
-🟢 authoritative · _topics: boundaries_
+_topics: boundaries_
 
 - **Format:** Interactive address-lookup tool
 - **Updated:** Updated when boundaries/feeders change
@@ -1275,7 +1268,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS Modernizations](https://dcps.dc.gov/page/modernizations)
 
-🟡 derived (sector subset) · _topics: facilities_
+_topics: facilities_
 
 - **Format:** Web page + PACE prioritization PDF
 - **Updated:** Updated as projects change
@@ -1284,7 +1277,7 @@ _The traditional public school district. Publishes its own (DCPS-only) enrollmen
 
 ### [DCPS School Directory](https://dcps.dc.gov/service/school-data)
 
-🟢 authoritative · _topics: profiles_
+_topics: profiles_
 
 - **Format:** PDF (per year)
 - **Updated:** Annual
@@ -1297,7 +1290,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [DC PCSB Transparency Hub](https://dcpcsb.org/transparency-hub)
 
-🟢 authoritative · _topics: landing, finance, discipline, equity, profiles_
+_topics: landing, finance, discipline, equity, profiles_
 
 - **Format:** Web portal (links to PDF / Excel / Egnyte / Google Sheets)
 - **Updated:** Continuously updated; docs annual
@@ -1306,7 +1299,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Public Charter School Data (sector overview)](https://dcpcsb.org/about-us/public-charter-school-data)
 
-🟢 authoritative · _topics: landing, enrollment, assessment, graduation_
+_topics: landing, enrollment, assessment, graduation_
 
 - **Format:** Web page (links to sub-dashboards)
 - **Updated:** Annual
@@ -1315,7 +1308,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Charter Student Enrollment](https://dcpcsb.org/student-enrollment)
 
-🔵 republished · _topics: enrollment, demographics_
+_topics: enrollment, demographics_
 
 - **Format:** Static tables + spreadsheet download + link to OSSE
 - **Updated:** Annual
@@ -1324,7 +1317,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc)
 
-🔵 republished · ♻️ intermittent server errors · _topics: assessment_
+♻️ intermittent server errors · _topics: assessment_
 
 - **Format:** Web page / dashboard
 - **Updated:** Annual
@@ -1333,7 +1326,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles)
 
-🟢 authoritative · _topics: profiles, accountability_
+_topics: profiles, accountability_
 
 - **Format:** Interactive searchable directory
 - **Updated:** Updated yearly / as schools open/close
@@ -1342,7 +1335,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory)
 
-🟢 authoritative · _topics: profiles_
+_topics: profiles_
 
 - **Format:** PDF
 - **Updated:** Annual (school year)
@@ -1351,7 +1344,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report)
 
-🟢 authoritative · ♻️ intermittent server errors · _topics: accountability_
+♻️ intermittent server errors · _topics: accountability_
 
 - **Format:** Web page / per-school report
 - **Updated:** Annual (released fall)
@@ -1360,7 +1353,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system)
 
-🟢 authoritative · _topics: accountability, methodology_
+_topics: accountability, methodology_
 
 - **Format:** Web page (framework docs / PDF)
 - **Updated:** Annual
@@ -1369,7 +1362,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf)
 
-🔵 republished · 🗄️ archived/stale · _topics: accountability, methodology_
+🗄️ archived/stale · _topics: accountability, methodology_
 
 - **Format:** PDF books/guides + Excel data files (via Egnyte)
 - **Updated:** Was annual
@@ -1415,7 +1408,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports)
 
-🔵 republished · 🗄️ archived/stale · _topics: equity, discipline, attendance_
+🗄️ archived/stale · _topics: equity, discipline, attendance_
 
 - **Format:** PDF (via Egnyte)
 - **Updated:** Was annual
@@ -1458,7 +1451,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report)
 
-🔵 republished · _topics: discipline, attendance_
+_topics: discipline, attendance_
 
 - **Format:** Web page / PDF
 - **Updated:** Annual
@@ -1485,7 +1478,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances)
 
-🟢 authoritative · ♻️ intermittent server errors · _topics: finance_
+♻️ intermittent server errors · _topics: finance_
 
 - **Format:** Web page / PDF / Excel (much via Egnyte)
 - **Updated:** Annual
@@ -1511,7 +1504,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [Charter School Growth and Closures](https://dcpcsb.org/charter-school-growth-and-closures)
 
-🟢 authoritative · _topics: profiles, openings-closures_
+_topics: profiles, openings-closures_
 
 - **Format:** Web page + Google Sheet
 - **Updated:** Updated as events occur
@@ -1520,7 +1513,7 @@ _Authorizer/regulator of DC's public charter schools. Publishes charter director
 
 ### [DC PCSB Board Meetings & Events](https://dcpcsb.org/events)
 
-🟢 authoritative · _topics: governance, openings-closures_
+_topics: governance, openings-closures_
 
 - **Format:** Event calendar (agendas/minutes as PDF)
 - **Updated:** Monthly board meetings
@@ -1533,7 +1526,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [EdScape (education landscape tool)](https://edscape.dc.gov/)
 
-🔵 republished · _topics: landing, enrollment, demographics, facilities, boundaries_
+_topics: landing, enrollment, demographics, facilities, boundaries_
 
 - **Format:** Interactive Tableau dashboards + Excel downloads + PDF summaries
 - **Updated:** Rolling, several releases/year
@@ -1542,7 +1535,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [EdScape — Release Notes (changelog)](https://edscape.dc.gov/page/edscape-release-notes)
 
-🔵 republished · _topics: methodology_
+_topics: methodology_
 
 - **Format:** Web page (changelog)
 - **Updated:** Updated with each release
@@ -1551,7 +1544,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index)
 
-🔵 republished · _topics: enrollment, boundaries_
+_topics: enrollment, boundaries_
 
 - **Format:** Interactive dashboards + Excel
 - **Updated:** Annual+
@@ -1636,7 +1629,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index)
 
-🔵 republished · _topics: facilities_
+_topics: facilities_
 
 - **Format:** Interactive dashboards + maps + Excel
 - **Updated:** Annual+
@@ -1645,7 +1638,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [DME — Public Education Facility Planning](https://dme.dc.gov/service/public-education-facility-planning)
 
-🟢 authoritative · _topics: facilities, landing_
+_topics: facilities, landing_
 
 - **Format:** Web page (service hub)
 - **Updated:** As-needed
@@ -1654,7 +1647,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [DC Public Education Master Facilities Plan 2023](https://dme.dc.gov/mfp2023)
 
-🟢 authoritative · _topics: facilities, enrollment, projections_
+_topics: facilities, enrollment, projections_
 
 - **Format:** Report PDF + Excel appendices (via Box)
 - **Updated:** ~Every 5 years (full plan)
@@ -1663,7 +1656,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [2024 Master Facilities Plan Annual Supplement](https://dme.dc.gov/publication/2024-master-facilities-plan-supplement)
 
-🟢 authoritative · _topics: facilities, projections, enrollment_
+_topics: facilities, projections, enrollment_
 
 - **Format:** Report PDF + Excel appendices
 - **Updated:** Annual supplement
@@ -1672,7 +1665,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [DME — Boundary and Student Assignment Study 2023 (data supplement)](https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement)
 
-🟢 authoritative · _topics: boundaries, enrollment, demographics_
+_topics: boundaries, enrollment, demographics_
 
 - **Format:** Excel datasheets + PDFs + interactive maps
 - **Updated:** One-time study (2023)
@@ -1681,7 +1674,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [DME — Download Data (legacy datasets)](https://dme.dc.gov/page/download-data)
 
-🔵 republished · _topics: enrollment, facilities, boundaries_
+_topics: enrollment, facilities, boundaries_
 
 - **Format:** Downloadable Excel/CSV/PDF
 - **Updated:** Legacy/archival
@@ -1690,7 +1683,7 @@ _Mayor's office for education strategy. Runs EdScape (the neighborhood education
 
 ### [DME — Interactive School Facility Maps](https://dme.dc.gov/page/interactive-school-facility-maps)
 
-🔵 republished · _topics: facilities_
+_topics: facilities_
 
 - **Format:** Interactive Tableau maps + data downloads (recent years)
 - **Updated:** Annual (one map per school year)
@@ -1703,7 +1696,7 @@ _The single DCPS + charter application/lottery. Publishes lottery participation,
 
 ### [My School DC — Lottery Data ('By the Numbers')](https://www.myschooldc.org/resources/data)
 
-🟢 authoritative · _topics: lottery, enrollment_
+_topics: lottery, enrollment_
 
 - **Format:** Report PDFs + Excel/CSV + interactive Tableau (waitlist movement)
 - **Updated:** Annual; results each spring (Mar/Apr)
@@ -1973,7 +1966,7 @@ _The city's open-data and GIS portal. Machine-readable school locations and atte
 
 ### [Open Data DC — DC Public Schools (point locations)](https://opendata.dc.gov/datasets/dc-public-schools/about)
 
-🟢 authoritative · ⚠️ JS app (open in a browser) · _topics: profiles, gis_
+⚠️ JS app (open in a browser) · _topics: profiles, gis_
 
 - **Format:** GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API
 - **Updated:** Updated as schools change (~annually)
@@ -1985,7 +1978,7 @@ _The city's open-data and GIS portal. Machine-readable school locations and atte
 
 ### [Open Data DC — DC Charter Schools (point locations)](https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about)
 
-🟢 authoritative · ⚠️ JS app (open in a browser) · _topics: profiles, gis_
+⚠️ JS app (open in a browser) · _topics: profiles, gis_
 
 - **Format:** GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API
 - **Updated:** Updated as campuses change (~annually)
@@ -1997,7 +1990,7 @@ _The city's open-data and GIS portal. Machine-readable school locations and atte
 
 ### [Open Data DC — School Attendance Zones (ES/MS/HS boundaries)](https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about)
 
-🟢 authoritative · ⚠️ JS app (open in a browser) · _topics: boundaries, gis_
+⚠️ JS app (open in a browser) · _topics: boundaries, gis_
 
 - **Format:** GIS polygon layers — Shapefile / GeoJSON / CSV + ArcGIS REST API
 - **Updated:** Updated on boundary revisions
@@ -2010,7 +2003,7 @@ _Nonprofit think tank. Its annual 'State of D.C. Schools' and data tools synthes
 
 ### [DC Policy Center — State of D.C. Schools (annual)](https://www.dcpolicycenter.org/publications/stateofdcschools2024-25/)
 
-⚪ third-party · _topics: enrollment, assessment, graduation, attendance, educators, landing_
+_topics: enrollment, assessment, graduation, attendance, educators, landing_
 
 - **Format:** Web page + full report PDF + one-pager (EN/ES)
 - **Updated:** Annual, spring (March)
@@ -2023,7 +2016,7 @@ _School-age / under-18 population — the citywide denominator for enrollment-pl
 
 ### [U.S. Census ACS — DC school-age / under-18 population](https://data.census.gov/)
 
-🟢 authoritative · _topics: population, projections_
+_topics: population, projections_
 
 - **Format:** Web tables / CSV / Census Data API
 - **Updated:** Annual (ACS 1-yr citywide; 5-yr for ward/tract)
@@ -2036,7 +2029,7 @@ _Nonprofit that builds the interactive dashboards over OSSE Report Card data tha
 
 ### [EmpowerK12 — DC school accountability/outcomes dashboards](https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings)
 
-⚪ third-party · _topics: accountability, assessment_
+_topics: accountability, assessment_
 
 - **Format:** Interactive dashboards
 - **Updated:** Updated when OSSE releases
@@ -2052,118 +2045,118 @@ The whole point of the catalog. For each metric below, the same numbers appear i
 OSSE's audited enrollment is the single authoritative count — independently verified each fall, cross-sector, and the basis for funding. DCPS and PCSB each republish only their own sector's slice (DCPS by school/grade; PCSB by tier/ward + market-share analysis). EdScape takes the same OSSE figures and geocodes them to neighborhoods/wards/boundaries and adds projections. The Report Card displays per-school enrollment for browsing. If numbers differ, trust OSSE audited; the others may use different rounding, vintage, or small-cell suppression.
 
 Where it appears:
-- [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment) — 🟢 authoritative (OSSE)
-- [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment) — 🟡 derived (sector subset) (DCPS)
-- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) — 🔵 republished (DC PCSB)
-- [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) — 🔵 republished (DME)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
+- [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment) (OSSE)
+- [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment) (DCPS)
+- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
+- [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) (DME)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
 
 ### School accountability ratings
 
 THESE ARE NOT THE SAME SCALE. OSSE's STAR rating is 1–5 stars and covers BOTH DCPS and charters. DC PCSB's School Quality Report (SQR), built on the ASPIRE system, scores charters 0–100 and assigns Tier 1/2/3 — charters only. The older PMF (archived at 2018-19) is yet another charter tiering. A charter can have both a STAR rating and an SQR tier that are not directly comparable. Always state which framework (and which year/version) a 'score' or 'tier' came from. EmpowerK12 re-presents the OSSE STAR data interactively.
 
 Where it appears:
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
-- [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide) — 🟢 authoritative (OSSE)
-- [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report) — 🟢 authoritative (DC PCSB)
-- [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system) — 🟢 authoritative (DC PCSB)
-- [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf) — 🔵 republished (DC PCSB)
-- [EmpowerK12 — DC school accountability/outcomes dashboards](https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings) — ⚪ third-party (EmpowerK12)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide) (OSSE)
+- [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report) (DC PCSB)
+- [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system) (DC PCSB)
+- [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf) (DC PCSB)
+- [EmpowerK12 — DC school accountability/outcomes dashboards](https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings) (EmpowerK12)
 
 ### Assessment / proficiency (ELA & math)
 
 OSSE is the authority — it administers DC CAPE (formerly PARCC) and posts cross-sector results plus the Report Card display. DCPS's downloadable PARCC/ assessment files cover only DCPS schools; PCSB's page covers only charters. The sector pages are convenient subsets but can lag OSSE and apply different suppression. For comparisons across sectors or years, use OSSE's files.
 
 Where it appears:
-- [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025) — 🟢 authoritative (OSSE)
-- [Statewide Assessment Results 2023-24 (+ older-year archive index)](https://osse.dc.gov/assessmentresults2024) — 🟢 authoritative (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
-- [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets) — 🟡 derived (sector subset) (DCPS)
-- [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc) — 🔵 republished (DC PCSB)
+- [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025) (OSSE)
+- [Statewide Assessment Results 2023-24 (+ older-year archive index)](https://osse.dc.gov/assessmentresults2024) (OSSE)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets) (DCPS)
+- [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc) (DC PCSB)
 
 ### Graduation rate (ACGR)
 
 OSSE publishes the official cross-sector 4- and 5-year ACGR with subgroups. DCPS's downloadable graduation dataset is the DCPS-only subset of the same calculation. Use OSSE for charter or cross-sector figures.
 
 Where it appears:
-- [High School Graduation Rates / ACGR](https://osse.dc.gov/service/high-school-graduation-rates-0) — 🟢 authoritative (OSSE)
-- [DCPS Data Set — Graduation Rates](https://dcps.dc.gov/node/1018352) — 🟡 derived (sector subset) (DCPS)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
+- [High School Graduation Rates / ACGR](https://osse.dc.gov/service/high-school-graduation-rates-0) (OSSE)
+- [DCPS Data Set — Graduation Rates](https://dcps.dc.gov/node/1018352) (DCPS)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
 
 ### Attendance / chronic absenteeism
 
 OSSE owns the citywide attendance metrics and leads with chronic absenteeism and chronic truancy (a 10% threshold), not 'in-seat attendance.' DCPS's at-a- glance PDFs are district-level aggregates; PCSB's report is charter-only. Watch the metric definition — 'attendance rate' (DCPS narrative) and 'chronic absenteeism' (OSSE) answer different questions.
 
 Where it appears:
-- [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting) — 🟢 authoritative (OSSE)
-- [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard) — 🟢 authoritative (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
-- [DCPS at a Glance: Attendance](https://dcps.dc.gov/node/1185940) — 🟡 derived (sector subset) (DCPS)
-- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) — 🔵 republished (DC PCSB)
+- [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting) (OSSE)
+- [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard) (OSSE)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DCPS at a Glance: Attendance](https://dcps.dc.gov/node/1185940) (DCPS)
+- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
 
 ### Discipline (suspensions/expulsions)
 
 OSSE's 'State of Discipline' report + the Report Card are the current cross-sector authority (by-school detail lives in PDF appendices). PCSB's own School Equity Reports carried charter discipline/mobility but are archived at SY2017-18 — PCSB now redirects to OSSE. Use OSSE for anything recent.
 
 Where it appears:
-- [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report) — 🟢 authoritative (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
-- [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports) — 🔵 republished (DC PCSB)
-- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) — 🔵 republished (DC PCSB)
+- [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report) (OSSE)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports) (DC PCSB)
+- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
 
 ### Demographics (race, SWD, EL, at-risk)
 
 OSSE's Report Card 'Aggregate Enrollment Data' Excel is the authoritative school-level demographic breakdown. EdScape recasts it by neighborhood/ward. DCPS and PCSB pages show only their own sector and often only district/sector totals. Small subgroups may be suppressed in OSSE files (0%/100% hidden).
 
 Where it appears:
-- [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library) — 🟢 authoritative (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
-- [EdScape (education landscape tool)](https://edscape.dc.gov/) — 🔵 republished (DME)
-- [DCPS at a Glance: Enrollment](https://dcps.dc.gov/node/966292) — 🟡 derived (sector subset) (DCPS)
-- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) — 🔵 republished (DC PCSB)
+- [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [EdScape (education landscape tool)](https://edscape.dc.gov/) (DME)
+- [DCPS at a Glance: Enrollment](https://dcps.dc.gov/node/966292) (DCPS)
+- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
 
 ### Per-pupil money
 
 These measure DIFFERENT things. OSSE's ESSA per-pupil EXPENDITURE reports show what was actually spent per pupil (cross-sector, ex-post). DCPS's budget portal shows ALLOCATIONS under the three-factor model (ex-ante, DCPS only). PCSB's finance pages show charter actuals/audits. Don't compare a DCPS allocation to an OSSE expenditure as if they're the same number.
 
 Where it appears:
-- [Report Card School Finance Data (per-pupil expenditures)](https://osse.dc.gov/page/dc-school-report-card-resource-library) — 🟢 authoritative (OSSE)
-- [DCPS Budget Transparency Portal](https://dcpsbudget.com/) — 🟢 authoritative (DCPS)
-- [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances) — 🟢 authoritative (DC PCSB)
+- [Report Card School Finance Data (per-pupil expenditures)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
+- [DCPS Budget Transparency Portal](https://dcpsbudget.com/) (DCPS)
+- [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances) (DC PCSB)
 
 ### Facilities, capacity & utilization
 
 EdScape Ch.3 and the Master Facilities Plan are the cross-sector planning views (capacity, utilization, projections) produced by DME with OSSE/DCPS/ PCSB/DGS. DCPS's modernizations page (+ DGS) covers only DCPS capital projects. For 'how full is each building citywide,' use EdScape/MFP; for 'what DCPS is renovating,' use DCPS/DGS.
 
 Where it appears:
-- [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index) — 🔵 republished (DME)
-- [DC Public Education Master Facilities Plan 2023](https://dme.dc.gov/mfp2023) — 🟢 authoritative (DME)
-- [2024 Master Facilities Plan Annual Supplement](https://dme.dc.gov/publication/2024-master-facilities-plan-supplement) — 🟢 authoritative (DME)
-- [DCPS Modernizations](https://dcps.dc.gov/page/modernizations) — 🟡 derived (sector subset) (DCPS)
-- [DME — Interactive School Facility Maps](https://dme.dc.gov/page/interactive-school-facility-maps) — 🔵 republished (DME)
+- [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index) (DME)
+- [DC Public Education Master Facilities Plan 2023](https://dme.dc.gov/mfp2023) (DME)
+- [2024 Master Facilities Plan Annual Supplement](https://dme.dc.gov/publication/2024-master-facilities-plan-supplement) (DME)
+- [DCPS Modernizations](https://dcps.dc.gov/page/modernizations) (DCPS)
+- [DME — Interactive School Facility Maps](https://dme.dc.gov/page/interactive-school-facility-maps) (DME)
 
 ### Boundaries & feeder patterns
 
 Only DCPS has attendance boundaries/feeders (charters are citywide-choice). DCPS publishes the human-readable feeder PDFs and address lookup; Open Data DC has the GIS polygon shapefiles (current + historical vintages); DME owns the boundary POLICY and the 2023 study data. EdScape shows how enrollment actually flows across those boundaries.
 
 Where it appears:
-- [DCPS Feeder Patterns](https://dcps.dc.gov/feederpatterns) — 🟢 authoritative (DCPS)
-- [Find Your In-Boundary School (address lookup)](https://enrolldcps.dc.gov/node/41) — 🟢 authoritative (DCPS)
-- [Open Data DC — School Attendance Zones (ES/MS/HS boundaries)](https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about) — 🟢 authoritative (Open Data DC)
-- [DME — Boundary and Student Assignment Study 2023 (data supplement)](https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement) — 🟢 authoritative (DME)
-- [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) — 🔵 republished (DME)
+- [DCPS Feeder Patterns](https://dcps.dc.gov/feederpatterns) (DCPS)
+- [Find Your In-Boundary School (address lookup)](https://enrolldcps.dc.gov/node/41) (DCPS)
+- [Open Data DC — School Attendance Zones (ES/MS/HS boundaries)](https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about) (Open Data DC)
+- [DME — Boundary and Student Assignment Study 2023 (data supplement)](https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement) (DME)
+- [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) (DME)
 
 ### School directory / locations
 
 For machine-readable locations of all schools, use Open Data DC GIS (separate DCPS and charter layers). For human browsing, DCPS Profiles (DCPS only) and PCSB School Profiles / Directory (charter only) are the directories; the Report Card lists both sectors. School-ID crosswalks: DCPS School Directory PDF and the OSSE enrollment files.
 
 Where it appears:
-- [Open Data DC — DC Public Schools (point locations)](https://opendata.dc.gov/datasets/dc-public-schools/about) — 🟢 authoritative (Open Data DC)
-- [Open Data DC — DC Charter Schools (point locations)](https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about) — 🟢 authoritative (Open Data DC)
-- [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/) — 🟡 derived (sector subset) (DCPS)
-- [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles) — 🟢 authoritative (DC PCSB)
-- [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory) — 🟢 authoritative (DC PCSB)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) — 🟢 authoritative (OSSE)
+- [Open Data DC — DC Public Schools (point locations)](https://opendata.dc.gov/datasets/dc-public-schools/about) (Open Data DC)
+- [Open Data DC — DC Charter Schools (point locations)](https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about) (Open Data DC)
+- [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/) (DCPS)
+- [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles) (DC PCSB)
+- [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory) (DC PCSB)
+- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
 
 ## Known gaps & files needing a browser
 

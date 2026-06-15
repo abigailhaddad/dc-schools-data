@@ -85,6 +85,7 @@ def infer_topics(text: str) -> list[str]:
 
 
 def infer_year(section: str, text: str, href: str) -> str:
+    href = unquote(href)            # decode first: %20 in URLs creates phantom years
     for s in (text, section):                       # explicit year label wins
         m = re.search(r"\b(20\d{2})\b", s.replace("\xa0", " "))
         if m:

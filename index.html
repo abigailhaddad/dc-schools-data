@@ -10,10 +10,6 @@
   .topbar { background:#1b365d; color:#fff; }
   .src-card { background:#fff; border:1px solid #e3e6ea; border-radius:.5rem; padding:1rem 1.25rem; margin-bottom:.85rem; }
   .src-card h5 { margin-bottom:.35rem; }
-  .badge-auth-authoritative { background:#1e7e34; }
-  .badge-auth-derived       { background:#b8860b; }
-  .badge-auth-republished   { background:#2a6db0; }
-  .badge-auth-third-party   { background:#6c757d; }
   .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
   .topic-btn { font-size:.82rem; cursor:pointer; background:#fff; border:1px solid #c5ccd6; color:#234; border-radius:1rem; padding:.18rem .75rem; margin:.15rem .3rem .15rem 0; display:inline-block; }
   .topic-btn:hover { border-color:#1b365d; }
@@ -49,9 +45,8 @@
       <input id="q" type="search" class="form-control form-control-lg"
              placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
     </div>
-    <div class="col-6 col-lg-3"><select id="owner" class="form-select"></select></div>
-    <div class="col-4 col-lg-3"><select id="authority" class="form-select"></select></div>
-    <div class="col-2 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
+    <div class="col-8 col-lg-4"><select id="owner" class="form-select"></select></div>
+    <div class="col-4 col-lg-2 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
   </div>
 
   <div id="topicchips" class="mb-3"></div>
@@ -84,16 +79,8 @@ if (!window.CATALOG) {
 }
 
 const CAT = window.CATALOG;
-const AUTH_LABEL = {
-  "authoritative": "🟢 authoritative",
-  "derived": "🟡 sector subset",
-  "republished": "🔵 republished",
-  "third-party": "⚪ third-party",
-};
-const AUTH_RANK = { "authoritative": 3, "republished": 2, "derived": 1, "third-party": 0 };
-
 // single home for filter state — nothing else writes these
-const state = { q: "", owner: "", topic: "", authority: "", view: "files" };
+const state = { q: "", owner: "", topic: "", view: "files" };
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -120,7 +107,6 @@ function matches(source) {
   if (!terms.every(t => source.search.includes(t))) return false;
   if (state.owner && source.owner !== state.owner) return false;
   if (state.topic && !source.topics.includes(state.topic)) return false;
-  if (state.authority && source.authority !== state.authority) return false;
   return true;
 }
 
@@ -160,7 +146,6 @@ function sourceCard(source, terms) {
     + '<h5><a href="' + esc(source.url) + '" target="_blank" rel="noopener">'
     + highlight(esc(source.name), terms) + "</a></h5>"
     + '<div class="mb-1">'
-    + '<span class="badge badge-auth-' + esc(source.authority) + '">' + esc(AUTH_LABEL[source.authority] || source.authority) + "</span> "
     + '<span class="badge bg-light text-dark border">' + esc(source.owner) + "</span> "
     + (source.status && source.status !== "ok" ? '<span class="badge bg-warning text-dark">' + esc(source.status) + "</span>" : "")
     + "</div><div class=\"mb-1\">" + topics + "</div>"
@@ -192,8 +177,7 @@ function renderOverlaps() {
   document.getElementById("overlaps").innerHTML = hits.map(ov => {
     const links = ov.sources.map(s =>
       '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.name)
-      + "</a> <span class=\"badge badge-auth-" + esc(s.authority) + "\">"
-      + esc(AUTH_LABEL[s.authority] || s.authority) + "</span> <span class=\"text-muted small\">" + esc(s.owner) + "</span></li>").join("");
+      + "</a> <span class=\"text-muted small\">" + esc(s.owner) + "</span></li>").join("");
     return '<div class="overlap-card"><h5>' + highlight(esc(ov.topic), terms) + "</h5>"
       + '<p class="note">' + highlight(esc(ov.difference), terms) + "</p>"
       + "<ul class=\"mb-0\">" + links + "</ul></div>";
@@ -264,7 +248,6 @@ function renderFiles() {
   const hits = ALL_FILES.filter(e => {
     if (state.owner && e.owner !== state.owner) return false;
     if (state.topic && !(e.file.topics || []).includes(state.topic)) return false;
-    if (state.authority && e.file.authority !== state.authority) return false;
     return terms.every(t => fileTermMatch(e.text, t));
   });
 
@@ -343,7 +326,6 @@ function render() {
   for (const b of document.querySelectorAll("#topicchips .topic-btn"))
     b.classList.toggle("active", b.dataset.topic === state.topic);
   document.getElementById("owner").value = state.owner;
-  document.getElementById("authority").value = state.authority;
   VIEWS[state.view].render();
 }
 
@@ -360,8 +342,6 @@ function fillSelect(id, values, allLabel) {
 
 const ownersWithSources = CAT.owners.map(o => o.key).filter(k => CAT.sources.some(s => s.owner === k));
 fillSelect("owner", ownersWithSources, "All owners");
-fillSelect("authority", ["authoritative", "derived", "republished", "third-party"], "Any authority");
-
 // clickable topic categories -> set state.topic (one click filters everything)
 const TOPIC_CHIPS = [
   ["Enrollment", "enrollment"], ["Demographics", "demographics"], ["Test scores", "assessment"],
@@ -387,11 +367,10 @@ document.getElementById("verified").textContent = "Last verified " + CAT.last_ve
 // ----- bind events once (elements are long-lived; no re-binding) -----
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("owner").addEventListener("change", e => { state.owner = e.target.value; render(); });
-document.getElementById("authority").addEventListener("change", e => { state.authority = e.target.value; render(); });
 document.getElementById("clear").addEventListener("click", () => {
-  state.q = state.owner = state.topic = state.authority = "";
+  state.q = state.owner = state.topic = "";
   document.getElementById("q").value = "";
-  for (const id of ["owner", "authority"]) document.getElementById(id).value = "";
+  document.getElementById("owner").value = "";
   render();
 });
 for (const [name, v] of Object.entries(VIEWS)) {

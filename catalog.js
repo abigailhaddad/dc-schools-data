@@ -63,7 +63,6 @@ window.CATALOG = {
     "finance",
     "demographics"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web portal of links to files & dashboards",
    "cadence": "Rolling; underlying datasets annual",
@@ -87,7 +86,6 @@ window.CATALOG = {
     "finance",
     "educators"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel (.xlsx) files (some via Box) + PDF technical guides",
    "cadence": "Annual; new section posted ~December",
@@ -100,7 +98,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -348,7 +345,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -603,7 +599,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -720,7 +715,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -835,7 +829,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -950,7 +943,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1014,7 +1006,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1129,7 +1120,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1199,7 +1189,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1269,7 +1258,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1339,7 +1327,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1421,7 +1408,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1506,7 +1492,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1621,7 +1606,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1682,7 +1666,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1742,7 +1725,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1878,7 +1860,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1924,7 +1905,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -1981,7 +1961,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2073,7 +2052,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2183,7 +2161,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2228,7 +2205,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2273,7 +2249,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2356,7 +2331,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2492,7 +2466,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2567,7 +2540,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2619,7 +2591,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2734,7 +2705,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2807,7 +2777,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2922,7 +2891,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -2986,7 +2954,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -3071,7 +3038,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -3117,7 +3083,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -3190,7 +3155,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -3251,7 +3215,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -3366,7 +3329,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4162,7 +4124,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4399,7 +4360,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4492,7 +4452,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4555,7 +4514,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4607,7 +4565,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4747,7 +4704,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4822,7 +4778,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4937,7 +4892,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -4998,7 +4952,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5062,7 +5015,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5135,7 +5087,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5250,7 +5201,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5291,7 +5241,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5376,7 +5325,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5491,7 +5439,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5537,7 +5484,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5607,7 +5553,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5750,7 +5695,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5825,7 +5769,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -5940,7 +5883,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6055,7 +5997,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6119,7 +6060,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6204,7 +6144,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6277,7 +6216,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6359,7 +6297,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6474,7 +6411,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6526,7 +6462,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6596,7 +6531,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6672,7 +6606,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6747,7 +6680,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6862,7 +6794,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6913,7 +6844,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -6986,7 +6916,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7044,7 +6973,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7159,7 +7087,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7214,7 +7141,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7296,7 +7222,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7380,7 +7305,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7453,7 +7377,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7521,7 +7444,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7664,7 +7586,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "needs_browser",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7683,7 +7604,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7751,7 +7671,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -7977,7 +7896,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment",
       "attendance",
@@ -8097,7 +8015,6 @@ window.CATALOG = {
     "demographics",
     "profiles"
    ],
-   "authority": "authoritative",
    "status": "js-rendered",
    "format": "Interactive web app (search/browse; not bulk download)",
    "cadence": "Annual, refreshed ~December with prior school year",
@@ -8110,7 +8027,6 @@ window.CATALOG = {
      "kind": "csv",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "accountability",
       "assessment",
@@ -8146,7 +8062,6 @@ window.CATALOG = {
     "accountability",
     "methodology"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF (one per year)",
    "cadence": "Annual, with each report card release",
@@ -8159,7 +8074,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "accountability",
       "methodology"
@@ -8246,7 +8160,6 @@ window.CATALOG = {
    "topics": [
     "assessment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel files (hosted on Box) + PDF deck",
    "cadence": "Annual, released late summer/fall",
@@ -8259,7 +8172,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8364,7 +8276,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8471,7 +8382,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024-25",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8585,7 +8495,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024-25",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8675,7 +8584,6 @@ window.CATALOG = {
    "topics": [
     "assessment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel (Box) + PDF",
    "cadence": "Annual",
@@ -8688,7 +8596,6 @@ window.CATALOG = {
      "kind": "csv",
      "year": "2014-15 to 2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8727,7 +8634,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8860,7 +8766,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -8993,7 +8898,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023-24",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9136,7 +9040,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9302,7 +9205,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9452,7 +9354,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9636,7 +9537,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022-23",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9695,7 +9595,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9774,7 +9673,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9851,7 +9749,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021-22",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -9950,7 +9847,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10029,7 +9925,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10108,7 +10003,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10207,7 +10101,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10254,7 +10147,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2018-19",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10353,7 +10245,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10432,7 +10323,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10511,7 +10401,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10610,7 +10499,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10657,7 +10545,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10756,7 +10643,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2017-18",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10871,7 +10757,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -10950,7 +10835,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11029,7 +10913,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11119,7 +11002,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11218,7 +11100,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2016-17",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11265,7 +11146,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11339,7 +11219,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11413,7 +11292,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2015-16",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11460,7 +11338,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11527,7 +11404,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11596,7 +11472,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11665,7 +11540,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11728,7 +11602,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11778,7 +11651,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2014-15",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "assessment"
      ],
@@ -11834,7 +11706,6 @@ window.CATALOG = {
     "enrollment",
     "demographics"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Per-year PDF audit report + Excel (.xlsx) data",
    "cadence": "Annual; fall count, finalized ~winter (Jan/Feb)",
@@ -11852,7 +11723,6 @@ window.CATALOG = {
     "demographics",
     "enrollment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel (.xlsx)",
    "cadence": "Annual",
@@ -11865,7 +11735,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "demographics",
       "enrollment"
@@ -11917,7 +11786,6 @@ window.CATALOG = {
     "demographics",
     "special-education"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF + Excel",
    "cadence": "Annual (federal FFY cycle)",
@@ -11934,7 +11802,6 @@ window.CATALOG = {
    "topics": [
     "attendance"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF report + 2 mid-year briefs + Excel files",
    "cadence": "Full report ~November; mid-year briefs during the year",
@@ -11947,7 +11814,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024-25",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "attendance"
      ],
@@ -12011,7 +11877,6 @@ window.CATALOG = {
    "topics": [
     "attendance"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Interactive dashboard + user-guide PDF",
    "cadence": "Monthly updates (cumulative year-to-date, not real-time)",
@@ -12028,7 +11893,6 @@ window.CATALOG = {
    "topics": [
     "graduation"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Recent years: direct Excel (.xlsx); older years: /publication/ pages",
    "cadence": "Annual, released ~winter for prior spring cohort",
@@ -12045,7 +11909,6 @@ window.CATALOG = {
    "topics": [
     "discipline"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF reports (school detail in appendices); rare supplementary Excel",
    "cadence": "Annual (latest 2024-25 dated 12/30/2025)",
@@ -12062,7 +11925,6 @@ window.CATALOG = {
    "topics": [
     "finance"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel (.xlsx)",
    "cadence": "Annual",
@@ -12075,7 +11937,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -12149,7 +12010,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -12240,7 +12100,6 @@ window.CATALOG = {
    "topics": [
     "educators"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF reports + Excel (.xlsx) at state/LEA/school level",
    "cadence": "Comprehensive reports biennial; retention briefs annual",
@@ -12258,7 +12117,6 @@ window.CATALOG = {
     "early-childhood",
     "enrollment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF",
    "cadence": "Annual",
@@ -12276,7 +12134,6 @@ window.CATALOG = {
     "early-childhood",
     "finance"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF + linked data",
    "cadence": "Mixed — quarterly subsidy/educator reports; cost model every ~3 years",
@@ -12294,7 +12151,6 @@ window.CATALOG = {
     "accountability",
     "methodology"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page linking PDFs",
    "cadence": "Updated on amendment",
@@ -12314,7 +12170,6 @@ window.CATALOG = {
     "graduation",
     "landing"
    ],
-   "authority": "authoritative",
    "status": "login-required",
    "format": "Public PDF/Excel/Tableau links + login-gated Qlik Sense reports",
    "cadence": "Varies; most annual",
@@ -12331,7 +12186,6 @@ window.CATALOG = {
    "topics": [
     "landing"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Web page (link directory)",
    "cadence": "As underlying resources change",
@@ -12349,7 +12203,6 @@ window.CATALOG = {
     "enrollment",
     "demographics"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Web page, static HTML tables",
    "cadence": "Annual, after fall audited-enrollment release",
@@ -12366,7 +12219,6 @@ window.CATALOG = {
    "topics": [
     "attendance"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "PDF reports (one per year)",
    "cadence": "Annual",
@@ -12386,7 +12238,6 @@ window.CATALOG = {
     "graduation",
     "attendance"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Web page indexing Excel (.xlsx) files",
    "cadence": "Varies by dataset",
@@ -12403,7 +12254,6 @@ window.CATALOG = {
    "topics": [
     "enrollment"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Excel (.xlsx), one file per year",
    "cadence": "Annual, after audit certification",
@@ -12420,7 +12270,6 @@ window.CATALOG = {
    "topics": [
     "graduation"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Excel (.xlsx), one file per year",
    "cadence": "Annual",
@@ -12439,7 +12288,6 @@ window.CATALOG = {
     "demographics",
     "landing"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "PDF (2-page fact sheet)",
    "cadence": "Annual (2025 ed. published Mar 2025)",
@@ -12458,7 +12306,6 @@ window.CATALOG = {
     "enrollment",
     "boundaries"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Interactive web app",
    "cadence": "~Annual; enrollment updates each year",
@@ -12476,7 +12323,6 @@ window.CATALOG = {
     "surveys",
     "school-climate"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF + Excel aggregates; interactive Panorama portal",
    "cadence": "Annual (administered each spring)",
@@ -12493,7 +12339,6 @@ window.CATALOG = {
    "topics": [
     "finance"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web portal + downloadable Excel spreadsheets",
    "cadence": "Annual budget cycle (initial budgets ~late winter/spring)",
@@ -12511,7 +12356,6 @@ window.CATALOG = {
     "strategy",
     "outcomes"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page + linked PDF plan",
    "cadence": "Plan per 5-year cycle; metrics updated periodically",
@@ -12528,7 +12372,6 @@ window.CATALOG = {
    "topics": [
     "equity"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Web page + PDF framework (2018)",
    "cadence": "Infrequent",
@@ -12545,7 +12388,6 @@ window.CATALOG = {
    "topics": [
     "boundaries"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page linking per-year PDFs",
    "cadence": "Annual",
@@ -12562,7 +12404,6 @@ window.CATALOG = {
    "topics": [
     "boundaries"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Interactive address-lookup tool",
    "cadence": "Updated when boundaries/feeders change",
@@ -12579,7 +12420,6 @@ window.CATALOG = {
    "topics": [
     "facilities"
    ],
-   "authority": "derived",
    "status": "ok",
    "format": "Web page + PACE prioritization PDF",
    "cadence": "Updated as projects change",
@@ -12596,7 +12436,6 @@ window.CATALOG = {
    "topics": [
     "profiles"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF (per year)",
    "cadence": "Annual",
@@ -12617,7 +12456,6 @@ window.CATALOG = {
     "equity",
     "profiles"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web portal (links to PDF / Excel / Egnyte / Google Sheets)",
    "cadence": "Continuously updated; docs annual",
@@ -12637,7 +12475,6 @@ window.CATALOG = {
     "assessment",
     "graduation"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page (links to sub-dashboards)",
    "cadence": "Annual",
@@ -12655,7 +12492,6 @@ window.CATALOG = {
     "enrollment",
     "demographics"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Static tables + spreadsheet download + link to OSSE",
    "cadence": "Annual",
@@ -12672,7 +12508,6 @@ window.CATALOG = {
    "topics": [
     "assessment"
    ],
-   "authority": "republished",
    "status": "unstable",
    "format": "Web page / dashboard",
    "cadence": "Annual",
@@ -12690,7 +12525,6 @@ window.CATALOG = {
     "profiles",
     "accountability"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Interactive searchable directory",
    "cadence": "Updated yearly / as schools open/close",
@@ -12707,7 +12541,6 @@ window.CATALOG = {
    "topics": [
     "profiles"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "PDF",
    "cadence": "Annual (school year)",
@@ -12724,7 +12557,6 @@ window.CATALOG = {
    "topics": [
     "accountability"
    ],
-   "authority": "authoritative",
    "status": "unstable",
    "format": "Web page / per-school report",
    "cadence": "Annual (released fall)",
@@ -12742,7 +12574,6 @@ window.CATALOG = {
     "accountability",
     "methodology"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page (framework docs / PDF)",
    "cadence": "Annual",
@@ -12760,7 +12591,6 @@ window.CATALOG = {
     "accountability",
     "methodology"
    ],
-   "authority": "republished",
    "status": "stale",
    "format": "PDF books/guides + Excel data files (via Egnyte)",
    "cadence": "Was annual",
@@ -12773,7 +12603,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -12862,7 +12691,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -12931,7 +12759,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13018,9 +12845,8 @@ window.CATALOG = {
      "name": "PMF Archive — Final PMF Book 2015 2 29 2016",
      "url": "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf",
      "kind": "pdf",
-     "year": "2029",
+     "year": "2016",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13087,9 +12913,8 @@ window.CATALOG = {
      "name": "PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1",
      "url": "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf",
      "kind": "pdf",
-     "year": "2017",
+     "year": "2015",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13197,7 +13022,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2013",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13266,9 +13090,8 @@ window.CATALOG = {
      "name": "PMF Archive — 2014TechnicalGuide 01 10 14 FINAL",
      "url": "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf",
      "kind": "pdf",
-     "year": "2001",
+     "year": "2014",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13373,7 +13196,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2013",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13453,7 +13275,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2012",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "accountability",
       "methodology"
@@ -13569,7 +13390,6 @@ window.CATALOG = {
     "discipline",
     "attendance"
    ],
-   "authority": "republished",
    "status": "stale",
    "format": "PDF (via Egnyte)",
    "cadence": "Was annual",
@@ -13582,7 +13402,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13601,7 +13420,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13657,7 +13475,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13705,7 +13522,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13761,7 +13577,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13809,7 +13624,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13857,7 +13671,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13905,7 +13718,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -13953,7 +13765,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "equity",
       "discipline",
@@ -14007,7 +13818,6 @@ window.CATALOG = {
     "discipline",
     "attendance"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Web page / PDF",
    "cadence": "Annual",
@@ -14020,7 +13830,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022-23",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "discipline",
       "attendance"
@@ -14117,7 +13926,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "discipline",
       "attendance"
@@ -14192,7 +14000,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "discipline",
       "attendance"
@@ -14275,7 +14082,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020-14",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "discipline",
       "attendance"
@@ -14291,7 +14097,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "discipline",
       "attendance"
@@ -14373,7 +14178,6 @@ window.CATALOG = {
    "topics": [
     "finance"
    ],
-   "authority": "authoritative",
    "status": "unstable",
    "format": "Web page / PDF / Excel (much via Egnyte)",
    "cadence": "Annual",
@@ -14386,7 +14190,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -14458,7 +14261,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -14532,7 +14334,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -14643,7 +14444,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2010",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "finance"
      ],
@@ -14765,7 +14565,6 @@ window.CATALOG = {
     "profiles",
     "openings-closures"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page + Google Sheet",
    "cadence": "Updated as events occur",
@@ -14783,7 +14582,6 @@ window.CATALOG = {
     "governance",
     "openings-closures"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Event calendar (agendas/minutes as PDF)",
    "cadence": "Monthly board meetings",
@@ -14804,7 +14602,6 @@ window.CATALOG = {
     "facilities",
     "boundaries"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Interactive Tableau dashboards + Excel downloads + PDF summaries",
    "cadence": "Rolling, several releases/year",
@@ -14821,7 +14618,6 @@ window.CATALOG = {
    "topics": [
     "methodology"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Web page (changelog)",
    "cadence": "Updated with each release",
@@ -14839,7 +14635,6 @@ window.CATALOG = {
     "enrollment",
     "boundaries"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Interactive dashboards + Excel",
    "cadence": "Annual+",
@@ -14852,7 +14647,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -14990,7 +14784,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15065,7 +14858,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15145,7 +14937,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15256,7 +15047,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15304,7 +15094,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15401,7 +15190,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15553,7 +15341,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15598,7 +15385,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "republished",
      "topics": [
       "enrollment",
       "boundaries"
@@ -15664,7 +15450,6 @@ window.CATALOG = {
    "topics": [
     "facilities"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Interactive dashboards + maps + Excel",
    "cadence": "Annual+",
@@ -15682,7 +15467,6 @@ window.CATALOG = {
     "facilities",
     "landing"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web page (service hub)",
    "cadence": "As-needed",
@@ -15701,7 +15485,6 @@ window.CATALOG = {
     "enrollment",
     "projections"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Report PDF + Excel appendices (via Box)",
    "cadence": "~Every 5 years (full plan)",
@@ -15720,7 +15503,6 @@ window.CATALOG = {
     "projections",
     "enrollment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Report PDF + Excel appendices",
    "cadence": "Annual supplement",
@@ -15739,7 +15521,6 @@ window.CATALOG = {
     "enrollment",
     "demographics"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Excel datasheets + PDFs + interactive maps",
    "cadence": "One-time study (2023)",
@@ -15758,7 +15539,6 @@ window.CATALOG = {
     "facilities",
     "boundaries"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Downloadable Excel/CSV/PDF",
    "cadence": "Legacy/archival",
@@ -15775,7 +15555,6 @@ window.CATALOG = {
    "topics": [
     "facilities"
    ],
-   "authority": "republished",
    "status": "ok",
    "format": "Interactive Tableau maps + data downloads (recent years)",
    "cadence": "Annual (one map per school year)",
@@ -15793,7 +15572,6 @@ window.CATALOG = {
     "lottery",
     "enrollment"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Report PDFs + Excel/CSV + interactive Tableau (waitlist movement)",
    "cadence": "Annual; results each spring (Mar/Apr)",
@@ -15806,7 +15584,6 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "unknown",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -15863,7 +15640,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -15938,7 +15714,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -15956,7 +15731,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -15974,7 +15748,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -15992,7 +15765,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16010,7 +15782,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16028,7 +15799,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16046,7 +15816,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16064,7 +15833,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16082,7 +15850,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16100,7 +15867,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16118,7 +15884,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16136,7 +15901,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16154,7 +15918,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16172,7 +15935,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16196,7 +15958,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16220,7 +15981,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16244,7 +16004,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16273,7 +16032,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16302,7 +16060,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16336,7 +16093,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16395,7 +16151,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16454,7 +16209,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16481,7 +16235,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16508,7 +16261,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16535,7 +16287,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16562,7 +16313,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16589,7 +16339,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16648,7 +16397,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16707,7 +16455,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16766,7 +16513,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16825,7 +16571,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16884,7 +16629,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -16943,7 +16687,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17002,7 +16745,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17061,7 +16803,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17087,7 +16828,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17113,7 +16853,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17139,7 +16878,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17165,7 +16903,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17191,7 +16928,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17219,7 +16955,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17247,7 +16982,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17275,7 +17009,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17303,7 +17036,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17331,7 +17063,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17359,7 +17090,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17387,7 +17117,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17415,7 +17144,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17443,7 +17171,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17471,7 +17198,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17499,7 +17225,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17527,7 +17252,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17555,7 +17279,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17583,7 +17306,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17611,7 +17333,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17639,7 +17360,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17666,7 +17386,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17693,7 +17412,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17720,7 +17438,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17747,7 +17464,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17774,7 +17490,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17801,7 +17516,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17828,7 +17542,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17855,7 +17568,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17882,7 +17594,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17909,7 +17620,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17935,7 +17645,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17961,7 +17670,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -17987,7 +17695,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18014,7 +17721,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18041,7 +17747,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18068,7 +17773,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18095,7 +17799,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18122,7 +17825,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18149,7 +17851,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18176,7 +17877,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18203,7 +17903,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18230,7 +17929,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18257,7 +17955,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18281,7 +17978,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18305,7 +18001,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18323,7 +18018,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18347,7 +18041,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18371,7 +18064,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18395,7 +18087,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18419,7 +18110,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18443,7 +18133,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18461,7 +18150,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18479,7 +18167,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18497,7 +18184,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18515,7 +18201,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18533,7 +18218,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18557,7 +18241,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18581,7 +18264,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18605,7 +18287,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18629,7 +18310,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18653,7 +18333,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18677,7 +18356,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18701,7 +18379,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18725,7 +18402,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18749,7 +18425,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18773,7 +18448,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18797,7 +18471,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18821,7 +18494,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18845,7 +18517,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2026",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18872,7 +18543,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2025",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18899,7 +18569,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2024",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18926,7 +18595,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2023",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18953,7 +18621,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2022",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -18980,7 +18647,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2021",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19007,7 +18673,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2020",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19034,7 +18699,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2019",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19061,7 +18725,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2018",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19088,7 +18751,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2017",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19115,7 +18777,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2016",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19142,7 +18803,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2015",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19169,7 +18829,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "2014",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19196,7 +18855,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19214,7 +18872,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19308,7 +18965,6 @@ window.CATALOG = {
      "kind": "pdf",
      "year": "unknown",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "lottery",
       "enrollment"
@@ -19379,7 +19035,6 @@ window.CATALOG = {
     "profiles",
     "gis"
    ],
-   "authority": "authoritative",
    "status": "js-rendered",
    "format": "GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API",
    "cadence": "Updated as schools change (~annually)",
@@ -19392,7 +19047,6 @@ window.CATALOG = {
      "kind": "csv",
      "year": "current",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "profiles",
       "gis"
@@ -19449,7 +19103,6 @@ window.CATALOG = {
     "profiles",
     "gis"
    ],
-   "authority": "authoritative",
    "status": "js-rendered",
    "format": "GIS — Shapefile / GeoJSON / CSV / KML + ArcGIS REST API",
    "cadence": "Updated as campuses change (~annually)",
@@ -19462,7 +19115,6 @@ window.CATALOG = {
      "kind": "csv",
      "year": "current",
      "status": "ok",
-     "authority": "authoritative",
      "topics": [
       "profiles",
       "gis"
@@ -19517,7 +19169,6 @@ window.CATALOG = {
     "boundaries",
     "gis"
    ],
-   "authority": "authoritative",
    "status": "js-rendered",
    "format": "GIS polygon layers — Shapefile / GeoJSON / CSV + ArcGIS REST API",
    "cadence": "Updated on boundary revisions",
@@ -19539,7 +19190,6 @@ window.CATALOG = {
     "educators",
     "landing"
    ],
-   "authority": "third-party",
    "status": "ok",
    "format": "Web page + full report PDF + one-pager (EN/ES)",
    "cadence": "Annual, spring (March)",
@@ -19557,7 +19207,6 @@ window.CATALOG = {
     "population",
     "projections"
    ],
-   "authority": "authoritative",
    "status": "ok",
    "format": "Web tables / CSV / Census Data API",
    "cadence": "Annual (ACS 1-yr citywide; 5-yr for ward/tract)",
@@ -19575,7 +19224,6 @@ window.CATALOG = {
     "accountability",
     "assessment"
    ],
-   "authority": "third-party",
    "status": "ok",
    "format": "Interactive dashboards",
    "cadence": "Updated when OSSE releases",
@@ -19593,32 +19241,27 @@ window.CATALOG = {
     {
      "name": "Audited Enrollment Reports & Data",
      "url": "https://osse.dc.gov/enrollment",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DCPS Data Set — Enrollment",
      "url": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "Charter Student Enrollment",
      "url": "https://dcpcsb.org/student-enrollment",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     },
     {
      "name": "EdScape — Enrollment Patterns (cross-sector / where students attend)",
      "url": "https://edscape.dc.gov/page/enrollment-patterns-index",
-     "owner": "DME",
-     "authority": "republished"
+     "owner": "DME"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     }
    ]
   },
@@ -19629,38 +19272,32 @@ window.CATALOG = {
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DC School Report Card & STAR Framework Technical Guide",
      "url": "https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "School Quality Report (SQR)",
      "url": "https://dcpcsb.org/families/school-quality-report",
-     "owner": "DC PCSB",
-     "authority": "authoritative"
+     "owner": "DC PCSB"
     },
     {
      "name": "ASPIRE System (current charter accountability framework)",
      "url": "https://dcpcsb.org/aspire-system",
-     "owner": "DC PCSB",
-     "authority": "authoritative"
+     "owner": "DC PCSB"
     },
     {
      "name": "Performance Management Framework (PMF) — archive",
      "url": "https://dcpcsb.org/performance-management-framework-pmf",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     },
     {
      "name": "EmpowerK12 — DC school accountability/outcomes dashboards",
      "url": "https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings",
-     "owner": "EmpowerK12",
-     "authority": "third-party"
+     "owner": "EmpowerK12"
     }
    ]
   },
@@ -19671,32 +19308,27 @@ window.CATALOG = {
     {
      "name": "Statewide Assessment Results 2024-25 (DC CAPE / MSAA)",
      "url": "https://osse.dc.gov/assessmentresults2025",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "Statewide Assessment Results 2023-24 (+ older-year archive index)",
      "url": "https://osse.dc.gov/assessmentresults2024",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DCPS Downloadable Data Sets (index)",
      "url": "https://dcps.dc.gov/service/dcps-downloadable-data-sets",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "Statewide Assessment Results (charter)",
      "url": "https://dcpcsb.org/test-results-parcc",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     }
    ]
   },
@@ -19707,20 +19339,17 @@ window.CATALOG = {
     {
      "name": "High School Graduation Rates / ACGR",
      "url": "https://osse.dc.gov/service/high-school-graduation-rates-0",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DCPS Data Set — Graduation Rates",
      "url": "https://dcps.dc.gov/node/1018352",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     }
    ]
   },
@@ -19731,32 +19360,27 @@ window.CATALOG = {
     {
      "name": "School Year Attendance Reporting (chronic absenteeism/truancy)",
      "url": "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "OSSE Attendance Dashboard",
      "url": "https://osse.dc.gov/attendancedashboard",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DCPS at a Glance: Attendance",
      "url": "https://dcps.dc.gov/node/1185940",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "Annual Discipline & Attendance Report (charter)",
      "url": "https://dcpcsb.org/attendance-and-discipline-report",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     }
    ]
   },
@@ -19767,26 +19391,22 @@ window.CATALOG = {
     {
      "name": "OSSE Discipline Report ('State of Discipline')",
      "url": "https://osse.dc.gov/page/discipline-report",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "School Equity Reports (charter)",
      "url": "https://dcpcsb.org/school-equity-reports",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     },
     {
      "name": "Annual Discipline & Attendance Report (charter)",
      "url": "https://dcpcsb.org/attendance-and-discipline-report",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     }
    ]
   },
@@ -19797,32 +19417,27 @@ window.CATALOG = {
     {
      "name": "Report Card Aggregate Enrollment Data (demographics file)",
      "url": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "EdScape (education landscape tool)",
      "url": "https://edscape.dc.gov/",
-     "owner": "DME",
-     "authority": "republished"
+     "owner": "DME"
     },
     {
      "name": "DCPS at a Glance: Enrollment",
      "url": "https://dcps.dc.gov/node/966292",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "Charter Student Enrollment",
      "url": "https://dcpcsb.org/student-enrollment",
-     "owner": "DC PCSB",
-     "authority": "republished"
+     "owner": "DC PCSB"
     }
    ]
   },
@@ -19833,20 +19448,17 @@ window.CATALOG = {
     {
      "name": "Report Card School Finance Data (per-pupil expenditures)",
      "url": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     },
     {
      "name": "DCPS Budget Transparency Portal",
      "url": "https://dcpsbudget.com/",
-     "owner": "DCPS",
-     "authority": "authoritative"
+     "owner": "DCPS"
     },
     {
      "name": "Charter School Finances (spending, budgets, audits, 990s)",
      "url": "https://dcpcsb.org/school-finances",
-     "owner": "DC PCSB",
-     "authority": "authoritative"
+     "owner": "DC PCSB"
     }
    ]
   },
@@ -19857,32 +19469,27 @@ window.CATALOG = {
     {
      "name": "EdScape — Public School Facilities (capacity/utilization/locations)",
      "url": "https://edscape.dc.gov/page/facilities-index",
-     "owner": "DME",
-     "authority": "republished"
+     "owner": "DME"
     },
     {
      "name": "DC Public Education Master Facilities Plan 2023",
      "url": "https://dme.dc.gov/mfp2023",
-     "owner": "DME",
-     "authority": "authoritative"
+     "owner": "DME"
     },
     {
      "name": "2024 Master Facilities Plan Annual Supplement",
      "url": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
-     "owner": "DME",
-     "authority": "authoritative"
+     "owner": "DME"
     },
     {
      "name": "DCPS Modernizations",
      "url": "https://dcps.dc.gov/page/modernizations",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "DME — Interactive School Facility Maps",
      "url": "https://dme.dc.gov/page/interactive-school-facility-maps",
-     "owner": "DME",
-     "authority": "republished"
+     "owner": "DME"
     }
    ]
   },
@@ -19893,32 +19500,27 @@ window.CATALOG = {
     {
      "name": "DCPS Feeder Patterns",
      "url": "https://dcps.dc.gov/feederpatterns",
-     "owner": "DCPS",
-     "authority": "authoritative"
+     "owner": "DCPS"
     },
     {
      "name": "Find Your In-Boundary School (address lookup)",
      "url": "https://enrolldcps.dc.gov/node/41",
-     "owner": "DCPS",
-     "authority": "authoritative"
+     "owner": "DCPS"
     },
     {
      "name": "Open Data DC — School Attendance Zones (ES/MS/HS boundaries)",
      "url": "https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about",
-     "owner": "Open Data DC",
-     "authority": "authoritative"
+     "owner": "Open Data DC"
     },
     {
      "name": "DME — Boundary and Student Assignment Study 2023 (data supplement)",
      "url": "https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement",
-     "owner": "DME",
-     "authority": "authoritative"
+     "owner": "DME"
     },
     {
      "name": "EdScape — Enrollment Patterns (cross-sector / where students attend)",
      "url": "https://edscape.dc.gov/page/enrollment-patterns-index",
-     "owner": "DME",
-     "authority": "republished"
+     "owner": "DME"
     }
    ]
   },
@@ -19929,38 +19531,32 @@ window.CATALOG = {
     {
      "name": "Open Data DC — DC Public Schools (point locations)",
      "url": "https://opendata.dc.gov/datasets/dc-public-schools/about",
-     "owner": "Open Data DC",
-     "authority": "authoritative"
+     "owner": "Open Data DC"
     },
     {
      "name": "Open Data DC — DC Charter Schools (point locations)",
      "url": "https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about",
-     "owner": "Open Data DC",
-     "authority": "authoritative"
+     "owner": "Open Data DC"
     },
     {
      "name": "DCPS School Profiles ('Find a School')",
      "url": "https://profiles.dcps.dc.gov/",
-     "owner": "DCPS",
-     "authority": "derived"
+     "owner": "DCPS"
     },
     {
      "name": "School Profiles / Find a DC Public Charter School",
      "url": "https://www.dcpcsb.org/school-profiles",
-     "owner": "DC PCSB",
-     "authority": "authoritative"
+     "owner": "DC PCSB"
     },
     {
      "name": "Public Charter School Directory (annual PDF)",
      "url": "https://www.dcpcsb.org/2025-26-public-charter-school-directory",
-     "owner": "DC PCSB",
-     "authority": "authoritative"
+     "owner": "DC PCSB"
     },
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
-     "owner": "OSSE",
-     "authority": "authoritative"
+     "owner": "OSSE"
     }
    ]
   }

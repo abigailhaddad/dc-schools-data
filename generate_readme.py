@@ -25,12 +25,6 @@ PROFILES = ROOT / "file_profiles.json"
 OUT = ROOT / "README.md"
 CATALOG_JS = ROOT / "catalog.js"   # data the static front end (index.html) loads
 
-AUTH_BADGE = {
-    "authoritative": "🟢 authoritative",
-    "derived": "🟡 derived (sector subset)",
-    "republished": "🔵 republished",
-    "third-party": "⚪ third-party",
-}
 STATUS_NOTE = {
     "ok": "",
     "js-rendered": " · ⚠️ JS app (open in a browser)",
@@ -154,7 +148,6 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
     prof = rec.get("profile", {})
     out = {"name": rec["name"], "url": rec["url"], "kind": rec["kind"],
            "year": rec.get("year"), "status": rec.get("status"),
-           "authority": (src or {}).get("authority", "republished"),
            "topics": (src or {}).get("topics", [])}
     if rec.get("page"):
         out["page"] = rec["page"]
@@ -223,7 +216,7 @@ def write_catalog_js(doc, profiles) -> int:
         files = files_by_source.get(s["id"], [])
         sources_js.append({
             "id": s["id"], "name": s["name"], "owner": s["owner"], "url": s["url"],
-            "topics": s.get("topics", []), "authority": s["authority"],
+            "topics": s.get("topics", []),
             "status": s.get("status", "ok"), "format": s["format"],
             "cadence": s["cadence"], "years": s["years"], "notes": s.get("notes", ""),
             "files": files, "search": search_blob(s, files),
@@ -231,7 +224,7 @@ def write_catalog_js(doc, profiles) -> int:
     overlaps_js = [{
         "topic": ov["topic"], "difference": ov["difference"].strip(),
         "sources": [{"name": src_by_id[i]["name"], "url": src_by_id[i]["url"],
-                     "owner": src_by_id[i]["owner"], "authority": src_by_id[i]["authority"]}
+                     "owner": src_by_id[i]["owner"]}
                     for i in ov.get("sources", []) if i in src_by_id],
     } for ov in doc.get("overlaps", [])]
 
@@ -288,13 +281,6 @@ def main() -> int:
     w("| [`generate_readme.py`](generate_readme.py) | Renders this README from the YAML + profiles. |")
     w("| `update-dc-schools-data` skill | The process for re-verifying links, finding new files, and regenerating. |\n")
 
-    # ---- legend ----
-    w("**Authority** — who to trust when sources disagree:\n")
-    w("- 🟢 **authoritative** — the official system of record for this metric")
-    w("- 🟡 **derived** — a single-sector subset (DCPS-only / charter-only) re-published from the authoritative source")
-    w("- 🔵 **republished** — the same numbers re-hosted or re-analyzed, usually pointing back to the source")
-    w("- ⚪ **third-party** — built by a non-government org from official data\n")
-
     # ---- TOC ----
     w("## Contents\n")
     for o in owners:
@@ -312,11 +298,10 @@ def main() -> int:
         w(f"## {o['name']}\n")
         w(f"_{o['blurb']}_\n")
         for s in group:
-            badge = AUTH_BADGE.get(s["authority"], s["authority"])
-            status = STATUS_NOTE.get(s.get("status", "ok"), "")
+            status = STATUS_NOTE.get(s.get("status", "ok"), "").lstrip(" ·")
             topics = ", ".join(s.get("topics", []))
             w(f"### [{s['name']}]({s['url']})\n")
-            w(f"{badge}{status} · _topics: {topics}_\n")
+            w(f"{status + ' · ' if status else ''}_topics: {topics}_\n")
             w(f"- **Format:** {s['format']}")
             w(f"- **Updated:** {s['cadence']}")
             w(f"- **Years on page:** {s['years']}")
@@ -341,8 +326,7 @@ def main() -> int:
         for sid in ov.get("sources", []):
             s = src_by_id.get(sid)
             if s:
-                badge = AUTH_BADGE.get(s["authority"], s["authority"])
-                w(f"- [{s['name']}]({s['url']}) — {badge} ({s['owner']})")
+                w(f"- [{s['name']}]({s['url']}) ({s['owner']})")
         w("")
 
     # ---- gaps ----
