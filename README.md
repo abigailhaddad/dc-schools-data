@@ -1561,6 +1561,42 @@ _topics: enrollment, assessment, graduation, attendance_
     - tab **Free-Red Price Meal Students** (460 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
     - tab **Male Students** (458 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
     - tab **Female Students** (458 rows × 1 cols) — cols: `DATA AS OF: FEBRUARY 2016`
+  - [`2025 DC CAPE Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2025%20DC%20CAPE%20Presentation.pdf) — **pdf** — 17 pages, **extractable tables** on ~8 page(s)
+    - p3 table (9 rows): 
+    - p3 table (8 rows): 
+    - p4 table (5 rows): `5.2%`
+  - [`2024 DC CAPE Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20DC%20CAPE%20Results%20Deck_Public%20Release.pdf) — **pdf** — 15 pages, **extractable tables** on ~7 page(s)
+    - p4 table (9 rows): 
+    - p4 table (8 rows): 
+    - p5 table (5 rows): `5.2%`
+  - [`2023 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20DC%20PARCC%20Presentation.pdf) — **pdf** — 14 pages, **extractable tables** on ~4 page(s)
+    - p4 table (7 rows): 
+    - p4 table (7 rows): 
+    - p6 table (5 rows): `5.2%`
+  - [`2022 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20PARCC%20Results%20Deck_Public%20Release.pdf) — **pdf** — 18 pages, **extractable tables** on ~11 page(s)
+    - p3 table (6 rows): 
+    - p3 table (7 rows): 
+    - p5 table (5 rows): `5.2%`
+  - [`2019 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-PARCC-Results-Deck-for-Press.pdf) — **pdf** — 22 pages, **extractable tables** on ~16 page(s)
+    - p2 table (6 rows): 
+    - p2 table (7 rows): 
+    - p3 table (5 rows): `5.2%`
+  - [`2018 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2018%20DCPS%20PARCC%20Results%20Deck.pdf) — **pdf** — 19 pages, **extractable tables** on ~14 page(s)
+    - p2 table (5 rows): 
+    - p2 table (6 rows): 
+    - p3 table (5 rows): `5.2%`
+  - [`2017 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2017%20DC%20PARCC%20Presentation.pdf) — **pdf** — 27 pages, **extractable tables** on ~19 page(s)
+    - p3 table (4 rows): 
+    - p3 table (5 rows): 
+    - p5 table (2 rows): 
+  - [`2016 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2016%20DC%20PARCC%20Presentation.pdf) — **pdf** — 29 pages, **extractable tables** on ~16 page(s)
+    - p2 table (6 rows): `Performance Levels`
+    - p5 table (6 rows): `5.2%`, `4.9%`
+    - p5 table (6 rows): `2.7%`, `3.6%`
+  - [`2015 DC PARCC Presentation`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015DCPARCCPresentation.pdf) — **pdf** — 17 pages, **extractable tables** on ~12 page(s)
+    - p3 table (4 rows): 
+    - p3 table (4 rows): 
+    - p4 table (3 rows): `79%`
 
 ### [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment)
 

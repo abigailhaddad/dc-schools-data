@@ -3018,3 +3018,85 @@ data_files:
     year: "2014"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
+
+  # ---- Harvested from dcps-downloadable-datasets (9 files) ----
+  - id: dcps-assess-2025-cape-presentation-2025
+    source_id: dcps-downloadable-datasets
+    name: "2025 DC CAPE Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2025%20DC%20CAPE%20Presentation.pdf"
+    kind: pdf
+    year: "2025"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2024-cape-presentation-2024
+    source_id: dcps-downloadable-datasets
+    name: "2024 DC CAPE Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20DC%20CAPE%20Results%20Deck_Public%20Release.pdf"
+    kind: pdf
+    year: "2024"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2023-parcc-presentation-2023
+    source_id: dcps-downloadable-datasets
+    name: "2023 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20DC%20PARCC%20Presentation.pdf"
+    kind: pdf
+    year: "2023"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2022-parcc-presentation-2022
+    source_id: dcps-downloadable-datasets
+    name: "2022 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20PARCC%20Results%20Deck_Public%20Release.pdf"
+    kind: pdf
+    year: "2022"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2019-parcc-presentation-2019
+    source_id: dcps-downloadable-datasets
+    name: "2019 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-PARCC-Results-Deck-for-Press.pdf"
+    kind: pdf
+    year: "2019"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2018-parcc-presentation-2018
+    source_id: dcps-downloadable-datasets
+    name: "2018 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2018%20DCPS%20PARCC%20Results%20Deck.pdf"
+    kind: pdf
+    year: "2018"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2017-parcc-presentation-2017
+    source_id: dcps-downloadable-datasets
+    name: "2017 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2017%20DC%20PARCC%20Presentation.pdf"
+    kind: pdf
+    year: "2017"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2016-parcc-presentation-2016
+    source_id: dcps-downloadable-datasets
+    name: "2016 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2016%20DC%20PARCC%20Presentation.pdf"
+    kind: pdf
+    year: "2016"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]
+
+  - id: dcps-assess-2015-parcc-presentation-2015
+    source_id: dcps-downloadable-datasets
+    name: "2015 DC PARCC Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015DCPARCCPresentation.pdf"
+    kind: pdf
+    year: "2015"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
+    topics: [assessment]

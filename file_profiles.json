@@ -31179,5 +31179,1656 @@
       ]
     },
     "status": "ok"
+  },
+  "dcps-assess-2025-cape-presentation-2025": {
+    "id": "dcps-assess-2025-cape-presentation-2025",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2025 DC CAPE Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2025%20DC%20CAPE%20Presentation.pdf",
+    "kind": "pdf",
+    "year": "2025",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 17,
+      "text_preview": [
+        "2025 DC CAPE Results\nAugust 21, 2025\nOffice of Data and Technology",
+        "2025 DC CAPE Results | DCPS\nOverall Results\n2",
+        "2025 DC CAPE Results | DCPS\nOverall, DCPS students have demonstrated growth in both ELA and math since last year, with\ngains of 4.4 percentage points (PP) in ELA and 4.2 PP in math. Notably, these gains represent the\nhighest annual growth in both subjects since the pandemic, with this year’s growth in math also\nmarking the largest increase since 2015.\nOverall DCPS CAPE Proficiency (% L4 + L5)\n100% ELA Math\n90%\n80%\n70%\n60%\n+4.4 p.p. +4.2 p.p.\n50%\n42.6%\n39.9%\n40% 37.9% 38.2%\n35.1% 35.4%\n31.9% 32.4%\n30.5% 30.6%\n30% 24.9% 25.5% 23.9% 27.4% 25.4% 26.4%\n22.3%\n20.9%\n20%\n+17.7 p.p. +9.7 p.p.\n10%\n+2.6 p.p. -1.8 p.p.\n0%\n2015 2016 2017 2018 2019 2022 2023 2024 2025 2015 2016 2017 2018 2019 2022 2023 2024 2025\n(n=17702) (n=19475) (n=19769) (n=19872) (n=20379) (n=23438) (n=23486) (n=24131) (n=24180) (n=17525) (n=20192) (n=19784) (n=19665) (n=20393) (n=22663) (n=22800) (n=23526) (n=23195)\nNote. Algebra I and English I were not required assessments until 2022. Therefore,\nresults from 2022 and later may not be comparable to results from 2019 and before. 3"
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 9
+        },
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 8
+        },
+        {
+          "page": 4,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "10.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "9.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "11.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "11.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "14.4%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "6.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "4.5%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "5.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "6.0%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [
+            "7.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 8,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2024-cape-presentation-2024": {
+    "id": "dcps-assess-2024-cape-presentation-2024",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2024 DC CAPE Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20DC%20CAPE%20Results%20Deck_Public%20Release.pdf",
+    "kind": "pdf",
+    "year": "2024",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 15,
+      "text_preview": [
+        "2024 DC CAPE Results\nAugust 22, 2024\nPrepared the Office of Data and Technology",
+        "2024 DC CAPE Results | DCPS\nOverall Takeaways\n▪ Overall, performance remained similar to last year and lower than pre-pandemic in spring 2019. Math, which saw a greater\ndrop in 2022, remains substantially below 2019 levels (-6.0 PP), while ELA had a less dramatic drop in 2022 and is closer to pre-\npandemic performance (-1.8 PP).\n▪ Since last year (spring 2023), DCPS has been ticking upwards in proficiency in both ELA (+0.2 PP) and Math (+0.9 PP). 38.2% of\nstudents scored proficient (L4+L5) in ELA and 26.4% scored proficient in Math.\n▪ While ELA proficiency remained flat or declined slightly across most racial/ethnic groups compared to last spring, Math\nproficiency remained flat, yet with marginal growth, for students of color (i.e., Black +0.4PP, Hispanic/Latino +0.6PP, Two or\nMore Races +1.7PP).\n▪ Inequality is a theme throughout the subgroup results, with stark gaps among subgroups in both proficiency and learning loss\nfrom the pandemic.\n• The opportunity gap between Black and White student proficiency was approximately 61 PP in ELA and 67 PP in Math.\n• Hispanic/Latino students had the largest decrease in proficiency in both ELA (-7.5 PP) and Math (-12.6 PP) from pre-\npandemic. Compared to last year, Hispanic/Latino students saw a further decline in ELA (-0.7 PP) this spring.\n• Compared to last year, EL students gained 2.2 PP in ELA this spring to reach 23.4% proficient, which is 1.1 PP higher than\npre-pandemic in 2019.\n▪ Great disparities across wards persist in both ELA a",
+        "2024 DC CAPE Results | DCPS\nOverall Results\n3"
+      ],
+      "tables": [
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 9
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 8
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "10.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "9.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "11.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "11.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 5,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "6.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.5%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "6.0%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 10
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 9,
+          "header": [
+            "DCPS ELA CAPE Proficiency (% L4 + L5) by Student Subgroup Black Hispanic White Multiracial Asian EL* SPED* Female Male SES** Change from 2023 -0.1% -0.7% -0.1% -0.7% -1.7% +2.2% -0.6% -0.3% +0.8% -1.2% 100% -2.6% -7.5% % -3.1% +1.3% -0.1% +1.1% +0.3% -3.6% -0.1% N/A 8 % % 90% 8 % 5 5 3 8 8 Change from 2019 8 % % 80% % 4 7 % 3 7 6 7 5 7 % 2 7 % 3 7 % 4 7 % 2 7 70% 60% % 50% 6 % % % 4 % 3 2 9 1 4 4 4 40% % 3 % 2 3 % 3 3 % 2 3 % 4 3 % 0 % 3 3 % 4 3 2 3 0 0 % % 7 2 % 2 2 % 4 2 % 4 2 % 2 2 % 0 2 % 1 2 % 3 2 3 % 1 2 % 6 % 9 1 % 8 1 % % 1 10% % 9 % 8 0 1 0 1 0% )3 )5 )2 )9 )2 )3 )3 )0 )1 )7 )7 )8 )3 )7 )0 )4 )6 )8 )9 )8 )5 )6 )1 )3 )1 )6 )5 )4 )9 )7 )5 )8 )0 )2 )4 )6 )3 )0 )6 )1 3 0 1 0 0 9 0 9 8 0 8 3 4 5 9 0 6 2 4 5 2 3 0 5 9 6 4 2 0 3 5 8 7 9 1 2 8 2 9 9 4 8 5 7 2 9 2 2 8 5 5 8 4 6 6 8 3 4 4 4 6 6 1 4 2 8 7 9 1 6 6 9 2 7 8 1 0 0 1 0 2 3 3 3 4 4 5 5 2 3 3 3 = = = = = = = = 2 3 4 4 3 3 3 3 0 1 1 1 0 1 1 2 9 1 1 1 1 1 1 1 = = = = = = = = n n n n n n n n = = = = = = = = 1 1 1 1 1 1 1 1 = 1 1 1 = = = = n n n n n n n n ( ( ( ( ( ( ( ( n n n n n n n n = = = = = = = = n = = = n n n n ( ( ( ( ( ( ( ( 9 2 3 4 9 2 3 4 ( ( ( ( ( ( ( ( n n n n n n n n ( n n n ( ( ( ( 9 2 3 4 9 2 3 4 1 2 2 2 1 2 2 2 9 2 3 4 9 2 3 4 ( ( ( ( ( ( ( ( 9 ( ( ( 9 2 3 4 1 2 2 2 1 2 2 2 0 0 0 0 0 0 0 0 1 2 2 2 1 2 2 2 9 2 3 4 9 2 3 4 1 2 3 4 1 2 2 2 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 1 2 2 2 1 2 2 2 0 2 2 2 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 2 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 Black Hispanic White Multiracial Asian EL SPED Female Male SES EL (English Learners) includes both students who are active ELs and those who are being monitored. SPED (Special Education) includes only students who have an active IEP."
+          ],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 7,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2023-parcc-presentation-2023": {
+    "id": "dcps-assess-2023-parcc-presentation-2023",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2023 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20DC%20PARCC%20Presentation.pdf",
+    "kind": "pdf",
+    "year": "2023",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 14,
+      "text_preview": [
+        "PARCC 2023 Results\nAugust 23, 2023\nPrepared by the Office of Data and Technology",
+        "Confidential EMBARGOED 2023 PARCC Results | DCPS\nTakeaways\nOverall, performance increased from last year but remained lower than pre-pandemic (spring 2019). Math, which saw a\ngreater drop in 2022, remains substantially below 2019 levels, while ELA had a less dramatic drop in 2022 and is closer\nto pre-pandemic performance. Inequality is a theme throughout the results, with stark gaps among subgroups in both\nproficiency and gains from last year, particularly in math.\nGains\n▪ PARCC participation, which fell below 95% last year for both subjects, improved but remained below 2019 numbers, meeting the threshold in ELA\n(95.1%) but not Math (94.9%).\n▪ DCPS saw gains in proficiency rates in both ELA (2.5 percentage points) and Math (3.1 percentage points) compared to spring 2022. 37.9% of students\nscored proficient (L4+L5) in ELA and 25.4% scored proficient in Math.\n▪ DCPS’s major subgroups all had positive growth from 2022 in both ELA and Math proficiency, though at widely varying rates.\nInequalities\n▪ DCPS’s Black-White opportunity gap in Math is the largest it has ever been: 68.6 percentage points. This is the combined result of a larger drop in\nmath proficiency for Black students last year and a faster recovery for White students this year.\n▪ Hispanic students seem to have lost more ground than peers during the pandemic: this subgroup’s Math proficiency remains 13.1 percentage points\nbelow 2019*. Proficiency drops since 2019 were largest in Wards 1 and 4, which have the largest co",
+        "Confidential EMBARGOED 2023 PARCC Results | DCPS\nOverall Results\n3"
+      ],
+      "tables": [
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 7
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 7
+        },
+        {
+          "page": 6,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "10.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "9.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "11.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "6.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "4.5%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "5.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 12,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 12,
+          "header": [],
+          "n_rows": 3
+        }
+      ],
+      "n_table_pages": 4,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2022-parcc-presentation-2022": {
+    "id": "dcps-assess-2022-parcc-presentation-2022",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2022 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20PARCC%20Results%20Deck_Public%20Release.pdf",
+    "kind": "pdf",
+    "year": "2022",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 18,
+      "text_preview": [
+        "August 2022\nPARCC 2022\nFinal Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | dcps.dc.gov",
+        "2022 PARCC Results | DCPS\nOverall Takeaways\n▪ Districtwide ELA and Math performance:\n• DCPS saw declines in both ELA (-4.5 percentage points) and Math (-10.1 percentage\npoints) after the Covid-19 pandemic.\n• 35.4% scored proficient (L4+L5) in ELA; and 22.3% scored proficient in Math.\n• Participation dipped to 93% in both ELA and Math (from 97% in 2019).\n▪ Overall, participation rates among grades 3-7 were above the 95% threshold.\n▪ Participation rates among Grade 8 and HS students were below the threshold.\n▪ Nearly all subgroups declined compared to pre-pandemic in 2019:\n• Nearly all subgroups declined in both ELA and Math.\n• Among the major racial/ethnic subgroups, Hispanic/Latino students saw the greatest\ndeclines in both ELA (-7.5 percentage points) and Math (-15.5 percentage points).\n• The Black-white opportunity gap has remained flat since 2019 for both ELA and Math\n(61 percentage points in ELA and 64 percentage points in Math).\n• All grade levels declined in both ELA and Math.\n• In ELA, 8th grade had the largest dip by 12 percentage points.\n• In Math, 4th grade decreased by 11.1 percentage points.\n2",
+        "2022 PARCC Results | DCPS\nAfter the Covid-19 pandemic, DCPS saw declines in PARCC proficiency in both\nELA (-4.5 percentage points) and Math (-10.1 percentage points).\nOverall DCPS PARCC Proficiency ( % L4 + L5)\nELA Math\n100%\n90%\n80%\n70%\n60%\n-4.5%\n-10.1%\n50%\n39.9%\n40% 35.1% 35.4%\n31.9% 32.4%\n30.5%\n27.4%\n30% 24.9% 25.5% 23.9%\n22.3%\n20.9%\n20%\n+10.5%\n+1.4%\n10%\n0%\n3"
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 6
+        },
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 7
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "10.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "9.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "6.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [
+            "4.5%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 6,
+          "header": [
+            "2022 PARCC Results | DCPS All grade levels declined in ELA. 8th grade has dipped by 12 percentage points compared to 2019."
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [],
+          "n_rows": 4
+        }
+      ],
+      "n_table_pages": 11,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2019-parcc-presentation-2019": {
+    "id": "dcps-assess-2019-parcc-presentation-2019",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2019 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-PARCC-Results-Deck-for-Press.pdf",
+    "kind": "pdf",
+    "year": "2019",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 22,
+      "text_preview": [
+        "August 2019\nPARCC 2019\nFinal Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | dcps.dc.gov",
+        "2019 PARCC Results | DCPS\nDCPS has seen steady improvement on PARCC for the fourth year in a row – up\n15 percentage points in ELA and 11.5 percentage points in math since 2015.\nOverall DCPS PARCC Proficiency ( % L4 + L5)\nELA Math\n100%\n90%\n80%\n70%\n60%\n+4.9%*\n+1.9%\n50%\n39.9%\n40% 35.1%\n31.9% 32.4%\n30.5%\n27.4%\n30% 24.9% 25.5% 23.9%\n20.9%\n20%\n+15.0% +11.5%\n10%\n0%\n2\n*roundedto the nearest 10th of a percent after calculating the raw difference between 2018 and 2019.",
+        "2019 PARCC Results | DCPS\nThe percent of students at L4 and L5 increased while the percent\nof students at L1 and L2 decreased.\nOverall DCPS PARCC Performance by Achievement Level\nELA Math\n100%\n5.2% 4.9% 7.2% 9.1% 10.9% 2.7% 3.6% 4.6% 5.9% 6.3%\n90%\n18.2%\n19.7% 20.5% 20.3% 22.7% 32.4%\n80% 24.7% 39.9% 24.6% 26.1%\n25.9%\n29.0%\n70%\n24.1%\n20.2% 20.9% 21.7%\n60% 22.8%\n21.1% 22.9%\n23.4%\n21.7%\n50% 21.3%\n23.1% 22.2%\n40% 31.4% 29.2%\n20.6% 26.8%\n19.4% 26.4%\n30% 18.8% 25.3%\n44.1%\n20% 38.7%\n31.8% 31.4%\n10% 26.4% 23.9% 19.9% 23.6% 25.2% 23.1% 20.2% 18.8%\n0%\nLevel 1 Level 2 Level 3 Level 4 Level 5\n3"
+      ],
+      "tables": [
+        {
+          "page": 2,
+          "header": [],
+          "n_rows": 6
+        },
+        {
+          "page": 2,
+          "header": [],
+          "n_rows": 7
+        },
+        {
+          "page": 3,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "10.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "6.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 6,
+          "header": [
+            "Change in %L4 & L5"
+          ],
+          "n_rows": 3
+        }
+      ],
+      "n_table_pages": 16,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2018-parcc-presentation-2018": {
+    "id": "dcps-assess-2018-parcc-presentation-2018",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2018 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2018%20DCPS%20PARCC%20Results%20Deck.pdf",
+    "kind": "pdf",
+    "year": "2018",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 19,
+      "text_preview": [
+        "August 2018\nPARCC 2018\nFinal Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | dcps.dc.gov",
+        "2018 PARCC Results | DCPS\nDCPS has seen steady improvement on PARCC for the third year in\na row – up 10 percentage points in ELA and 9 in math since 2015.\nOverall DCPS PARCC Proficiency (% L4 + L5)\nELA Math\n100%\n90%\n80%\n70%\n60%\n+3.2% +3.1%\n50%\n40% 35.1%\n31.9%\n30.5%\n27.4%\n30% 24.9% 25.5% 23.9%\n20.9%\n20%\n10% +10.2% +9.6%\n0%\n2",
+        "2018 PARCC Results | DCPS\nThe percent of students at L4 and L5 increased while the percent\nof students at L1 and L2 decreased.\nOverall DCPS PARCC Performance by Achievement Level\nELA Math\n100%\n5.2% 4.9% 7.2% 9.1% 2.7% 3.6% 4.6% 5.9%\n90%\n18.2%\n19.7% 20.5% 20.3% 22.7% 30.5%\n80% 24.7% 35.1*% 24.6%\n25.9%\n70%\n24.1%\n20.2% 20.9% 21.7%\n60% 22.8%\n21.1% 22.9%\n21.7%\n50%\n23.1% 22.2%\n40% 31.4% 29.2%\n20.6% 26.8%\n19.4% 26.4%\n30%\n46.6%\n20% 43.3%\n31.8% 31.4%\n10% 26.4% 23.9% 23.6% 25.2% 23.1% 20.2%\n0%\nLevel 1 Level 2 Level 3 Level 4 Level 5\n*roundedto the nearest 10th of a percent\n3"
+      ],
+      "tables": [
+        {
+          "page": 2,
+          "header": [],
+          "n_rows": 5
+        },
+        {
+          "page": 2,
+          "header": [],
+          "n_rows": 6
+        },
+        {
+          "page": 3,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "9.1%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 3,
+          "header": [
+            "5.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 7,
+          "header": [
+            "Change in %L4 & L5"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 7,
+          "header": [
+            "Change in %L4 & L5"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 8,
+          "header": [
+            "Schools with More than 10% Increase"
+          ],
+          "n_rows": 3
+        }
+      ],
+      "n_table_pages": 14,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2017-parcc-presentation-2017": {
+    "id": "dcps-assess-2017-parcc-presentation-2017",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2017 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2017%20DC%20PARCC%20Presentation.pdf",
+    "kind": "pdf",
+    "year": "2017",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 27,
+      "text_preview": [
+        "September 2017\nPARCC 2017\nFinal Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | dcps.dc.gov",
+        "2017 PARCC Results | DCPS\nOverall Takeaways\n▪ Significant gains in ELA and Math performance:\n• DCPS made record gains in both ELA (+6.4 percentage points) and Math (+3.5 percentage\npoints)\n• DCPS’s gain in ELA is significantly higher than in 2016 (+0.6 percentage points)\n• DCPS continued a strong pace of improvement in Math from 2016 (+3.0 percentage points)\n• Participation increased to 97% in both ELA and Math from 95% and 94% respectively\n▪ Reduction in students at L1 and L2:\n• The percentage of students scoring at a Level 1 or 2 decreased significantly in ELA (-6.6\npercentage points) and Math (-4.4 percentage points)\n▪ All subgroups improved but the achievement gap increased:\n• DCPS’s gains were broad-based. All grade-levels and subgroups improved\n• Economically disadvantaged students made some of the largest improvements (+9.2 in ELA\nand +6.6 in Math)\n• However, the achievement gap between white and black students increased.\n2",
+        "2017 PARCC Results | DCPS\nDCPS made significant gains in both ELA and Math.\nOverall DCPS PARCC % L4 + L5\nELA Math\n100%\n90%\n80%\n70%\n60%\n50%\n+ 6.4% + 3.5%\n40%\n31.9%\n27.4%\n30% 24.9% 25.5% 23.9%\n20.9%\n20%\n10%\n+ 7.0% + 6.5%\n0%\n2015 (n = 17702) 2016 (n = 19475) 2017 (n = 19769) 2015 (n = 17525) 2016 (n = 20192) 2017 (n = 19784)\n3"
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 5
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 7,
+          "header": [
+            "5.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "4.9%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "7.2%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "2.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "3.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "4.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 9,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 9,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 9,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 9,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 10,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [],
+          "n_rows": 3
+        }
+      ],
+      "n_table_pages": 19,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2016-parcc-presentation-2016": {
+    "id": "dcps-assess-2016-parcc-presentation-2016",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2016 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2016%20DC%20PARCC%20Presentation.pdf",
+    "kind": "pdf",
+    "year": "2016",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 29,
+      "text_preview": [
+        "August 2016\nPARCC 2016\nFinal Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | dcps.dc.gov",
+        "2016 PARCC Results | DCPS\nPARCC Performance Level Overview\nPARCC reports results according to five performance levels that delineate the\nknowledge, skills, and practices students are able to demonstrate.\nPerformance Levels\nLevel 4/5 = College‐and‐career ready\nLevel 5 Exceeded expectations\nDemonstrated the academic knowledge,\nskills and practices necessary to enter\nLevel 4 Met expectations\ndirectly into and succeed in entry‐level,\ncredit‐bearing courses in college or\nLevel 3 Approached expectations technical courses requiring college‐level\nreading, writing, and math.\nLevel 2 Partially met expectations\nLevel 1 Did not yet meet expectations\n2",
+        "2016 PARCC Results | DCPS\nMain Takeaways\n DCPS improved in Mathematics (+ 3.0%) and held steady (+ 0.6%) in ELA\n Most grade levels improved\n Most subgroups improved\n 51 schools improved in both ELA and Math\n3"
+      ],
+      "tables": [
+        {
+          "page": 2,
+          "header": [
+            "Performance Levels"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 5,
+          "header": [
+            "5.2%",
+            "4.9%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 5,
+          "header": [
+            "2.7%",
+            "3.6%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 7,
+          "header": [
+            "4.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "4.8%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "8.7%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "5.6%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "3.0%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "4.3%"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 7,
+          "header": [
+            "0.4% 7.3%"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 7,
+          "header": [
+            "0.6% 10.6%"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 10,
+          "header": [
+            "Gr4"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 10,
+          "header": [
+            "Gr5"
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 10,
+          "header": [
+            "Gr6"
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 10,
+          "header": [
+            "1.9%",
+            "2.6%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 10,
+          "header": [
+            "9.2%",
+            "7.3%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 10,
+          "header": [
+            "6.3%",
+            "5.7%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 10,
+          "header": [
+            "8.7%",
+            "5.6%"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 11,
+          "header": [
+            "5.7% 23.9%",
+            "8.4%"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 11,
+          "header": [
+            "3.4% 25.0%",
+            "3.9% 26.7%"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 11,
+          "header": [
+            "3.5% 19.8%",
+            "5.0% 23.4%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 11,
+          "header": [
+            "2.0% 17.6%",
+            "3.6% 19.3%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 11,
+          "header": [
+            "14.6%",
+            "17.9%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 11,
+          "header": [
+            "11.7%",
+            "13.3%"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 11,
+          "header": [
+            "7.3%",
+            "10.6%"
+          ],
+          "n_rows": 5
+        }
+      ],
+      "n_table_pages": 16,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "dcps-assess-2015-parcc-presentation-2015": {
+    "id": "dcps-assess-2015-parcc-presentation-2015",
+    "source_id": "dcps-downloadable-datasets",
+    "name": "2015 DC PARCC Presentation",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015DCPARCCPresentation.pdf",
+    "kind": "pdf",
+    "year": "2015",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+    "topics": [
+      "assessment"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 17,
+      "text_preview": [
+        "April 2016\nPARCC 2015 Results\nDistrict of Columbia Public Schools | 1200 First Street, NE | Washington, DC 20002 | T 202.442.5885 | F 202.442.5026 | www.k12.dc.us",
+        "DCPS-Wide Results\n2",
+        "Overall DCPS PARCC Performance by Achievement Level\nOverall DCPS PARCC Performance by Achievement Level\n100%\n90% ELA Math\n80%\n70%\n60%\n50% 25%\n21%\n40%\n32% 31%\n30%\n23% 24% 24%\n20% 20%\n18%\n20%\n10% 5%\n3%\n0%\nELA (n = 17,702) Math (n = 17,525)\nLevel 1 Level 2 Level 3 Level 4 Level 5 *includes MS Alg I/Geo test-takers\nexcludes HS Alg I/ELA I test-takers\n3"
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 4,
+          "header": [
+            "79%"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [
+            "68%"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [
+            "22%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [
+            "55%"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [
+            "56%"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 4,
+          "header": [
+            "9%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [
+            "14%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [
+            "3%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 4,
+          "header": [
+            "10%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "16% 1% 15%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "13% 1% 12%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "6%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "5%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "9%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "6%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "8%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "7%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "3%"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 7,
+          "header": [
+            "ELA - All Grades"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 7,
+          "header": [
+            "Math - All Grades"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 12,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
   }
 }

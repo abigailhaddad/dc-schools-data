@@ -115,6 +115,11 @@ def derive_series(source_id: str, name: str, year):
         school = (m.group(1).strip() if m else name).replace(" - ", " ").strip()
         return {"series": "School Equity Reports (per charter school, 2017-18)", "label": school or name}
 
+    # DCPS renamed its statewide assessment PARCC -> DC CAPE in 2023, same as OSSE.
+    # Connect them into one DCPS series so the years run 2014-15 -> present.
+    if source_id.startswith("dcps") and re.search(r"parcc|\bcape\b", low):
+        return {"series": "DCPS Assessment Scores (PARCC → DC CAPE)", "label": year}
+
     # PMF docs have chaotic filenames (embedded dates). Collapse into clean series.
     if source_id == "pcsb-pmf-archive":
         if "book" in low:
