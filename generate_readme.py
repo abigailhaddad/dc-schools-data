@@ -120,6 +120,17 @@ def derive_series(source_id: str, name: str, year):
         m = re.search(r"public charter school\s+(.*)", name, re.I)
         school = (m.group(1).strip() if m else name).replace(" - ", " ").strip()
         return {"series": "School Equity Reports (per charter school, 2017-18)", "label": school or name}
+
+    # OSSE renames its annual Report Card datasets, splitting one dataset across
+    # eras (AP/IB/SAT -> Advanced Coursework; Per-Pupil Expenditures -> School
+    # Finance Data; Teacher & School Leader -> Educator Data). Reconnect them.
+    if source_id.startswith("osse") or "report card" in low or "star framework" in low:
+        if re.search(r"advanced coursework|ap,? ib|\bap ib\b|ib and sat|\bap\b.*\bsat\b", low):
+            return {"series": "Advanced Coursework (AP, IB & SAT)", "label": year}
+        if re.search(r"per[- ]pupil|school finance|finance data|expenditure", low) and "reporting standard" not in low:
+            return {"series": "School Finance / Per-Pupil Expenditures", "label": year}
+        if re.search(r"teacher|school leader|educator", low):
+            return {"series": "Educators (Teachers & School Leaders)", "label": year}
     return {}
 
 

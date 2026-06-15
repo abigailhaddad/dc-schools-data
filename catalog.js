@@ -581,6 +581,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2025",
      "status": "ok",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2025",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2226,6 +2228,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2024",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2977,6 +2981,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "series": "Educators (Teachers & School Leaders)",
+     "label": "2024",
      "tabs": [
       {
        "name": "Overview (C&D)",
@@ -3986,6 +3992,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2023",
      "tabs": [
       {
        "name": "Overview",
@@ -4288,6 +4296,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2023",
      "status": "ok",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2023",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5157,6 +5167,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2022",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5616,6 +5628,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2022",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5789,6 +5803,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2022",
      "status": "ok",
+     "series": "Educators (Teachers & School Leaders)",
+     "label": "2022",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5952,6 +5968,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2021",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6371,6 +6389,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "series": "Educators (Teachers & School Leaders)",
+     "label": "2021",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6413,6 +6433,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2021",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2021",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6617,6 +6639,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2020",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2020",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6812,6 +6836,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2019",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2019",
      "tabs": [
       {
        "name": "Data Note",
@@ -8013,6 +8039,8 @@ window.CATALOG = {
      "kind": "xlsx",
      "year": "2024",
      "status": "ok",
+     "series": "School Finance / Per-Pupil Expenditures",
+     "label": "2024",
      "tabs": [
       {
        "name": "Overview",
