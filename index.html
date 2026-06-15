@@ -17,6 +17,8 @@
   .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
   .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
   .year-chip:hover { background:#1b365d; color:#fff; }
+  .year-chip.src { background:#eef3ea; border-color:#cdddb9; color:#2f5524; }
+  .year-chip.src:hover { background:#2f5524; color:#fff; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
   details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
@@ -260,15 +262,17 @@ function renderFiles() {
   // the generator for per-school / drifting-name sets) wins; else fall back to the
   // year-stripping heuristic. The chip shows file.label (e.g. a school name) when
   // present, otherwise the year.
+  // Each grouped item keeps its OWN source page, because one dataset's years can
+  // be hosted on different pages (e.g. assessment years on per-year OSSE pages).
   const groups = new Map();
   for (const e of hits) {
     const key = e.file.series ? e.owner + "|" + e.file.series : seriesKey(e.owner, e.file.name);
     const title = e.file.series || seriesTitle(e.file.name);
-    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, sourceName: e.sourceName, sourceUrl: e.sourceUrl, files: [] });
-    groups.get(key).files.push(e.file);
+    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [] });
+    groups.get(key).files.push({ file: e.file, sourceUrl: e.sourceUrl, sourceName: e.sourceName });
   }
-  const chipLabel = f => f.label || f.year || "?";
-  const maxYear = g => Math.max(...g.files.map(f => yearNum(chipLabel(f))), 0);
+  const chipLabel = x => x.file.label || x.file.year || "?";
+  const maxYear = g => Math.max(...g.files.map(x => yearNum(chipLabel(x))), 0);
   // most years first, then most recent, then title
   const list = [...groups.values()].sort((a, b) =>
     b.files.length - a.files.length || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
@@ -278,29 +282,39 @@ function renderFiles() {
 
   document.getElementById("files").innerHTML = list.length
     ? list.map(g => {
-        // sort by year when chips are years, else alphabetically (e.g. school names)
-        const files = g.files.slice().sort((a, b) =>
+        const items = g.files.slice().sort((a, b) =>
           (yearNum(chipLabel(a)) - yearNum(chipLabel(b))) || chipLabel(a).localeCompare(chipLabel(b)));
-        const chips = files.map(f =>
-          '<a class="year-chip" href="' + esc(f.url) + '" target="_blank" rel="noopener" title="Download '
-          + esc(f.kind) + " (" + esc(chipLabel(f)) + ") — " + esc(fileSummary(f)) + '">⬇ '
-          + esc(chipLabel(f)) + (f.kind === "pdf" ? " 📄" : "") + "</a>").join("");
-        const latest = files[files.length - 1];
-        // badge reflects the axis: a year run shows "N yrs · lo–hi"; a per-entity
-        // set (e.g. schools) shows "N items".
-        const yrs = files.map(f => yearNum(chipLabel(f))).filter(y => y > 0);
+        const latest = items[items.length - 1];
+        const pages = new Set(items.map(x => x.sourceUrl));
+        const multiPage = pages.size > 1;
+
+        const dlChips = items.map(x =>
+          '<a class="year-chip" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
+          + esc(x.file.kind) + " (" + esc(chipLabel(x)) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
+          + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>").join("");
+
+        // when years live on different pages, give each its own source-page link
+        const srcBlock = multiPage
+          ? '<div class="file-cols mb-1 mt-2">↗ source page (differs by year):</div><div>'
+            + items.map(x => '<a class="year-chip src" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" title="'
+              + esc(x.sourceName) + '">↗ ' + esc(chipLabel(x)) + "</a>").join("") + "</div>"
+          : "";
+
+        const yrs = items.map(x => yearNum(chipLabel(x))).filter(y => y > 0);
         let span = "";
-        if (files.length > 1) {
-          span = yrs.length === files.length
-            ? '<span class="badge bg-secondary">' + files.length + " yrs · " + Math.min(...yrs) + "–" + Math.max(...yrs) + "</span> "
-            : '<span class="badge bg-secondary">' + files.length + " items</span> ";
+        if (items.length > 1) {
+          span = yrs.length === items.length
+            ? '<span class="badge bg-secondary">' + items.length + " yrs · " + Math.min(...yrs) + "–" + Math.max(...yrs) + "</span> "
+            : '<span class="badge bg-secondary">' + items.length + " items</span> ";
         }
+        const titleLink = '<a href="' + esc(latest.sourceUrl) + '" target="_blank" rel="noopener" '
+          + 'title="Go to the page where the latest is hosted">' + highlight(esc(g.title), terms) + " ↗</a>";
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
-          + '<h6 class="mb-1"><a href="' + esc(g.sourceUrl) + '" target="_blank" rel="noopener" '
-          + 'title="Go to the page where this is hosted">' + highlight(esc(g.title), terms) + " ↗</a></h6>" + span + "</div>"
-          + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(g.sourceName)
-          + " — " + highlight(esc(fileSummary(latest)), terms) + "</div>"
-          + '<div class="file-cols mb-1">⬇ download a file:</div><div>' + chips + "</div></div>";
+          + '<h6 class="mb-1">' + titleLink + "</h6>" + span + "</div>"
+          + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
+          + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
+          + '<div class="file-cols mb-1">⬇ download a file:</div><div>' + dlChips + "</div>"
+          + srcBlock + "</div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
