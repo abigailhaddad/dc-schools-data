@@ -338,9 +338,13 @@ function renderFiles() {
   }
   const chipLabel = x => x.file.label || x.file.year || "?";
   const maxYear = g => Math.max(...g.files.map(x => yearNum(chipLabel(x))), 0);
-  // most years first, then most recent, then title
+  // Rank by a blend of recency and volume — not file-count alone — so a big but
+  // old set (e.g. the 2017-18 per-school equity reports, 9 files but no recent
+  // years) sits below smaller, current datasets. A ~20-year recency gap outweighs
+  // up to ~100x more files; among similar-recency sets, more files wins.
+  const score = g => maxYear(g) + 3 * Math.log2(g.files.length + 1);
   let list = [...groups.values()].sort((a, b) =>
-    b.files.length - a.files.length || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
+    score(b) - score(a) || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
   if (state.topic)
     list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
   if (state.year)
