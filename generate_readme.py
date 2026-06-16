@@ -266,12 +266,22 @@ def load_synonym_groups() -> list[list[str]]:
 SYNONYM_GROUPS = load_synonym_groups()
 
 
+# spaces and any dash (hyphen, en/em, unicode + soft hyphen) are interchangeable —
+# mirrors the front end's flexTerm, so "at-risk" fires on "at risk" / "Pre­‐K".
+_SEP = r"[\s­‐-―-]+"
+
+
+def _flex(term: str) -> str:
+    return _SEP.join(re.escape(p) for p in re.split(_SEP, term) if p)
+
+
 def _term_in(text: str, term: str) -> bool:
     # short tokens match whole-word only (so "el" doesn't fire on "level");
     # mirrors the front end's fileTermMatch.
+    pat = _flex(term)
     if len(term) <= 3:
-        return re.search(r"\b" + re.escape(term) + r"\b", text) is not None
-    return term in text
+        return re.search(r"\b" + pat + r"\b", text) is not None
+    return re.search(pat, text) is not None
 
 
 def expand_synonyms(text: str) -> list[str]:

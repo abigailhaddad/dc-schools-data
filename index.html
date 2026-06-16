@@ -116,12 +116,21 @@ function esc(s) {
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-// highlight each query term in already-escaped text
+// a term's regex source where spaces and ANY dash (hyphen, en/em dash, the unicode
+// hyphen and soft hyphen that actually appear in OSSE files) are interchangeable, so
+// "at-risk" matches "at risk"/"at-risk" and "pre-k" matches "Pre­‐K". Rest escaped.
+const SEP = "[\\s\\u00ad\\u2010-\\u2015-]+";
+function flexTerm(term) {
+  return term.split(new RegExp(SEP)).filter(Boolean)
+    .map(p => p.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join(SEP);
+}
+
+// highlight each query term (hyphen/space-flexible) in already-escaped text
 function highlight(escaped, terms) {
   let html = escaped;
   for (const t of terms) {
     if (t.length < 2) continue;
-    const re = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+    const re = new RegExp("(" + flexTerm(t) + ")", "ig");
     html = html.replace(re, "<mark>$1</mark>");
   }
   return html;
@@ -174,12 +183,9 @@ function matchSnippet(text, terms) {
   const low = text.toLowerCase();
   let best = -1, len = 0;
   for (const t of terms) {
-    let i;
-    if (t.length <= 3) {
-      const m = low.match(new RegExp("\\b" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b"));
-      i = m ? m.index : -1;
-    } else i = low.indexOf(t);
-    if (i >= 0 && (best < 0 || i < best)) { best = i; len = t.length; }
+    const src = t.length <= 3 ? "\\b" + flexTerm(t) + "\\b" : flexTerm(t);
+    const m = low.match(new RegExp(src));
+    if (m && (best < 0 || m.index < best)) { best = m.index; len = m[0].length; }
   }
   if (best < 0) return text.length > 90 ? text.slice(0, 87) + "…" : text;
   if (text.length <= 90) return text;
@@ -287,9 +293,10 @@ const ALL_FILES = CAT.sources.flatMap(s => (s.files || [])
 // Longer terms (enroll, attendance) match as substrings.
 function fileTermMatch(text, term) {
   if (term.length <= 3) {
-    return new RegExp("\\b" + term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i").test(text);
+    return new RegExp("\\b" + flexTerm(term) + "\\b", "i").test(text);
   }
-  return text.includes(term);
+  // hyphen/space-flexible so "at-risk" matches "at risk" (DC writes it both ways)
+  return new RegExp(flexTerm(term), "i").test(text);
 }
 
 // normalize a column header so trivial case/punctuation differences collapse
