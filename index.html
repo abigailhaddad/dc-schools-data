@@ -167,6 +167,26 @@ function expandTerms(terms) {
   return [...out];
 }
 
+// a window of a long matched string centered on the first matched term, so the
+// reason for a hit is visible even when the term is buried in a long description
+// cell (some xlsx put a paragraph in row 1, which profiles as a "column").
+function matchSnippet(text, terms) {
+  const low = text.toLowerCase();
+  let best = -1, len = 0;
+  for (const t of terms) {
+    let i;
+    if (t.length <= 3) {
+      const m = low.match(new RegExp("\\b" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b"));
+      i = m ? m.index : -1;
+    } else i = low.indexOf(t);
+    if (i >= 0 && (best < 0 || i < best)) { best = i; len = t.length; }
+  }
+  if (best < 0) return text.length > 90 ? text.slice(0, 87) + "…" : text;
+  if (text.length <= 90) return text;
+  const start = Math.max(0, best - 35), end = Math.min(text.length, best + len + 45);
+  return (start > 0 ? "…" : "") + text.slice(start, end).trim() + (end < text.length ? "…" : "");
+}
+
 // the tab names / column headers / pdf-table headers in a file that contain a
 // search term (or a synonym of it) — so a hit always shows WHERE it matched, even
 // when the file uses DC's word ("Economically Disadvantaged") not the user's ("at-risk").
@@ -249,8 +269,10 @@ const ALL_FILES = CAT.sources.flatMap(s => (s.files || [])
     for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
     bits.push(...(f.columns || []));
     for (const t of f.tables || []) bits.push(...t.header);
-    if (f.syn) bits.push(f.syn);   // everyday-word synonyms (search_synonyms.yaml)
-    return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
+    const textLiteral = bits.join(" ").toLowerCase();   // what the file actually says
+    if (f.syn) bits.push(f.syn);                          // + everyday-word synonyms
+    return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner,
+             text: bits.join(" ").toLowerCase(), textLiteral };
   }));
 
 // Short terms (AP, SAT, EL) match whole words only, so "AP" doesn't hit "chapter".
@@ -364,8 +386,12 @@ function renderFiles() {
   for (const e of hits) {
     const key = e.file.series ? e.owner + "|" + e.file.series : seriesKey(e.owner, e.file.name);
     const title = e.file.series || seriesTitle(e.file.name);
-    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [] });
-    groups.get(key).files.push({ file: e.file, sourceUrl: e.sourceUrl, sourceName: e.sourceName });
+    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [], exact: false });
+    const g = groups.get(key);
+    g.files.push({ file: e.file, sourceUrl: e.sourceUrl, sourceName: e.sourceName });
+    // exact = the file literally contains the query (not only via a synonym), so
+    // literal hits ("at-risk" in a column) rank above synonym hits ("Title I").
+    if (terms.length && terms.every(t => fileTermMatch(e.textLiteral, t))) g.exact = true;
   }
   // chip text: a per-entity label (school/sector) if set, else the year, else just
   // "file" — never the literal "unknown"/"current" the raw year field can hold
@@ -378,8 +404,9 @@ function renderFiles() {
   // years) sits below smaller, current datasets. A ~20-year recency gap outweighs
   // up to ~100x more files; among similar-recency sets, more files wins.
   const score = g => maxYear(g) + 3 * Math.log2(g.files.length + 1);
+  // exact (literal) matches first, then synonym-only; within each, recency+volume.
   let list = [...groups.values()].sort((a, b) =>
-    score(b) - score(a) || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
+    (b.exact - a.exact) || score(b) - score(a) || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
   if (state.topic)
     list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
   if (state.year)
@@ -432,10 +459,9 @@ function renderFiles() {
             // highlight the synonym that actually matched too (e.g. "at-risk" search
             // lights up an "Economically Disadvantaged" column), so the WHY is visible
             const hiTerms = expandTerms(terms);
-            const shown = cols.slice(0, 6).map(c => {
-              const disp = c.length > 70 ? c.slice(0, 67) + "…" : c;   // some OSSE tabs are named the full report title
-              return '<span class="colhit">' + highlight(esc(disp), hiTerms) + "</span>";
-            }).join("");
+            const shown = cols.slice(0, 6).map(c =>
+              '<span class="colhit">' + highlight(esc(matchSnippet(c, hiTerms)), hiTerms) + "</span>"
+            ).join("");
             matchHtml = '<div class="file-cols mb-1">found in: ' + shown
               + (cols.length > 6 ? '<span class="text-muted">+' + (cols.length - 6) + " more</span>" : "") + "</div>";
           }
