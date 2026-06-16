@@ -361,15 +361,18 @@ function renderFiles() {
         const latest = items[items.length - 1];
         const multiPage = new Set(items.map(x => x.sourceUrl)).size > 1;
 
-        // every file gets a pair: ⬇ download the file, and ↗ the page it lives on
+        // every file gets a pair: ⬇ downloads THIS exact file (direct, reliable),
+        // ↗ opens the broader source page (which may be a dashboard, not a file list).
+        // The ⬇ tooltip shows the real filename so it's clear what you get.
         const chips = items.map(x =>
           '<span class="filepair">'
           + '<a class="year-chip dl' + (state.year && yearNum(chipLabel(x)) === +state.year ? " hit" : "")
-          + '" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Download '
-          + esc(x.file.kind) + " (" + esc(chipLabel(x)) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
+          + '" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Downloads this file: '
+          + esc(x.file.name) + " (" + esc(x.file.kind) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
           + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>"
           + '<a class="year-chip pg" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" '
-          + 'title="Open the page where this file is hosted: ' + esc(x.sourceName) + '">↗</a>'
+          + 'title="Source page for context: ' + esc(x.sourceName)
+          + ' — the file is the ⬇ link; some sources show a dashboard here, not a file list">↗</a>'
           + "</span>").join("");
 
         // badge: count DISTINCT years (not files — a year can have several files),
@@ -404,7 +407,7 @@ function renderFiles() {
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
           + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
           + matchHtml
-          + '<div class="file-cols mb-1">each file: <b>⬇</b> download · <b>↗</b> page it lives on</div><div>' + chips + "</div></div>";
+          + '<div class="file-cols mb-1"><b>⬇</b> downloads the file itself · <b>↗</b> its source page (some sources show a dashboard, not a file list — the ⬇ is the reliable way to the data)</div><div>' + chips + "</div></div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
