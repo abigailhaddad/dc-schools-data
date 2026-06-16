@@ -25,11 +25,23 @@
   .year-chip.hit { outline:2px solid #d97706; outline-offset:1px; font-weight:600; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
+  .colhit { display:inline-block; background:#fff7ed; border:1px solid #fed7aa; color:#7c2d12; border-radius:.3rem; padding:.02rem .4rem; margin:.1rem .25rem .1rem 0; font-size:.78rem; }
   details.files > summary { cursor:pointer; color:#2a6db0; font-size:.9rem; }
   .meta { font-size:.85rem; color:#566; }
   .note { font-size:.86rem; color:#333; }
   mark { padding:0 .1em; }
   .overlap-card { background:#fff; border-left:4px solid #1b365d; border-radius:.4rem; padding:.9rem 1.1rem; margin-bottom:.85rem; }
+  .cov-wrap { overflow-x:auto; background:#fff; border:1px solid #e3e6ea; border-radius:.5rem; }
+  .cov-table { border-collapse:collapse; font-size:.8rem; width:100%; }
+  .cov-table th, .cov-table td { border:1px solid #e9edf1; padding:.25rem .45rem; text-align:center; white-space:nowrap; }
+  .cov-table thead th { background:#1b365d; color:#fff; position:sticky; top:0; z-index:2; }
+  .cov-table th.topic, .cov-table td.topic { text-align:left; position:sticky; left:0; background:#fff; z-index:1; font-weight:600; color:#234; }
+  .cov-table thead th.topic { background:#1b365d; z-index:3; }
+  .cov-table td.tot, .cov-table th.tot { font-weight:600; background:#f1f4f8; }
+  .cov-cell { cursor:pointer; color:#234; }
+  .cov-cell:hover { outline:2px solid #d97706; outline-offset:-2px; }
+  .cov-cell.empty { color:#cfd5db; cursor:default; }
+  .cov-cell.empty:hover { outline:none; }
 </style>
 </head>
 <body>
@@ -38,6 +50,11 @@
   <div class="container">
     <h3 class="mb-0">DC K-12 Public Schools — Data Source Finder</h3>
     <div class="small opacity-75" id="subtitle">loading…</div>
+    <div class="small mt-1">
+      Unofficial, independent project — <strong>not affiliated with</strong> OSSE, DCPS, DC PCSB, DME, or the DC government.
+      It links to public sources and hosts none of the official data.
+      <a class="link-light text-decoration-underline" href="https://github.com/abigailhaddad/dc-schools-data" target="_blank" rel="noopener">Source on GitHub ↗</a>
+    </div>
   </div>
 </div>
 
@@ -57,6 +74,8 @@
 
     <ul class="nav nav-tabs mt-2 mb-0">
       <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
+      <li class="nav-item"><a class="nav-link" href="#" id="tab-coverage">Coverage</a></li>
+      <li class="nav-item"><a class="nav-link" href="#" id="tab-columns">Columns</a></li>
       <li class="nav-item"><a class="nav-link" href="#" id="tab-sources">Sources</a></li>
       <li class="nav-item"><a class="nav-link" href="#" id="tab-overlaps">How sources differ</a></li>
     </ul>
@@ -64,13 +83,20 @@
 
   <div id="count" class="meta mb-2 pt-2"></div>
   <div id="files"></div>
+  <div id="coverage" style="display:none"></div>
+  <div id="columns" style="display:none"></div>
   <div id="results" style="display:none"></div>
   <div id="overlaps" style="display:none"></div>
 </div>
 
 <footer class="container py-4 meta">
-  Generated from <code>sources.yaml</code> + <code>data_files.yaml</code>. Edit those and run
-  <code>python generate_readme.py</code> to rebuild. <span id="verified"></span>
+  <p class="mb-1"><strong>Unofficial &amp; independent.</strong> Not affiliated with or endorsed by OSSE,
+  DCPS, DC PCSB, DME, or the Government of the District of Columbia. This is a catalog of links to
+  publicly published data — it hosts none of the official data and names no source as authoritative.
+  Always verify against the original source.</p>
+  <p class="mb-0">Code &amp; data:
+  <a href="https://github.com/abigailhaddad/dc-schools-data" target="_blank" rel="noopener">github.com/abigailhaddad/dc-schools-data</a>.
+  Built from <code>sources.yaml</code> + <code>data_files.yaml</code>. <span id="verified"></span></p>
 </footer>
 
 <script src="catalog.js"></script>
@@ -130,6 +156,19 @@ function fileSummary(f) {
     ? f.n_pages + " pages, extractable tables on ~" + f.n_table_pages + " page(s)"
     : f.n_pages + " pages (narrative; no extractable tables)";
   return f.kind;
+}
+
+// the tab names / column headers / pdf-table headers in a file that contain a
+// search term — so a hit shows WHERE it matched, not just that the file matched.
+function matchedColumns(file, terms) {
+  if (!terms.length) return [];
+  const hits = [];
+  // test lowercased (terms are lowercase), but keep original case for display
+  const push = s => { if (s && !hits.includes(s) && terms.some(t => fileTermMatch(s.toLowerCase(), t))) hits.push(s); };
+  for (const tab of file.tabs || []) { push(tab.name); for (const c of tab.columns) push(c); }
+  for (const c of file.columns || []) push(c);
+  for (const t of file.tables || []) for (const c of t.header) push(c);
+  return hits;
 }
 
 function sourceCard(source, terms) {
@@ -209,6 +248,30 @@ function fileTermMatch(text, term) {
     return new RegExp("\\b" + term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i").test(text);
   }
   return text.includes(term);
+}
+
+// normalize a column header so trivial case/punctuation differences collapse
+// ("ELA - % Proficient" and "ELA – % proficient" → same key).
+function normCol(c) {
+  return String(c).toLowerCase().replace(/[^a-z0-9 %]+/g, " ").replace(/\s+/g, " ").trim();
+}
+
+// index every column header -> the files it appears in (for the Columns view).
+// First raw spelling seen is kept for display; counts are per distinct file.
+const COLUMN_INDEX = new Map();
+for (const e of ALL_FILES) {
+  const headers = [];
+  for (const tab of e.file.tabs || []) headers.push(...tab.columns);
+  headers.push(...(e.file.columns || []));
+  for (const t of e.file.tables || []) headers.push(...t.header);
+  const seen = new Set();   // dedupe within one file
+  for (const h of headers) {
+    const key = normCol(h);
+    if (key.length < 3 || seen.has(key)) continue;
+    seen.add(key);
+    if (!COLUMN_INDEX.has(key)) COLUMN_INDEX.set(key, { display: h, files: [] });
+    COLUMN_INDEX.get(key).files.push(e);
+  }
 }
 
 // strip year / version / date / dedupe tokens so the same dataset across years
@@ -316,17 +379,143 @@ function renderFiles() {
         } else if (items.length > 1) {
           span = '<span class="badge bg-secondary">' + items.length + " files</span> ";
         }
+        // when searching, show which tab/column names matched, across the series
+        let matchHtml = "";
+        if (terms.length) {
+          const cols = [];
+          for (const x of items)
+            for (const c of matchedColumns(x.file, terms))
+              if (!cols.includes(c)) cols.push(c);
+          if (cols.length) {
+            const shown = cols.slice(0, 6).map(c => {
+              const disp = c.length > 70 ? c.slice(0, 67) + "…" : c;   // some OSSE tabs are named the full report title
+              return '<span class="colhit">' + highlight(esc(disp), terms) + "</span>";
+            }).join("");
+            matchHtml = '<div class="file-cols mb-1">found in: ' + shown
+              + (cols.length > 6 ? '<span class="text-muted">+' + (cols.length - 6) + " more</span>" : "") + "</div>";
+          }
+        }
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
           + '<h6 class="mb-1">' + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
           + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
+          + matchHtml
           + '<div class="file-cols mb-1">each file: <b>⬇</b> download · <b>↗</b> page it lives on</div><div>' + chips + "</div></div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
 
+// shade a coverage cell by how many files it holds, relative to the busiest cell
+function covBg(n, max) {
+  if (!n) return "";
+  const a = (0.08 + 0.4 * (n / max)).toFixed(3);
+  return ' style="background:rgba(27,54,93,' + a + ')"';
+}
+
+// Coverage grid: topics (rows) × years (columns), cell = how many files carry
+// that topic that year. Reuses the owner + free-text filters; IS the topic/year
+// picker, so it ignores those two. Empty cells are the gaps worth harvesting.
+function renderCoverage() {
+  // pure topic×year overview of the whole catalog — owner filter only. Free-text
+  // search and topic chips belong to the Files / Columns views, not here, so we
+  // deliberately ignore state.q and state.topic (mixing them in was confusing).
+  const files = state.owner ? ALL_FILES.filter(e => e.owner === state.owner) : ALL_FILES;
+
+  const years = [...new Set(files.map(e => yearNum(e.file.label || e.file.year)).filter(y => y > 0))]
+    .sort((a, b) => b - a);
+
+  // count[tag][year]; a multi-topic file counts once per topic (coverage, not a
+  // file tally — the gaps are the point).
+  const count = {};
+  for (const [, tag] of TOPIC_CHIPS) count[tag] = {};
+  for (const e of files) {
+    const y = yearNum(e.file.label || e.file.year);
+    if (!y) continue;
+    for (const t of e.file.topics || [])
+      if (count[t]) count[t][y] = (count[t][y] || 0) + 1;
+  }
+  let max = 1;
+  for (const [, tag] of TOPIC_CHIPS)
+    for (const y of years) max = Math.max(max, count[tag][y] || 0);
+
+  document.getElementById("count").textContent =
+    "Files per topic × year — full catalog"
+    + (state.owner ? " · " + state.owner : "")
+    + ". Use Search files or Columns to search; click a cell to open that slice.";
+
+  // Total sits right after the Topic label (not at the far right past 21 year
+  // columns) so the per-topic summary is visible without scrolling.
+  const head = '<tr><th class="topic">Topic</th><th class="tot">Total</th>'
+    + years.map(y => "<th>" + y + "</th>").join("") + "</tr>";
+
+  const rows = TOPIC_CHIPS.map(([label, tag]) => {
+    const rowTot = years.reduce((s, y) => s + (count[tag][y] || 0), 0);
+    if (!rowTot) return "";   // hide topics with nothing in this slice
+    const cells = years.map(y => {
+      const n = count[tag][y] || 0;
+      if (!n) return '<td class="cov-cell empty">·</td>';
+      return '<td class="cov-cell" data-topic="' + tag + '" data-year="' + y + '"'
+        + covBg(n, max) + ">" + n + "</td>";
+    }).join("");
+    return '<tr><td class="topic">' + esc(label) + '</td><td class="tot">'
+      + rowTot + "</td>" + cells + "</tr>";
+  }).join("");
+
+  document.getElementById("coverage").innerHTML = years.length
+    ? '<div class="cov-wrap"><table class="cov-table"><thead>' + head
+      + "</thead><tbody>" + rows + "</tbody></table></div>"
+    : '<div class="alert alert-light border">No year-tagged files for this owner.</div>';
+}
+
+// Columns view: every column header across all files, grouped, with the
+// files/sources that carry it. Type a metric to find which datasets have it
+// (and under which exact column name). Descriptive — it maps names, not sources.
+function renderColumns() {
+  const terms = queryTerms();
+  const rows = [];
+  for (const [key, rec] of COLUMN_INDEX) {
+    if (terms.length && !terms.every(t => fileTermMatch(key, t))) continue;
+    const files = state.owner ? rec.files.filter(e => e.owner === state.owner) : rec.files;
+    if (!files.length) continue;
+    const sources = [...new Set(files.map(e => e.sourceName))];
+    const years = [...new Set(files.map(e => yearNum(e.file.label || e.file.year)).filter(y => y > 0))];
+    rows.push({ display: rec.display, files, sources, years });
+  }
+  // most cross-source first (that's the interesting signal), then most files
+  rows.sort((a, b) => b.sources.length - a.sources.length
+    || b.files.length - a.files.length || a.display.localeCompare(b.display));
+
+  const CAP = 60;
+  const shown = rows.slice(0, CAP);
+  document.getElementById("count").textContent = terms.length
+    ? rows.length + " column header(s) match"
+    : COLUMN_INDEX.size + " distinct column headers — search to filter (most cross-source first)";
+
+  const cards = shown.map(r => {
+    const yrTxt = r.years.length ? " · " + Math.min(...r.years) + "–" + Math.max(...r.years) : "";
+    const srcLine = r.sources.slice(0, 8).join(", ")
+      + (r.sources.length > 8 ? ", +" + (r.sources.length - 8) + " more" : "");
+    const fileLines = r.files.slice()
+      .sort((a, b) => yearNum(b.file.year) - yearNum(a.file.year))
+      .map(e => '<div class="file-line"><a href="' + esc(e.file.url) + '" target="_blank" rel="noopener">⬇ '
+        + esc(e.file.name) + '</a> <span class="text-muted">' + esc(e.sourceName)
+        + (e.file.year ? " · " + esc(e.file.year) : "") + "</span></div>").join("");
+    return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
+      + '<h6 class="mb-1">' + highlight(esc(r.display), terms) + "</h6>"
+      + '<span class="badge bg-secondary">' + r.sources.length + " source(s) · " + r.files.length + " file(s)</span></div>"
+      + '<div class="file-cols mb-1">' + esc(srcLine) + yrTxt + "</div>"
+      + '<details class="files"><summary>' + r.files.length + " file(s) with this column</summary>" + fileLines + "</details></div>";
+  }).join("");
+
+  document.getElementById("columns").innerHTML = shown.length
+    ? (rows.length > CAP ? '<div class="meta mb-2">Showing top ' + CAP + " of " + rows.length + " — narrow with search.</div>" : "") + cards
+    : '<div class="alert alert-light border">No column headers match. Try a shorter term (e.g. proficient, absentee, ward).</div>';
+}
+
 const VIEWS = {
   files:    { div: "files",    tab: "tab-files",    render: renderFiles },
+  coverage: { div: "coverage", tab: "tab-coverage", render: renderCoverage },
+  columns:  { div: "columns",  tab: "tab-columns",  render: renderColumns },
   sources:  { div: "results",  tab: "tab-sources",  render: renderSources },
   overlaps: { div: "overlaps", tab: "tab-overlaps", render: renderOverlaps },
 };
@@ -337,9 +526,11 @@ function render() {
     document.getElementById(v.div).style.display = active ? "" : "none";
     document.getElementById(v.tab).classList.toggle("active", active);
   }
-  // reflect filter state back onto the controls (single source of truth = state)
-  for (const b of document.querySelectorAll("#topicchips .topic-btn"))
-    b.classList.toggle("active", b.dataset.topic === state.topic);
+  // reflect filter state back onto the controls (single source of truth = state).
+  // Drop an active topic that has no data for the current owner+year, then rebuild
+  // the chips so only non-empty topics are clickable — a chip never leads to nothing.
+  if (state.topic && !topicAvailable(state.topic)) state.topic = "";
+  renderChips();
   document.getElementById("owner").value = state.owner;
   document.getElementById("year").value = state.year;
   VIEWS[state.view].render();
@@ -381,15 +572,41 @@ const TOPIC_CHIPS = [
   ["Finance", "finance"], ["Ratings", "accountability"], ["Lottery", "lottery"],
   ["Boundaries", "boundaries"], ["Facilities", "facilities"], ["Educators", "educators"],
   ["Directory", "profiles"], ["Early childhood", "early-childhood"],
+  ["Special ed", "special-education"],
 ];
-const availableTopics = new Set(ALL_FILES.flatMap(e => e.file.topics || []));
-for (const [label, tag] of TOPIC_CHIPS) {
-  if (!availableTopics.has(tag)) continue;
-  const b = document.createElement("span");
-  b.className = "topic-btn"; b.dataset.topic = tag; b.textContent = label;
-  b.addEventListener("click", () => { state.topic = state.topic === tag ? "" : tag; render(); });
-  document.getElementById("topicchips").appendChild(b);
+
+// A topic is "available" if at least one file carries it under the current
+// owner+year filter. Chips are shown only for available topics, so clicking any
+// visible chip always yields >=1 result. (Test: test_frontend.py)
+function topicAvailable(tag) {
+  return ALL_FILES.some(e =>
+    (e.file.topics || []).includes(tag)
+    && (!state.owner || e.owner === state.owner)
+    && (!state.year || yearNum(e.file.label || e.file.year) === +state.year));
 }
+
+// Rebuilt on every render() because the available set depends on owner+year.
+function renderChips() {
+  const box = document.getElementById("topicchips");
+  box.innerHTML = "";
+  for (const [label, tag] of TOPIC_CHIPS) {
+    if (!topicAvailable(tag)) continue;
+    const b = document.createElement("span");
+    b.className = "topic-btn" + (state.topic === tag ? " active" : "");
+    b.dataset.topic = tag;
+    b.textContent = label;
+    box.appendChild(b);
+  }
+}
+
+// One delegated listener on the long-lived container (chips themselves are
+// recreated each render, so per-chip listeners would leak / go stale).
+document.getElementById("topicchips").addEventListener("click", e => {
+  const b = e.target.closest(".topic-btn");
+  if (!b) return;
+  state.topic = state.topic === b.dataset.topic ? "" : b.dataset.topic;
+  render();
+});
 
 document.getElementById("subtitle").textContent =
   CAT.sources.length + " sources · " + ALL_FILES.length
@@ -412,6 +629,17 @@ for (const [name, v] of Object.entries(VIEWS)) {
     e.preventDefault(); state.view = name; render();
   });
 }
+
+// coverage cells -> jump to that topic+year in the files view. One delegated
+// listener on the long-lived container (the table inside is rebuilt each render).
+document.getElementById("coverage").addEventListener("click", e => {
+  const cell = e.target.closest(".cov-cell");
+  if (!cell || !cell.dataset.topic) return;
+  state.topic = cell.dataset.topic;
+  state.year = cell.dataset.year;
+  state.view = "files";
+  render();
+});
 
 // restore state from a shared URL (#q=..&topic=..&owner=..&view=..)
 (function initFromHash() {

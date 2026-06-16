@@ -37,12 +37,36 @@ data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generat
   Writes `file_profiles.json`. `--only <ids>` updates a subset; `--refresh` re-downloads.
 - **`generate_readme.py`** — renders `README.md` **and** `catalog.js`
   (`window.CATALOG = {...}`). All display logic lives here: `derive_series()`
-  (grouping), `infer_file_topics()` (per-file topics), title cleanup.
+  (grouping), `infer_file_topics()` (per-file topics), title cleanup. The
+  "Known gaps" section computes its status counts from `file_profiles.json`, so
+  it can't drift — don't re-hardcode "many files behind Box".
+- **`validate.py`** — integrity gate for the two YAMLs (dup ids, dangling
+  `source_id`, `overlaps` referencing a missing source, bad `kind`/`status`).
+  Exits non-zero on errors; run it before `generate_readme.py`. CI + `refresh.sh`
+  both call it first.
+- **`report_drift.py`** — diffs two `file_profiles.json` snapshots into a
+  human-readable "what changed" report (newly-broken links with URLs, in-place
+  shape changes, fixed/new/removed). `refresh.sh` snapshots → re-profiles → diffs.
+- **`test_frontend.py`** — guards the front-end invariant that **no topic chip is
+  ever empty**. Reads the real `catalog.js` + the `TOPIC_CHIPS` list from
+  `index.html` and checks every chip-topic has ≥1 year-tagged file, every year/owner
+  has ≥1 chip, and the availability rule never surfaces an empty chip. Run after
+  `generate_readme.py` (it reads `catalog.js`); wired into `refresh.sh` + CI. This is
+  why DC CAS counts as `assessment` and the EdScape boundary files carry years —
+  the test fails loudly if a topic would show a chip that leads to nothing.
 - **`index.html`** — static, Bootstrap CDN + flat vanilla JS, loads `catalog.js`
-  via `<script src>` (so it opens from `file://`; no server/build). Three views:
-  Search files (grouped series, default), Sources, "How sources differ".
+  via `<script src>` (so it opens from `file://`; no server/build). Five views:
+  Search files (grouped series, default), **Coverage** (topic × year heatmap,
+  cells click through to the filtered files view), **Columns** (every column
+  header indexed → the files/sources that carry it, built from `COLUMN_INDEX`),
+  Sources, "How sources differ". Search results also show *which* tab/column
+  matched (`matchedColumns`). The topic chips are **owner+year-aware**
+  (`topicAvailable` / `renderChips`, rebuilt each `render()`): a chip only shows if
+  it has ≥1 file for the current filter, and an active topic auto-clears if you pick
+  a year it lacks — so a chip never leads to an empty result (enforced by
+  `test_frontend.py`).
 
-Regenerate after any data/generator change: `python generate_readme.py`.
+Regenerate after any data/generator change: `python validate.py && python generate_readme.py`.
 Full rebuild: `python profile_files.py && python generate_readme.py`.
 
 ## Key concepts
@@ -96,7 +120,8 @@ full playbook + code snippets):
 ## Automation
 
 - **Layer 1 (no browser):** `./refresh.sh` or `.github/workflows/refresh.yml`
-  (monthly) re-download + re-profile + regenerate — catches in-place updates and
-  dead links.
+  (monthly) validate → snapshot profiles → re-download + re-profile → regenerate →
+  print a drift report — catches in-place updates and dead links. The CI run
+  surfaces the drift report in the job summary.
 - **Layer 2 (discovery):** finding new files / resolving Box needs the browser, so
   run the `update-dc-schools-data` skill (optionally scheduled as a cloud agent).

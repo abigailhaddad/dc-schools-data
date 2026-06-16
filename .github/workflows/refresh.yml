@@ -22,10 +22,19 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - name: Validate YAML
+        run: python validate.py
       - name: Refresh catalog
         run: |
+          cp -f file_profiles.json file_profiles.prev.json
           python profile_files.py --refresh
           python generate_readme.py
+      - name: Front-end invariants (no empty topic chips)
+        run: python test_frontend.py
+      - name: Report drift
+        run: |
+          python report_drift.py file_profiles.prev.json file_profiles.json >> "$GITHUB_STEP_SUMMARY"
+          rm -f file_profiles.prev.json
       - name: Commit any changes
         run: |
           git config user.name  "github-actions[bot]"

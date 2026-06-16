@@ -1758,7 +1758,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns Sector 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-commute-path
@@ -1766,7 +1766,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns Commute Paths 2024"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2024.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2024"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-enrollments
@@ -1774,7 +1774,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns Enrollments per DCPS Boundary 2025"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Enrollments%20per%20DCPS%20Boundary_2025.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2025"
     topics: [boundaries]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-distance-202
@@ -1782,7 +1782,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns Distance 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Distance_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-1-population-and-students-where-st
@@ -1790,7 +1790,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 1 Population and Students Where Students Miss School 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Students%20Miss%20School_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-feeders-2026
@@ -1798,7 +1798,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns Feeders 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Feeders_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [boundaries]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-gpr-2026-unk
@@ -1806,7 +1806,7 @@ data_files:
     name: "Enrollment Patterns \u2014 EdScape Chapter 4 Enrollment Patterns GPR 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_GPR_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [other]
 
   - id: edscape-population-and-students-edscape-chapter-4-enrollment-patterns-total-pu
@@ -1814,7 +1814,7 @@ data_files:
     name: "Population and Students \u2014 EdScape Chapter 4 Enrollment Patterns Total Public School Enrollment 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Total%20Public%20School%20Enrollment_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [other]
 
   - id: edscape-population-and-students-edscape-chapter-4-enrollment-patterns-public-e
@@ -1822,7 +1822,7 @@ data_files:
     name: "Population and Students \u2014 EdScape Chapter 4 Enrollment Patterns Public School Enrollment by Grade 2026"
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Public%20School%20Enrollment%20by%20Grade_2026.xlsx"
     kind: xlsx
-    year: "unknown"
+    year: "2026"
     topics: [enrollment]
 
   # ---- Harvested from pcsb-discipline-attendance (5 files) ----
@@ -1839,7 +1839,7 @@ data_files:
     name: "Discipline & Attendance \u2014 SY 17 18 Attendance and Discipline Report"
     url: "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [attendance, discipline]
 
   - id: pcsb-disc-discipline-attendance-pcsb-sy-2015-16-truancy-report-2015
@@ -1978,7 +1978,7 @@ data_files:
     name: "School Equity Reports \u2014 SY 2017 18 DC PCSB Equity Report Definitions Guide"
     url: "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-academy-of-hope-adult-pcs
@@ -3100,3 +3100,600 @@ data_files:
     year: "2015"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
+
+  # ---- Harvested from osse-educator-workforce (34 files) ----
+  - id: edu-educator-workforce-report-2018
+    source_id: osse-educator-workforce
+    name: "Educator Workforce Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Educator%20Workforce%20Report%2010.2019.pdf"
+    kind: pdf
+    year: "2018"
+    topics: [educators]
+
+  - id: edu-educator-workforce-report-2021
+    source_id: osse-educator-workforce
+    name: "Educator Workforce Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022%20DC%20Educator%20Workforce%20Report_FINAL.pdf"
+    kind: pdf
+    year: "2021"
+    topics: [educators]
+
+  - id: edu-educator-workforce-report-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Report%20%28Oct%2028%29.pdf"
+    kind: pdf
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-2021
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Retention%20One-Pager.pdf"
+    kind: pdf
+    year: "2021"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-2022
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EduRetention_1pager_022423.pdf"
+    kind: pdf
+    year: "2022"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-2023
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20ERB.pdf"
+    kind: pdf
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-2024
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Education%20Retention%20Brief%202024-2025.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-2025
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Retention%20Brief.pdf"
+    kind: pdf
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-retention-brief-definitions-and-methodology-2024
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief \u2014 Definitions and Methodology"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Educator%20Retention%20Brief%20-%20Definitions%20and%20Methodology.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [educators, methodology]
+
+  - id: edu-educator-workforce-file-all-files-2021
+    source_id: osse-educator-workforce
+    name: "Educator Workforce — All Files (combined workbook)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator_Data_May_2022.xlsx"
+    kind: xlsx
+    year: "2021"
+    topics: [educators]
+
+  - id: edu-educator-workforce-files-all-files-2022
+    source_id: osse-educator-workforce
+    name: "Educator Workforce — All Files (combined workbook)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20SY%202022-23%20%283%29.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [educators]
+
+  - id: edu-educator-workforce-counts-and-demographics-2022
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Counts and Demographics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Counts%20and%20Demographics%29.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [demographics, educators]
+
+  - id: edu-educator-workforce-preparation-and-performance-2022
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Preparation and Performance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20Prep%20and%20Perf%20Oct%2023%20Update.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [educators]
+
+  - id: edu-educator-workforce-retention-2022
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Retention"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Retention%29.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [educators]
+
+  - id: edu-educator-workforce-supply-and-demand-2022
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Supply and Demand"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Supply%20and%20Demand%29.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [educators]
+
+  - id: edu-educator-workforce-files-all-files-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce — All Files (combined workbook)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Data%20Files%20%28Oct%2028%29_1.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-workforce-counts-and-demographics-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Counts and Demographics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics%20%28Oct%2028%29.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [demographics, educators]
+
+  - id: edu-educator-workforce-preparation-and-performance-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Preparation and Performance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance%20%28Oct%2028%29.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-workforce-retention-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Retention"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention%20%28Oct%2028%29%20.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-workforce-supply-and-demand-2023
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Supply and Demand"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Supply%20and%20Demand%20%28Oct%2028%29.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [educators]
+
+  - id: edu-educator-workforce-files-all-files-2024
+    source_id: osse-educator-workforce
+    name: "Educator Workforce — All Files (combined workbook)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025%20Educator%20Data%20Flat%20File%20%28All%20Files%29.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-workforce-counts-and-demographics-2024
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Counts and Demographics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [demographics, educators]
+
+  - id: edu-educator-workforce-preparation-and-performance-2024
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Preparation and Performance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance_0.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-workforce-retention-2024
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Retention"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-workforce-supply-and-demand-2024
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Supply and Demand"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Vacancies.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-workforce-files-all-files-2025
+    source_id: osse-educator-workforce
+    name: "Educator Workforce — All Files (combined workbook)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Workforce%20Data%20Files.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-workforce-counts-and-demographics-2025
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Counts and Demographics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Counts%20and%20Demographics.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [demographics, educators]
+
+  - id: edu-educator-workforce-preparation-and-performance-2025
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Preparation and Performance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-workforce-retention-2025
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Retention"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Retention.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-workforce-supply-and-demand-2025
+    source_id: osse-educator-workforce
+    name: "Educator Workforce \u2014 Supply and Demand"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Vacancies.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-preparation-provider-epp-landscape-brief-2024
+    source_id: osse-educator-workforce
+    name: "Educator Preparation Provider (EPP) Landscape Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP_Brief_May2025.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-preparation-provider-epp-files-2024
+    source_id: osse-educator-workforce
+    name: "Educator Preparation Provider (EPP) Data Files"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Public%20Flat%20Files%20%28Oct%2028%29.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [educators]
+
+  - id: edu-educator-preparation-provider-epp-files-2025
+    source_id: osse-educator-workforce
+    name: "Educator Preparation Provider (EPP) Data Files"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20Files%20Spring%202025%20%281%29.xlsx"
+    kind: xlsx
+    year: "2025"
+    topics: [educators]
+
+  - id: edu-educator-preparation-provider-epp-files-2026
+    source_id: osse-educator-workforce
+    name: "Educator Preparation Provider (EPP) Data Files"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20File%20Spring%202026.xlsx"
+    kind: xlsx
+    year: "2026"
+    topics: [educators]
+
+  # ---- Harvested from osse-special-ed (13 files) ----
+  - id: sped-fy-2018-performance-on-parcc-by-disability-type-and-hours-of-service-2
+    source_id: osse-special-ed
+    name: "FY 2018 Performance on PARCC by Disability Type and Hours of Service"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FY%202018%20Performance%20on%20PARCC%20by%20Disability%20Type%20and%20Hours%20of%20Service.xlsx"
+    kind: xlsx
+    year: "2018"
+    topics: [other]
+
+  - id: sped-ffy-2024-special-education-annual-performance-part-b-2024
+    source_id: osse-special-ed
+    name: "FFY 2024 Special Education Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY24%20APR%20Part%20B%20LEA%20Reporting.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [other]
+
+  - id: sped-ffy-2023-special-education-annual-performance-part-b-2023
+    source_id: osse-special-ed
+    name: "FFY 2023 Special Education Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC-01%20SPP%20PART%20B%20FFY%202023-24%20%203339%2020250623074712.pdf"
+    kind: pdf
+    year: "2023"
+    topics: [other]
+
+  - id: sped-ffy-2022-special-education-annual-performance-part-b-2022
+    source_id: osse-special-ed
+    name: "FFY 2022 Special Education Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20Annual%20Performance%20Report%20Part%20B.pdf"
+    kind: pdf
+    year: "2022"
+    topics: [other]
+
+  - id: sped-ffy-2021-special-education-annual-performance-part-b-2021
+    source_id: osse-special-ed
+    name: "FFY 2021 Special Education Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY21%20APR%20Final.pdf"
+    kind: pdf
+    year: "2021"
+    topics: [other]
+
+  - id: sped-ffy-2020-special-education-annual-performance-part-b-2020
+    source_id: osse-special-ed
+    name: "FFY 2020 Special Education Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/District%20of%20Columbia%20IDEA%20Part%20B%20SPP-APR%20FFY%202020.pdf"
+    kind: pdf
+    year: "2020"
+    topics: [other]
+
+  - id: sped-special-education-to-the-public-part-b-ffy-2023-2023
+    source_id: osse-special-ed
+    name: "Special Education Report to the Public: Part B FFY 2023"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY23%20APR%20Part%20B%20LEA%20Reporting.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [other]
+
+  - id: sped-special-education-to-the-public-part-b-ffy-2022-2022
+    source_id: osse-special-ed
+    name: "Special Education Report to the Public: Part B FFY 2022"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20APR%20Part%20B%20LEA%20Reporting%20.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [other]
+
+  - id: sped-special-education-to-the-public-part-b-ffy-2021-2021
+    source_id: osse-special-ed
+    name: "Special Education Report to the Public: Part B FFY 2021"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Copy%20of%20APR%20Public%20Reporting%20FFY%2021.xlsx"
+    kind: xlsx
+    year: "2021"
+    topics: [other]
+
+  - id: sped-special-education-to-the-public-part-b-ffy-2020-2020
+    source_id: osse-special-ed
+    name: "Special Education Report to the Public: Part B FFY 2020"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY%202020%20APR%20Public%20Reporting_0.pdf"
+    kind: pdf
+    year: "2020"
+    topics: [other]
+
+  - id: sped-special-education-state-performance-plan-indicator-guide-unknown
+    source_id: osse-special-ed
+    name: "Special Education State Performance Plan Indicator Guide"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/State%20Performance%20Plan%20Indicator%20Guide_0.pdf"
+    kind: pdf
+    year: "unknown"
+    topics: [other]
+
+  - id: sped-special-education-ssip-theory-of-action-ffy20-25-unknown
+    source_id: osse-special-ed
+    name: "Special Education SSIP Theory of Action - FFY20-25"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Theory%20of%20Action%20-%20FFY20-25.pdf"
+    kind: pdf
+    year: "unknown"
+    topics: [other]
+
+  - id: sped-special-education-ssip-evaluation-plan-ffy20-25-unknown
+    source_id: osse-special-ed
+    name: "Special Education SSIP Evaluation Plan - FFY20-25"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Evaluation%20Plan%20-%20FFY20-25.pdf"
+    kind: pdf
+    year: "unknown"
+    topics: [other]
+
+  # ---- Harvested from osse-prek (13 files) ----
+  - id: prek-osse-annual-pre-k-2024-2024
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2024"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202024.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2023-2023
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2023"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202023.pdf"
+    kind: pdf
+    year: "2023"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2022-2022
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2022"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202022.pdf"
+    kind: pdf
+    year: "2022"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2021-2021
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2021"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FISCAL%20YEAR%202021%20Pre%20K%20Report%20MMB.pdf"
+    kind: pdf
+    year: "2021"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2020-2020
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2020"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202020.pdf"
+    kind: pdf
+    year: "2020"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2019-2019
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2019"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202019.pdf"
+    kind: pdf
+    year: "2019"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2018-2018
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2018"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202018.pdf"
+    kind: pdf
+    year: "2018"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2017-2017
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2017"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202017.pdf"
+    kind: pdf
+    year: "2017"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2016-2016
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2016"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202016%20Feb%202%201017_0.pdf"
+    kind: pdf
+    year: "2016"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2015-2015
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2015"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202015.pdf"
+    kind: pdf
+    year: "2015"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2014-2014
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2014"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202014.pdf"
+    kind: pdf
+    year: "2014"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2013-2013
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202013.pdf"
+    kind: pdf
+    year: "2013"
+    topics: [other]
+
+  - id: prek-osse-annual-pre-k-2012-2012
+    source_id: osse-prek
+    name: "OSSE Annual Pre-K Report 2012"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202012.pdf"
+    kind: pdf
+    year: "2012"
+    topics: [other]
+
+  # ---- Harvested from osse-discipline (13 files) ----
+  - id: disc-2024-25-year-discipline-report-2024
+    source_id: osse-discipline
+    name: "2024-25 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY24-25%20Discipline%20Report%2012.30.25.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [discipline]
+
+  - id: disc-2023-24-year-discipline-report-2023
+    source_id: osse-discipline
+    name: "2023-24 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY23-24%20Discipline%20Report%20as%20of%20March%202025.pdf"
+    kind: pdf
+    year: "2023"
+    topics: [discipline]
+
+  - id: disc-2022-23-year-discipline-report-2022
+    source_id: osse-discipline
+    name: "2022-23 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20SY2022-23.pdf"
+    kind: pdf
+    year: "2022"
+    topics: [discipline]
+
+  - id: disc-2021-22-year-discipline-report-2021
+    source_id: osse-discipline
+    name: "2021-22 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Discipline%20Report%20FINAL_updated2025.pdf"
+    kind: pdf
+    year: "2021"
+    topics: [discipline]
+
+  - id: disc-2020-21-year-discipline-report-2020
+    source_id: osse-discipline
+    name: "2020-21 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Discipline%20Report_FINAL_0.pdf"
+    kind: pdf
+    year: "2020"
+    topics: [discipline]
+
+  - id: disc-2019-20-year-discipline-report-2019
+    source_id: osse-discipline
+    name: "2019-20 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20School%20Year%20Discipline%20Report.pdf"
+    kind: pdf
+    year: "2019"
+    topics: [discipline]
+
+  - id: disc-2018-19-year-discipline-report-2018
+    source_id: osse-discipline
+    name: "2018-19 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20OSSE%202018-19%20School%20Year.pdf"
+    kind: pdf
+    year: "2018"
+    topics: [discipline]
+
+  - id: disc-2018-19-year-discipline-at-a-glance-2018
+    source_id: osse-discipline
+    name: "2018-19 School Year Discipline Report At A Glance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20School%20Year%20Discipline%20Report%20At%20A%20Glance%207.14.20.pdf"
+    kind: pdf
+    year: "2018"
+    topics: [discipline]
+
+  - id: disc-2017-18-year-discipline-report-2017
+    source_id: osse-discipline
+    name: "2017-18 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20School%20Year%20Discipline%20Report.pdf"
+    kind: pdf
+    year: "2017"
+    topics: [discipline]
+
+  - id: disc-2017-18-discipline-appendices-and-tables-2017
+    source_id: osse-discipline
+    name: "2017-18 Discipline Report Appendices and Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20Discipline%20Report%20Appendices%20and%20Tables.xlsx"
+    kind: xlsx
+    year: "2017"
+    topics: [discipline]
+
+  - id: disc-2016-17-year-discipline-report-2016
+    source_id: osse-discipline
+    name: "2016-17 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20Discipline%20Report.pdf"
+    kind: pdf
+    year: "2016"
+    topics: [discipline]
+
+  - id: disc-2015-16-year-discipline-report-2015
+    source_id: osse-discipline
+    name: "2015-16 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2015-16%20OSSE%20Discipline%20Report%20Updated%20Jan%206%202017.pdf"
+    kind: pdf
+    year: "2015"
+    topics: [discipline]
+
+  - id: disc-2013-14-year-discipline-report-2013
+    source_id: osse-discipline
+    name: "2013-14 School Year Discipline Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2013-14%20School%20Year%20OSSE%20Discipline%20Report.pdf"
+    kind: pdf
+    year: "2013"
+    topics: [discipline]
+
+  # ---- Harvested from dcps-budget-portal (1 files) ----
+  - id: dcpsbudget-fy27-initial-submitted-budget-spreadsheet-by-allocations-2026
+    source_id: dcps-budget-portal
+    name: "FY27 Initial & Submitted Budget Spreadsheet (school-by-school allocations)"
+    url: "https://dcpsbudget.com/wp-content/uploads/2026/04/FY27-Initial-and-Submitted-Budgets.xlsx"
+    kind: xlsx
+    year: "2026"
+    topics: [finance]

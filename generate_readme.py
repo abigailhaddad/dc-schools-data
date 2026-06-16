@@ -93,6 +93,12 @@ def derive_series(source_id: str, name: str, year):
     sets that recur by school (PCSB equity) or by metric under drifting filenames
     (My School DC lottery). Returns {} to fall back to the year heuristic."""
     low = name.lower()
+    # The OSSE Educator Workforce page has several distinct flat files PER YEAR
+    # (Counts & Demographics, Retention, Supply & Demand, Prep & Performance, …).
+    # Let the name heuristic split them into one series per sub-file; the broad
+    # "educator" rule below would otherwise crush all of them into one series.
+    if source_id == "osse-educator-workforce":
+        return {}
     if source_id == "myschooldc-lottery":
         if "tableau" in low: s = "Lottery: Tableau underlying data"
         elif "waitlist" in low: s = "Lottery: Unique Applicants Waitlisted"
@@ -151,6 +157,10 @@ def derive_series(source_id: str, name: str, year):
             return {"series": "School Finance / Per-Pupil Expenditures", "label": year}
         if re.search(r"teacher|school leader|educator", low):
             return {"series": "Educators (Teachers & School Leaders)", "label": year}
+        # OSSE renamed the school-list file (Directory Data → School Directory
+        # Information) but it's the same School Profile Data each year. Reconnect.
+        if re.search(r"directory|school profile data", low):
+            return {"series": "School Directory / Profile Data", "label": year}
     return {}
 
 
@@ -158,18 +168,20 @@ def derive_series(source_id: str, name: str, year):
 # broad — the Resource Library is tagged with everything). One place to improve.
 FILE_TOPIC_RULES = [
     (r"applicant|application|lottery|waitlist|match rate|seats|school selection|my ?school ?dc", "lottery"),
-    (r"\bela\b|\bmath|parcc|dc cape|\bcape\b|msaa|proficien|assessment|science|growth|participation|advanced coursework|\bsat\b|ap,? ib", "assessment"),
+    (r"\bela\b|\bmath|parcc|dc cape|\bcape\b|dc cas|\bcas\b|msaa|proficien|assessment|science|growth|participation|advanced coursework|\bsat\b|ap,? ib", "assessment"),
     (r"ap,? ib|advanced coursework|\bsat\b|\bib\b", "advanced-coursework"),
     (r"attendance|truancy|absentee|miss school", "attendance"),
     (r"discipline|suspension|expulsion", "discipline"),
     (r"graduation|college enrollment|acgr|\bgrad\b", "graduation"),
     (r"finance|financial|per[- ]pupil|expenditure|spending|budget|funding|\b990\b", "finance"),
     (r"teacher|school leader|educator|workforce", "educators"),
+    (r"pre-?k|prek|pre-kindergarten|early learning|early childhood|head start", "early-childhood"),
+    (r"special education|special ed|disabilit|\bidea\b|individualized education", "special-education"),
     (r"student movement|mobility", "student-movement"),
     (r"boundary|feeder|in-boundary|attendance zone", "boundaries"),
     (r"facilit|capacity|utilization|modernization", "facilities"),
     (r"enrollment|enrolled", "enrollment"),
-    (r"race|ethnicity|english learner|at[- ]risk|special ed|economically|preferred language|demographic", "demographics"),
+    (r"race|ethnicity|english learner|at[- ]risk|economically|preferred language|demographic", "demographics"),
     (r"accountability|\bstar\b|summative|floors and targets|\bpmf\b|aspire|school quality|\bsqr\b|long term goal|aggregate public|aggregate data file|cross-?tabulated", "accountability"),
     (r"\bequity\b", "equity"),
     (r"dc says|\bclass\b|learning environment|survey|panorama|climate", "school-climate"),
@@ -309,6 +321,10 @@ def main() -> int:
 
     # ---- header ----
     w("# DC K-12 Public Schools — Data Source Catalog\n")
+    w("> ⚠️ **Unofficial & independent.** Not affiliated with or endorsed by OSSE, DCPS, "
+      "DC PCSB, DME, or the Government of the District of Columbia. This catalogs links to "
+      "publicly published data — it hosts none of the official data and names no source as "
+      "authoritative. Always verify against the original source.\n")
     w("A map of **where DC public-school data actually lives** — across OSSE, DCPS, "
       "the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for "
       "Education (DME). The data is real but scattered: split across agencies, "
@@ -388,12 +404,18 @@ def main() -> int:
     w("## Known gaps & files needing a browser\n")
     needs_browser = [r for r in profiles.values() if r.get("status") == "needs_browser"]
     errored = [r for r in profiles.values() if r.get("status") == "error"]
-    w("Many high-value files (OSSE assessment results, most PCSB finance/equity docs) "
-      "live behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no "
-      "scrapeable direct URL. They must be harvested with a browser (Playwright) via the "
-      "update skill, then added to `data_files.yaml`.\n")
+    ok = [r for r in profiles.values() if r.get("status") == "ok"]
+    # Status line is computed from the profiles, so it can't drift from reality.
+    w(f"**Profiling status (last run):** {len(ok)} of {len(profiles)} catalogued files "
+      f"download and profile cleanly · {len(needs_browser)} still need a browser to "
+      f"resolve · {len(errored)} failed.\n")
+    w("Many high-value files (OSSE assessment results, PCSB finance/equity docs) are "
+      "published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with "
+      "no scrapeable direct URL. Those are harvested with a browser (Playwright) via the "
+      "update skill and added to `data_files.yaml` — which is why most now resolve. Box "
+      "`file_id`s change year to year, so they need periodic re-resolving.\n")
     if needs_browser:
-        w("Currently flagged `needs_browser`:")
+        w("Currently flagged `needs_browser` (resolve in a browser):")
         for r in needs_browser:
             w(f"- {r['name']} → {r['url']}")
         w("")
@@ -402,10 +424,13 @@ def main() -> int:
         for r in errored:
             w(f"- {r['name']} — `{r.get('error')}`")
         w("")
-    w("Other structural gaps noted during research: assessment files on Box; PCSB "
-      "site returns intermittent 520s; the live Report Card is a JS app (use the "
-      "Resource Library files for analysis); discipline by-school detail is in PDF "
-      "appendices; STAR (OSSE) and SQR/PMF/ASPIRE (PCSB) are different rating systems.\n")
+    else:
+        w("_No download/profile errors on the last run._\n")
+    w("Other structural notes: Egnyte share links return an HTML landing page to "
+      "scripts (not fetchable — counts are recorded in source notes); the PCSB site "
+      "returns intermittent 520s; the live Report Card is a JS app (use the Resource "
+      "Library files for analysis); discipline by-school detail is in PDF appendices; "
+      "STAR (OSSE) and SQR/PMF/ASPIRE (PCSB) are different rating systems.\n")
 
     w("---")
     w(f"_Generated from `sources.yaml` + `file_profiles.json` by `generate_readme.py`. "

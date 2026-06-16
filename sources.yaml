@@ -238,8 +238,8 @@ sources:
     status: ok
     format: "PDF reports + Excel (.xlsx) at state/LEA/school level"
     cadence: "Comprehensive reports biennial; retention briefs annual"
-    years: "Reports 2018-19, 2021-22, 2023-24; data files 2021-22 to 2024-25"
-    notes: "Counts, demographics, preparation, retention, supply/demand for DCPS + charter educators. Staffing snapshot as of Oct 5 each year."
+    years: "Reports 2018-19 to 2023-24; data files 2021-22 to 2025-26; retention briefs 2021-22 to 2025-26; EPP files 2024-2026"
+    notes: "Counts, demographics, preparation, retention, supply/demand for DCPS + charter educators (one flat file per topic per year). Staffing snapshot as of Oct 5 each year. Also Educator Preparation Provider (EPP) data files."
 
   - id: osse-prek
     name: "Pre-Kindergarten Reports ('State of Pre-K in DC')"
@@ -408,7 +408,7 @@ sources:
     format: "Web portal + downloadable Excel spreadsheets"
     cadence: "Annual budget cycle (initial budgets ~late winter/spring)"
     years: "Current cycle (FY27) + 'Budget Archives'"
-    notes: "School-by-school budget ALLOCATIONS under the three-factor model (enrollment / targeted / stability). Standalone .com domain, not under dcps.dc.gov — easy to miss. Allocation, not expenditure — differs from OSSE PPE."
+    notes: "School-by-school budget ALLOCATIONS under the three-factor model (enrollment / targeted / stability). Standalone .com domain, not under dcps.dc.gov — easy to miss. Allocation, not expenditure — differs from OSSE PPE. The consolidated FY initial+submitted spreadsheet is a direct .xlsx; the per-school worksheets and prior years live behind a JS 'datasets' browser (dcpsbudget.com/datasets) that's browser-only, not script-fetchable."
 
   - id: dcps-capital-commitment
     name: "A Capital Commitment — Strategic Plan & Scorecards"

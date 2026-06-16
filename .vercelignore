@@ -1,0 +1,7 @@
+# Only the static site (index.html + catalog.js) needs to ship. Keep the big
+# local cache and scratch dirs out of the Vercel upload.
+data_cache/
+.playwright-mcp/
+__pycache__/
+*.pyc
+file_profiles.prev.json

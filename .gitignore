@@ -4,8 +4,14 @@ data_cache/
 # Playwright MCP scratch output
 .playwright-mcp/
 
+# Transient drift snapshot (refresh.sh / CI compare against it, then delete)
+file_profiles.prev.json
+
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Local Claude runtime
+.claude/scheduled_tasks.lock

@@ -1573,6 +1573,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Directory / Profile Data",
+     "label": "2025",
      "tabs": [
       {
        "name": "Overview",
@@ -2932,6 +2934,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Directory / Profile Data",
+     "label": "2024",
      "tabs": [
       {
        "name": "Overview",
@@ -4601,6 +4605,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Directory / Profile Data",
+     "label": "2023",
      "tabs": [
       {
        "name": "Overview",
@@ -6346,6 +6352,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Directory / Profile Data",
+     "label": "2021",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8982,7 +8990,8 @@ window.CATALOG = {
      "year": "2022-23",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "special-education"
      ],
      "page": "https://osse.dc.gov/node/1671391",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
@@ -9194,7 +9203,8 @@ window.CATALOG = {
      "year": "2021-22",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "special-education"
      ],
      "page": "https://osse.dc.gov/node/1613796",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
@@ -9592,7 +9602,8 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "special-education"
      ],
      "page": "https://osse.dc.gov/node/1420701",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
@@ -9990,7 +10001,8 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "special-education"
      ],
      "page": "https://osse.dc.gov/node/1348731",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
@@ -10447,7 +10459,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "special-education"
      ],
      "page": "https://osse.dc.gov/node/1267021",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
@@ -11234,8 +11247,865 @@ window.CATALOG = {
    "cadence": "Annual (federal FFY cycle)",
    "years": "Reports to the Public FFY2008–FFY2023-24; APRs FFY2020–2024",
    "notes": "Mostly statewide/aggregate. For school-level special-ed counts use the Report Card Aggregate Enrollment file or EdScape.",
-   "files": [],
-   "search": "specialized education data and reports osse mostly statewide/aggregate. for school-level special-ed counts use the report card aggregate enrollment file or edscape. pdf + excel demographics special-education race ethnicity special education english learner at-risk poverty "
+   "files": [
+    {
+     "name": "FY 2018 Performance on PARCC by Disability Type and Hours of Service",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FY%202018%20Performance%20on%20PARCC%20by%20Disability%20Type%20and%20Hours%20of%20Service.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "special-education"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 4,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Codebook",
+       "n_rows": 17,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Results by Primary Disability",
+       "n_rows": 14,
+       "columns": [
+        "Assessment Subject",
+        "Primary Disability",
+        "Percentage of Students Achieving Proficiency Level 1",
+        "Percentage of Students Achieving Proficiency Level 2",
+        "Percentage of Students Achieving Proficiency Level 3",
+        "Percentage of Students Achieving Proficiency Level 4",
+        "Percentage of Students Achieving Proficiency Level 5",
+        "Percentage of Students Achieving Proficiency Level 3 or Better",
+        "Percentage of Students Achieving Proficiency Level 4 or Better",
+        "Total Number Of Students"
+       ]
+      },
+      {
+       "name": "Results by PD & PrescribedHours",
+       "n_rows": 50,
+       "columns": [
+        "Assessment Subject",
+        "Primary Disability",
+        "Hours of Prescribed Services",
+        "Percentage of Students Achieving Proficiency Level 1",
+        "Percentage of Students Achieving Proficiency Level 2",
+        "Percentage of Students Achieving Proficiency Level 3",
+        "Percentage of Students Achieving Proficiency Level 4",
+        "Percentage of Students Achieving Proficiency Level 5",
+        "Percentage of Students Achieving Proficiency Level 3 or Better",
+        "Percentage of Students Achieving Proficiency Level 4 or Better",
+        "Total Number Of Students"
+       ]
+      },
+      {
+       "name": "Results by Prescribed Hours",
+       "n_rows": 10,
+       "columns": [
+        "Assessment Subject",
+        "Hours of Prescribed Services",
+        "Percentage of Students Achieving Proficiency Level 1",
+        "Percentage of Students Achieving Proficiency Level 2",
+        "Percentage of Students Achieving Proficiency Level 3",
+        "Percentage of Students Achieving Proficiency Level 4",
+        "Percentage of Students Achieving Proficiency Level 5",
+        "Percentage of Students Achieving Proficiency Level 3 or Better",
+        "Percentage of Students Achieving Proficiency Level 4 or Better",
+        "Total Number Of Students"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FFY 2024 Special Education Annual Performance Report - Part B",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY24%20APR%20Part%20B%20LEA%20Reporting.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 4,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "LEA Reporting",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "1: Graduation",
+        "2: Drop Out",
+        "3A: Participation Rate Math, Grade 04",
+        "3A: Participation Rate Math, Grade 08",
+        "3A: Participation Rate Math, Grade HS",
+        "3A: Participation Rate Reading, Grade 04",
+        "3A: Participation Rate Reading, Grade 08",
+        "3A: Participation Rate Reading, Grade HS",
+        "3B: Proficiency Rate Math, Grade 04",
+        "3B: Proficiency Rate Math, Grade 08",
+        "3B: Proficiency Rate Math, Grade HS",
+        "3B: Proficiency Rate Reading, Grade 04",
+        "3B: Proficiency Rate Reading, Grade 08",
+        "3B: Proficiency Rate Reading, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Math, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade HS",
+        "3D: Proficiency Gap Math, Grade 04",
+        "3D: Proficiency Gap Math, Grade 08",
+        "3D: Proficiency Gap Math, Grade HS",
+        "3D: Proficiency Gap Reading, Grade 04",
+        "3D: Proficiency Gap Reading, Grade 08",
+        "3D: Proficiency Gap Reading, Grade HS",
+        "4A: Significant Discrepancy in Suspension and Expulsion",
+        "4B: Significant Discrepancy in Suspension and Expulsion by Race or Ethnicity",
+        "5A: Percent inside the regular class more than 80% of the day",
+        "5B: Percent inside the regular class less than 40% of the day",
+        "5C: Percent placed in separate schools, residential facilities, or homebound",
+        "6A: Percent in a regular early childhood program and receiving the majority of services in the program",
+        "6B: Percent in a separate class, separate school or residential facility",
+        "6C: Percent attending school at home or in a home environment",
+        "7A1: Growth in Positive Social Emotional Skills",
+        "7A2: Met Milestones in Positive Social Emotional Skills",
+        "7B1: Growth in Acquisition and use of knowledge and skills",
+        "7B2: Met Milestones in Acquisition and use of knowledge and skills",
+        "7C1: Growth in Use of appropriate behaviors to meet their needs",
+        "7C2: Met Milestones in Use of appropriate behaviors to meet their needs",
+        "8: Parent Engagement",
+        "9: Disproportionate Representation by Race or Ethnicity",
+        "10: Disproportionate Representation by Race or Ethnicity and Disability Category",
+        "11: Initial Evaluation",
+        "12: Part C to B Transition",
+        "13: Secondary Transition",
+        "14A: Percent enrolled in higher education within one year of leaving secondary school",
+        "14B: Percent enrolled in higher education or competitively employed within one year of leaving secondary school",
+        "14C: Percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "FFY 2023 Special Education Annual Performance Report - Part B",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC-01%20SPP%20PART%20B%20FFY%202023-24%20%203339%2020250623074712.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 115,
+     "has_tabular_data": true,
+     "n_table_pages": 79,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 8,
+       "header": [
+        "Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Baseline Year",
+        "Baseline Data"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "FFY",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 8,
+       "header": [
+        "FFY",
+        "2023",
+        "2024",
+        "2025"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 9,
+       "header": [
+        "Source",
+        "Date",
+        "Description",
+        "Data"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "Number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high school diploma",
+        "Number of all youth with IEPs who exited special education (ages 14-21)",
+        "FFY 2022 Data",
+        "FFY 2023 Target",
+        "FFY 2023 Data",
+        "Status",
+        "Slippage"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "FFY 2022 Special Education Annual Performance Report - Part B",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20Annual%20Performance%20Report%20Part%20B.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 92,
+     "has_tabular_data": true,
+     "n_table_pages": 67,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 7,
+       "header": [
+        "Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Baseline Year",
+        "Baseline Data"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Source",
+        "Date",
+        "Description",
+        "Data"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 8,
+       "header": [
+        "Number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high school diploma",
+        "Number of all youth with IEPs who exited special education (ages 14-21)",
+        "FFY 2021 Data",
+        "FFY 2022 Target",
+        "FFY 2022 Data",
+        "Status",
+        "Slippage"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "FFY 2021 Special Education Annual Performance Report - Part B",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY21%20APR%20Final.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 79,
+     "has_tabular_data": true,
+     "n_table_pages": 56,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 7,
+       "header": [
+        "Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Baseline Year",
+        "Baseline Data"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Source",
+        "Date",
+        "Description",
+        "Data"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 8,
+       "header": [
+        "Number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high school diploma",
+        "Number of all youth with IEPs who exited special education (ages 14-21)",
+        "FFY 2020 Data",
+        "FFY 2021 Target",
+        "FFY 2021 Data",
+        "Status",
+        "Slippage"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "FFY 2020 Special Education Annual Performance Report - Part B",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/District%20of%20Columbia%20IDEA%20Part%20B%20SPP-APR%20FFY%202020.pdf",
+     "kind": "pdf",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 79,
+     "has_tabular_data": true,
+     "n_table_pages": 60,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 7,
+       "header": [
+        "Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Baseline Year",
+        "Baseline Data"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "FFY",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Source",
+        "Date",
+        "Description",
+        "Data"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Source",
+        "Date",
+        "Description",
+        "Data"
+       ],
+       "n_rows": 5
+      }
+     ]
+    },
+    {
+     "name": "Special Education Report to the Public: Part B FFY 2023",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY23%20APR%20Part%20B%20LEA%20Reporting.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 3,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "LEA Reporting",
+       "n_rows": 69,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "1: Graduation",
+        "2: Drop Out",
+        "3A: Participation Rate Math, Grade 04",
+        "3A: Participation Rate Math, Grade 08",
+        "3A: Participation Rate Math, Grade HS",
+        "3A: Participation Rate Reading, Grade 04",
+        "3A: Participation Rate Reading, Grade 08",
+        "3A: Participation Rate Reading, Grade HS",
+        "3B: Proficiency Rate Math, Grade 04",
+        "3B: Proficiency Rate Math, Grade 08",
+        "3B: Proficiency Rate Math, Grade HS",
+        "3B: Proficiency Rate Reading, Grade 04",
+        "3B: Proficiency Rate Reading, Grade 08",
+        "3B: Proficiency Rate Reading, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Math, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade HS",
+        "3D: Proficiency Gap Math, Grade 04",
+        "3D: Proficiency Gap Math, Grade 08",
+        "3D: Proficiency Gap Math, Grade HS",
+        "3D: Proficiency Gap Reading, Grade 04",
+        "3D: Proficiency Gap Reading, Grade 08",
+        "3D: Proficiency Gap Reading, Grade HS",
+        "4A: Significant Discrepancy in Suspension and Expulsion",
+        "4B: Significant Discrepancy in Suspension and Expulsion by Race or Ethnicity",
+        "5A: Percent inside the regular class more than 80% of the day",
+        "5B: Percent inside the regular class less than 40% of the day",
+        "5C: Percent placed in separate schools, residential facilities, or homebound",
+        "6A: Percent in a regular early childhood program and receiving the majority of services in the program",
+        "6B: Percent in a separate class, separate school or residential facility",
+        "6C: Percent attending school at home or in a home environment",
+        "7A1: Growth in Positive Social Emotional Skills",
+        "7A2: Met Milestones in Positive Social Emotional Skills",
+        "7B1: Growth in Acquisition and use of knowledge and skills",
+        "7B2: Met Milestones in Acquisition and use of knowledge and skills",
+        "7C1: Growth in Use of appropriate behaviors to meet their needs",
+        "7C2: Met Milestones in Use of appropriate behaviors to meet their needs",
+        "8: Parent Engagement",
+        "9: Disproportionate Representation by Race or Ethnicity",
+        "10: Disproportionate Representation by Race or Ethnicity and Disability Category",
+        "11: Initial Evaluation",
+        "12: Part C to B Transition",
+        "13: Secondary Transition",
+        "14A: Percent enrolled in higher education within one year of leaving secondary school",
+        "14B: Percent enrolled in higher education or competitively employed within one year of leaving secondary school",
+        "14C: Percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Special Education Report to the Public: Part B FFY 2022",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20APR%20Part%20B%20LEA%20Reporting%20.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 3,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "LEA Reporting",
+       "n_rows": 68,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "1: Graduation",
+        "2: Drop Out",
+        "3A: Participation Rate Math, Grade 04",
+        "3A: Participation Rate Math, Grade 08",
+        "3A: Participation Rate Math, Grade HS",
+        "3A: Participation Rate Reading, Grade 04",
+        "3A: Participation Rate Reading, Grade 08",
+        "3A: Participation Rate Reading, Grade HS",
+        "3B: Proficiency Rate Math, Grade 04",
+        "3B: Proficiency Rate Math, Grade 08",
+        "3B: Proficiency Rate Math, Grade HS",
+        "3B: Proficiency Rate Reading, Grade 04",
+        "3B: Proficiency Rate Reading, Grade 08",
+        "3B: Proficiency Rate Reading, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Math, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Math, Grade HS",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 04",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade 08",
+        "3C: Proficiency Rate Alternate Standards Reading, Grade HS",
+        "3D: Proficiency Gap Math, Grade 04",
+        "3D: Proficiency Gap Math, Grade 08",
+        "3D: Proficiency Gap Math, Grade HS",
+        "3D: Proficiency Gap Reading, Grade 04",
+        "3D: Proficiency Gap Reading, Grade 08",
+        "3D: Proficiency Gap Reading, Grade HS",
+        "4A: Significant Discrepancy in Suspension and Expulsion",
+        "4B: Significant Discrepancy in Suspension and Expulsion by Race or Ethnicity",
+        "5A: Percent inside the regular class more than 80% of the day",
+        "5B: Percent inside the regular class less than 40% of the day",
+        "5C: Percent placed in separate schools, residential facilities, or homebound",
+        "6A: Percent in a regular early childhood program and receiving the majority of services in the program",
+        "6B: Percent in a separate class, separate school or residential facility",
+        "6C: Percent attending school at home or in a home environment",
+        "7A1: Growth in Positive Social Emotional Skills",
+        "7A2: Met Milestones in Positive Social Emotional Skills",
+        "7B1: Growth in Acquisition and use of knowledge and skills",
+        "7B2: Met Milestones in Acquisition and use of knowledge and skills",
+        "7C1: Growth in Use of appropriate behaviors to meet their needs",
+        "7C2: Met Milestones in Use of appropriate behaviors to meet their needs",
+        "8: Parent Engagement",
+        "9: Disproportionate Representation by Race or Ethnicity",
+        "10: Disproportionate Representation by Race or Ethnicity and Disability Category",
+        "11: Initial Evaluation",
+        "12: Part C to B Transition",
+        "13: Secondary Transition",
+        "14A: Percent enrolled in higher education within one year of leaving secondary school",
+        "14B: Percent enrolled in higher education or competitively employed within one year of leaving secondary school",
+        "14C: Percent enrolled in higher education or in some other postsecondary education or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Special Education Report to the Public: Part B FFY 2021",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Copy%20of%20APR%20Public%20Reporting%20FFY%2021.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "tabs": [
+      {
+       "name": "District of Columbia FFY21 APR",
+       "n_rows": 78,
+       "columns": [
+        "District of Columbia LEA Performance on Annual Performance Report Indicators FFY2021 (2021-22 School Year)",
+        "1. Graduation",
+        "2. Dropout",
+        "3A. Statewide Assessment Participation",
+        "3B. Statewide Assessment Proficiency - Grade Level Standards",
+        "3C. Statewide Assessment Proficiency - Alternate Standards",
+        "3D. Statewide Assessment Proficiency Gap - Grade Level Standards",
+        "4a. Discipline",
+        "4B. Significant Discrepancy by Race/Ethnicity in Suspensions/Expulsions",
+        "5. Least Restrictive Environment/Placement (School Age)",
+        "6. Preschool Settings",
+        "7. Preschool Outcomes",
+        "8. Parent Involvement",
+        "9. Disproportionate Representation in Special Education",
+        "10. Disproportionate Representation in Specific Disability Categories",
+        "11. Child Find",
+        "12. Part C to B Transition",
+        "13. Secondary Transition with IEP Goals",
+        "14. Secondary Transition/Post-School Outcomes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Special Education Report to the Public: Part B FFY 2020",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY%202020%20APR%20Public%20Reporting_0.pdf",
+     "kind": "pdf",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 38,
+     "has_tabular_data": true,
+     "n_table_pages": 37,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Indicator 1 Graduation Percent of youth with IEPs graduating from high school with a regular diploma.",
+        "Indicator 1 Graduation"
+       ],
+       "n_rows": 44
+      },
+      {
+       "page": 3,
+       "header": [
+        "Indicator 1 Graduation Percent of youth with IEPs graduating from high school with a regular diploma."
+       ],
+       "n_rows": 29
+      },
+      {
+       "page": 4,
+       "header": [
+        "Indicator 2 Dropout Percent of youth with IEPs dropping out of high school.",
+        "Indicator 2 Dropout"
+       ],
+       "n_rows": 44
+      },
+      {
+       "page": 5,
+       "header": [
+        "Indicator 2 Dropout Percent of youth with IEPs dropping out of high school."
+       ],
+       "n_rows": 26
+      },
+      {
+       "page": 6,
+       "header": [
+        "Indicator 3a Participation on statewide assessments Participation rates for children with IEPs by grade level.",
+        "Indicator 3a Participation on statewide assessments"
+       ],
+       "n_rows": 42
+      },
+      {
+       "page": 7,
+       "header": [
+        "Indicator 3a Participation on statewide assessments Participation rates for children with IEPs by grade level.",
+        "Indicator 3a Participation on statewide assessments"
+       ],
+       "n_rows": 32
+      },
+      {
+       "page": 7,
+       "header": [
+        "Grade 4: 97.00%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "Grade 4: 98.00%"
+       ],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "Special Education State Performance Plan Indicator Guide",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/State%20Performance%20Plan%20Indicator%20Guide_0.pdf",
+     "kind": "pdf",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 37,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
+    },
+    {
+     "name": "Special Education SSIP Theory of Action - FFY20-25",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Theory%20of%20Action%20-%20FFY20-25.pdf",
+     "kind": "pdf",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 1,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "If the District…",
+        "Through These Activities...",
+        "Then…",
+        "District of Columbia students with disabilities ages 3 through 5 will demonstrate improved early literacy skills as measured by Indicator 7b"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 13
+      }
+     ]
+    },
+    {
+     "name": "Special Education SSIP Evaluation Plan - FFY20-25",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Evaluation%20Plan%20-%20FFY20-25.pdf",
+     "kind": "pdf",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Evaluation Questions",
+        "Intended Outcomes",
+        "Relevant Activities",
+        "Data Sources",
+        "Anticipated"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 2,
+       "header": [
+        "Evaluation Questions",
+        "Intended Outcomes",
+        "Relevant Activities",
+        "Data Sources",
+        "Anticipated"
+       ],
+       "n_rows": 5
+      }
+     ]
+    }
+   ],
+   "search": "specialized education data and reports osse mostly statewide/aggregate. for school-level special-ed counts use the report card aggregate enrollment file or edscape. pdf + excel demographics special-education race ethnicity special education english learner at-risk poverty  fy 2018 performance on parcc by disability type and hours of service overview office of the state superintendent of education codebook office of the state superintendent of education results by primary disability assessment subject primary disability percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students results by pd & prescribedhours assessment subject primary disability hours of prescribed services percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students results by prescribed hours assessment subject hours of prescribed services percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students ffy 2024 special education annual performance report - part b overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school ffy 2023 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2018 2019 2020 2021 2022 ffy 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2022 data ffy 2023 target ffy 2023 data status slippage ffy 2022 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2017 2018 2019 2020 2021 ffy 2022 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2021 data ffy 2022 target ffy 2022 data status slippage ffy 2021 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2016 2017 2018 2019 2020 ffy 2021 2022 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2020 data ffy 2021 target ffy 2021 data status slippage ffy 2020 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2015 2016 2017 2018 2019 ffy 2020 2021 2022 2023 2024 2025 source date description data source date description data special education report to the public: part b ffy 2023 overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school special education report to the public: part b ffy 2022 overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary education or training program; or competitvely employed or in some other employment within one year of leaving secondary school special education report to the public: part b ffy 2021 district of columbia ffy21 apr district of columbia lea performance on annual performance report indicators ffy2021 (2021-22 school year) 1. graduation 2. dropout 3a. statewide assessment participation 3b. statewide assessment proficiency - grade level standards 3c. statewide assessment proficiency - alternate standards 3d. statewide assessment proficiency gap - grade level standards 4a. discipline 4b. significant discrepancy by race/ethnicity in suspensions/expulsions 5. least restrictive environment/placement (school age) 6. preschool settings 7. preschool outcomes 8. parent involvement 9. disproportionate representation in special education 10. disproportionate representation in specific disability categories 11. child find 12. part c to b transition 13. secondary transition with iep goals 14. secondary transition/post-school outcomes special education report to the public: part b ffy 2020 indicator 1 graduation percent of youth with ieps graduating from high school with a regular diploma. indicator 1 graduation indicator 1 graduation percent of youth with ieps graduating from high school with a regular diploma. indicator 2 dropout percent of youth with ieps dropping out of high school. indicator 2 dropout indicator 2 dropout percent of youth with ieps dropping out of high school. indicator 3a participation on statewide assessments participation rates for children with ieps by grade level. indicator 3a participation on statewide assessments indicator 3a participation on statewide assessments participation rates for children with ieps by grade level. indicator 3a participation on statewide assessments grade 4: 97.00% grade 4: 98.00% special education state performance plan indicator guide special education ssip theory of action - ffy20-25 if the district… through these activities... then… district of columbia students with disabilities ages 3 through 5 will demonstrate improved early literacy skills as measured by indicator 7b special education ssip evaluation plan - ffy20-25 evaluation questions intended outcomes relevant activities data sources anticipated evaluation questions intended outcomes relevant activities data sources anticipated"
   },
   {
    "id": "osse-attendance",
@@ -11357,8 +12227,891 @@ window.CATALOG = {
    "cadence": "Annual (latest 2024-25 dated 12/30/2025)",
    "years": "2013-14 through 2024-25 (2014-15 appears missing)",
    "notes": "Suspensions/expulsions/involuntary dismissals per the Student Fair Access to School Act. Mostly PDF — only 2017-18 has a clean supplementary Excel; by-school data otherwise lives in report appendices.",
-   "files": [],
-   "search": "osse discipline report ('state of discipline') osse suspensions/expulsions/involuntary dismissals per the student fair access to school act. mostly pdf — only 2017-18 has a clean supplementary excel; by-school data otherwise lives in report appendices. pdf reports (school detail in appendices); rare supplementary excel discipline suspension expulsion suspended discipline"
+   "files": [
+    {
+     "name": "2024-25 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY24-25%20Discipline%20Report%2012.30.25.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 51,
+     "has_tabular_data": true,
+     "n_table_pages": 11,
+     "tables": [
+      {
+       "page": 12,
+       "header": [
+        "disciplinary incidents, including"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 12,
+       "header": [
+        "but not limited to in-school suspensions, out-of-school suspensions, expulsions,"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 12,
+       "header": [
+        "In the 2024–25 school year, OSSE required LEAs to submit and validate discipline data three times during the"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 13,
+       "header": [
+        "The student population for the 2024–25 school year discipline analysis includes all public school students in"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 33,
+       "header": [
+        "Reason for Suspension or Expulsion",
+        "Number of",
+        "Number of",
+        "Percent Change"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 33,
+       "header": [
+        "Percent"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 38,
+       "header": [
+        "Significant Discrepancy",
+        "Significant Discrepancy APR Indicator 4b",
+        "Significant Disproportionality Discipline"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 38,
+       "header": [
+        "Significant"
+       ],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "2023-24 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY23-24%20Discipline%20Report%20as%20of%20March%202025.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 43,
+     "has_tabular_data": true,
+     "n_table_pages": 11,
+     "tables": [
+      {
+       "page": 8,
+       "header": [
+        "School",
+        "Sector",
+        "Ward"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 10,
+       "header": [
+        "Significant Discrepancy",
+        "Significant Discrepancy APR Indicator 4b",
+        "Significant Disproportionality Discipline"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 10,
+       "header": [
+        "Significant"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 10,
+       "header": [
+        "Significant Disproportionality"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 11,
+       "header": [
+        "Significant Discrepancy",
+        "Significant Disproportionality"
+       ],
+       "n_rows": 13
+      },
+      {
+       "page": 11,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 11,
+       "header": [
+        "4a – 5"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 11,
+       "header": [
+        "10"
+       ],
+       "n_rows": 4
+      }
+     ]
+    },
+    {
+     "name": "2022-23 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20SY2022-23.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 40,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 5,
+       "header": [
+        "School",
+        "Sector",
+        "Ward"
+       ],
+       "n_rows": 14
+      },
+      {
+       "page": 7,
+       "header": [
+        "disciplinary incidents, including but not limited to in-school suspensions, out-of-school suspensions,"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 11,
+       "header": [
+        "In the 2022–23 school year, LEAs reported 21,465 unique discipline incidents, including 8,910 restorative"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 23,
+       "header": [
+        "Reason for Suspension or Expulsion",
+        "Number of",
+        "Number of",
+        "Percent Change"
+       ],
+       "n_rows": 35
+      },
+      {
+       "page": 36,
+       "header": [
+        "Term",
+        "Definition",
+        "Definition"
+       ],
+       "n_rows": 23
+      },
+      {
+       "page": 36,
+       "header": [
+        "In-School"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 36,
+       "header": [
+        "Involuntary"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 36,
+       "header": [
+        "School-"
+       ],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "2021-22 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Discipline%20Report%20FINAL_updated2025.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 68,
+     "has_tabular_data": true,
+     "n_table_pages": 28,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "School",
+        "Sector",
+        "Ward"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 7,
+       "header": [
+        "Kingsman PCS",
+        "PCS",
+        "6"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 9,
+       "header": [
+        "disciplinary incidents, including but not limited to in-school suspensions, out-of-school"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 22,
+       "header": [
+        "Primary Reason",
+        "Number of Incidents",
+        "Number of Incidents",
+        "Percent Change (%)"
+       ],
+       "n_rows": 25
+      },
+      {
+       "page": 30,
+       "header": [
+        "Census",
+        "Neighborhood",
+        "Deprivation",
+        "Total",
+        "Community-",
+        "Ward"
+       ],
+       "n_rows": 12
+      },
+      {
+       "page": 38,
+       "header": [
+        "Change",
+        "Rationale"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 38,
+       "header": [
+        "3. Gathering additional data on how"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 43,
+       "header": [
+        "Term",
+        "Definition Type",
+        "Definition"
+       ],
+       "n_rows": 29
+      }
+     ]
+    },
+    {
+     "name": "2020-21 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Discipline%20Report_FINAL_0.pdf",
+     "kind": "pdf",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 31,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 23,
+       "header": [
+        "Expectations"
+       ],
+       "n_rows": 25
+      },
+      {
+       "page": 23,
+       "header": [
+        "Refrain from sharing inappropriate pictures or images during classroom meetings or on discussion boards."
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 24,
+       "header": [
+        "Monitoring"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 24,
+       "header": [
+        "Responses"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 25,
+       "header": [
+        "ISS",
+        "\" A student that is removed from the virtual classroom will be assigned to virtual",
+        "Only use this code if the exact phrase \"in-school suspension\" is used to ensure it is mutually exclusive with EXCLUDE."
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 25,
+       "header": [
+        "Only use this code if the exact phrase \"in-school suspension\""
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 25,
+       "header": [
+        "Restorative circles, peer mediations, groups led by school counselors,"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 26,
+       "header": [
+        "Data Element (No longer being",
+        "State of the Data Element Moving Forward"
+       ],
+       "n_rows": 10
+      }
+     ]
+    },
+    {
+     "name": "2019-20 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20School%20Year%20Discipline%20Report.pdf",
+     "kind": "pdf",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 40,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
+    },
+    {
+     "name": "2018-19 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20OSSE%202018-19%20School%20Year.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 106,
+     "has_tabular_data": true,
+     "n_table_pages": 48,
+     "tables": [
+      {
+       "page": 51,
+       "header": [
+        "School"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 51,
+       "header": [
+        "School"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 51,
+       "header": [
+        "School"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 51,
+       "header": [
+        "School"
+       ],
+       "n_rows": 16
+      },
+      {
+       "page": 52,
+       "header": [
+        "School"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 54,
+       "header": [
+        "LEA"
+       ],
+       "n_rows": 25
+      },
+      {
+       "page": 55,
+       "header": [
+        "LEA"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 55,
+       "header": [
+        "LEA"
+       ],
+       "n_rows": 19
+      }
+     ]
+    },
+    {
+     "name": "2018-19 School Year Discipline Report At A Glance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20School%20Year%20Discipline%20Report%20At%20A%20Glance%207.14.20.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 1,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 5
+      }
+     ]
+    },
+    {
+     "name": "2017-18 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20School%20Year%20Discipline%20Report.pdf",
+     "kind": "pdf",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 114,
+     "has_tabular_data": true,
+     "n_table_pages": 48,
+     "tables": [
+      {
+       "page": 54,
+       "header": [
+        "School",
+        "Black or African- American",
+        "Hispanic",
+        "White",
+        "Other Race",
+        "Female",
+        "Male",
+        "English Learners",
+        "Students with Disabilities",
+        "At-Risk"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 54,
+       "header": [
+        "Black or"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 54,
+       "header": [
+        "Other"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 54,
+       "header": [
+        "English"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 54,
+       "header": [
+        "Students"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 54,
+       "header": [
+        "School",
+        "Out-of-School",
+        "In-School Suspensions",
+        "Expulsions"
+       ],
+       "n_rows": 13
+      },
+      {
+       "page": 55,
+       "header": [
+        "School",
+        "Out-of-School Suspensions"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 55,
+       "header": [
+        "School Name",
+        "Average Length of Out-of-School Suspensions"
+       ],
+       "n_rows": 9
+      }
+     ]
+    },
+    {
+     "name": "2017-18 Discipline Report Appendices and Tables",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20Discipline%20Report%20Appendices%20and%20Tables.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes Tab",
+       "n_rows": 6,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School Counts and Rates",
+       "n_rows": 233,
+       "columns": [
+        "School Name",
+        "Students with Out-of-School Suspensions",
+        "Percent",
+        "Students with In-School Suspensions",
+        "Percent",
+        "Students with Expulsions",
+        "Percent"
+       ]
+      },
+      {
+       "name": "LEA Counts and Rates",
+       "n_rows": 68,
+       "columns": [
+        "LEA Name",
+        "Out-of-School Suspensions",
+        "Percent",
+        "In-School Suspensions",
+        "Percent",
+        "Expulsions",
+        "Percent"
+       ]
+      },
+      {
+       "name": "School Duration Rates",
+       "n_rows": 206,
+       "columns": [
+        "School Name",
+        "Less than 2 Days",
+        "Percent",
+        "Between 2 and 5 Days",
+        "Percent",
+        "Between 6 and 10 Days",
+        "Percent",
+        "11 Days or More",
+        "Percent"
+       ]
+      },
+      {
+       "name": "School Rate of Multiple Suspens",
+       "n_rows": 233,
+       "columns": [
+        "School Name",
+        "LEA Name",
+        "Count of Students with Multiple OSS",
+        "Percent"
+       ]
+      },
+      {
+       "name": "By Gradeband and Student Groups",
+       "n_rows": 36,
+       "columns": [
+        "Grade Band",
+        "Number of Out-of-school Suspensions",
+        "Student Group"
+       ]
+      },
+      {
+       "name": "SWD Between 6 and 10 Day OSS",
+       "n_rows": 26,
+       "columns": [
+        "Student Had IEP at Time of Incident",
+        "School Name",
+        "Average Duration of Suspension"
+       ]
+      },
+      {
+       "name": "Attendance Discrepencies",
+       "n_rows": 31,
+       "columns": [
+        "LEA Name",
+        "Days of In-School Suspensions from Discipline Data",
+        "Days of In-School Suspensions from Attendance Data"
+       ]
+      },
+      {
+       "name": "Unverified Zero Counts",
+       "n_rows": 14,
+       "columns": [
+        "LEA Name",
+        "Reported No In-School Suspensions",
+        "Certified with OSSE"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2016-17 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20Discipline%20Report.pdf",
+     "kind": "pdf",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 84,
+     "has_tabular_data": true,
+     "n_table_pages": 81,
+     "tables": [
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 9
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 10,
+       "header": [],
+       "n_rows": 11
+      }
+     ]
+    },
+    {
+     "name": "2015-16 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2015-16%20OSSE%20Discipline%20Report%20Updated%20Jan%206%202017.pdf",
+     "kind": "pdf",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 99,
+     "has_tabular_data": true,
+     "n_table_pages": 68,
+     "tables": [
+      {
+       "page": 12,
+       "header": [],
+       "n_rows": 14
+      },
+      {
+       "page": 14,
+       "header": [],
+       "n_rows": 9
+      },
+      {
+       "page": 15,
+       "header": [],
+       "n_rows": 5
+      },
+      {
+       "page": 16,
+       "header": [],
+       "n_rows": 5
+      },
+      {
+       "page": 21,
+       "header": [],
+       "n_rows": 5
+      },
+      {
+       "page": 22,
+       "header": [
+        "57",
+        "132"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 23,
+       "header": [
+        "180",
+        "7",
+        "2",
+        "2"
+       ],
+       "n_rows": 19
+      },
+      {
+       "page": 25,
+       "header": [
+        "786",
+        "30",
+        "1",
+        "3"
+       ],
+       "n_rows": 20
+      }
+     ]
+    },
+    {
+     "name": "2013-14 School Year Discipline Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2013-14%20School%20Year%20OSSE%20Discipline%20Report.pdf",
+     "kind": "pdf",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "n_pages": 38,
+     "has_tabular_data": true,
+     "n_table_pages": 19,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Reducing Out-of-School Suspensions and Expulsions in District of Columbia Public and Public Charter Schools"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "Reducing Out-of-School Suspensions and Expulsions in District of Columbia Public and Public Charter Schools"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "Executive Summary"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 9,
+       "header": [
+        "Introduction"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 10,
+       "header": [
+        "Findings"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 11,
+       "header": [
+        "Discipline Reason",
+        "In-School Suspension",
+        "Out-of-School Suspension",
+        "Expulsion"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 12,
+       "header": [],
+       "n_rows": 11
+      }
+     ]
+    }
+   ],
+   "search": "osse discipline report ('state of discipline') osse suspensions/expulsions/involuntary dismissals per the student fair access to school act. mostly pdf — only 2017-18 has a clean supplementary excel; by-school data otherwise lives in report appendices. pdf reports (school detail in appendices); rare supplementary excel discipline suspension expulsion suspended discipline 2024-25 school year discipline report disciplinary incidents, including but not limited to in-school suspensions, out-of-school suspensions, expulsions, in the 2024–25 school year, osse required leas to submit and validate discipline data three times during the the student population for the 2024–25 school year discipline analysis includes all public school students in reason for suspension or expulsion number of number of percent change percent significant discrepancy significant discrepancy apr indicator 4b significant disproportionality discipline significant 2023-24 school year discipline report school sector ward significant discrepancy significant discrepancy apr indicator 4b significant disproportionality discipline significant significant disproportionality significant discrepancy significant disproportionality 4a – 5 10 2022-23 school year discipline report school sector ward disciplinary incidents, including but not limited to in-school suspensions, out-of-school suspensions, in the 2022–23 school year, leas reported 21,465 unique discipline incidents, including 8,910 restorative reason for suspension or expulsion number of number of percent change term definition definition in-school involuntary school- 2021-22 school year discipline report school sector ward kingsman pcs pcs 6 disciplinary incidents, including but not limited to in-school suspensions, out-of-school primary reason number of incidents number of incidents percent change (%) census neighborhood deprivation total community- ward change rationale 3. gathering additional data on how term definition type definition 2020-21 school year discipline report expectations refrain from sharing inappropriate pictures or images during classroom meetings or on discussion boards. monitoring responses iss \" a student that is removed from the virtual classroom will be assigned to virtual only use this code if the exact phrase \"in-school suspension\" is used to ensure it is mutually exclusive with exclude. only use this code if the exact phrase \"in-school suspension\" restorative circles, peer mediations, groups led by school counselors, data element (no longer being state of the data element moving forward 2019-20 school year discipline report 2018-19 school year discipline report school school school school school lea lea lea 2018-19 school year discipline report at a glance 2017-18 school year discipline report school black or african- american hispanic white other race female male english learners students with disabilities at-risk black or other english students school out-of-school in-school suspensions expulsions school out-of-school suspensions school name average length of out-of-school suspensions 2017-18 discipline report appendices and tables data notes tab office of the state superintendent of education school counts and rates school name students with out-of-school suspensions percent students with in-school suspensions percent students with expulsions percent lea counts and rates lea name out-of-school suspensions percent in-school suspensions percent expulsions percent school duration rates school name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school rate of multiple suspens school name lea name count of students with multiple oss percent by gradeband and student groups grade band number of out-of-school suspensions student group swd between 6 and 10 day oss student had iep at time of incident school name average duration of suspension attendance discrepencies lea name days of in-school suspensions from discipline data days of in-school suspensions from attendance data unverified zero counts lea name reported no in-school suspensions certified with osse 2016-17 school year discipline report 2015-16 school year discipline report 57 132 180 7 2 2 786 30 1 3 2013-14 school year discipline report reducing out-of-school suspensions and expulsions in district of columbia public and public charter schools reducing out-of-school suspensions and expulsions in district of columbia public and public charter schools executive summary introduction findings discipline reason in-school suspension out-of-school suspension expulsion"
   },
   {
    "id": "osse-finance-ppe",
@@ -11547,10 +13300,9019 @@ window.CATALOG = {
    "status": "ok",
    "format": "PDF reports + Excel (.xlsx) at state/LEA/school level",
    "cadence": "Comprehensive reports biennial; retention briefs annual",
-   "years": "Reports 2018-19, 2021-22, 2023-24; data files 2021-22 to 2024-25",
-   "notes": "Counts, demographics, preparation, retention, supply/demand for DCPS + charter educators. Staffing snapshot as of Oct 5 each year.",
-   "files": [],
-   "search": "dc educator workforce data osse counts, demographics, preparation, retention, supply/demand for dcps + charter educators. staffing snapshot as of oct 5 each year. pdf reports + excel (.xlsx) at state/lea/school level educators teacher staff workforce principal retention"
+   "years": "Reports 2018-19 to 2023-24; data files 2021-22 to 2025-26; retention briefs 2021-22 to 2025-26; EPP files 2024-2026",
+   "notes": "Counts, demographics, preparation, retention, supply/demand for DCPS + charter educators (one flat file per topic per year). Staffing snapshot as of Oct 5 each year. Also Educator Preparation Provider (EPP) data files.",
+   "files": [
+    {
+     "name": "Educator Workforce Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Educator%20Workforce%20Report%2010.2019.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 41,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 14,
+       "header": [],
+       "n_rows": 28
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022%20DC%20Educator%20Workforce%20Report_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 36,
+     "has_tabular_data": true,
+     "n_table_pages": 36,
+     "tables": [
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Teachers",
+        "Principals",
+        "School Leaders",
+        "Related Service Providers",
+        "Paraprofessionals",
+        "LEAs",
+        "Schools",
+        "Students"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Report%20%28Oct%2028%29.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 44,
+     "has_tabular_data": true,
+     "n_table_pages": 44,
+     "tables": [
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 5
+      },
+      {
+       "page": 7,
+       "header": [
+        "School Year",
+        "Teachers",
+        "Principals",
+        "School Leaders",
+        "Special Education Related Service Providers",
+        "LEAs and SPAs",
+        "Schools",
+        "Students"
+       ],
+       "n_rows": 4
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Retention%20One-Pager.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 1,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "TEACHER RETENTION In the 2021-22 school year, 74 percent of teachers were retained as teachers in the same school at which they taught in the 2020-21 school year and 88 percent of teachers were retained in DC.",
+        "2018-19 to 2019-20 2019-20 to 2020-21 2020-21 to 2021-22",
+        "70% 1",
+        "1% 3%",
+        "16%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 1,
+       "header": [
+        "81% 2%9",
+        "% 8%"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EduRetention_1pager_022423.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "District of Columbia Educator Retention"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "73%",
+        "24% 3"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "73%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "78% 1",
+        "9% 3%"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20ERB.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Total School Staff",
+        "Teachers",
+        "Principals",
+        "Special Education Support Staff",
+        "Paraprofessionals",
+        "Students",
+        "LEAs S",
+        "chools"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "78% 7",
+        "%",
+        "15%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "79% 7%",
+        "1%13%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "71%",
+        "26% 3",
+        "%"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Education%20Retention%20Brief%202024-2025.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Total School Staff",
+        "Teachers",
+        "Principals",
+        "Special Education Support Staff",
+        "Paraprofessionals",
+        "Students",
+        "LEAs and SPAs*",
+        "Schools"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "TEACHER RETENTION In the 2024-25 school year, 84 percent of teachers were retained as teachers in DC, and 76 percent of teachers were retained as teachers in the same school",
+        "PRINCIPAL RETENTION In the 2024-25 school year, 83 percent of principals were retained as principals in DC, and 78 percent of principals were retained"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "2024-25 District of Columbia Educator Retention Brief"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 2,
+       "header": [
+        "80% 4%",
+        "3",
+        "%",
+        "13%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "83% 5%",
+        "3",
+        "%",
+        "9%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "School Year",
+        "Total Teacher FTEs",
+        "Vacant Teacher FTEs",
+        "Vacancy Rate"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 3,
+       "header": [
+        "63%",
+        "34% 2"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Retention%20Brief.pdf",
+     "kind": "pdf",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "EDUCATIONAL LANDSCAPE"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 1,
+       "header": [
+        "78% 1",
+        "%12",
+        "% 9%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "82% 7",
+        "%1",
+        "%10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "2025-26 District of Columbia Educator Retention Brief"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 2,
+       "header": [
+        "82% 4%",
+        "2%12%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "83% 7%",
+        "2%",
+        "8%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "School Year",
+        "Total Teacher FTEs",
+        "Vacant Teacher FTEs",
+        "Vacancy Rate"
+       ],
+       "n_rows": 6
+      }
+     ]
+    },
+    {
+     "name": "Educator Retention Brief — Definitions and Methodology",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Educator%20Retention%20Brief%20-%20Definitions%20and%20Methodology.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators",
+      "methodology"
+     ],
+     "n_pages": 1,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
+    },
+    {
+     "name": "Educator Workforce — All Files (combined workbook)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator_Data_May_2022.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "LEA Demographics_All Staff",
+       "n_rows": 72,
+       "columns": [
+        "LEA Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "School Demographics_All Staff",
+       "n_rows": 253,
+       "columns": [
+        "School Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "LEA Demographics_Teachers",
+       "n_rows": 72,
+       "columns": [
+        "LEA Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "School Demographics_Teachers",
+       "n_rows": 253,
+       "columns": [
+        "School Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "LEA Demographics_Leaders",
+       "n_rows": 72,
+       "columns": [
+        "LEA Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "School Demographics_Leaders",
+       "n_rows": 250,
+       "columns": [
+        "School Information",
+        "Gender",
+        "American Indian/Alaskan Native",
+        "Asian",
+        "Black/African American",
+        "Hispanic/Latino",
+        "Two or More Races",
+        "Pacific Islander/Native Hawaiian",
+        "White/Caucasian",
+        "Race/Ethnicity Other/Unknown"
+       ]
+      },
+      {
+       "name": "Retention_LEA",
+       "n_rows": 69,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Number of Teachers at this LEA in SY 2020-21",
+        "Number of Teachers who remained employed in the same role type at the same school",
+        "Percent of Teachers who remained employed in the same role type at the same school",
+        "Number of Teachers who remained employed in the same role type at a new school",
+        "Percent of Teachers who remained employed in the same role type at a new school",
+        "Number of Teachers who shifted to a new role type at the same or a new school",
+        "Percent of Teachers who shifted to a new role type at the same or a new school",
+        "Number of Teachers who left the DC public education workforce",
+        "Percent of Teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_School",
+       "n_rows": 252,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Number of Teachers at this School in SY 2020-21",
+        "Number of Teachers who remained employed in the same role type at the same school",
+        "Percent of Teachers who remained employed in the same role type at the same school",
+        "Number of Teachers who remained employed in the same role type at a new school",
+        "Percent of Teachers who remained employed in the same role type at a new school",
+        "Number of Teachers who shifted to a new role type at the same or a new school",
+        "Percent of Teachers who shifted to a new role type at the same or a new school",
+        "Number of Teachers who left the DC public education workforce",
+        "Percent of Teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Supply EPPs",
+       "n_rows": 75,
+       "columns": [
+        "Education Preparation Program",
+        "Number of completers in 2019-20",
+        "Number of completers who were teaching in the 2020-21 school year in a DC LEA",
+        "Subject Area",
+        "Number of completers in this subject of training in 2019-20",
+        "Number of completers who were teaching in the subject of training the 2020-21 school year"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 88,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_School",
+       "n_rows": 356,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — All Files (combined workbook)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20SY%202022-23%20%283%29.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 10,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_staff_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_staff_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_staff_sch",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_sch",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_lea",
+       "n_rows": 71,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_sch",
+       "n_rows": 252,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Retention_overall_sea",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_overall_lea",
+       "n_rows": 72,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_sch",
+       "n_rows": 254,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_sea",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school"
+       ]
+      },
+      {
+       "name": "Retention_experience_lea",
+       "n_rows": 285,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_sch",
+       "n_rows": 1013,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_sea",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_lea",
+       "n_rows": 569,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_sch",
+       "n_rows": 2025,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_sea",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total teachers Citywide",
+        "Total teachers at least 0.5 FTE in this Grade Band Citywide",
+        "Percent teachers at least 0.5 FTE in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_lea",
+       "n_rows": 141,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total teachers at this LEA",
+        "Total teachers at least 0.5 FTE in this Grade Band at this LEA",
+        "Percent teachers at least 0.5 FTE in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_sch",
+       "n_rows": 456,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total teachers at this School",
+        "Total teachers at least 0.5 FTE in this Grade Band at this School",
+        "Percent teachers at least 0.5 FTE in this Grade Band at this School"
+       ]
+      },
+      {
+       "name": "Effective_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers that were rated Citywide",
+        "Percent teachers rated effective Citywide"
+       ]
+      },
+      {
+       "name": "Effective_tch_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers that were rated at this LEA",
+        "Percent teachers rated effective at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers (DCPS only)",
+        "Total teachers that hold a DC teaching certification (DCPS only)",
+        "Percent teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Certified_tch_lea",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers (DCPS only)",
+        "Total teachers that hold a DC teaching certification (DCPS only)",
+        "Percent teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Certified_tch_sch",
+       "n_rows": 117,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total teachers at this School",
+        "Total teachers that hold a DC teaching certification at this School",
+        "Percent teachers that hold a DC teaching certification at this School"
+       ]
+      },
+      {
+       "name": "Infield_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers (DCPS only)",
+        "Total teachers that are teaching a subject infield (DCPS only)",
+        "Percent teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_tch_lea",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers (DCPS only)",
+        "Total teachers that are teaching a subject infield (DCPS only)",
+        "Percent teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_tch_sch",
+       "n_rows": 117,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total teachers at this School",
+        "Total teachers that are teaching a subject infield at this School",
+        "Percent teachers that are teaching a subject infield at this School"
+       ]
+      },
+      {
+       "name": "Exp_tch_sea",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Total Teachers Citywide",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_tch_lea",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Total Teachers at this LEA",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_tch_sch",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Total Teachers at this School",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_sea",
+       "n_rows": 6,
+       "columns": [
+        "Years of Experience",
+        "Total School Leaders Citywide",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_lea",
+       "n_rows": 351,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Total School Leaders at this LEA",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_sch",
+       "n_rows": 1256,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Total School Leaders at this School",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Vacancies_sea",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_lea",
+       "n_rows": 97,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_sch",
+       "n_rows": 209,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Supply EPPs",
+       "n_rows": 65,
+       "columns": [
+        "Education Preparation Program",
+        "Number of completers in 2020-21",
+        "Number of completers who were teaching in the 2021-22 school year in a DC LEA",
+        "Subject Area",
+        "Number of completers in this subject of training in 2020-21",
+        "Number of completers who were teaching in the subject of training the 2021-22 school year in a DC LEA"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Counts and Demographics",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Counts%20and%20Demographics%29.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators",
+      "demographics"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 10,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_sea",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total teachers Citywide",
+        "Total teachers at least 0.5 FTE in this Grade Band Citywide",
+        "Percent teachers at least 0.5 FTE in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_lea",
+       "n_rows": 141,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total teachers at this LEA",
+        "Total teachers at least 0.5 FTE in this Grade Band at this LEA",
+        "Percent teachers at least 0.5 FTE in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_tch_sch",
+       "n_rows": 456,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total teachers at this School",
+        "Total teachers at least 0.5 FTE in this Grade Band at this School",
+        "Percent teachers at least 0.5 FTE in this Grade Band at this School"
+       ]
+      },
+      {
+       "name": "Demographics_staff_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_staff_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_staff_sch",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_tch_sch",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_sea",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_lea",
+       "n_rows": 71,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_sls_sch",
+       "n_rows": 252,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Preparation and Performance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20Prep%20and%20Perf%20Oct%2023%20Update.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 8,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers that were rated Citywide",
+        "Percent teachers rated effective Citywide"
+       ]
+      },
+      {
+       "name": "Effective_tch_lea",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers that were rated at this LEA",
+        "Percent teachers rated effective at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers (DCPS only)",
+        "Total teachers that hold a DC teaching certification (DCPS only)",
+        "Percent teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Certified_tch_lea",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers (DCPS only)",
+        "Total teachers that hold a DC teaching certification (DCPS only)",
+        "Percent teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Certified_tch_sch",
+       "n_rows": 117,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total teachers at this School",
+        "Total teachers that hold a DC teaching certification at this School",
+        "Percent teachers that hold a DC teaching certification at this School"
+       ]
+      },
+      {
+       "name": "Infield_tch_sea",
+       "n_rows": 2,
+       "columns": [
+        "Total teachers (DCPS only)",
+        "Total teachers that are teaching a subject infield (DCPS only)",
+        "Percent teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_tch_lea",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total teachers (DCPS only)",
+        "Total teachers that are teaching a subject infield (DCPS only)",
+        "Percent teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_tch_sch",
+       "n_rows": 117,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total teachers at this School",
+        "Total teachers that are teaching a subject infield at this School",
+        "Percent teachers that are teaching a subject infield at this School"
+       ]
+      },
+      {
+       "name": "Exp_tch_sea",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Total Teachers Citywide",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_tch_lea",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Total Teachers at this LEA",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_tch_sch",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Total Teachers at this School",
+        "Total Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_sea",
+       "n_rows": 6,
+       "columns": [
+        "Years of Experience",
+        "Total School Leaders Citywide",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_lea",
+       "n_rows": 351,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Total School Leaders at this LEA",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_sls_sch",
+       "n_rows": 1256,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Total School Leaders at this School",
+        "Total School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Retention",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Retention%29.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 10,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_sea",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_overall_lea",
+       "n_rows": 72,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_sch",
+       "n_rows": 254,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Number of teachers who remained employed in the same role type at a new school",
+        "Percent of teachers who remained employed in the same role type at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_sea",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school"
+       ]
+      },
+      {
+       "name": "Retention_experience_lea",
+       "n_rows": 285,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_sch",
+       "n_rows": 1013,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2021-22",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_sea",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_lea",
+       "n_rows": 569,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_sch",
+       "n_rows": 2025,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2021-22",
+        "Number of teachers who remained employed in the same role type at the same school",
+        "Percent of teachers who remained employed in the same role type at the same school",
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Supply and Demand",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Supply%20and%20Demand%29.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 10,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Vacancies_sea",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_lea",
+       "n_rows": 97,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_sch",
+       "n_rows": 209,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Supply EPPs",
+       "n_rows": 65,
+       "columns": [
+        "Education Preparation Program",
+        "Number of completers in 2020-21",
+        "Number of completers who were teaching in the 2021-22 school year in a DC LEA",
+        "Subject Area",
+        "Number of completers in this subject of training in 2020-21",
+        "Number of completers who were teaching in the subject of training the 2021-22 school year in a DC LEA"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — All Files (combined workbook)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Data%20Files%20%28Oct%2028%29_1.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview (C&D)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 144,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 459,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Overview (Prep&Perf)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Codebook (Prep&Perf)",
+       "n_rows": 27,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 Citywide",
+        "Percent of SY 2023-34 Teachers rated effective in SY 2022-23 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 at this LEA",
+        "Percent of 2023-24 Teachers rated effective in SY 2022-23 at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 at this school",
+        "Percent of SY 2023-24 Teachers rated effective in SY 2022-23 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject infield at this school",
+        "Percent Teachers that are teaching a subject infield at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 289,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 289,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Overview (Retention)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 73,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 289,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 577,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 255,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2033,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Overview (S&D)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Supply EPPs",
+       "n_rows": 117,
+       "columns": [
+        "EPP Program",
+        "Total number of candidates and completers in 2022-23",
+        "Total number of candidates and completers who were teaching in the 2023-24 schoo",
+        "Subject",
+        "Number of candidates and completers in this subject of training in 2022-23",
+        "2022-23 DC EPP Candidates and Completers Certified in this Subject",
+        "2022-23 DC EPP Candidates and Completers Teaching this Subject in SY 2023-24",
+        "Number of candidates and completers who were teaching in the subject of training"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 388,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Counts and Demographics",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics%20%28Oct%2028%29.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators",
+      "demographics"
+     ],
+     "tabs": [
+      {
+       "name": "Overview (C&D)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 144,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 459,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Preparation and Performance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance%20%28Oct%2028%29.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview (Prep&Perf)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Codebook (Prep&Perf)",
+       "n_rows": 27,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 Citywide",
+        "Percent of SY 2023-34 Teachers rated effective in SY 2022-23 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 73,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 at this LEA",
+        "Percent of 2023-24 Teachers rated effective in SY 2022-23 at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2023-24 Teachers that were rated in SY 2022-23 at this school",
+        "Percent of SY 2023-24 Teachers rated effective in SY 2022-23 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject infield at this school",
+        "Percent Teachers that are teaching a subject infield at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 289,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 289,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Retention",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention%20%28Oct%2028%29%20.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 73,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 289,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 577,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 255,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2022-23",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2033,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2022-23 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Supply and Demand",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Supply%20and%20Demand%20%28Oct%2028%29.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview (S&D)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Supply EPPs",
+       "n_rows": 117,
+       "columns": [
+        "EPP Program",
+        "Total number of candidates and completers in 2022-23",
+        "Total number of candidates and completers who were teaching in the 2023-24 schoo",
+        "Subject",
+        "Number of candidates and completers in this subject of training in 2022-23",
+        "2022-23 DC EPP Candidates and Completers Certified in this Subject",
+        "2022-23 DC EPP Candidates and Completers Teaching this Subject in SY 2023-24",
+        "Number of candidates and completers who were teaching in the subject of training"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 388,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — All Files (combined workbook)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025%20Educator%20Data%20Flat%20File%20%28All%20Files%29.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 3,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 143,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 467,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Overview (Prep+Perf)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 Citywide",
+        "Percent of SY 2024-25 Teachers rated effective in SY 2023-24 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 at this LEA",
+        "Percent of 2024-25 Teachers rated effective in SY 2023-24 at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 at this school",
+        "Percent of SY 2024-25 Teachers rated effective in SY 2023-24 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject infield at this school",
+        "Percent Teachers that are teaching a subject infield at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Overview (Retn)",
+       "n_rows": 9,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 73,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 289,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 577,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 257,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1025,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2049,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Overview (Vacancies)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 15,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 93,
+       "columns": [
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 244,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Counts and Demographics",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators",
+      "demographics"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 3,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 143,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 467,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Preparation and Performance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance_0.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview (Prep+Perf)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 Citywide",
+        "Percent of SY 2024-25 Teachers rated effective in SY 2023-24 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 72,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 at this LEA",
+        "Percent of 2024-25 Teachers rated effective in SY 2023-24 at this LEA",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_LEA",
+       "n_rows": 2,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject infield (DCPS only)",
+        "Percent Teachers that are teaching a subject infield (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 255,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2024-25 Teachers that were rated in SY 2023-24 at this school",
+        "Percent of SY 2024-25 Teachers rated effective in SY 2023-24 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject infield at this school",
+        "Percent Teachers that are teaching a subject infield at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 285,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1017,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Retention",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 9,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 73,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 289,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 577,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 257,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1025,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2023-24",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2049,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2023-24 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Supply and Demand",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Vacancies.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 15,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 93,
+       "columns": [
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 244,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — All Files (combined workbook)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Workforce%20Data%20Files.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 253,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 141,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 461,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Overview (2)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 Citywide",
+        "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent of Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject in-field (DCPS only)",
+        "Percent of Teachers that are teaching a subject in-field (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this LEA",
+        "Percent of 2025-26 Teachers rated effective in SY 2024-25 at this LEA"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this school",
+        "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 115,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent of Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject in-field at this school",
+        "Percent of Teachers that are teaching a subject in-field at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1009,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Overview (3)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 72,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 285,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 569,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 256,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1021,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2041,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Overview (4)",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 96,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Counts and Demographics",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Counts%20and%20Demographics.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators",
+      "demographics"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Staff Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total Teachers Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Reporting Level",
+        "Total School Leaders Citywide",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Staff at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total Teachers at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total School Leaders at this LEA",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Staff_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Staff at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_Tch_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total Teachers at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Demographics_SL_SCH",
+       "n_rows": 253,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total School Leaders at this School",
+        "Female",
+        "Male",
+        "Gender Other/Unknown",
+        "American Indian/Alaskan Native",
+        "American Indian/Alaskan Native Female",
+        "American Indian/Alaskan Native Male",
+        "American Indian/Alaskan Native Gender Other/Unknown",
+        "Asian",
+        "Asian Female",
+        "Asian Male",
+        "Asian Gender Other/Unknown",
+        "Black/African American",
+        "Black/African American Female",
+        "Black/African American Male",
+        "Black/African American Gender Other/Unknown",
+        "Hispanic/Latino",
+        "Hispanic/Latino Female",
+        "Hispanic/Latino Male",
+        "Hispanic/Latino Gender Other/Unknown",
+        "Two or More Races",
+        "Two or More Races Female",
+        "Two or More Races Male",
+        "Two or More Races Gender Other/Unknown",
+        "Pacific Islander/Native Hawaiian",
+        "Pacific Islander/Native Hawaiian Female",
+        "Pacific Islander/Native Hawaiian Male",
+        "Pacific Islander/Native Hawaiian Gender Other/Unknown",
+        "White/Caucasian",
+        "White/Caucasian Female",
+        "White/Caucasian Male",
+        "White/Caucasian Gender Other/Unknown",
+        "Race/Ethnicity Other/Unknown",
+        "Race/Ethnicity Other/Unknown Female",
+        "Race/Ethnicity Other/Unknown Male",
+        "Race/Ethnicity Other/Unknown Gender Other/Unknown"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Grand Band",
+        "Total Teachers Citywide",
+        "Total Teachers in this Grade Band Citywide",
+        "Percent Teachers in this Grade Band Citywide"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_LEA",
+       "n_rows": 141,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Grand Band",
+        "Total Teachers at this LEA",
+        "Total Teachers in this Grade Band at this LEA",
+        "Percent Teachers in this Grade Band at this LEA"
+       ]
+      },
+      {
+       "name": "Gradeband_Tch_SCH",
+       "n_rows": 461,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Grand Band",
+        "Total Teachers at this school",
+        "Total Teachers in this Grade Band at this school",
+        "Percent Teachers in this Grade Band at this school"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Citywide",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Student:Staff Ratio"
+       ]
+      },
+      {
+       "name": "Student-Teacher Ratios_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Teacher Ratio"
+       ]
+      },
+      {
+       "name": "Student-Staff Ratios_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward",
+        "Student:Staff Ratio"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Preparation and Performance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 Citywide",
+        "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 Citywide"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that hold a DC teaching certification (DCPS only)",
+        "Percent of Teachers that hold a DC teaching certification (DCPS only)"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SEA",
+       "n_rows": 2,
+       "columns": [
+        "Number of Teachers (DCPS only)",
+        "Number of Teachers that are teaching a subject in-field (DCPS only)",
+        "Percent of Teachers that are teaching a subject in-field (DCPS only)"
+       ]
+      },
+      {
+       "name": "Effective_Tch_LEA",
+       "n_rows": 70,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this LEA",
+        "Percent of 2025-26 Teachers rated effective in SY 2024-25 at this LEA"
+       ]
+      },
+      {
+       "name": "Effective_Tch_SCH",
+       "n_rows": 254,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this school",
+        "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 at this school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Certified_Tch_SCH",
+       "n_rows": 115,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that hold a DC teaching certification at this school",
+        "Percent of Teachers that hold a DC teaching certification at this school"
+       ]
+      },
+      {
+       "name": "Infield_Tch_SCH",
+       "n_rows": 118,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Number of Teachers at this school",
+        "Number of Teachers that are teaching a subject in-field at this school",
+        "Percent of Teachers that are teaching a subject in-field at this school"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of Teachers Citywide",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SEA",
+       "n_rows": 5,
+       "columns": [
+        "Years of Experience",
+        "Number of School Leaders Citywide",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_LEA",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of Teachers at this LEA",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_LEA",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience",
+        "Number of School Leaders at this LEA",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_Tch_SCH",
+       "n_rows": 1013,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of Teachers at this School",
+        "Number of Teachers in this experience category",
+        "Percent of Teachers in this experience category"
+       ]
+      },
+      {
+       "name": "Exp_School_Leader_SCH",
+       "n_rows": 1009,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience",
+        "Number of School Leaders at this School",
+        "Number of School Leaders in this experience category",
+        "Percent of School Leaders in this experience category"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Retention",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Retention.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Retention_overall_SEA",
+       "n_rows": 2,
+       "columns": [
+        "School Years",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce"
+       ]
+      },
+      {
+       "name": "Retention_experience_SEA",
+       "n_rows": 5,
+       "columns": [
+        "School Years",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_race_SEA",
+       "n_rows": 9,
+       "columns": [
+        "School Years",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school"
+       ]
+      },
+      {
+       "name": "Retention_overall_LEA",
+       "n_rows": 72,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_LEA",
+       "n_rows": 285,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_LEA",
+       "n_rows": 569,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_overall_SCH",
+       "n_rows": 256,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Number of teachers who remained employed as teachers at a new school",
+        "Percent of teachers who remained employed as teachers at a new school",
+        "Number of teachers who shifted to a new role type at the same or a new school",
+        "Percent of teachers who shifted to a new role type at the same or a new school",
+        "Number of teachers who left the DC public education workforce",
+        "Percent of teachers who left the DC public education workforce",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_experience_SCH",
+       "n_rows": 1021,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Years of Experience in SY 2024-25",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Retention_race_SCH",
+       "n_rows": 2041,
+       "columns": [
+        "School Years",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Race/Ethnicity",
+        "Total number of teachers in SY 2024-25 teaching at least half-time",
+        "Number of teachers who remained employed as teachers at the same school",
+        "Percent of teachers who remained employed as teachers at the same school",
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Workforce — Supply and Demand",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Vacancies.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 5,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Vacancies_SEA",
+       "n_rows": 14,
+       "columns": [
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_LEA",
+       "n_rows": 96,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Sector",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      },
+      {
+       "name": "Vacancies_SCH",
+       "n_rows": 277,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Sector",
+        "Ward of School",
+        "Subject",
+        "Number of Vacant FTEs in this Subject Area"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Preparation Provider (EPP) Landscape Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP_Brief_May2025.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "n_pages": 11,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 9
+      },
+      {
+       "page": 2,
+       "header": [
+        "INTRODUCTION A vital role of the Office of the State Superintendent of Education (OSSE) is to support the District’s educator pipeline so that all DC students have access to high- quality educators. By collecting and reporting data on how the District’s educator preparation providers (EPPs) respond to citywide talent demands, evaluating EPP quality, designing opportunities for strategic connection between EPPs and local education agencies (LEAs), and leveraging our convening power to bring together DC EPPs and LEA leaders, OSSE helps new teachers effectively lead classrooms and foster student success. Teacher effectiveness is an important driver of students’ academic achievement. Research indicates that “teachers in the top 20 percent of performance generate five to six more months of student learning each year than low-performing teachers.”1 Thus, providing educators, particularly new teachers, with the training and tools to be effective is critical to creating high-quality learning environments for all students.2 This training starts in the institutions that prepare our future District educators and continues with ongoing professional learning throughout an educator’s career. To support the development of well-prepared, locally trained educators, OSSE reviews and approves EPP programs to ensure that these institutions provide candidates with the content knowledge, skills, on-the-ground training, and support to meet the needs of the District’s students.3 Once approved by OSSE, EPPs are eligible to offer programs to educators that prepare them to acquire an educator credential. As part of its ongoing partnership with District EPPs, OSSE also collects and analyzes data about these institutions’ programs and candidate cohorts, as demonstrated by this brief and via the OSSE Educator Preparation Provider Data Files. This “School Year 2024-25 EPP Landscape Brief” discusses the employment and certification rates of EPP candidates and completers who were enrolled in their program at any point between Sept. 1, 2023 to Aug. 31, 2024; details the teacher vacancies filled by EPP candidates and completers; and analyzes the demographics of EPP candidates and completers compared to District teachers and students.4 OSSE designed this brief to help policymakers, practitioners, and the public better understand the relationship between the District’s educator workforce, including the supply of new educators stemming from the District’s EPPs, and OSSE’s initiatives to expand educator preparation opportunities so that every District learner has consistent access to well-prepared educators.5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "2024-25 Teachers in the District",
+        "Individuals in the 2023-24 Cohort of Candidates and Completers Available to Teach",
+        "2023-24 Completers from Traditional Programs",
+        "2023-24 Candidates and Completers from AROIs",
+        "Individuals in the 2023-24 Cohort of Candidates and Completers Employed in the District with Any Experience During 2024-25"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "79%",
+        "21%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "Provisional Credentials",
+        "Initial Credentials",
+        "Standard Credentials",
+        "Added Endorsement"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "Educator Preparation Provider (EPP) Data Files",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Public%20Flat%20Files%20%28Oct%2028%29.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 46,
+       "columns": [
+        "EPP Program",
+        "Gender",
+        "Number of EPP candidates & completers in this gender category",
+        "Percent of EPP candidates & completers in this gender category"
+       ]
+      },
+      {
+       "name": "Race_Ethnicity",
+       "n_rows": 121,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Number of EPP candidates & completers in this racial/ethnic category",
+        "Percent of EPP candidates & completers in this racial/ethnic category"
+       ]
+      },
+      {
+       "name": "Credentials",
+       "n_rows": 121,
+       "columns": [
+        "EPP Program",
+        "Candidate Status",
+        "Credential Type",
+        "# of EPP's participants who attained credential after applying for EPP program",
+        "# of this EPP's participants",
+        "% of EPP's participants who attained credential after applying for EPP program"
+       ]
+      },
+      {
+       "name": "Cred. by Subject",
+       "n_rows": 309,
+       "columns": [
+        "EPP Program",
+        "Credential Subject Area",
+        "Number of this EPP's completers & candidates with credential in this subject",
+        "% of City EPP completers & candidates w/ cred. in this subject from this EPP"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study",
+       "n_rows": 99,
+       "columns": [
+        "EPP Program",
+        "Subject Area of Study",
+        "Total candidates by subject area at EPP",
+        "Percent candidates in this subject area citywide that are at this EPP",
+        "Total completers by subject area at EPP",
+        "Percent completers in this subject area citywide that are at this EPP",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study City",
+       "n_rows": 32,
+       "columns": [
+        "Subject Area of Study",
+        "Total candidates and completers in this this subject area citywide",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Praxis Exams by Test Area",
+       "n_rows": 238,
+       "columns": [
+        "EPP Program",
+        "Testing Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "Total pass rate"
+       ]
+      },
+      {
+       "name": "Praxis Exams by Program Area",
+       "n_rows": 120,
+       "columns": [
+        "EPP Program",
+        "Program Study Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "Total pass rate"
+       ]
+      },
+      {
+       "name": "First Year Employment",
+       "n_rows": 18,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as first-year teachers",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as first-year teachers"
+       ]
+      },
+      {
+       "name": "Any Experience Employment",
+       "n_rows": 18,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as teachers (any exp)",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as teachers (any exp)"
+       ]
+      },
+      {
+       "name": "First Year Employment by Sector",
+       "n_rows": 35,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-1st yr",
+        "Number of this EPP's (candidates +) completers employed this school year-1st yr",
+        "Percent of this EPP's (candidates +) completers employed in this sector-1st yr"
+       ]
+      },
+      {
+       "name": "Any Exp. Employment by Sector",
+       "n_rows": 35,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-any exp",
+        "Number of this EPP's (candidates +) completers employed this school year-any exp",
+        "Percent of this EPP's (candidates +) completers employed in this sector-any exp"
+       ]
+      },
+      {
+       "name": "Stud 1st YearTch Race Ethnicity",
+       "n_rows": 121,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch Race Ethnicity",
+       "n_rows": 121,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Grades of Instruction 1stYr TCH",
+       "n_rows": 61,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Grades of Instruction Exp. TCH",
+       "n_rows": 61,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Stud First YearTch EL SWD",
+       "n_rows": 31,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch EL SWD",
+       "n_rows": 31,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "First Yr Effectiveness Ratings",
+       "n_rows": 18,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Exp Effectiveness Ratings",
+       "n_rows": 18,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Vacancies by Subject 1st YrTCHs",
+       "n_rows": 169,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Subject Area",
+        "Total Vacant FTEs by Subject",
+        "Total EPP FTEs Employed by First-Year Teachers by Subject"
+       ]
+      },
+      {
+       "name": "Vacancies by Sector 1st YrTCHs",
+       "n_rows": 46,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Sector",
+        "Total Vacant FTEs by Sector",
+        "Total First-Year Teacher FTEs from EPPs by Sector"
+       ]
+      },
+      {
+       "name": "Vacancies by Sbjct Any Exp.TCHs",
+       "n_rows": 169,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Subject Area",
+        "Total Vacant FTEs by Subject",
+        "Total Teacher FTEs from EPPs by Subject"
+       ]
+      },
+      {
+       "name": "Vacancies by Sector AnyExp.TCHs",
+       "n_rows": 46,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Sector",
+        "Total Vacant FTEs by Sector",
+        "Total Teacher FTEs from EPPs by Sector"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Preparation Provider (EPP) Data Files",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20Files%20Spring%202025%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 21,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 43,
+       "columns": [
+        "EPP Program",
+        "Gender",
+        "Number of EPP candidates & completers in this gender category",
+        "Percent of EPP candidates & completers in this gender category"
+       ]
+      },
+      {
+       "name": "Race_Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Number of EPP candidates & completers in this racial/ethnic category",
+        "Percent of EPP candidates & completers in this racial/ethnic category"
+       ]
+      },
+      {
+       "name": "Credentials",
+       "n_rows": 141,
+       "columns": [
+        "EPP Program",
+        "Candidate Status",
+        "Credential Type",
+        "# of EPP's participants who attained credential after applying for EPP pgm",
+        "# of this EPP's participants",
+        "% of EPP's participants who attained credential after applying for EPP pgm"
+       ]
+      },
+      {
+       "name": "Cred. by Subject",
+       "n_rows": 309,
+       "columns": [
+        "EPP Program",
+        "Credential Subject Area",
+        "Number of this EPP's completers & candidates with credential in this subject",
+        "% of City EPP completers & candidates w/ cred. in this subject from this EPP"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study",
+       "n_rows": 91,
+       "columns": [
+        "EPP Program",
+        "Subject Area of Study",
+        "Total candidates by subject area at EPP",
+        "Percent candidates in this subject area citywide that are at this EPP",
+        "Total completers by subject area at EPP",
+        "Percent completers in this subject area citywide that are at this EPP",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study City",
+       "n_rows": 33,
+       "columns": [
+        "Subject Area of Study",
+        "Total candidates and completers in this subject area citywide",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Praxis Area and Overall",
+       "n_rows": 215,
+       "columns": [
+        "EPP Program",
+        "Testing Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "EPP pass rate"
+       ]
+      },
+      {
+       "name": "Praxis Prog EPP",
+       "n_rows": 112,
+       "columns": [
+        "EPP Program",
+        "Program Study Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "EPP pass rate"
+       ]
+      },
+      {
+       "name": "First Year Employment",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as first-year teachers",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as first-year teachers"
+       ]
+      },
+      {
+       "name": "Any Experience Employment",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as teachers (any exp)",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as teachers (any exp)"
+       ]
+      },
+      {
+       "name": "First Year Employment by Sector",
+       "n_rows": 33,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-1st yr",
+        "Number of this EPP's (candidates +) completers employed this school year-1st yr",
+        "Percent of this EPP's (candidates +) completers employed in this sector-1st yr"
+       ]
+      },
+      {
+       "name": "Any Exp. Employment by Sector",
+       "n_rows": 33,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-any exp",
+        "Number of this EPP's (candidates +) completers employed this school year-any exp",
+        "Percent of this EPP's (candidates +) completers employed in this sector-any exp"
+       ]
+      },
+      {
+       "name": "Stud 1st YearTch Race Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch Race Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Grades of Instruction 1stYr TCH",
+       "n_rows": 57,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Grades of Instruction Exp. TCH",
+       "n_rows": 57,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Stud First YearTch EL SWD",
+       "n_rows": 29,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch EL SWD",
+       "n_rows": 29,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "Sub Study Cert Emp",
+       "n_rows": 101,
+       "columns": [
+        "EPP Program",
+        "Total Number of Candidates and Completers in 2023-24",
+        "Total Number of Candidates and Completers Who Were Teaching in 2024-25",
+        "Subject",
+        "Number of Candidates and Completers in this Subject of Training in 2023-24",
+        "2023-24 DC EPP Candidates and Completers Certified in this Subject",
+        "2023-24 DC EPP Candidates and Completers Teaching this Subject in SY 2024-25",
+        "Number of Candidates and Completers Who Were Teaching in the Subject of Training"
+       ]
+      },
+      {
+       "name": "First Year Emp. and Cert.",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's candidates and completers employed as first-year teachers",
+        "Number of this EPP's teachers certified",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's candidates and completers employed as first-year teachers",
+        "Percent of this EPP's teachers certified"
+       ]
+      },
+      {
+       "name": "Any Experience Emp. and Cert.",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's candidates and completers employed as teachers (any exp)",
+        "Number of this EPP's teachers certified",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's candidates and completers employed as teachers (any exp)",
+        "Percent of this EPP's teachers certified"
+       ]
+      },
+      {
+       "name": "First Yr Effectiveness Ratings",
+       "n_rows": 18,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Exp Effectiveness Ratings",
+       "n_rows": 18,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Vacancies by Subject FYTCHs",
+       "n_rows": 169,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Subject Area",
+        "Total Vacant FTEs by Subject",
+        "Total EPP FTEs Employed by Subject"
+       ]
+      },
+      {
+       "name": "Vacancies by Sector FYTCHs",
+       "n_rows": 43,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Sector",
+        "Total Vacant FTEs by Sector",
+        "Total EPP FTEs Employed by Sector"
+       ]
+      },
+      {
+       "name": "Vacancies by Subject Exp.TCHs",
+       "n_rows": 169,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Subject Area",
+        "Total Vacant FTEs by Subject",
+        "Total EPP FTEs Employed by Subject"
+       ]
+      },
+      {
+       "name": "Vacancies by Sector Exp.TCHs",
+       "n_rows": 43,
+       "columns": [
+        "School Year of Vacancy",
+        "School Year of Filled Position",
+        "EPP Program",
+        "Sector",
+        "Total Vacant FTEs by Sector",
+        "Total EPP FTEs Employed by Sector"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Educator Preparation Provider (EPP) Data Files",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20File%20Spring%202026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "educators"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 19,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Gender",
+       "n_rows": 43,
+       "columns": [
+        "EPP Program",
+        "Gender",
+        "Number of EPP candidates & completers in this gender category",
+        "Percent of EPP candidates & completers in this gender category"
+       ]
+      },
+      {
+       "name": "Race_Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Number of EPP candidates & completers in this racial/ethnic category",
+        "Percent of EPP candidates & completers in this racial/ethnic category"
+       ]
+      },
+      {
+       "name": "Credentials",
+       "n_rows": 141,
+       "columns": [
+        "EPP Program",
+        "Candidate Status",
+        "Credential Type",
+        "# of EPP's participants who attained credential after applying for EPP pgm",
+        "# of this EPP's participants",
+        "% of EPP's participants who attained credential after applying for EPP pgm"
+       ]
+      },
+      {
+       "name": "Cred. by Subject",
+       "n_rows": 323,
+       "columns": [
+        "EPP Program",
+        "Credential Subject Area",
+        "Number of this EPP's completers & candidates with credential in this subject",
+        "% of City EPP completers & candidates w/ cred. in this subject from this EPP"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study",
+       "n_rows": 87,
+       "columns": [
+        "EPP Program",
+        "Subject Area of Study",
+        "Total candidates by subject area at EPP",
+        "Percent candidates in this subject area citywide that are at this EPP",
+        "Total completers by subject area at EPP",
+        "Percent completers in this subject area citywide that are at this EPP",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Subject Areas of Study City",
+       "n_rows": 33,
+       "columns": [
+        "Subject Area of Study",
+        "Total candidates and completers in this subject area citywide",
+        "Percent of candidates and completers in this subject area citywide"
+       ]
+      },
+      {
+       "name": "Praxis Area and Overall",
+       "n_rows": 214,
+       "columns": [
+        "EPP Program",
+        "Testing Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "EPP pass rate"
+       ]
+      },
+      {
+       "name": "Praxis Prog EPP",
+       "n_rows": 111,
+       "columns": [
+        "EPP Program",
+        "Program Study Area",
+        "EPP total test takers",
+        "EPP total passed on first attempt",
+        "EPP first time pass rate",
+        "EPP total passed attempts",
+        "EPP pass rate"
+       ]
+      },
+      {
+       "name": "First Year Employment",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as first-year teachers",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as first-year teachers"
+       ]
+      },
+      {
+       "name": "Any Experience Employment",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's (candidates +) completers employed as teachers (any exp)",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's (candidates +) completers employed as teachers (any exp)"
+       ]
+      },
+      {
+       "name": "First Year Employment by Sector",
+       "n_rows": 36,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-1st yr",
+        "Number of this EPP's (candidates +) completers employed this school year-1st yr",
+        "Percent of this EPP's (candidates +) completers employed in this sector-1st yr"
+       ]
+      },
+      {
+       "name": "Any Exp. Employment by Sector",
+       "n_rows": 36,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Sector",
+        "Number of this EPP's (candidates +) completers employed in this sector-any exp",
+        "Number of this EPP's (candidates +) completers employed this school year-any exp",
+        "Percent of this EPP's (candidates +) completers employed in this sector-any exp"
+       ]
+      },
+      {
+       "name": "Stud 1st YearTch Race Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch Race Ethnicity",
+       "n_rows": 113,
+       "columns": [
+        "EPP Program",
+        "Race/Ethnicity",
+        "Percent of students in DC LEAs, by Racial/Ethnic Group",
+        "Percent of this EPP's (candidates +) completers employed, by Racial/Ethnic Group"
+       ]
+      },
+      {
+       "name": "Grades of Instruction 1stYr TCH",
+       "n_rows": 57,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Grades of Instruction Exp. TCH",
+       "n_rows": 57,
+       "columns": [
+        "EPP Program",
+        "Grade Ranges of Instruction",
+        "# of EPP students employed that taught in this range during field experience",
+        "# of EPP students employed that taught in this range while employed in a DC LEA"
+       ]
+      },
+      {
+       "name": "Stud First YearTch EL SWD",
+       "n_rows": 29,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "Stud Any Exp.Tch EL SWD",
+       "n_rows": 29,
+       "columns": [
+        "EPP Program",
+        "Student Group",
+        "Percent of students in student group",
+        "Percent of teachers from this EPP who teach students in student group"
+       ]
+      },
+      {
+       "name": "EPP Rundown",
+       "n_rows": 95,
+       "columns": [
+        "EPP Program",
+        "Total Number of Candidates and Completers in 2024-25",
+        "Total Number of Candidates and Completers Who Were Teaching in 2025-26",
+        "Subject",
+        "Number of Candidates and Completers in this Subject of Training in 2024-25",
+        "2024-25 DC EPP Candidates and Completers Certified in this Subject",
+        "2024-25 DC EPP Candidates and Completers Teaching this Subject in SY 2025-26",
+        "Number of Candidates and Completers Who Were Teaching in the Subject of Training"
+       ]
+      },
+      {
+       "name": "First Year Emp. and Cert.",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's candidates and completers employed as first-year teachers",
+        "Number of this EPP's teachers certified",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's candidates and completers employed as first-year teachers",
+        "Percent of this EPP's teachers certified"
+       ]
+      },
+      {
+       "name": "Any Experience Emp. and Cert.",
+       "n_rows": 17,
+       "columns": [
+        "Year of Employment",
+        "Year enrolled in or completion of EPP Program",
+        "EPP Program",
+        "Program Type",
+        "Number of this EPP's candidates and completers employed as teachers (any exp)",
+        "Number of this EPP's teachers certified",
+        "Number of this EPP's Completers",
+        "Number of this EPP's Candidates and Completers",
+        "Percent of this EPP's candidates and completers employed as teachers (any exp)",
+        "Percent of this EPP's teachers certified"
+       ]
+      },
+      {
+       "name": "First Yr Effectiveness Ratings",
+       "n_rows": 17,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Exp Effectiveness Ratings",
+       "n_rows": 17,
+       "columns": [
+        "EPP Program",
+        "Program Type",
+        "EPP Program Completion Year",
+        "Effectiveness Rating Year",
+        "Employment Year",
+        "Number of Rated Teachers who were Effective - EPP",
+        "Number of Rated Teachers - EPP",
+        "Percent of Rated Teachers who were Effective - EPP"
+       ]
+      },
+      {
+       "name": "Clinical Exp Location",
+       "n_rows": 17,
+       "columns": [
+        "EPP Program",
+        "Number of Candidates with Clinical Experience",
+        "Number of Completers with Clinical Experience",
+        "Total Number of Participants with Clinical Experience",
+        "Number of Participants with DCPS Clinical Experience",
+        "Number of Participants with Charter School Clinical Experience",
+        "Number of Participants with Private School Clinical Experience",
+        "Number of Participants with Out-of-State Clinical Experience",
+        "Percent of All Participants with DCPS Clinical Experience",
+        "Percent of All Participants with Charter School Clinical Experience",
+        "Percent of All Participants with Private School Clinical Experience",
+        "Percent of All Participants with Out-of-State Clinical Experience"
+       ]
+      },
+      {
+       "name": "Clinical Exp Location - by Ward",
+       "n_rows": 110,
+       "columns": [
+        "Ward",
+        "EPP Program",
+        "Number of Candidates with Clinical Experience in this Ward",
+        "Number of Completers with Clinical Experience in this Ward",
+        "Total Number of Participants with Clinical Experience",
+        "Number of Participants with DCPS Clinical Experience in this Ward",
+        "Number of Participants with Charter School Clinical Experience in this Ward",
+        "Number of Participants with Private School Clinical Experience in this Ward",
+        "Percent of All Participants with DCPS Clinical Experience in this Ward",
+        "Percent of All Participants with Charter School Clinical Experience in this Ward",
+        "Percent of All Participants with Private School Clinical Experience in this Ward"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "dc educator workforce data osse counts, demographics, preparation, retention, supply/demand for dcps + charter educators (one flat file per topic per year). staffing snapshot as of oct 5 each year. also educator preparation provider (epp) data files. pdf reports + excel (.xlsx) at state/lea/school level educators teacher staff workforce principal retention educator workforce report educator workforce report teachers principals school leaders related service providers paraprofessionals leas schools students educator workforce report school year teachers principals school leaders special education related service providers leas and spas schools students educator retention brief teacher retention in the 2021-22 school year, 74 percent of teachers were retained as teachers in the same school at which they taught in the 2020-21 school year and 88 percent of teachers were retained in dc. 2018-19 to 2019-20 2019-20 to 2020-21 2020-21 to 2021-22 70% 1 1% 3% 16% 81% 2%9 % 8% educator retention brief district of columbia educator retention 73% 24% 3 73% 78% 1 9% 3% educator retention brief total school staff teachers principals special education support staff paraprofessionals students leas s chools 78% 7 % 15% 79% 7% 1%13% 71% 26% 3 % educator retention brief total school staff teachers principals special education support staff paraprofessionals students leas and spas* schools teacher retention in the 2024-25 school year, 84 percent of teachers were retained as teachers in dc, and 76 percent of teachers were retained as teachers in the same school principal retention in the 2024-25 school year, 83 percent of principals were retained as principals in dc, and 78 percent of principals were retained 2024-25 district of columbia educator retention brief 80% 4% 3 % 13% 83% 5% 3 % 9% school year total teacher ftes vacant teacher ftes vacancy rate 63% 34% 2 educator retention brief educational landscape 78% 1 %12 % 9% 82% 7 %1 %10 2025-26 district of columbia educator retention brief 82% 4% 2%12% 83% 7% 2% 8% school year total teacher ftes vacant teacher ftes vacancy rate educator retention brief — definitions and methodology educator workforce — all files (combined workbook) overview office of the state superintendent of education lea demographics_all staff lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_all staff school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown lea demographics_teachers lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_teachers school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown lea demographics_leaders lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_leaders school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown retention_lea school years lea code lea name sector total number of teachers at this lea in sy 2020-21 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_school school years lea code lea name school code school name sector ward of school total number of teachers at this school in sy 2020-21 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes supply epps education preparation program number of completers in 2019-20 number of completers who were teaching in the 2020-21 school year in a dc lea subject area number of completers in this subject of training in 2019-20 number of completers who were teaching in the subject of training the 2020-21 school year vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_school lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown retention_overall_sea school years total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_overall_lea school years lea code lea name sector total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sea school years years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_experience_lea school years lea code lea name sector years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sea school years race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes gradeband_tch_sea grand band total teachers citywide total teachers at least 0.5 fte in this grade band citywide percent teachers at least 0.5 fte in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers at least 0.5 fte in this grade band at this lea percent teachers at least 0.5 fte in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers at least 0.5 fte in this grade band at this school percent teachers at least 0.5 fte in this grade band at this school effective_tch_sea total teachers that were rated citywide percent teachers rated effective citywide effective_tch_lea lea code lea name sector total teachers that were rated at this lea percent teachers rated effective at this lea notes certified_tch_sea total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_lea lea code lea name sector total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sea total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_lea lea code lea name sector total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience total teachers citywide total teachers in this experience category percent of teachers in this experience category exp_tch_lea lea code lea name sector years of experience total teachers at this lea total teachers in this experience category percent of teachers in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience total teachers at this school total teachers in this experience category percent of teachers in this experience category exp_sls_sea years of experience total school leaders citywide total school leaders in this experience category percent of school leaders in this experience category exp_sls_lea lea code lea name sector years of experience total school leaders at this lea total school leaders in this experience category percent of school leaders in this experience category exp_sls_sch lea code lea name school code school name sector ward of school years of experience total school leaders at this school total school leaders in this experience category percent of school leaders in this experience category vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area supply epps education preparation program number of completers in 2020-21 number of completers who were teaching in the 2021-22 school year in a dc lea subject area number of completers in this subject of training in 2020-21 number of completers who were teaching in the subject of training the 2021-22 school year in a dc lea educator workforce — counts and demographics overview office of the state superintendent of education gradeband_tch_sea grand band total teachers citywide total teachers at least 0.5 fte in this grade band citywide percent teachers at least 0.5 fte in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers at least 0.5 fte in this grade band at this lea percent teachers at least 0.5 fte in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers at least 0.5 fte in this grade band at this school percent teachers at least 0.5 fte in this grade band at this school demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown educator workforce — preparation and performance overview office of the state superintendent of education effective_tch_sea total teachers that were rated citywide percent teachers rated effective citywide effective_tch_lea lea code lea name sector total teachers that were rated at this lea percent teachers rated effective at this lea notes certified_tch_sea total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_lea lea code lea name sector total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sea total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_lea lea code lea name sector total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience total teachers citywide total teachers in this experience category percent of teachers in this experience category exp_tch_lea lea code lea name sector years of experience total teachers at this lea total teachers in this experience category percent of teachers in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience total teachers at this school total teachers in this experience category percent of teachers in this experience category exp_sls_sea years of experience total school leaders citywide total school leaders in this experience category percent of school leaders in this experience category exp_sls_lea lea code lea name sector years of experience total school leaders at this lea total school leaders in this experience category percent of school leaders in this experience category exp_sls_sch lea code lea name school code school name sector ward of school years of experience total school leaders at this school total school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_overall_lea school years lea code lea name sector total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sea school years years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_experience_lea school years lea code lea name sector years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sea school years race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area supply epps education preparation program number of completers in 2020-21 number of completers who were teaching in the 2021-22 school year in a dc lea subject area number of completers in this subject of training in 2020-21 number of completers who were teaching in the subject of training the 2021-22 school year in a dc lea educator workforce — all files (combined workbook) overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (retention) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_lea school years lea code lea name sector years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_lea school years lea code lea name sector years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep+perf) office of the state superintendent of education effective_tch_sea total sy 2024-25 teachers that were rated in sy 2023-24 citywide percent of sy 2024-25 teachers rated effective in sy 2023-24 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2024-25 teachers that were rated in sy 2023-24 at this lea percent of 2024-25 teachers rated effective in sy 2023-24 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2024-25 teachers that were rated in sy 2023-24 at this school percent of sy 2024-25 teachers rated effective in sy 2023-24 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (retn) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (vacancies) office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview (prep+perf) office of the state superintendent of education effective_tch_sea total sy 2024-25 teachers that were rated in sy 2023-24 citywide percent of sy 2024-25 teachers rated effective in sy 2023-24 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2024-25 teachers that were rated in sy 2023-24 at this lea percent of 2024-25 teachers rated effective in sy 2023-24 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2024-25 teachers that were rated in sy 2023-24 at this school percent of sy 2024-25 teachers rated effective in sy 2023-24 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (2) office of the state superintendent of education effective_tch_sea total sy 2025-26 teachers that were rated in sy 2024-25 citywide percent of sy 2025-26 teachers rated effective in sy 2024-25 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent of teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject in-field (dcps only) percent of teachers that are teaching a subject in-field (dcps only) effective_tch_lea lea code lea name sector total sy 2025-26 teachers that were rated in sy 2024-25 at this lea percent of 2025-26 teachers rated effective in sy 2024-25 at this lea effective_tch_sch lea code lea name school code school name sector ward of school total sy 2025-26 teachers that were rated in sy 2024-25 at this school percent of sy 2025-26 teachers rated effective in sy 2024-25 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent of teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject in-field at this school percent of teachers that are teaching a subject in-field at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (3) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (4) office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview office of the state superintendent of education effective_tch_sea total sy 2025-26 teachers that were rated in sy 2024-25 citywide percent of sy 2025-26 teachers rated effective in sy 2024-25 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent of teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject in-field (dcps only) percent of teachers that are teaching a subject in-field (dcps only) effective_tch_lea lea code lea name sector total sy 2025-26 teachers that were rated in sy 2024-25 at this lea percent of 2025-26 teachers rated effective in sy 2024-25 at this lea effective_tch_sch lea code lea name school code school name sector ward of school total sy 2025-26 teachers that were rated in sy 2024-25 at this school percent of sy 2025-26 teachers rated effective in sy 2024-25 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent of teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject in-field at this school percent of teachers that are teaching a subject in-field at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator preparation provider (epp) landscape brief introduction a vital role of the office of the state superintendent of education (osse) is to support the district’s educator pipeline so that all dc students have access to high- quality educators. by collecting and reporting data on how the district’s educator preparation providers (epps) respond to citywide talent demands, evaluating epp quality, designing opportunities for strategic connection between epps and local education agencies (leas), and leveraging our convening power to bring together dc epps and lea leaders, osse helps new teachers effectively lead classrooms and foster student success. teacher effectiveness is an important driver of students’ academic achievement. research indicates that “teachers in the top 20 percent of performance generate five to six more months of student learning each year than low-performing teachers.”1 thus, providing educators, particularly new teachers, with the training and tools to be effective is critical to creating high-quality learning environments for all students.2 this training starts in the institutions that prepare our future district educators and continues with ongoing professional learning throughout an educator’s career. to support the development of well-prepared, locally trained educators, osse reviews and approves epp programs to ensure that these institutions provide candidates with the content knowledge, skills, on-the-ground training, and support to meet the needs of the district’s students.3 once approved by osse, epps are eligible to offer programs to educators that prepare them to acquire an educator credential. as part of its ongoing partnership with district epps, osse also collects and analyzes data about these institutions’ programs and candidate cohorts, as demonstrated by this brief and via the osse educator preparation provider data files. this “school year 2024-25 epp landscape brief” discusses the employment and certification rates of epp candidates and completers who were enrolled in their program at any point between sept. 1, 2023 to aug. 31, 2024; details the teacher vacancies filled by epp candidates and completers; and analyzes the demographics of epp candidates and completers compared to district teachers and students.4 osse designed this brief to help policymakers, practitioners, and the public better understand the relationship between the district’s educator workforce, including the supply of new educators stemming from the district’s epps, and osse’s initiatives to expand educator preparation opportunities so that every district learner has consistent access to well-prepared educators.5 2024-25 teachers in the district individuals in the 2023-24 cohort of candidates and completers available to teach 2023-24 completers from traditional programs 2023-24 candidates and completers from arois individuals in the 2023-24 cohort of candidates and completers employed in the district with any experience during 2024-25 79% 21% provisional credentials initial credentials standard credentials added endorsement educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp program # of this epp's participants % of epp's participants who attained credential after applying for epp program cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this this subject area citywide percent of candidates and completers in this subject area citywide praxis exams by test area epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts total pass rate praxis exams by program area epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts total pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp vacancies by subject 1st yrtchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by first-year teachers by subject vacancies by sector 1st yrtchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total first-year teacher ftes from epps by sector vacancies by sbjct any exp.tchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total teacher ftes from epps by subject vacancies by sector anyexp.tchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total teacher ftes from epps by sector educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp pgm # of this epp's participants % of epp's participants who attained credential after applying for epp pgm cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this subject area citywide percent of candidates and completers in this subject area citywide praxis area and overall epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate praxis prog epp epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group sub study cert emp epp program total number of candidates and completers in 2023-24 total number of candidates and completers who were teaching in 2024-25 subject number of candidates and completers in this subject of training in 2023-24 2023-24 dc epp candidates and completers certified in this subject 2023-24 dc epp candidates and completers teaching this subject in sy 2024-25 number of candidates and completers who were teaching in the subject of training first year emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as first-year teachers number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as first-year teachers percent of this epp's teachers certified any experience emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as teachers (any exp) number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as teachers (any exp) percent of this epp's teachers certified first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp vacancies by subject fytchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by subject vacancies by sector fytchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total epp ftes employed by sector vacancies by subject exp.tchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by subject vacancies by sector exp.tchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total epp ftes employed by sector educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp pgm # of this epp's participants % of epp's participants who attained credential after applying for epp pgm cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this subject area citywide percent of candidates and completers in this subject area citywide praxis area and overall epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate praxis prog epp epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group epp rundown epp program total number of candidates and completers in 2024-25 total number of candidates and completers who were teaching in 2025-26 subject number of candidates and completers in this subject of training in 2024-25 2024-25 dc epp candidates and completers certified in this subject 2024-25 dc epp candidates and completers teaching this subject in sy 2025-26 number of candidates and completers who were teaching in the subject of training first year emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as first-year teachers number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as first-year teachers percent of this epp's teachers certified any experience emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as teachers (any exp) number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as teachers (any exp) percent of this epp's teachers certified first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp clinical exp location epp program number of candidates with clinical experience number of completers with clinical experience total number of participants with clinical experience number of participants with dcps clinical experience number of participants with charter school clinical experience number of participants with private school clinical experience number of participants with out-of-state clinical experience percent of all participants with dcps clinical experience percent of all participants with charter school clinical experience percent of all participants with private school clinical experience percent of all participants with out-of-state clinical experience clinical exp location - by ward ward epp program number of candidates with clinical experience in this ward number of completers with clinical experience in this ward total number of participants with clinical experience number of participants with dcps clinical experience in this ward number of participants with charter school clinical experience in this ward number of participants with private school clinical experience in this ward percent of all participants with dcps clinical experience in this ward percent of all participants with charter school clinical experience in this ward percent of all participants with private school clinical experience in this ward"
   },
   {
    "id": "osse-prek",
@@ -11566,8 +22328,934 @@ window.CATALOG = {
    "cadence": "Annual",
    "years": "2012 through 2024",
    "notes": "Narrative + summary stats on pre-K access/quality, not a granular by-school dataset.",
-   "files": [],
-   "search": "pre-kindergarten reports ('state of pre-k in dc') osse narrative + summary stats on pre-k access/quality, not a granular by-school dataset. pdf early-childhood enrollment pre-k prek preschool child care toddler students headcount count population"
+   "files": [
+    {
+     "name": "OSSE Annual Pre-K Report 2024",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202024.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 24,
+     "has_tabular_data": true,
+     "n_table_pages": 16,
+     "tables": [
+      {
+       "page": 7,
+       "header": [
+        "Setting",
+        "Universal",
+        "Delivery System Overview",
+        "Funding Source",
+        "Number of"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 7,
+       "header": [
+        "Delivery System"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Student",
+        "Per Pupil Allocation"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "The District of Columbia continues to be a national leader in access to and participation in public pre-K. In"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "FY23",
+        "FY24"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 10,
+       "header": [
+        "13,",
+        "768",
+        "13,",
+        "791"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 11,
+       "header": [
+        "1,027 (8%)",
+        "6,420 (49%)",
+        "5,772 (44%)"
+       ],
+       "n_rows": 25
+      },
+      {
+       "page": 12,
+       "header": [
+        "Sector",
+        "Sites",
+        "Enrollment",
+        "Number of Classrooms",
+        "Estimated Capacity",
+        "Estimated Utilization",
+        "Unfilled"
+       ],
+       "n_rows": 7
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2023",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202023.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 24,
+     "has_tabular_data": true,
+     "n_table_pages": 16,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "Setting",
+        "Universal",
+        "Delivery System Overview",
+        "Funding Source",
+        "Number of"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 6,
+       "header": [
+        "Delivery System"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Student",
+        "Per Pupil Allocation"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 8,
+       "header": [
+        "FY22",
+        "FY23"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "13,",
+        "13 505",
+        ",768 13,",
+        "791"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 10,
+       "header": [
+        "1001 (8%)",
+        "6215 (49%)",
+        "55 (43",
+        "73 %)"
+       ],
+       "n_rows": 23
+      },
+      {
+       "page": 11,
+       "header": [
+        "Sector",
+        "Sites",
+        "Enrollment",
+        "Number of Classrooms",
+        "Estimated Capacity",
+        "Estimated Utilization",
+        "Unfilled"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 11,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2022",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202022.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 32,
+     "has_tabular_data": true,
+     "n_table_pages": 21,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "I am pleased to submit to the Council of the District of Columbia the enclosed report titled “Fiscal"
+       ],
+       "n_rows": 13
+      },
+      {
+       "page": 7,
+       "header": [
+        "Setting",
+        "Universal Pre-K Program",
+        "Delivery System Overview",
+        "Funding Source",
+        "Number of"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 7,
+       "header": [
+        "Universal"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "Student",
+        "Per Pupil Allocation"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "FY21",
+        "FY22"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 12,
+       "header": [
+        "Sector",
+        "Sites",
+        "Enrollment",
+        "Number of",
+        "Estimated",
+        "Utilization",
+        "Available"
+       ],
+       "n_rows": 6
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2021",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FISCAL%20YEAR%202021%20Pre%20K%20Report%20MMB.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 21,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 9,
+       "header": [
+        "Setting",
+        "Universal Pre-K Program",
+        "Delivery System Overview",
+        "Funding Source"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 9,
+       "header": [
+        "Universal Pre-K"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 14,
+       "header": [
+        "Age",
+        "Census Data",
+        "Number of Children Served in FY21",
+        "Number of Children Served in FY20",
+        "Percent",
+        "Percent Change in Number of Children Served from Prior Year"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 14,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 14,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 14,
+       "header": [
+        "Percent Change"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 15,
+       "header": [
+        "Sector",
+        "Sites",
+        "Enrollment in FY21",
+        "Enrollment in FY20",
+        "Percent Change"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 15,
+       "header": [
+        "Enrollment in"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2020",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202020.pdf",
+     "kind": "pdf",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 15,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 8,
+       "header": [
+        "Setting",
+        "Universal",
+        "Funding Source"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 13,
+       "header": [
+        "6088",
+        "6797",
+        "1015"
+       ],
+       "n_rows": 17
+      },
+      {
+       "page": 14,
+       "header": [
+        "Ward",
+        "PKEEP",
+        "DCPS",
+        "PCS",
+        "Total"
+       ],
+       "n_rows": 10
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2019",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202019.pdf",
+     "kind": "pdf",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 37,
+     "has_tabular_data": true,
+     "n_table_pages": 20,
+     "tables": [
+      {
+       "page": 8,
+       "header": [
+        "Setting",
+        "Universal Pre-K Program",
+        "Delivery System Overview",
+        "Funding Source",
+        "Number of"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 8,
+       "header": [
+        "Universal"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 9,
+       "header": [
+        "Census Data4",
+        "Number Enrolled",
+        "Percent Served"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 11,
+       "header": [
+        "Sector",
+        "Sites",
+        "Enrollment",
+        "Number of Classrooms",
+        "Estimated Capacity",
+        "Estimated Utilization",
+        "Estimated"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 11,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 11,
+       "header": [
+        "Estimated"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2018",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202018.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 40,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2017",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202017.pdf",
+     "kind": "pdf",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 39,
+     "has_tabular_data": true,
+     "n_table_pages": 37,
+     "tables": [
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "DISTRICT OF COLUMBIA PUBLIC SCHOOLS",
+        "PUBLIC CHARTER SCHOOLS",
+        "COMMUNITY-BASED ORGANIZATIONS"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 6,
+       "header": [
+        "Emotional Support"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Classroom Organization"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Instructional Support"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2016",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202016%20Feb%202%201017_0.pdf",
+     "kind": "pdf",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 33,
+     "has_tabular_data": true,
+     "n_table_pages": 19,
+     "tables": [
+      {
+       "page": 5,
+       "header": [
+        "TOTAL NUMBER OF CLASSROOMS OBSERVED"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Emotional Support (Threshold of 5)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Classroom Organization (Threshold of 5)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Instructional Support (Threshold of 3)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "High (6-7)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Low (1-2)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Mid (3-5)"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "5.83 5.62"
+       ],
+       "n_rows": 10
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2015",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202015.pdf",
+     "kind": "pdf",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 31,
+     "has_tabular_data": true,
+     "n_table_pages": 16,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "5.77"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 9
+      },
+      {
+       "page": 8,
+       "header": [
+        "5.79"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 9,
+       "header": [
+        "6.08 5.77"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 9,
+       "header": [
+        "6.14 5.82 5.61"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 10,
+       "header": [
+        "5.83 5.74 5.79"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 11,
+       "header": [
+        "5.95 5.65 5.61 5.80 5.73"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 11,
+       "header": [],
+       "n_rows": 7
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2014",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202014.pdf",
+     "kind": "pdf",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 31,
+     "has_tabular_data": true,
+     "n_table_pages": 21,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "Assessing Pre-K Classroom Quality through the CLASS Pre-K ™ Evaluation Tool"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 7,
+       "header": [
+        "5.6"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 7,
+       "header": [
+        "Emotional Support",
+        "Classroom Organization",
+        "Instructional Support"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 8,
+       "header": [
+        "5.5 5.7"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 10,
+       "header": [
+        "Sector",
+        "Funding",
+        "Sites",
+        "Enrollment",
+        "Estimated",
+        "Utilization",
+        "Available"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 10,
+       "header": [
+        "Total",
+        "Enrollment",
+        "Enrollment",
+        "Estimated",
+        "Estimated Capacity Utilization"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 11,
+       "header": [
+        "6,714"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 11,
+       "header": [
+        "Sector",
+        "Funding",
+        "Sites",
+        "Enrollment",
+        "Estimated",
+        "Utilization",
+        "Available"
+       ],
+       "n_rows": 4
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2013",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202013.pdf",
+     "kind": "pdf",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 26,
+     "has_tabular_data": true,
+     "n_table_pages": 26,
+     "tables": [
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 5
+      },
+      {
+       "page": 2,
+       "header": [
+        "2013 Annual Report",
+        "OSSE"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 3,
+       "header": [
+        "2013 Annual Report",
+        "OSSE"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "2013 Annual Report",
+        "OSSE"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "2013 Annual Report",
+        "OSSE"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "FY13 PRE-K UTILIZATION BASED ON 2011 CENSUS ESTIMATE"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 6,
+       "header": [
+        "2013 Annual Report",
+        "OSSE"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Program",
+        "Number of Sites",
+        "Funded Slots"
+       ],
+       "n_rows": 5
+      }
+     ]
+    },
+    {
+     "name": "OSSE Annual Pre-K Report 2012",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202012.pdf",
+     "kind": "pdf",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "early-childhood"
+     ],
+     "n_pages": 23,
+     "has_tabular_data": true,
+     "n_table_pages": 16,
+     "tables": [
+      {
+       "page": 5,
+       "header": [
+        "FY12 PREK UTILIZATION BASED ON 2011 CENSUS ESTIMATE"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 6,
+       "header": [
+        "Reason child not enrolled in UPSFF Funded Pre-­‐K",
+        "Number of",
+        "Percentage of Respondents"
+       ],
+       "n_rows": 12
+      },
+      {
+       "page": 7,
+       "header": [
+        "DCPS Head Start Classrooms across Wards",
+        "Number of Title I DCPS Schools",
+        "Pre-­‐K Capacity in Title I DCPS Schools",
+        "Pre-­‐K Enrollment in Title I DCPS Schools",
+        "Capacity Utilization"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "Pre-­‐K Capacity"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "DCPS Head Start"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Pre-­‐K Enrollment in"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "Head Start CBO Enrollment",
+        "Number of",
+        "Head Start Capacity",
+        "Head Start Funded Enrollment Slots6",
+        "Capacity Utilization"
+       ],
+       "n_rows": 4
+      }
+     ]
+    }
+   ],
+   "search": "pre-kindergarten reports ('state of pre-k in dc') osse narrative + summary stats on pre-k access/quality, not a granular by-school dataset. pdf early-childhood enrollment pre-k prek preschool child care toddler students headcount count population osse annual pre-k report 2024 setting universal delivery system overview funding source number of delivery system student per pupil allocation the district of columbia continues to be a national leader in access to and participation in public pre-k. in fy23 fy24 13, 768 13, 791 1,027 (8%) 6,420 (49%) 5,772 (44%) sector sites enrollment number of classrooms estimated capacity estimated utilization unfilled osse annual pre-k report 2023 setting universal delivery system overview funding source number of delivery system student per pupil allocation fy22 fy23 13, 13 505 ,768 13, 791 1001 (8%) 6215 (49%) 55 (43 73 %) sector sites enrollment number of classrooms estimated capacity estimated utilization unfilled number of osse annual pre-k report 2022 i am pleased to submit to the council of the district of columbia the enclosed report titled “fiscal setting universal pre-k program delivery system overview funding source number of universal student per pupil allocation fy21 fy22 sector sites enrollment number of estimated utilization available osse annual pre-k report 2021 setting universal pre-k program delivery system overview funding source universal pre-k age census data number of children served in fy21 number of children served in fy20 percent percent change in number of children served from prior year number of number of percent change sector sites enrollment in fy21 enrollment in fy20 percent change enrollment in osse annual pre-k report 2020 setting universal funding source 6088 6797 1015 ward pkeep dcps pcs total osse annual pre-k report 2019 setting universal pre-k program delivery system overview funding source number of universal census data4 number enrolled percent served sector sites enrollment number of classrooms estimated capacity estimated utilization estimated number of estimated osse annual pre-k report 2018 osse annual pre-k report 2017 district of columbia public schools public charter schools community-based organizations emotional support classroom organization instructional support osse annual pre-k report 2016 total number of classrooms observed emotional support (threshold of 5) classroom organization (threshold of 5) instructional support (threshold of 3) high (6-7) low (1-2) mid (3-5) 5.83 5.62 osse annual pre-k report 2015 5.77 5.79 6.08 5.77 6.14 5.82 5.61 5.83 5.74 5.79 5.95 5.65 5.61 5.80 5.73 osse annual pre-k report 2014 assessing pre-k classroom quality through the class pre-k ™ evaluation tool 5.6 emotional support classroom organization instructional support 5.5 5.7 sector funding sites enrollment estimated utilization available total enrollment enrollment estimated estimated capacity utilization 6,714 sector funding sites enrollment estimated utilization available osse annual pre-k report 2013 2013 annual report osse 2013 annual report osse 2013 annual report osse 2013 annual report osse fy13 pre-k utilization based on 2011 census estimate 2013 annual report osse program number of sites funded slots osse annual pre-k report 2012 fy12 prek utilization based on 2011 census estimate reason child not enrolled in upsff funded pre-­‐k number of percentage of respondents dcps head start classrooms across wards number of title i dcps schools pre-­‐k capacity in title i dcps schools pre-­‐k enrollment in title i dcps schools capacity utilization number of pre-­‐k capacity dcps head start pre-­‐k enrollment in head start cbo enrollment number of head start capacity head start funded enrollment slots6 capacity utilization"
   },
   {
    "id": "osse-early-learning",
@@ -12301,7 +23989,7 @@ window.CATALOG = {
      "year": "2013",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12405,7 +24093,7 @@ window.CATALOG = {
      "year": "2012",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12509,7 +24197,7 @@ window.CATALOG = {
      "year": "2011",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12613,7 +24301,7 @@ window.CATALOG = {
      "year": "2010",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12703,7 +24391,7 @@ window.CATALOG = {
      "year": "2009",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12786,7 +24474,7 @@ window.CATALOG = {
      "year": "2008",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12869,7 +24557,7 @@ window.CATALOG = {
      "year": "2007",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -12952,7 +24640,7 @@ window.CATALOG = {
      "year": "2006",
      "status": "ok",
      "topics": [
-      "other"
+      "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
      "tabs": [
@@ -19066,9 +30754,37 @@ window.CATALOG = {
    "format": "Web portal + downloadable Excel spreadsheets",
    "cadence": "Annual budget cycle (initial budgets ~late winter/spring)",
    "years": "Current cycle (FY27) + 'Budget Archives'",
-   "notes": "School-by-school budget ALLOCATIONS under the three-factor model (enrollment / targeted / stability). Standalone .com domain, not under dcps.dc.gov — easy to miss. Allocation, not expenditure — differs from OSSE PPE.",
-   "files": [],
-   "search": "dcps budget transparency portal dcps school-by-school budget allocations under the three-factor model (enrollment / targeted / stability). standalone .com domain, not under dcps.dc.gov — easy to miss. allocation, not expenditure — differs from osse ppe. web portal + downloadable excel spreadsheets finance spending money budget cost dollars per-pupil expenditure funding"
+   "notes": "School-by-school budget ALLOCATIONS under the three-factor model (enrollment / targeted / stability). Standalone .com domain, not under dcps.dc.gov — easy to miss. Allocation, not expenditure — differs from OSSE PPE. The consolidated FY initial+submitted spreadsheet is a direct .xlsx; the per-school worksheets and prior years live behind a JS 'datasets' browser (dcpsbudget.com/datasets) that's browser-only, not script-fetchable.",
+   "files": [
+    {
+     "name": "FY27 Initial & Submitted Budget Spreadsheet (school-by-school allocations)",
+     "url": "https://dcpsbudget.com/wp-content/uploads/2026/04/FY27-Initial-and-Submitted-Budgets.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "finance",
+      "profiles"
+     ],
+     "tabs": [
+      {
+       "name": "FY27 Submitted Budgets",
+       "n_rows": 6711,
+       "columns": [
+        "This spreadsheet represents submitted budgets by fund source. These budgets were built off of initial allocations and submitted by school leaders and communities in February 2026. DCPS operating budget funds are coded under agency code GA0. Non-local funds for school resources including Title I, Title II, and Title IV-B are coded as GD0 as they are loaded to OSSE’s budget and not DCPS’s. This budget worksheet includes school budgeted items funded under both GA0 (DCPS) and GD0 (OSSE); however, in the Mayor's budget book GA0 and GD0 are separated into different sections."
+       ]
+      },
+      {
+       "name": "FY27 Initial Allocations",
+       "n_rows": 3552,
+       "columns": [
+        "This spreadsheet represents FY27 initial allocations for DCPS schools. From these initial allocations, school leaders and communities develop submitted budgets. In FY27, DCPS is providing allocation fund source as well as the DCPS funding model allocation type."
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "dcps budget transparency portal dcps school-by-school budget allocations under the three-factor model (enrollment / targeted / stability). standalone .com domain, not under dcps.dc.gov — easy to miss. allocation, not expenditure — differs from osse ppe. the consolidated fy initial+submitted spreadsheet is a direct .xlsx; the per-school worksheets and prior years live behind a js 'datasets' browser (dcpsbudget.com/datasets) that's browser-only, not script-fetchable. web portal + downloadable excel spreadsheets finance spending money budget cost dollars per-pupil expenditure funding fy27 initial & submitted budget spreadsheet (school-by-school allocations) fy27 submitted budgets this spreadsheet represents submitted budgets by fund source. these budgets were built off of initial allocations and submitted by school leaders and communities in february 2026. dcps operating budget funds are coded under agency code ga0. non-local funds for school resources including title i, title ii, and title iv-b are coded as gd0 as they are loaded to osse’s budget and not dcps’s. this budget worksheet includes school budgeted items funded under both ga0 (dcps) and gd0 (osse); however, in the mayor's budget book ga0 and gd0 are separated into different sections. fy27 initial allocations this spreadsheet represents fy27 initial allocations for dcps schools. from these initial allocations, school leaders and communities develop submitted budgets. in fy27, dcps is providing allocation fund source as well as the dcps funding model allocation type."
   },
   {
    "id": "dcps-capital-commitment",
@@ -20133,7 +31849,7 @@ window.CATALOG = {
      "name": "School Equity Reports — SY 2017 18 DC PCSB Equity Report Definitions Guide",
      "url": "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity",
@@ -20640,7 +32356,7 @@ window.CATALOG = {
      "name": "Discipline & Attendance — SY 17 18 Attendance and Discipline Report",
      "url": "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "attendance",
@@ -21365,7 +33081,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Sector 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -21501,7 +33217,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Commute Paths 2024",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2024.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2024",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -21574,7 +33290,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Enrollments per DCPS Boundary 2025",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Enrollments%20per%20DCPS%20Boundary_2025.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2025",
      "status": "ok",
      "topics": [
       "boundaries",
@@ -21653,7 +33369,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Distance 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Distance_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -21762,7 +33478,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 1 Population and Students Where Students Miss School 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Students%20Miss%20School_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "attendance",
@@ -21809,7 +33525,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Feeders 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Feeders_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "boundaries",
@@ -21905,7 +33621,7 @@ window.CATALOG = {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns GPR 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_GPR_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -22055,7 +33771,7 @@ window.CATALOG = {
      "name": "Population and Students — EdScape Chapter 4 Enrollment Patterns Total Public School Enrollment 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Total%20Public%20School%20Enrollment_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -22098,7 +33814,7 @@ window.CATALOG = {
      "name": "Population and Students — EdScape Chapter 4 Enrollment Patterns Public School Enrollment by Grade 2026",
      "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Public%20School%20Enrollment%20by%20Grade_2026.xlsx",
      "kind": "xlsx",
-     "year": "unknown",
+     "year": "2026",
      "status": "ok",
      "topics": [
       "enrollment"
