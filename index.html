@@ -193,13 +193,17 @@ function matchSnippet(text, terms) {
 function matchedColumns(file, terms) {
   if (!terms.length) return [];
   const want = expandTerms(terms);
-  const hits = [];
-  // test lowercased (terms are lowercase), but keep original case for display
-  const push = s => { if (s && !hits.includes(s) && want.some(t => fileTermMatch(s.toLowerCase(), t))) hits.push(s); };
-  for (const tab of file.tabs || []) { push(tab.name); for (const c of tab.columns) push(c); }
-  for (const c of file.columns || []) push(c);
-  for (const t of file.tables || []) for (const c of t.header) push(c);
-  return hits;
+  const exactHits = [], synHits = [];   // exact-term columns lead, synonyms follow
+  const consider = s => {
+    if (!s) return;
+    const low = s.toLowerCase();
+    if (terms.some(t => fileTermMatch(low, t))) { if (!exactHits.includes(s)) exactHits.push(s); }
+    else if (want.some(t => fileTermMatch(low, t))) { if (!synHits.includes(s)) synHits.push(s); }
+  };
+  for (const tab of file.tabs || []) { consider(tab.name); for (const c of tab.columns) consider(c); }
+  for (const c of file.columns || []) consider(c);
+  for (const t of file.tables || []) for (const c of t.header) consider(c);
+  return [...exactHits, ...synHits];
 }
 
 function sourceCard(source, terms) {
@@ -265,14 +269,18 @@ const ALL_FILES = CAT.sources.flatMap(s => (s.files || [])
   // drop files we couldn't actually fetch (dead/Box-only) so no chip 404s
   .filter(f => f.status !== "needs_browser" && f.status !== "error")
   .map(f => {
-    const bits = [f.name, s.name, s.owner, f.year || "", (f.topics || []).join(" ")];
-    for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
-    bits.push(...(f.columns || []));
-    for (const t of f.tables || []) bits.push(...t.header);
-    const textLiteral = bits.join(" ").toLowerCase();   // what the file actually says
-    if (f.syn) bits.push(f.syn);                          // + everyday-word synonyms
+    // the file's OWN words (name + structure) — drives relevance, so a file named
+    // "Truancy Data" outranks one that only inherits "truancy" from its source name.
+    const own = [f.name];
+    for (const tab of f.tabs || []) { own.push(tab.name); own.push(...tab.columns); }
+    own.push(...(f.columns || []));
+    for (const t of f.tables || []) own.push(...t.header);
+    const textOwn = own.join(" ").toLowerCase();
+    // full searchable blob (recall): own + source + topics + everyday-word synonyms
+    const bits = [...own, s.name, s.owner, f.year || "", (f.topics || []).join(" ")];
+    if (f.syn) bits.push(f.syn);
     return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner,
-             text: bits.join(" ").toLowerCase(), textLiteral };
+             text: bits.join(" ").toLowerCase(), textOwn };
   }));
 
 // Short terms (AP, SAT, EL) match whole words only, so "AP" doesn't hit "chapter".
@@ -369,6 +377,9 @@ function emptyFilesMessage() {
 
 function renderFiles() {
   const terms = queryTerms();
+  // terms + their synonyms, used to highlight everywhere a hit's reason shows
+  // (so searching "truancy" lights up both "truancy" and "attendance" on the card)
+  const hiTerms = expandTerms(terms);
   // search + owner filter at the file level; topic is applied per SERIES below
   // (so a topic click shows the whole dataset, every year — not just tagged files)
   const hits = ALL_FILES.filter(e => {
@@ -386,12 +397,17 @@ function renderFiles() {
   for (const e of hits) {
     const key = e.file.series ? e.owner + "|" + e.file.series : seriesKey(e.owner, e.file.name);
     const title = e.file.series || seriesTitle(e.file.name);
-    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [], exact: false });
+    if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [], nameMatch: false, exact: false });
     const g = groups.get(key);
     g.files.push({ file: e.file, sourceUrl: e.sourceUrl, sourceName: e.sourceName });
-    // exact = the file literally contains the query (not only via a synonym), so
-    // literal hits ("at-risk" in a column) rank above synonym hits ("Title I").
-    if (terms.length && terms.every(t => fileTermMatch(e.textLiteral, t))) g.exact = true;
+    // relevance tiers (strongest first): the query in the file NAME / series title,
+    // then anywhere in the file's own columns, else synonym/source-only. So "Truancy
+    // Data" (named) beats an attendance brief whose description merely says truancy.
+    if (terms.length) {
+      const nameText = (e.file.name + " " + (e.file.series || title)).toLowerCase();
+      if (terms.every(t => fileTermMatch(nameText, t))) g.nameMatch = true;
+      if (terms.every(t => fileTermMatch(e.textOwn, t))) g.exact = true;
+    }
   }
   // chip text: a per-entity label (school/sector) if set, else the year, else just
   // "file" — never the literal "unknown"/"current" the raw year field can hold
@@ -404,9 +420,11 @@ function renderFiles() {
   // years) sits below smaller, current datasets. A ~20-year recency gap outweighs
   // up to ~100x more files; among similar-recency sets, more files wins.
   const score = g => maxYear(g) + 3 * Math.log2(g.files.length + 1);
-  // exact (literal) matches first, then synonym-only; within each, recency+volume.
+  // relevance first (name match > own-column match > synonym/source), then
+  // recency+volume within each tier.
+  const rel = g => (g.nameMatch ? 2 : 0) + (g.exact ? 1 : 0);
   let list = [...groups.values()].sort((a, b) =>
-    (b.exact - a.exact) || score(b) - score(a) || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
+    rel(b) - rel(a) || score(b) - score(a) || maxYear(b) - maxYear(a) || a.title.localeCompare(b.title));
   if (state.topic)
     list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
   if (state.year)
@@ -458,7 +476,6 @@ function renderFiles() {
           if (cols.length) {
             // highlight the synonym that actually matched too (e.g. "at-risk" search
             // lights up an "Economically Disadvantaged" column), so the WHY is visible
-            const hiTerms = expandTerms(terms);
             const shown = cols.slice(0, 6).map(c =>
               '<span class="colhit">' + highlight(esc(matchSnippet(c, hiTerms)), hiTerms) + "</span>"
             ).join("");
@@ -467,9 +484,9 @@ function renderFiles() {
           }
         }
         return '<div class="src-card"><div class="d-flex justify-content-between align-items-start">'
-          + '<h6 class="mb-1">' + highlight(esc(g.title), terms) + "</h6>" + span + "</div>"
-          + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
-          + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
+          + '<h6 class="mb-1">' + highlight(esc(g.title), hiTerms) + "</h6>" + span + "</div>"
+          + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + highlight(esc(latest.sourceName), hiTerms)
+          + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), hiTerms) + "</div>"
           + matchHtml
           + '<div class="file-cols mb-1"><b>⬇</b> download · <b>↗</b> source page</div><div>' + chips + "</div></div>";
       }).join("")
