@@ -3697,3 +3697,93 @@ data_files:
     kind: xlsx
     year: "2026"
     topics: [finance]
+
+  # ---- Harvested from osse-attendance (6 files) ----
+  - id: att-2024-25-attendance-brief-2024
+    source_id: osse-attendance
+    name: "2024-25 Attendance Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AttendanceBrief_1Pager_2025.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [attendance]
+
+  - id: att-2024-25-truancy-data-2024
+    source_id: osse-attendance
+    name: "2024-25 Truancy Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Truancy%20Data.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [attendance]
+
+  - id: att-2024-25-chronic-absenteeism-scores-2024
+    source_id: osse-attendance
+    name: "2024-25 Chronic Absenteeism Metric Scores"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Chronic%20Absenteeism%20Metric%20Scores.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [attendance]
+
+  - id: att-2024-25-attendance-public-reporting-july-2025-2024
+    source_id: osse-attendance
+    name: "2024-25 Attendance Data Public Reporting (July 2025)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20April%202025%20v1.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [attendance]
+
+  - id: att-2024-25-mid-year-attendance-brief-1-nov-2024-2024
+    source_id: osse-attendance
+    name: "2024-25 Mid-Year Attendance Brief 1 (Nov 2024)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Midyear%20Attendance%20Brief.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [attendance]
+
+  - id: att-2024-25-mid-year-attendance-brief-2-feb-2025-2024
+    source_id: osse-attendance
+    name: "2024-25 Mid-Year Attendance Brief 2 (Feb 2025)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DAR_Mid_Year_Attendance_2.pdf"
+    kind: pdf
+    year: "2024"
+    topics: [attendance]
+
+  # ---- Harvested from osse-graduation (5 files) ----
+  - id: grad-adjusted-cohort-graduation-rate-acgr-public-2024
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2425%20ACGR%20Rates.xlsx"
+    kind: xlsx
+    year: "2024"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-acgr-public-2023
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2324%20ACGR%20Rates.xlsx"
+    kind: xlsx
+    year: "2023"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-acgr-public-2022
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2223%20ACGR%20Rates.xlsx"
+    kind: xlsx
+    year: "2022"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-acgr-public-2021
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2122%20ACGR%20Rates.xlsx"
+    kind: xlsx
+    year: "2021"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-acgr-public-2020
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2021%20ACGR%20Rates.xlsx"
+    kind: xlsx
+    year: "2020"
+    topics: [graduation]

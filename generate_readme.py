@@ -99,6 +99,15 @@ def derive_series(source_id: str, name: str, year):
         return {"series": "School Locations (DCPS + charter)", "label": "DCPS"}
     if source_id == "opendata-charter-locations":
         return {"series": "School Locations (DCPS + charter)", "label": "Charter"}
+    # EdScape Chapter 4 file names strip down to cryptic one-word titles
+    # (Distance, Feeders, GPR, Sector). Give them plain-language titles decoded
+    # from their actual contents.
+    if source_id in ("edscape-enrollment-patterns", "edscape-population-and-students"):
+        if "distance" in low: return {"series": "Distance to School", "label": year}
+        if "feeder" in low: return {"series": "Feeder Patterns", "label": year}
+        if re.search(r"\bgpr\b", low): return {"series": "Grade Progression (GPR)", "label": year}
+        if "sector" in low: return {"series": "Enrollment by Sector", "label": year}
+        if "commute" in low: return {"series": "Commute Paths", "label": year}
     # The OSSE Educator Workforce page has several distinct flat files PER YEAR
     # (Counts & Demographics, Retention, Supply & Demand, Prep & Performance, …).
     # Let the name heuristic split them into one series per sub-file; the broad

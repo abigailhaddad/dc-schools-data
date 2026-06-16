@@ -12178,9 +12178,366 @@ window.CATALOG = {
        "n_rows": 22
       }
      ]
+    },
+    {
+     "name": "2024-25 Attendance Brief",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AttendanceBrief_1Pager_2025.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "ATTENDANCE SUMMARY This brief presents attendance data for the full 2024–25 school year, compared to the 2023–24 school year. Compared to the prior school year: CHRONIC ABSENTEEISM CHRONIC TRUANCY INCREASED BY 0.3 REMAINED UNCHANGED AT PERCENTAGE POINTS. 36.8 PERCENT. 39.2% Chronic Absenteeism 39.5% 36.8% Chronic Truancy 36.8% 0 10 20 30 40 SY2023-24 SY2024-25"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 1,
+       "header": [
+        "39.2"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "2024-25 ATTENDANCE BRIEF"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Truancy Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Truancy%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 9,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School",
+       "n_rows": 243,
+       "columns": [
+        "School",
+        "% Chronically Absent, 2023-24 (K-12)",
+        "% Chronically Absent, 2024-25 (K-12)",
+        "% Truant, 2023-24 (Compulsory Age)",
+        "% Truant, 2024-25 (Compulsory Age)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Chronic Absenteeism Metric Scores",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Chronic%20Absenteeism%20Metric%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 40,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 54,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "State Overall Scores",
+       "n_rows": 57,
+       "columns": [
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "LEA Overall Scores",
+       "n_rows": 2333,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "School Overall Scores",
+       "n_rows": 8899,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Name",
+        "School Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "State Framework Scores",
+       "n_rows": 171,
+       "columns": [
+        "School Framework",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "LEA Framework Scores",
+       "n_rows": 3203,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Framework",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "School Framework Scores",
+       "n_rows": 9889,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Name",
+        "School Code",
+        "School Framework",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Attendance Data Public Reporting (July 2025)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20April%202025%20v1.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 4,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School",
+       "n_rows": 465,
+       "columns": [
+        "School Year",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "LEA",
+       "n_rows": 122,
+       "columns": [
+        "School Year",
+        "LEA Code",
+        "LEA Name",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "Sector",
+       "n_rows": 5,
+       "columns": [
+        "School Year",
+        "Sector",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "State",
+       "n_rows": 59,
+       "columns": [
+        "Grade Band",
+        "Student Group",
+        "% Chronically Absent (24-25)",
+        "% Chronically Absent (23-24)",
+        "% Chronically Truant, (Compulsory Age) (24-25)",
+        "% Chronically Truant, (Compulsory Age) (23-24)"
+       ]
+      },
+      {
+       "name": "Risk Tiers",
+       "n_rows": 51,
+       "columns": [
+        "School Year",
+        "Grade Band",
+        "Absenteeism Risk Tier",
+        "Percentage",
+        "Students",
+        "Total Students"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Mid-Year Attendance Brief 1 (Nov 2024)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Midyear%20Attendance%20Brief.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "ATTENDANCE SUMMARY The data in this brief reflects attendance data from the start of the school year through Nov. 22, 2024, and compares it to the same window in the 2023-24 school year. Compared to the same point in time last school year: CHRONIC ABSENTEEISM CHRONIC TRUANCY DECREASED BY 3.1 DECREASED BY 0.4 PERCENTAGE POINTS PERCENTAGE POINTS EXCLUDING PARTIAL DAY UNEXCUSED ABSENCES, THE CHRONIC TRUANCY RATE WOULD BE 5.1 PERCENT, COMPARED TO 5.5 PERCENT AT THE SAME TIME LAST SCHOOL YEAR. 31.4% Chronic Absenteeism 28.3% 7.8% Chronic Truancy 7.4% 0% 5% 10% 15% 20% 25% 30% 35% * All attendance metrics are calculated for students in grades K-12. Chronic truancy is restricted to students of compulsory age (5-17 years on September 30, 2024). A partial day absence occurs when a student attends school for less than 60 percent of the instructional day."
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "7.8%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "2024-25 MID-YEAR ATTENDANCE BRIEF"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 4
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Mid-Year Attendance Brief 2 (Feb 2025)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DAR_Mid_Year_Attendance_2.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "ATTENDANCE SUMMARY The data in this brief reflect attendance data from the start of the school year through Feb. 28, 2025, and compares it to the same window in the 2023-24 school year. Compared to the same point last year: CHRONIC ABSENTEEISM CHRONIC TRUANCY INCREASED BY 1.6 INCREASED BY 0.3 PERCENTAGE POINTS PERCENTAGE POINTS 35.3% Chronic Absenteeism 36.9% 20.6% Chronic Truancy 20.9% 0% 10% 20% 30% 40% SY2023-24 SY2024-25"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 1,
+       "header": [
+        "20.6%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [
+        "2024-25 MID-YEAR ATTENDANCE BRIEF"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 4
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 2,
+       "header": [],
+       "n_rows": 2
+      }
+     ]
     }
    ],
-   "search": "school year attendance reporting (chronic absenteeism/truancy) osse osse leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' sy24-25: 39.5% chronic absenteeism, 36.8% chronic truancy. pdf report + 2 mid-year briefs + excel files attendance truancy absenteeism chronic absent district of columbia attendance report 2024-25 year metric percentage students grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total"
+   "search": "school year attendance reporting (chronic absenteeism/truancy) osse osse leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' sy24-25: 39.5% chronic absenteeism, 36.8% chronic truancy. pdf report + 2 mid-year briefs + excel files attendance truancy absenteeism chronic absent district of columbia attendance report 2024-25 year metric percentage students grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total 2024-25 attendance brief attendance summary this brief presents attendance data for the full 2024–25 school year, compared to the 2023–24 school year. compared to the prior school year: chronic absenteeism chronic truancy increased by 0.3 remained unchanged at percentage points. 36.8 percent. 39.2% chronic absenteeism 39.5% 36.8% chronic truancy 36.8% 0 10 20 30 40 sy2023-24 sy2024-25 39.2 2024-25 attendance brief 2024-25 truancy data overview office of the state superintendent of education school school % chronically absent, 2023-24 (k-12) % chronically absent, 2024-25 (k-12) % truant, 2023-24 (compulsory age) % truant, 2024-25 (compulsory age) 2024-25 chronic absenteeism metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year 2024-25 attendance data public reporting (july 2025) overview office of the state superintendent of education school school year lea code lea name school code school name % chronically absent (k-12) % chronically truant (compulsory age) lea school year lea code lea name % chronically absent (k-12) % chronically truant (compulsory age) sector school year sector % chronically absent (k-12) % chronically truant (compulsory age) state grade band student group % chronically absent (24-25) % chronically absent (23-24) % chronically truant, (compulsory age) (24-25) % chronically truant, (compulsory age) (23-24) risk tiers school year grade band absenteeism risk tier percentage students total students 2024-25 mid-year attendance brief 1 (nov 2024) attendance summary the data in this brief reflects attendance data from the start of the school year through nov. 22, 2024, and compares it to the same window in the 2023-24 school year. compared to the same point in time last school year: chronic absenteeism chronic truancy decreased by 3.1 decreased by 0.4 percentage points percentage points excluding partial day unexcused absences, the chronic truancy rate would be 5.1 percent, compared to 5.5 percent at the same time last school year. 31.4% chronic absenteeism 28.3% 7.8% chronic truancy 7.4% 0% 5% 10% 15% 20% 25% 30% 35% * all attendance metrics are calculated for students in grades k-12. chronic truancy is restricted to students of compulsory age (5-17 years on september 30, 2024). a partial day absence occurs when a student attends school for less than 60 percent of the instructional day. 7.8% 2024-25 mid-year attendance brief 2024-25 mid-year attendance brief 2 (feb 2025) attendance summary the data in this brief reflect attendance data from the start of the school year through feb. 28, 2025, and compares it to the same window in the 2023-24 school year. compared to the same point last year: chronic absenteeism chronic truancy increased by 1.6 increased by 0.3 percentage points percentage points 35.3% chronic absenteeism 36.9% 20.6% chronic truancy 20.9% 0% 10% 20% 30% 40% sy2023-24 sy2024-25 20.6% 2024-25 mid-year attendance brief"
   },
   {
    "id": "osse-attendance-dashboard",
@@ -12211,8 +12568,284 @@ window.CATALOG = {
    "cadence": "Annual, released ~winter for prior spring cohort",
    "years": "2024-25 back to 2010-11 (+2009) — ~15 years",
    "notes": "Cross-sector (DCPS + charter), 4-yr and 5-yr ACGR with subgroups. 2020-21+ link straight to .xlsx; 2019-20 and earlier use /publication/ pages — a fragmentation point. SY24-25: 78.7% 4-yr.",
-   "files": [],
-   "search": "high school graduation rates / acgr osse cross-sector (dcps + charter), 4-yr and 5-yr acgr with subgroups. 2020-21+ link straight to .xlsx; 2019-20 and earlier use /publication/ pages — a fragmentation point. sy24-25: 78.7% 4-yr. recent years: direct excel (.xlsx); older years: /publication/ pages graduation grad rate diploma acgr dropout"
+   "files": [
+    {
+     "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2425%20ACGR%20Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2024-25 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Rate",
+        "Count",
+        "Cohort Total by Sector"
+       ]
+      },
+      {
+       "name": "2024-25 School Rates",
+       "n_rows": 85,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "School Name",
+        "Rate",
+        "Graduates",
+        "Cohort Total"
+       ]
+      },
+      {
+       "name": "2024-25 Rates by Student Group",
+       "n_rows": 87,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Rate",
+        "Graduates",
+        "Cohort Total"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2324%20ACGR%20Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2023-24 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Cohort Size by Sector",
+        "Count",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2023-24 School Rates",
+       "n_rows": 81,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "School Name",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2023-24 Rates by Student Group",
+       "n_rows": 91,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2223%20ACGR%20Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2022-23 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Cohort Size by Sector",
+        "Count",
+        "Rate (%)"
+       ]
+      },
+      {
+       "name": "2022-23 School Rates",
+       "n_rows": 81,
+       "columns": [
+        "School Name",
+        "Cohort",
+        "Sector",
+        "Graduates",
+        "Cohort Total",
+        "Rate (%)"
+       ]
+      },
+      {
+       "name": "2022-23 Rates by Student Group",
+       "n_rows": 91,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Cohort Total",
+        "Graduates",
+        "Rate (%)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2122%20ACGR%20Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2021-22 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Cohort Size by Sector",
+        "Count",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2021-22 School Rates",
+       "n_rows": 81,
+       "columns": [
+        "School Name",
+        "Cohort",
+        "Sector",
+        "Graduates",
+        "Cohort Total",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2021-22 Rates by Student Group",
+       "n_rows": 79,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2021%20ACGR%20Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2020-21 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Cohort Size by Sector",
+        "Count",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2020-21 School Rates",
+       "n_rows": 81,
+       "columns": [
+        "School Name",
+        "Cohort",
+        "Sector",
+        "Graduates",
+        "Cohort Total",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2020-21 Rates by Student Group",
+       "n_rows": 79,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "high school graduation rates / acgr osse cross-sector (dcps + charter), 4-yr and 5-yr acgr with subgroups. 2020-21+ link straight to .xlsx; 2019-20 and earlier use /publication/ pages — a fragmentation point. sy24-25: 78.7% 4-yr. recent years: direct excel (.xlsx); older years: /publication/ pages graduation grad rate diploma acgr dropout adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2024-25 rate overview sector cohort outcome rate count cohort total by sector 2024-25 school rates sector cohort school name rate graduates cohort total 2024-25 rates by student group sector cohort student group rate graduates cohort total adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2023-24 rate overview sector cohort outcome cohort size by sector count rate 2023-24 school rates sector cohort school name cohort total graduates rate 2023-24 rates by student group sector cohort student group cohort total graduates rate adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2022-23 rate overview sector cohort outcome cohort size by sector count rate (%) 2022-23 school rates school name cohort sector graduates cohort total rate (%) 2022-23 rates by student group sector cohort student group cohort total graduates rate (%) adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2021-22 rate overview sector cohort outcome cohort size by sector count rate 2021-22 school rates school name cohort sector graduates cohort total rate 2021-22 rates by student group sector cohort student group cohort total graduates rate adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2020-21 rate overview sector cohort outcome cohort size by sector count rate 2020-21 school rates school name cohort sector graduates cohort total rate 2020-21 rates by student group sector cohort student group cohort total graduates rate"
   },
   {
    "id": "osse-discipline",
@@ -31017,9 +31650,9 @@ window.CATALOG = {
    "format": "Web page (framework docs / PDF)",
    "cadence": "Annual",
    "years": "Current",
-   "notes": "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19.",
+   "notes": "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19. The ASPIRE framework/result files (~14) are on Egnyte (/dl/ links that return an HTML landing page to scripts) — browser-only, not catalogued here.",
    "files": [],
-   "search": "aspire system (current charter accountability framework) dc pcsb the board-approved system that replaced the pmf and underlies the sqr. note: pmf data pages look current but are frozen at 2018-19. web page (framework docs / pdf) accountability methodology star rating tier sqr pmf aspire score report card quality "
+   "search": "aspire system (current charter accountability framework) dc pcsb the board-approved system that replaced the pmf and underlies the sqr. note: pmf data pages look current but are frozen at 2018-19. the aspire framework/result files (~14) are on egnyte (/dl/ links that return an html landing page to scripts) — browser-only, not catalogued here. web page (framework docs / pdf) accountability methodology star rating tier sqr pmf aspire score report card quality "
   },
   {
    "id": "pcsb-pmf-archive",
@@ -33086,6 +33719,8 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "series": "Enrollment by Sector",
+     "label": "2026",
      "tabs": [
       {
        "name": "Introduction",
@@ -33222,6 +33857,8 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "series": "Commute Paths",
+     "label": "2024",
      "tabs": [
       {
        "name": "Ch4 Stu Ward 2022-Sch Ward 2022",
@@ -33374,6 +34011,8 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "series": "Distance to School",
+     "label": "2026",
      "tabs": [
       {
        "name": "Introduction",
@@ -33531,6 +34170,8 @@ window.CATALOG = {
       "boundaries",
       "enrollment"
      ],
+     "series": "Feeder Patterns",
+     "label": "2026",
      "tabs": [
       {
        "name": "Introduction",
@@ -33626,6 +34267,8 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "series": "Grade Progression (GPR)",
+     "label": "2026",
      "tabs": [
       {
        "name": "Introduction",
@@ -37876,6 +38519,64 @@ window.CATALOG = {
     {
      "name": "DC School Report Card (public interactive site)",
      "url": "https://dcschoolreportcard.org/",
+     "owner": "OSSE"
+    }
+   ]
+  },
+  {
+   "topic": "Educator workforce",
+   "difference": "OSSE's Educator Workforce page carries the full flat files — counts & demographics, preparation & performance, retention, and supply/demand — for DCPS and charter educators, plus retention briefs and Educator Preparation Provider (EPP) data. The DC School Report Card \"Educator Data\" file is a smaller slice scoped to the accountability framework (the educator measures shown per school). Both are OSSE; the workforce page is the fuller dataset, the Report Card file the framework subset.",
+   "sources": [
+    {
+     "name": "DC Educator Workforce Data",
+     "url": "https://osse.dc.gov/page/dc-educator-workforce-data",
+     "owner": "OSSE"
+    },
+    {
+     "name": "DC School Report Card Resource Library (downloads)",
+     "url": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "owner": "OSSE"
+    }
+   ]
+  },
+  {
+   "topic": "Special education (students with disabilities)",
+   "difference": "OSSE's Specialized Education page publishes the IDEA Part B State Performance Plan / Annual Performance Report — the federal compliance indicators and outcomes specific to students with disabilities (SWD) — plus the SPP/SSIP policy documents. Everywhere else, SWD appear as a \"Student Group\" broken out within the general assessment, attendance, and discipline files. The APR is the dedicated SWD dataset; the Report Card / assessment subgroup is SWD seen within the general metrics.",
+   "sources": [
+    {
+     "name": "Specialized Education Data and Reports",
+     "url": "https://osse.dc.gov/service/specialized-education-data-and-reports",
+     "owner": "OSSE"
+    },
+    {
+     "name": "DC School Report Card Resource Library (downloads)",
+     "url": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "owner": "OSSE"
+    },
+    {
+     "name": "Statewide Assessment Results 2024-25 (DC CAPE / MSAA)",
+     "url": "https://osse.dc.gov/assessmentresults2025",
+     "owner": "OSSE"
+    }
+   ]
+  },
+  {
+   "topic": "Early childhood / Pre-K",
+   "difference": "OSSE's Pre-K annual reports are the narrative \"State of Pre-K\" (access, quality, enrollment trends); the Early Learning page covers program quality and subsidy/finance; the enrollment audit holds the official PK3/PK4 headcount that other sources cite. Pre-K enrollment also appears inside the general enrollment files, not just the early-childhood-specific ones.",
+   "sources": [
+    {
+     "name": "Pre-Kindergarten Reports ('State of Pre-K in DC')",
+     "url": "https://osse.dc.gov/publication/pre-kindergarten-reports-state-pre-k-district-columbia",
+     "owner": "OSSE"
+    },
+    {
+     "name": "Early Learning Reports (child care, subsidy, Pay Equity Fund)",
+     "url": "https://osse.dc.gov/page/early-learning-reports",
+     "owner": "OSSE"
+    },
+    {
+     "name": "Audited Enrollment Reports & Data",
+     "url": "https://osse.dc.gov/enrollment",
      "owner": "OSSE"
     }
    ]

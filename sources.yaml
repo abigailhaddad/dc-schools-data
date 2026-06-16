@@ -577,7 +577,7 @@ sources:
     format: "Web page (framework docs / PDF)"
     cadence: "Annual"
     years: "Current"
-    notes: "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19."
+    notes: "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19. The ASPIRE framework/result files (~14) are on Egnyte (/dl/ links that return an HTML landing page to scripts) — browser-only, not catalogued here."
 
   - id: pcsb-pmf-archive
     name: "Performance Management Framework (PMF) — archive"
@@ -951,3 +951,34 @@ overlaps:
       layers). DCPS Profiles and PCSB School Profiles/Directory are the
       human-browsable directories for each sector; the Report Card lists both.
       School-ID crosswalks: the DCPS School Directory PDF and the OSSE enrollment files.
+
+  - topic: "Educator workforce"
+    sources: [osse-educator-workforce, osse-report-card-resource-library]
+    difference: >
+      OSSE's Educator Workforce page carries the full flat files — counts &
+      demographics, preparation & performance, retention, and supply/demand — for
+      DCPS and charter educators, plus retention briefs and Educator Preparation
+      Provider (EPP) data. The DC School Report Card "Educator Data" file is a
+      smaller slice scoped to the accountability framework (the educator measures
+      shown per school). Both are OSSE; the workforce page is the fuller dataset,
+      the Report Card file the framework subset.
+
+  - topic: "Special education (students with disabilities)"
+    sources: [osse-special-ed, osse-report-card-resource-library, osse-assessment-2025]
+    difference: >
+      OSSE's Specialized Education page publishes the IDEA Part B State Performance
+      Plan / Annual Performance Report — the federal compliance indicators and
+      outcomes specific to students with disabilities (SWD) — plus the SPP/SSIP
+      policy documents. Everywhere else, SWD appear as a "Student Group" broken out
+      within the general assessment, attendance, and discipline files. The APR is
+      the dedicated SWD dataset; the Report Card / assessment subgroup is SWD seen
+      within the general metrics.
+
+  - topic: "Early childhood / Pre-K"
+    sources: [osse-prek, osse-early-learning, osse-enrollment-audit]
+    difference: >
+      OSSE's Pre-K annual reports are the narrative "State of Pre-K" (access,
+      quality, enrollment trends); the Early Learning page covers program quality
+      and subsidy/finance; the enrollment audit holds the official PK3/PK4
+      headcount that other sources cite. Pre-K enrollment also appears inside the
+      general enrollment files, not just the early-childhood-specific ones.

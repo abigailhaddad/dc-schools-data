@@ -336,7 +336,11 @@ function renderFiles() {
     if (!groups.has(key)) groups.set(key, { title, owner: e.owner, files: [] });
     groups.get(key).files.push({ file: e.file, sourceUrl: e.sourceUrl, sourceName: e.sourceName });
   }
-  const chipLabel = x => x.file.label || x.file.year || "?";
+  // chip text: a per-entity label (school/sector) if set, else the year, else just
+  // "file" — never the literal "unknown"/"current" the raw year field can hold
+  // (and which derive_series can copy into the label).
+  const clean = v => (v && v !== "unknown" && v !== "current") ? v : "";
+  const chipLabel = x => clean(x.file.label) || clean(x.file.year) || "file";
   const maxYear = g => Math.max(...g.files.map(x => yearNum(chipLabel(x))), 0);
   // Rank by a blend of recency and volume — not file-count alone — so a big but
   // old set (e.g. the 2017-18 per-school equity reports, 9 files but no recent
@@ -407,7 +411,7 @@ function renderFiles() {
           + '<div class="file-cols mb-2">' + esc(g.owner) + " · " + esc(latest.sourceName)
           + (multiPage ? " + other pages" : "") + " — " + highlight(esc(fileSummary(latest.file)), terms) + "</div>"
           + matchHtml
-          + '<div class="file-cols mb-1"><b>⬇</b> downloads the file itself · <b>↗</b> its source page (some sources show a dashboard, not a file list — the ⬇ is the reliable way to the data)</div><div>' + chips + "</div></div>";
+          + '<div class="file-cols mb-1"><b>⬇</b> download · <b>↗</b> source page</div><div>' + chips + "</div></div>";
       }).join("")
     : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
 }
