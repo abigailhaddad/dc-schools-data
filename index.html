@@ -52,7 +52,6 @@
     <div class="small opacity-75" id="subtitle">loading…</div>
     <div class="small mt-1">
       Unofficial, independent project — <strong>not affiliated with</strong> OSSE, DCPS, DC PCSB, DME, or the DC government.
-      It links to public sources and hosts none of the official data.
       <a class="link-light text-decoration-underline" href="https://github.com/abigailhaddad/dc-schools-data" target="_blank" rel="noopener">Source on GitHub ↗</a>
     </div>
   </div>
@@ -92,8 +91,7 @@
 <footer class="container py-4 meta">
   <p class="mb-1"><strong>Unofficial &amp; independent.</strong> Not affiliated with or endorsed by OSSE,
   DCPS, DC PCSB, DME, or the Government of the District of Columbia. This is a catalog of links to
-  publicly published data — it hosts none of the official data and names no source as authoritative.
-  Always verify against the original source.</p>
+  publicly published data.</p>
   <p class="mb-0">Code &amp; data:
   <a href="https://github.com/abigailhaddad/dc-schools-data" target="_blank" rel="noopener">github.com/abigailhaddad/dc-schools-data</a>.
   Built from <code>sources.yaml</code> + <code>data_files.yaml</code>. <span id="verified"></span></p>
@@ -238,6 +236,7 @@ const ALL_FILES = CAT.sources.flatMap(s => (s.files || [])
     for (const tab of f.tabs || []) { bits.push(tab.name); bits.push(...tab.columns); }
     bits.push(...(f.columns || []));
     for (const t of f.tables || []) bits.push(...t.header);
+    if (f.syn) bits.push(f.syn);   // everyday-word synonyms (search_synonyms.yaml)
     return { file: f, sourceName: s.name, sourceUrl: f.page || s.url, owner: s.owner, text: bits.join(" ").toLowerCase() };
   }));
 
@@ -313,6 +312,25 @@ function seriesKey(owner, name) {
   return owner + "|" + s;
 }
 function yearNum(y) { const m = String(y || "").match(/(19|20)\d{2}/); return m ? +m[0] : 0; }
+
+// 0-results help: if the query maps to a synonym group, name the DC vocabulary so
+// the user can tell "wrong word" from "DC doesn't publish it"; always offer Coverage.
+function emptyFilesMessage() {
+  const q = state.q.toLowerCase().trim();
+  let hint = "";
+  if (q) {
+    for (const g of CAT.synonyms || []) {
+      if (g.some(m => m === q || (q.length >= 3 && (m.includes(q) || q.includes(m))))) {
+        const others = g.filter(m => m !== q).slice(0, 5).map(esc).join(", ");
+        if (others) hint = " DC may file this under: <b>" + others + "</b>.";
+        break;
+      }
+    }
+  }
+  return '<div class="alert alert-light border">No files match'
+    + (state.q ? " “" + esc(state.q) + "”" : "") + "." + hint
+    + " Try fewer words, or open the <b>Coverage</b> tab to see everything by topic &amp; year.</div>";
+}
 
 function renderFiles() {
   const terms = queryTerms();
@@ -413,7 +431,7 @@ function renderFiles() {
           + matchHtml
           + '<div class="file-cols mb-1"><b>⬇</b> download · <b>↗</b> source page</div><div>' + chips + "</div></div>";
       }).join("")
-    : '<div class="alert alert-light border">No files match. Try a shorter term (e.g. AP, SAT) or Clear.</div>';
+    : emptyFilesMessage();
 }
 
 // shade a coverage cell by how many files it holds, relative to the busiest cell

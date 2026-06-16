@@ -228,6 +228,11 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
            "topics": infer_file_topics(rec["name"], rec.get("topics") or (src or {}).get("topics", []))}
     if rec.get("page"):
         out["page"] = rec["page"]
+    # everyday-word synonyms this file earns from its own name + columns, so the
+    # Files search answers "poverty" for an "at-risk" column (search_synonyms.yaml).
+    syn = expand_synonyms(_file_text(rec))
+    if syn:
+        out["syn"] = " ".join(sorted(set(syn)))
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}
@@ -244,33 +249,60 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
     return out
 
 
-# Plain-language words people search for, mapped to the topic tags we use, so
-# "spending" finds finance sources, "truancy" finds attendance, etc.
-TOPIC_SYNONYMS = {
-    "finance": "spending money budget cost dollars per-pupil expenditure funding",
-    "attendance": "truancy absenteeism chronic absent",
-    "enrollment": "students headcount count population",
-    "demographics": "race ethnicity special education english learner at-risk poverty",
-    "graduation": "grad rate diploma acgr dropout",
-    "discipline": "suspension expulsion suspended discipline",
-    "accountability": "star rating tier sqr pmf aspire score report card quality",
-    "assessment": "test scores proficiency parcc dc cape msaa reading math",
-    "boundaries": "boundary zone feeder in-boundary attendance area redistricting",
-    "facilities": "building capacity utilization modernization seats",
-    "educators": "teacher staff workforce principal retention",
-    "lottery": "lottery my school dc waitlist choice application",
-    "early-childhood": "pre-k prek preschool child care toddler",
-    "profiles": "directory locations list find a school",
-}
+# ---- search synonym crosswalk (search_synonyms.yaml is the single source) ----
+# A file/source earns the everyday words of any concept group whose vocabulary it
+# already contains, so "poverty" finds "at-risk" content. Edit the YAML, not here.
+SYNONYMS_YAML = ROOT / "search_synonyms.yaml"
+
+
+def load_synonym_groups() -> list[list[str]]:
+    if not SYNONYMS_YAML.exists():
+        return []
+    doc = yaml.safe_load(SYNONYMS_YAML.read_text()) or {}
+    return [[str(t).lower() for t in g] for g in doc.get("groups", [])]
+
+
+SYNONYM_GROUPS = load_synonym_groups()
+
+
+def _term_in(text: str, term: str) -> bool:
+    # short tokens match whole-word only (so "el" doesn't fire on "level");
+    # mirrors the front end's fileTermMatch.
+    if len(term) <= 3:
+        return re.search(r"\b" + re.escape(term) + r"\b", text) is not None
+    return term in text
+
+
+def expand_synonyms(text: str) -> list[str]:
+    """Extra search words a text earns: every term of any group the text triggers."""
+    low = text.lower()
+    out: list[str] = []
+    for group in SYNONYM_GROUPS:
+        if any(_term_in(low, t) for t in group):
+            out.extend(group)
+    return out
+
+
+def _file_text(rec: dict) -> str:
+    """Name + every column / sheet name / table header — the vocabulary a file
+    actually contains, used to decide which synonyms it earns."""
+    prof = rec.get("profile", {})
+    parts = [rec["name"]]
+    for s in prof.get("sheets", []):
+        parts.append(s["name"])
+        parts.extend(s.get("columns", []))
+    parts.extend(prof.get("columns", []))
+    for t in prof.get("tables", []):
+        parts.extend(t.get("header", []))
+    return " ".join(parts)
 
 
 def search_blob(source: dict, files: list[dict]) -> str:
     """Everything a free-text search over this source should match: name, owner,
-    topics, notes, every file name / tab name / column name, plus plain-language
-    synonyms for each topic. Lowercased."""
-    synonyms = " ".join(TOPIC_SYNONYMS.get(t, "") for t in source.get("topics", []))
+    topics, notes, every file name / tab name / column name, plus the synonym
+    crosswalk's everyday words for vocabulary the source actually contains."""
     parts = [source["name"], source["owner"], source.get("notes", ""),
-             source["format"], " ".join(source.get("topics", [])), synonyms]
+             source["format"], " ".join(source.get("topics", []))]
     for f in files:
         parts.append(f["name"])
         for tab in f.get("tabs", []):
@@ -279,7 +311,9 @@ def search_blob(source: dict, files: list[dict]) -> str:
         parts.extend(f.get("columns", []))
         for t in f.get("tables", []):
             parts.extend(t["header"])
-    return " ".join(parts).lower()
+    blob = " ".join(parts).lower()
+    extra = expand_synonyms(blob)
+    return (blob + " " + " ".join(extra)).strip()
 
 
 def write_catalog_js(doc, profiles) -> int:
@@ -306,7 +340,8 @@ def write_catalog_js(doc, profiles) -> int:
     } for ov in doc.get("overlaps", [])]
 
     catalog = {"last_verified": doc.get("last_verified", "?"),
-               "owners": doc["owners"], "sources": sources_js, "overlaps": overlaps_js}
+               "owners": doc["owners"], "sources": sources_js, "overlaps": overlaps_js,
+               "synonyms": SYNONYM_GROUPS}
     CATALOG_JS.write_text("window.CATALOG = "
                           + json.dumps(catalog, ensure_ascii=False, indent=1)
                           + ";\n")
@@ -338,8 +373,7 @@ def main() -> int:
     w("# DC K-12 Public Schools — Data Source Catalog\n")
     w("> ⚠️ **Unofficial & independent.** Not affiliated with or endorsed by OSSE, DCPS, "
       "DC PCSB, DME, or the Government of the District of Columbia. This catalogs links to "
-      "publicly published data — it hosts none of the official data and names no source as "
-      "authoritative. Always verify against the original source.\n")
+      "publicly published data.\n")
     w("A map of **where DC public-school data actually lives** — across OSSE, DCPS, "
       "the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for "
       "Education (DME). The data is real but scattered: split across agencies, "

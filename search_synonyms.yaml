@@ -1,0 +1,22 @@
+# Search synonym crosswalk — everyday words <-> the DC vocabulary they map to.
+#
+# Each list is a GROUP of equivalent search terms. If a file's name or columns
+# contain ANY term in a group, the whole group becomes searchable for that file —
+# so a parent's word ("poverty") finds files that use DC's word ("at-risk").
+#
+# This is the single source of truth: generate_readme.py applies it to both the
+# Files and Sources search and to the "no results" suggestions. Edit freely.
+# Keep groups to genuine equivalences — overly broad groups make search noisy.
+groups:
+  - [at-risk, economically disadvantaged, poverty, low-income, low income, free lunch, frpl, farms, disadvantaged, title i]
+  - [english learner, english language learner, EL, ELL, ESL, multilingual, limited english]
+  - [students with disabilities, SWD, disabilities, disability, special education, special needs, IEP]
+  - [assessment, proficiency, proficient, test scores, test results, standardized test, PARCC, DC CAPE, MSAA, DC CAS]
+  - [finance, per-pupil, per pupil, expenditure, spending, budget, cost, funding]
+  - [attendance, absenteeism, chronic absenteeism, chronic absence, truancy]
+  - [graduation, ACGR, graduation rate, cohort graduation, dropout]
+  - [pre-k, pre-kindergarten, prek, preschool, early childhood, early learning, head start]
+  - [accountability, STAR, school quality, SQR, PMF, ASPIRE, rating]
+  - [discipline, suspension, suspensions, expulsion, expulsions]
+  - [lottery, my school dc, waitlist, school choice]
+  - [educators, teachers, teacher, school leaders, workforce, staffing]

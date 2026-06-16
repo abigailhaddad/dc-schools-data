@@ -1,6 +1,6 @@
 # DC K-12 Public Schools — Data Source Catalog
 
-> ⚠️ **Unofficial & independent.** Not affiliated with or endorsed by OSSE, DCPS, DC PCSB, DME, or the Government of the District of Columbia. This catalogs links to publicly published data — it hosts none of the official data and names no source as authoritative. Always verify against the original source.
+> ⚠️ **Unofficial & independent.** Not affiliated with or endorsed by OSSE, DCPS, DC PCSB, DME, or the Government of the District of Columbia. This catalogs links to publicly published data.
 
 A map of **where DC public-school data actually lives** — across OSSE, DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for Education (DME). The data is real but scattered: split across agencies, buried on Tableau, with old years on different pages than new ones, and the *same* metric often published in several places. This catalog links each source, groups the files into multi-year dataset series, inventories their **tabs and columns** (and tables inside PDFs), and describes — without judgment — how the same metric differs across places.
 

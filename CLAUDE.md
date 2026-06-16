@@ -40,6 +40,12 @@ data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generat
   (grouping), `infer_file_topics()` (per-file topics), title cleanup. The
   "Known gaps" section computes its status counts from `file_profiles.json`, so
   it can't drift — don't re-hardcode "many files behind Box".
+- **`search_synonyms.yaml`** — the search crosswalk: groups of equivalent terms
+  (everyday ↔ DC vocabulary, e.g. `poverty` ↔ `at-risk`). `generate_readme.py`
+  applies it as the single source of truth — a file/source earns a group's everyday
+  words when its name/columns contain any member, so the Files **and** Sources search
+  answer plain-language queries. Also surfaced in `catalog.js` (`window.CATALOG.synonyms`)
+  to power the "no results" suggestions. Edit the YAML, never hardcode synonyms.
 - **`validate.py`** — integrity gate for the two YAMLs (dup ids, dangling
   `source_id`, `overlaps` referencing a missing source, bad `kind`/`status`).
   Exits non-zero on errors; run it before `generate_readme.py`. CI + `refresh.sh`
