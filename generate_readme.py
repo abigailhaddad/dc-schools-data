@@ -228,11 +228,6 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
            "topics": infer_file_topics(rec["name"], rec.get("topics") or (src or {}).get("topics", []))}
     if rec.get("page"):
         out["page"] = rec["page"]
-    # everyday-word synonyms this file earns from its own name + columns, so the
-    # Files search answers "poverty" for an "at-risk" column (search_synonyms.yaml).
-    syn = expand_synonyms(_file_text(rec))
-    if syn:
-        out["syn"] = " ".join(sorted(set(syn)))
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}
@@ -246,6 +241,12 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
         out["n_table_pages"] = prof.get("n_table_pages", 0)
         out["tables"] = [{"page": t["page"], "header": t["header"], "n_rows": t["n_rows"]}
                          for t in prof.get("tables", [])[:8]]
+    # Everyday-word synonyms this file earns — computed from the SAME trimmed fields
+    # the front end stores (name + tab/column/table-8 headers), never the full
+    # profile, so every synonym match is one the UI can point to. (search_synonyms.yaml)
+    syn = expand_synonyms(_out_text(out))
+    if syn:
+        out["syn"] = " ".join(sorted(set(syn)))
     return out
 
 
@@ -283,17 +284,17 @@ def expand_synonyms(text: str) -> list[str]:
     return out
 
 
-def _file_text(rec: dict) -> str:
-    """Name + every column / sheet name / table header — the vocabulary a file
-    actually contains, used to decide which synonyms it earns."""
-    prof = rec.get("profile", {})
-    parts = [rec["name"]]
-    for s in prof.get("sheets", []):
-        parts.append(s["name"])
-        parts.extend(s.get("columns", []))
-    parts.extend(prof.get("columns", []))
-    for t in prof.get("tables", []):
-        parts.extend(t.get("header", []))
+def _out_text(out: dict) -> str:
+    """Name + every stored column / sheet name / table header — exactly the surface
+    the front end can search and highlight. Synonyms are derived from THIS (not the
+    full profile) so a match can always be explained in the UI."""
+    parts = [out["name"]]
+    for tab in out.get("tabs", []):
+        parts.append(tab["name"])
+        parts.extend(tab["columns"])
+    parts.extend(out.get("columns", []))
+    for t in out.get("tables", []):
+        parts.extend(t["header"])
     return " ".join(parts)
 
 

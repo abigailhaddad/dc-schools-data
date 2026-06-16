@@ -156,13 +156,26 @@ function fileSummary(f) {
   return f.kind;
 }
 
+// expand query terms with their synonym-group members, so a hit on "at-risk" can
+// be explained by the actual "Economically Disadvantaged" column that triggered it.
+function expandTerms(terms) {
+  const out = new Set(terms);
+  for (const t of terms)
+    for (const g of CAT.synonyms || [])
+      if (g.some(m => m === t || (t.length >= 3 && (m.includes(t) || t.includes(m)))))
+        g.forEach(m => out.add(m));
+  return [...out];
+}
+
 // the tab names / column headers / pdf-table headers in a file that contain a
-// search term — so a hit shows WHERE it matched, not just that the file matched.
+// search term (or a synonym of it) — so a hit always shows WHERE it matched, even
+// when the file uses DC's word ("Economically Disadvantaged") not the user's ("at-risk").
 function matchedColumns(file, terms) {
   if (!terms.length) return [];
+  const want = expandTerms(terms);
   const hits = [];
   // test lowercased (terms are lowercase), but keep original case for display
-  const push = s => { if (s && !hits.includes(s) && terms.some(t => fileTermMatch(s.toLowerCase(), t))) hits.push(s); };
+  const push = s => { if (s && !hits.includes(s) && want.some(t => fileTermMatch(s.toLowerCase(), t))) hits.push(s); };
   for (const tab of file.tabs || []) { push(tab.name); for (const c of tab.columns) push(c); }
   for (const c of file.columns || []) push(c);
   for (const t of file.tables || []) for (const c of t.header) push(c);
@@ -416,9 +429,12 @@ function renderFiles() {
             for (const c of matchedColumns(x.file, terms))
               if (!cols.includes(c)) cols.push(c);
           if (cols.length) {
+            // highlight the synonym that actually matched too (e.g. "at-risk" search
+            // lights up an "Economically Disadvantaged" column), so the WHY is visible
+            const hiTerms = expandTerms(terms);
             const shown = cols.slice(0, 6).map(c => {
               const disp = c.length > 70 ? c.slice(0, 67) + "…" : c;   // some OSSE tabs are named the full report title
-              return '<span class="colhit">' + highlight(esc(disp), terms) + "</span>";
+              return '<span class="colhit">' + highlight(esc(disp), hiTerms) + "</span>";
             }).join("");
             matchHtml = '<div class="file-cols mb-1">found in: ' + shown
               + (cols.length > 6 ? '<span class="text-muted">+' + (cols.length - 6) + " more</span>" : "") + "</div>";

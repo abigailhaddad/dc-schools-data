@@ -101,7 +101,6 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
-     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas dropout early childhood early learning graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test test results test scores truancy",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -331,7 +330,8 @@ window.CATALOG = {
         "Sheet: Metric Scores - Phase III"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas dropout early childhood early learning graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test test results test scores truancy"
     },
     {
      "name": "2025 Metric Calculation Confirmation (MCC) Data Dictionary",
@@ -342,7 +342,6 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
-     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test suspension suspensions test results test scores truancy",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -579,7 +578,8 @@ window.CATALOG = {
         "Sheet: Metric Scores - Phase III"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test suspension suspensions test results test scores truancy"
     },
     {
      "name": "DC School Report Card Advanced Coursework and SAT – Metric Scores (2025)",
@@ -700,7 +700,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -797,7 +796,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card Attendance – Metric Scores (2025)",
@@ -808,7 +808,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -905,7 +904,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "DC School Report Card CLASS – Metric Scores (2025)",
@@ -1339,7 +1339,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1406,7 +1405,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "DC School Report Card Graduation and College Enrollment – Metric Scores (2025)",
@@ -1418,7 +1418,6 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1515,7 +1514,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC School Report Card LEA Course Catalog (2025)",
@@ -1526,7 +1526,6 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
-     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1569,7 +1568,8 @@ window.CATALOG = {
         "Dual Enrollment Course Indicator"
        ]
       }
-     ]
+     ],
+     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd"
     },
     {
      "name": "DC School Report Card School Directory Information (2025)",
@@ -1580,7 +1580,6 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "series": "School Directory / Profile Data",
      "label": "2025",
      "tabs": [
@@ -1624,7 +1623,8 @@ window.CATALOG = {
         "Extracurricular and Enrichment Activities"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "DC School Report Card Accountability Scores (2025)",
@@ -1635,7 +1635,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1753,7 +1752,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "DC School Report Card Floors and Targets (2025)",
@@ -1802,7 +1802,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -1841,7 +1840,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card State-Level DC CAPE Science and DLM Cross Tabulated Data (2025)",
@@ -1852,7 +1852,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -1926,7 +1925,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card State-Level DC CAPE and MSAA Cross-Tabulated Data (2025)",
@@ -1938,7 +1938,6 @@ window.CATALOG = {
       "assessment",
       "accountability"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -2030,7 +2029,8 @@ window.CATALOG = {
         "Metric"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card State Overall Assessment Growth Metric Scores Cross Tabulated (2025)",
@@ -2041,7 +2041,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2068,7 +2067,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card State Overall ACGR Metric Scores Cross Tabulated (2025)",
@@ -2079,7 +2079,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2106,7 +2105,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC School Report Card - Progress Toward Long Term Goals",
@@ -2192,7 +2192,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2310,7 +2309,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "DC School Report Card Advanced Coursework and SAT-Metric Scores (2024)",
@@ -2433,7 +2433,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2530,7 +2529,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card Assessment Science – Metric Scores (2024)",
@@ -2541,7 +2541,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2596,7 +2595,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card Attendance – Metric Scores (2024)",
@@ -2607,7 +2607,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2704,7 +2703,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "DC School Report Card CLASS – Metric Scores (2024)",
@@ -2771,7 +2771,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2838,7 +2837,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "DC School Report Card Floors and Targets (2024)",
@@ -2888,7 +2888,6 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2943,7 +2942,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC School Report Card School Directory Information (2024)",
@@ -2954,7 +2954,6 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "series": "School Directory / Profile Data",
      "label": "2024",
      "tabs": [
@@ -2999,7 +2998,8 @@ window.CATALOG = {
         "Available Extracuricular and Enrichment Activities"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "DC School Report Card Student Movement – Metric Scores (2024)",
@@ -3117,7 +3117,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2024",
      "tabs": [
@@ -3895,7 +3894,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Metric Calculation Confirmation Data Dictionary",
@@ -3906,7 +3906,6 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
-     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test suspension suspensions test results test scores truancy",
      "tabs": [
       {
        "name": "Summary",
@@ -4125,7 +4124,8 @@ window.CATALOG = {
         "Sheet Description"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test suspension suspensions test results test scores truancy"
     },
     {
      "name": "DC School Report Card School Finance Data",
@@ -4136,7 +4136,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2023",
      "tabs": [
@@ -4211,7 +4210,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "DC School Report Card Common Financial Reporting Standards",
@@ -4223,7 +4223,6 @@ window.CATALOG = {
       "finance",
       "methodology"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "tabs": [
       {
        "name": "Overview",
@@ -4268,7 +4267,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "DC School Report Card Aggregate Enrollment Data",
@@ -4323,7 +4323,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4445,7 +4444,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "DC School Report Card AP IB and SAT – Metric Scores",
@@ -4524,7 +4524,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4621,7 +4620,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "DC School Report Card Directory Data",
@@ -4632,7 +4632,6 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "series": "School Directory / Profile Data",
      "label": "2023",
      "tabs": [
@@ -4677,7 +4676,8 @@ window.CATALOG = {
         "Available Extracuricular and Enrichment Activities"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "DC School Report Card CLASS - Metric Scores",
@@ -4745,7 +4745,6 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4800,7 +4799,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC School Report Card Student Movement - Metric Scores",
@@ -4951,7 +4951,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5018,7 +5017,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "DC School Report Card Assessment Data",
@@ -5029,7 +5029,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5126,7 +5125,8 @@ window.CATALOG = {
         "School Framework"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card Floors and Targets Data",
@@ -5237,7 +5237,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5362,7 +5361,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "DC School Report Card AP IB and SAT - Metric Scores",
@@ -5441,7 +5441,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5538,7 +5537,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC School Report Card Attendance - Metric Scores",
@@ -5549,7 +5549,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5646,7 +5645,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "DC School Report Card CLASS - Metric Scores",
@@ -5713,7 +5713,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5780,7 +5779,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "DC School Report Card Graduation and College Enrollment - Metric Scores",
@@ -5792,7 +5792,6 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -5847,7 +5846,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC School Report Card Finance Data",
@@ -5858,7 +5858,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2022",
      "tabs": [
@@ -5922,7 +5921,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "DC School Report Card Student Movement - Metric Scores",
@@ -6040,7 +6040,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2022",
      "tabs": [
@@ -6074,7 +6073,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "2021 DC School Report Card Aggregate Enrollment Metrics",
@@ -6283,7 +6283,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6380,7 +6379,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2021 DC School Report Card Directory Data",
@@ -6437,7 +6437,6 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6492,7 +6491,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "2021 DC School Report Card Learning Environment Metrics",
@@ -6660,7 +6660,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2021",
      "tabs": [
@@ -6697,7 +6696,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "2021 DC School Report Card Per-Pupil Expenditures File",
@@ -6708,7 +6708,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2021",
      "tabs": [
@@ -6772,7 +6771,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "2020 DC School Report Card Aggregate Data File",
@@ -6783,7 +6783,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6849,7 +6848,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "2020 DC School Report Card Cross-Tabulated Data File",
@@ -6925,7 +6925,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2020",
      "tabs": [
@@ -6975,7 +6974,8 @@ window.CATALOG = {
         "Per Pupil Expenditures by Type"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "2019 DC School Report Card and STAR Framework Data File",
@@ -6986,7 +6986,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7111,7 +7110,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "2019 DC School Report Card and STAR Framework Cross-Tabulated Data File",
@@ -7122,8 +7122,8 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
-     "tabs": []
+     "tabs": [],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "2019 DC School Report Card Per-Pupil Expenditures File",
@@ -7134,7 +7134,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2019",
      "tabs": [
@@ -7184,7 +7183,8 @@ window.CATALOG = {
         "Per Pupil Expenditures by Type"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "2018 DC School Report Card and STAR Framework Data Files",
@@ -7195,7 +7195,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7403,7 +7402,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "2018 STAR Framework Cross-Tabulated Student Group Data File",
@@ -7414,7 +7414,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7504,7 +7503,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
    "search": "dc school report card resource library (downloads) osse the single richest source of downloadable school-level osse data. per-year filenames are inconsistent — verify each year's exact link on the page. excel (.xlsx) files (some via box) + pdf technical guides assessment attendance graduation discipline enrollment demographics finance educators 2026 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release date lea ost deadline lea certification date ela statewide assessments sheet: ela statewide assessments (participation and performance) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th-9th grade transition sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance acgr sheet: acgr other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet: ela - growth math - growth sheet: math - growth mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence sheet: academic persistence (alternative school framework only) secondary completion sheet: secondary completion (alternative school framework only) metric scores - phase iii sheet: metric scores - phase iii 2025 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release to leas lea ost deadline lea certification deadline ela statewide assessments sheet: ela statewide assessments (participation and achievement) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class discipline sheet: discipline post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th to 9th (alt only) sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance graduation sheet: graduation other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet text math - growth sheet text mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence (alt only) sheet: academuc persistence (alt only) secondary completion (alt only) sheet: secondary completion (alt only) metric scores - phase iii sheet: metric scores - phase iii dc school report card advanced coursework and sat – metric scores (2025) data notes school year 2024-25 dc school report card advanced coursework and sat metric scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card assessment – metric scores (2025) data notes school year 2024-25 dc school year report card assessment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card attendance – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card student movement - metric scores (2025) data notes school year 2024-25 dc school report card student movement data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year dc school report card – dc says grades 3-12 student metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state gradeband scores gradeband metric metric score school year lea gradeband scores lea name lea code gradeband metric metric score school year school gradeband scores lea name lea code school name school code gradeband metric metric score school year dc school report card – dc says grades pk-12 family metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says grades pk-12 staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says adult student and staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student state gradeband scores gradeband metric metric score school year student lea-school gradeband lea name lea code school name school code gradeband metric metric score school year staff state overall scores group metric metric score school year staff lea-school overall lea name lea code school name school code group metric metric score school year dc school report card discipline - metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment – metric scores (2025) data notes school year 2024-25 dc school report card graduation and college enrollment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card lea course catalog (2025) data notes office of the state superintendent of education data dictionary school year 2025-26 dc school report card course catalog data office of the state superintendent of education course catalog lea code lea name school code school name school type ward osse subject area lea course name osse course code osse course title literacy curriculum used math curriculum used minimum course grade level maximum course grade level course credit offered (high school courses only) dual language or world language course course specifically designed for students for disabilities course specifically designed for english learners advanced placement (ap) or international baccalaureate (ib) course career and technical education (cte) indicator dual enrollment course indicator dc school report card school directory information (2025) overview office of the state superintendent of education school profile data 2024-2025 school id school name lea id lea name sector monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs offered extracurricular and enrichment activities dc school report card accountability scores (2025) data notes school year 2024-25 dc school report card aggregate data office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year state student group scores framework student group student group score school year lea student group scores lea code lea name framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card floors and targets (2025) data notes school year 2024-25 dc school report card floors and targets office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card state-level msaa participation data (2025) data notes and business rules 2024-25 msaa participation results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes participation aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course school framework count total count percent dc school report card state-level dc cape science and dlm cross tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated science assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent performance level aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent participation aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent dc school report card state-level dc cape and msaa cross-tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting,exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code school code assessment name subject student group student group value enrolled grade or course count total count percent metric dc school report card state overall assessment growth metric scores cross tabulated (2025) data notes 2024-25 statewide assessment cross-tabulated growth scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card state overall acgr metric scores cross tabulated (2025) data notes 2024-25 statewide cross-tabulated adjusted cohort graduation rates (acgr) office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card - progress toward long term goals data notes 2024-25 progress toward long-term achievement goals office of the state superintendent of education data dictionary sheet field name variable type allowable values notes state level student group metric grade band goal score difference lea level lea code lea name student group metric grade band goal score difference school level lea code lea name school code school name student group metric grade band goal score difference dc school report card accountability scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card advanced coursework and sat-metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card aggregate enrollment data (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card assessment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card assessment science – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card attendance – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card class – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card discipline – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card graduation and college enrollment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card school directory information (2024) overview office of the state superintendent of education school profile data 2023-2024 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card student movement – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – educator data (2024) overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area sheet38 metric calculation confirmation data dictionary summary office of the state superintendent of education metric scores sheet description ela - participation sheet description math - participation sheet description ela - acheivement sheet description math - acheivement sheet description adjusted achievement  sheet description access growth sheet description attendance growth sheet description chronic absenteeism sheet description pre-k chronic absenteeism sheet description class sheet description discipline sheet description post-secondary enrollment sheet description directory - profile sheet description directory- before after care sheet description directory - message from school sheet description directory - transportation sheet description directory - family engagement sheet description ela - growth sheet description math - growth sheet description graduation sheet description advanced coursework - partic sheet description advanced coursework - perform sheet description science - participation sheet description science- acheivement sheet description sat benchmark sheet description mobility - school level  sheet description mobility - lea level sheet description re-enrollment sheet description other student assessments sheet description dc school report card school finance data overview office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year lea finance (single-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card common financial reporting standards overview office of the state superintendent of education state cfrs category finance disaggregation value school year lea cfrs lea name lea code category finance disaggregation value school year school cfrs lea name lea code school name school code category finance disaggregation value school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card aggregate public data data notes office of the state superintendent of education data dictionary office of the state superintendent of education enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year dc school report report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card directory data overview office of the state superintendent of education school profile data sy2022-2023 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – school summative scores data notes office of the state superintendent of education all schools lea code lea name school code school name summative school score elementary school middle school high school dc school report card - discipline data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card assessment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea overall scores lea name lea code student group metric metric score metric n school year lea framework scores lea name lea code student group metric metric score metric n school year school framework state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets data data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year dc school report card - school accountability data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card assessment – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card discipline - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card finance data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card teachers and school leaders data notes office of the state superintendent of education data dictionary office of the state superintendent of education teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metricscore school year 2021 dc school report card aggregate enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year 2021 dc school report card alternative school metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card ap, ib and sat metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card attendance metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card directory data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name 2021 dc school report card graduation and college enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card learning environment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education in-person rate month grade band ward percent of time in-person school year learning environment month grade band ward student group learning environment percent of students in learning environment school year 2021 dc school report card student movement metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card teacher and school leader metrics data notes office of the state superintendent of education data dictionary field name variable type description allowable values teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metric score school year 2021 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year 2020 dc school report card aggregate data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year teacher and health staff lea code lea name school code school name entity type ward metric metric score school year 2020 dc school report card cross-tabulated data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2020 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2019 dc school report card and star framework data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students star student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year star framework scores lea code lea name school code school name school type ward accountability framework framework weight framework points earned framework points possible framework star score framework star rating school year star scores lea code lea name school code school name school type ward star score star rating school year lea student group scores lea name lea code framework student group student group score school year state student group scores framework student group student group score school year 2019 dc school report card and star framework cross-tabulated data file 2019 dc school report card per-pupil expenditures file data note office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2018 dc school report card and star framework data files data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name school type ward student group grade metric metric score school year star metric scores lea code lea name school code school name school type ward school framework student group domain metric metric n metric score floor target metric points earned metric points possible star student group scores lea code lea name school code school name school type ward school framework student group student group points earned student group points possible student group score framework points earned framework points possible star framework scores lea code lea name school code school name school type ward school framework framework weight framework points earned framework points possible framework star score framework star rating star scores lea code lea name school code school name school type ward star score star rating school report card scores lea code lea name school code school name school type ward student group metric metric score metric n school year lea report card scores lea code lea name student group metric metric score school year lea star metric scores lea code lea name school framework student group metric metric score school year lea student group scores lea code lea name school framework student group student group score school year state report card scores student/school group metric metric score school year state star metric scores school framework student group metric metric score school year state student group scores school framework student group student group score school year 2018 star framework cross-tabulated student group data file data notes office of the state superintendent of education school star metric scores lea name lea code school name school code school framework student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea star metric scores lea name lea code school framework student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state star metric scores school framework student group metric metric score metric n school year state overall scores student group metric metric score metric n school year english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions educators teachers teacher school leaders workforce staffing"
@@ -7539,7 +7539,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "columns": [
       "LEA_Code",
       "LEA_Name",
@@ -7551,7 +7550,8 @@ window.CATALOG = {
       "STAR_Rating",
       "ObjectId"
      ],
-     "n_rows": 203
+     "n_rows": 203,
+     "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
    "search": "dc school report card (public interactive site) osse cross-sector (dcps + charter). mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. js app blocks crawlers (503) — open in a real browser. for analysis use the resource library files. interactive web app (search/browse; not bulk download) accountability assessment attendance graduation discipline enrollment demographics profiles school star scores (csv export) lea_code lea_name school_code school_name school_type ward star_score star_rating objectid assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions"
@@ -7580,7 +7580,6 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
-     "syn": "accountability aspire assessment dc cape dc cas educators msaa parcc pmf proficiency proficient rating school leaders school quality sqr staffing standardized test star teacher teachers test results test scores workforce",
      "n_pages": 71,
      "has_tabular_data": true,
      "n_table_pages": 18,
@@ -7650,7 +7649,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     }
    ],
    "search": "dc school report card & star framework technical guide osse methodology for every star metric. essential companion to the data files. pdf (one per year) accountability methodology 2025 report card technical guide (september 2025 update) current grade level prior year’s proficiency level college readiness benchmarks for sat sat test 1 sat test 2 highest meet / college student survey school-based staff survey family survey the osse response rate may include students who were unable to take the survey, including data elements repor source lea, schools have an opportunity to submit a brief message which highlights unique aspects of the school and information they want to include about the school. schools are welcome to include information such as course offerings, special programs, features of the school, and/or the mission/vision of the school. the format allows for 530 characters. assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas accountability star school quality sqr pmf aspire rating"
@@ -7678,7 +7678,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "tabs": [
@@ -7772,7 +7771,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2024-25 DC CAPE & MSAA — LEA Level",
@@ -7783,7 +7783,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 LEA",
      "tabs": [
@@ -7879,7 +7878,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2024-25 DC CAPE & MSAA — School Level",
@@ -7890,7 +7890,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 School",
      "tabs": [
@@ -7993,7 +7992,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2024-25 Statewide Assessment Results (public deck)",
@@ -8004,7 +8004,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "n_pages": 41,
@@ -8078,7 +8077,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     }
    ],
    "search": "statewide assessment results 2024-25 (dc cape / msaa) osse dc cape replaced parcc in 2023. data files sit behind box share links; the state/lea/school-level files are resolved and profiled below. box file_ids change when osse re-uploads — re-resolve each year with the update skill. excel files (hosted on box) + pdf deck assessment 2024-25 dc cape & msaa — state (sea) level data notes and business rules 2024-25 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent 2024-25 dc cape & msaa — lea level data notes and business rules 2024-25 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name metric assessment name subject student group student group value enrolled grade or course metric name count total count percent participation aggregation level lea code lea_name metric assessment name subject student group student group value enrolled grade or course school code count total count percent 2024-25 dc cape & msaa — school level data notes and business rules 2024-25 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea_name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea_name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea_name school code school name metric assessment name subject student group student group value enrolled grade or course metric name count total count percent participation aggregation level lea code lea_name school code school_name metric assessment name subject student group student group value enrolled grade or course count total count percent 2024-25 statewide assessment results (public deck) 5 all dc cape msaa tested grade state ela 4+ results state math 4+ results test state 4+ results race/ethnicity state ela 4+ results state math 4+ results student group state ela 4+ state math 4+ enrolled grade ela participation enrolled grade math participation assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas"
@@ -8106,7 +8106,6 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 to 2016-17",
      "columns": [
@@ -8134,7 +8133,8 @@ window.CATALOG = {
       "CREATED_DATE",
       "LAST_EDITED_DATE"
      ],
-     "n_rows": 189364
+     "n_rows": 189364,
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2023-24 State Level Statewide Assessment Data",
@@ -8146,7 +8146,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 State",
      "tabs": [
@@ -8267,7 +8266,8 @@ window.CATALOG = {
         "Total Count"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2023-24 LEA Level Statewide Assessment Data",
@@ -8279,7 +8279,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 LEA",
      "tabs": [
@@ -8400,7 +8399,8 @@ window.CATALOG = {
         "Total Count"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2023-24 School Level Statewide Assessment Data",
@@ -8412,7 +8412,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 School",
      "tabs": [
@@ -8543,7 +8542,8 @@ window.CATALOG = {
         "Total Count"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2022-23 State Level Statewide Assessment Data",
@@ -8555,7 +8555,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 State",
      "tabs": [
@@ -8709,7 +8708,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2022-23 LEA Level Statewide Assessment Data",
@@ -8721,7 +8721,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 LEA",
      "tabs": [
@@ -8859,7 +8858,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2022-23 School Level Statewide Assessment Data",
@@ -8871,7 +8871,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 School",
      "tabs": [
@@ -9043,7 +9042,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2022-23 Participation of Students with&nbsp; Disabilities in the Regular Assessment with&nbsp; Accommodations",
@@ -9056,7 +9056,6 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1671391",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 Particip.",
      "tabs": [
@@ -9103,7 +9102,8 @@ window.CATALOG = {
         "Number of SWDs who tested with accommodations"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "2021-22 State Level PARCC and MSAA Data",
@@ -9115,7 +9115,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1613796",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 State",
      "tabs": [
@@ -9182,7 +9181,8 @@ window.CATALOG = {
         "Total Count"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2021-22 School, LEA, and State Participation",
@@ -9194,7 +9194,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1613796",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
      "tabs": [
@@ -9259,7 +9258,8 @@ window.CATALOG = {
         "Percent"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2021-22 PARCC and MSAA Participation and Performance Results for Students with Disabilities",
@@ -9272,7 +9272,6 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1613796",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
      "tabs": [
@@ -9359,7 +9358,8 @@ window.CATALOG = {
         "Percent of Alternate Test Takers with Performance Level 3+"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "2018-19 PARCC ELA School Level",
@@ -9371,7 +9371,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/ELA",
      "tabs": [
@@ -9438,7 +9437,8 @@ window.CATALOG = {
         "2019 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2018-19 PARCC Mathematics School Level",
@@ -9450,7 +9450,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/Math",
      "tabs": [
@@ -9517,7 +9516,8 @@ window.CATALOG = {
         "2019 PARCC Mathematics Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2018-19 Detailed PARCC and MSAA Performance Results",
@@ -9529,7 +9529,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19",
      "tabs": [
@@ -9616,7 +9615,8 @@ window.CATALOG = {
         "Percent Subclaim Level 3 (Below Expectations)"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2018-19, 2017-18, 2016-17 School, LEA, and State Participation",
@@ -9675,7 +9675,6 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1420701",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 Particip.",
      "tabs": [
@@ -9762,7 +9761,8 @@ window.CATALOG = {
         "Percent of Alternate Test Takers with Performance Level 3+"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "2017-18 PARCC ELA School Level",
@@ -9774,7 +9774,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/ELA",
      "tabs": [
@@ -9841,7 +9840,8 @@ window.CATALOG = {
         "2018 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2017-18 PARCC Mathematics School Level",
@@ -9853,7 +9853,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/Math",
      "tabs": [
@@ -9920,7 +9919,8 @@ window.CATALOG = {
         "2018 PARCC Mathematics Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2017-18 Detailed PARCC and MSAA Performance Results",
@@ -9932,7 +9932,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
      "tabs": [
@@ -10019,7 +10018,8 @@ window.CATALOG = {
         "Percent Subclaim Level 3 (Below Expectations)"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2017-18 School, LEA, and State Participation",
@@ -10078,7 +10078,6 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1348731",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 Particip.",
      "tabs": [
@@ -10165,7 +10164,8 @@ window.CATALOG = {
         "Percent of Alternate Test Takers with Performance Level 3+"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "Detailed 2014 15 PARCC and MSAA Performance",
@@ -10177,7 +10177,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
      "tabs": [
@@ -10280,7 +10279,8 @@ window.CATALOG = {
         "Total Number Valid Test Takers"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2016-17 PARCC ELA School Level",
@@ -10292,7 +10292,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/ELA",
      "tabs": [
@@ -10359,7 +10358,8 @@ window.CATALOG = {
         "2017 PARCC English Language Arts/Literacy Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2016-17 PARCC Mathematics School Level",
@@ -10371,7 +10371,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/Math",
      "tabs": [
@@ -10438,7 +10437,8 @@ window.CATALOG = {
         "2017 PARCC Mathematics Results Grades 9-12 Performance by School"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2016-17 Detailed PARCC and MSAA Performance Results",
@@ -10450,7 +10450,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
      "tabs": [
@@ -10528,7 +10527,8 @@ window.CATALOG = {
         "Total Number Valid Test Takers"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2016-17 PARCC and MSAA Performance Results for Students with Disabilities",
@@ -10541,7 +10541,6 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1267021",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
      "tabs": [
@@ -10628,7 +10627,8 @@ window.CATALOG = {
         "Percent of Alternate Test Takers with Performance Level 3+"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "2016-17 School, LEA, and State Participation",
@@ -10686,7 +10686,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1185345",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/ELA",
      "tabs": [
@@ -10748,7 +10747,8 @@ window.CATALOG = {
         "pct_at_or_above_level"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "PARCC Math school level 2015-16",
@@ -10760,7 +10760,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1185345",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/Math",
      "tabs": [
@@ -10822,7 +10821,8 @@ window.CATALOG = {
         "pct_at_or_above_level"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "School, LEA, and State Participation 2015-16",
@@ -10880,7 +10880,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -10935,7 +10934,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     },
     {
      "name": "PARCC 2015 DC Grades 3-8 Math School Results",
@@ -10947,7 +10947,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
      "tabs": [
@@ -11004,7 +11003,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     },
     {
      "name": "PARCC 2015 DC Grades 3-8 English Language Arts School Results",
@@ -11016,7 +11016,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -11073,7 +11072,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     },
     {
      "name": "PARCC 2015 DC HS Aggregate State, Sector, and School Results",
@@ -11085,7 +11085,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -11136,7 +11135,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     },
     {
      "name": "PARCC 2015 DC High School English II School Results",
@@ -11148,7 +11148,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -11186,7 +11185,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     },
     {
      "name": "PARCC 2015 DC High School Math School Results",
@@ -11198,7 +11198,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
-     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
      "tabs": [
@@ -11236,7 +11235,8 @@ window.CATALOG = {
         "Accountability reporting rules"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
     }
    ],
    "search": "statewide assessment results 2023-24 (+ older-year archive index) osse best entry point for older assessment years. url pattern changed over time: old years use /page/yyyy-yy-parcc-and-msaa-..., new years use /assessmentresultsyyyy — a key fragmentation point. excel (box) + pdf assessment dc public schools student assessment results (csv export) objectid school_year school_ward school_code school_name lea_code lea_name assessment_type subject tested_grade_subject grade_of_enrollment subgroup subgroup_value percent_meeting_or_exceeding_e percent_level_3_ percent_level_1 percent_level_2 percent_level_3 percent_level_4 percent_level_5 total_number_valid_test_takers created_date last_edited_date 2023-24 state level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code school code metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code school code assessment name subject metric tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations student group total count 2023-24 lea level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count 2023-24 school level statewide assessment data data notes and business rules 2023-24 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name school code school name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count 2022-23 state level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code school code metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code school code assessment name subject metric tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations student group total count adjusted achievement aggregation level lea code school code metric assessment name subject student group student group value school framework total count percent accommodations aggregation level asessment name subject student group tested grade/subject grade of enrollment school framework total count count percent 2022-23 lea level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count adjusted achievement aggregation level lea code lea name metric assessment name subject student group student group value school framework total count percent 2022-23 school level statewide assessment data data notes and business rules 2022-23 statewide assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent performance level continue aggregation level lea code lea name school code school name metric assessment name subject student group student group value tested grade/subject grade of enrollment school framework count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value grade of enrollment school framework count total count percent subclaim aggregation level lea code lea name metric school code school name assessment name subject student group tested grade/subject grade of enrollment school framework percent meeting expectations percent approaching expectations percent below expectations total count adjusted achievement aggregation level lea code lea name school code school name metric assessment name subject student group student group value school framework total count percent 2022-23 participation of students with&nbsp; disabilities in the regular assessment with&nbsp; accommodations data notes and business rules 2022-23 participation of students with disabilities in the regular assessment with accommodations school reporting level lea code lea name school code school name assessment subject assessment name number of swds who tested with accommodations lea reporting level lea code lea name assessment subject assessment name number of swds who tested with accommodations state reporting level assessment subject assessment name number of swds who tested with accommodations 2021-22 state level parcc and msaa data data notes and business rules overview: prof aggregation level lea code school code assessment name subject student group subgroup value tested grade/subject grade of enrollment count total count percent perf_level aggregation level lea code school code assessment name subject student group subgroup value tested grade/subject grade of enrollment metric_value count total count percent subclaim aggregation level lea code school code grade of enrollment assessment name subject tested grade/subject student group subclaim percent meeting expectations percent approaching expectations percent below expectations total count 2021-22 school, lea, and state participation data notes overview: state aggregation level lea code school code assessment name subject student group subgroup value grade of enrollment count total count percent lea aggregation level lea code lea name school code assessment name subject student group subgroup value grade of enrollment count total count percent school aggregation level lea code lea_name school code school name assessment name subject student group subgroup value grade of enrollment count total count percent 2021-22 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2018-19 parcc ela school level data notes overview: school ela overall 2019 parcc english language arts/literacy results overall performance by school school ela grade 3 2019 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2019 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2019 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2019 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2019 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2019 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2019 parcc english language arts/literacy results grades 9-12 performance by school 2018-19 parcc mathematics school level data notes overview: school math overall 2019 parcc mathematics results overall performance by school school math grade 3 2019 parcc mathematics results grade 3 performance by school school math grade 4 2019 parcc mathematics results grade 4 performance by school school math grade 5 2019 parcc mathematics results grade 5 performance by school school math grade 6 2019 parcc mathematics results grade 6 performance by school school math grade 7 2019 parcc mathematics results grade 7 performance by school school math grade 8 2019 parcc mathematics results grade 8 performance by school school math grades 9-12 2019 parcc mathematics results grades 9-12 performance by school 2018-19 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) 2018-19, 2017-18, 2016-17 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math 2018-19 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2017-18 parcc ela school level data notes overview: school ela overall 2018 parcc english language arts/literacy results overall performance by school school ela grade 3 2018 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2018 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2018 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2018 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2018 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2018 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2018 parcc english language arts/literacy results grades 9-12 performance by school 2017-18 parcc mathematics school level data notes overview: school math overall 2018 parcc mathematics results overall performance by school school math grade 3 2018 parcc mathematics results grade 3 performance by school school math grade 4 2018 parcc mathematics results grade 4 performance by school school math grade 5 2018 parcc mathematics results grade 5 performance by school school math grade 6 2018 parcc mathematics results grade 6 performance by school school math grade 7 2018 parcc mathematics results grade 7 performance by school school math grade 8 2018 parcc mathematics results grade 8 performance by school school math grades 9-12 2018 parcc mathematics results grades 9-12 performance by school 2017-18 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) 2017-18 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math 2017-18 parcc and msaa participation and performance results for students with disabilities data notes and business rules overview: data dictionary data field description permitted value data source state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ detailed 2014 15 parcc and msaa performance data notes overview: state performance school year assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers sector performance school year sector assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers lea performance school year lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers school performance school year school ward school code school name lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers 2016-17 parcc ela school level data notes overview: school ela overall 2017 parcc english language arts/literacy results overall performance by school school ela grade 3 2017 parcc english language arts/literacy results grade 3 performance by school school ela grade 4 2017 parcc english language arts/literacy results grade 4 performance by school school ela grade 5 2017 parcc english language arts/literacy results grade 5 performance by school school ela grade 6 2017 parcc english language arts/literacy results grade 6 performance by school school ela grade 7 2017 parcc english language arts/literacy results grade 7 performance by school school ela grade 8 2017 parcc english language arts/literacy results grade 8 performance by school school ela grades 9-12 2017 parcc english language arts/literacy results grades 9-12 performance by school 2016-17 parcc mathematics school level data notes overview: school math overall 2017 parcc mathematics results overall performance by school school math grade 3 2017 parcc mathematics results grade 3 performance by school school math grade 4 2017 parcc mathematics results grade 4 performance by school school math grade 5 2017 parcc mathematics results grade 5 performance by school school math grade 6 2017 parcc mathematics results grade 6 performance by school school math grade 7 2017 parcc mathematics results grade 7 performance by school school math grade 8 2017 parcc mathematics results grade 8 performance by school school math grades 9-12 2017 parcc mathematics results grades 9-12 performance by school 2016-17 detailed parcc and msaa performance results data notes overview: state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers lea performance lea code lea name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers school performance school ward lea code lea name school code school name assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers 2016-17 parcc and msaa performance results for students with disabilities data dictionary data field description permitted value data source data notes and business rules overview: state output subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ lea output lea code lea name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ school output lea code lea name school code school name subject tested grade/subject grade of enrollment total number of valid parcc test takers total number of parcc test takers with performance level 4+ percent of total parcc test takers with performance level 4+ number of students with disabilities who took parcc number of students with disabilities who took parcc with performance level 4+ percent of students with disabilities who took parcc with performance level 4+ number of students w/ disabilities taking parcc w/ registered accommodations number of students w/ disabilities taking parcc w/ registered accommodations & performance level 4+ number of alternate assessment test takers number of alternate test takers with performance level 3+ percent of alternate test takers with performance level 3+ 2016-17 school, lea, and state participation data notes overview: state level ela math lea level ela math school level ela math parcc ela school level 2015-16 data notes overview: school level ela english language arts/literacy hidden - lookup perflevel test taken ward leacode leaname schoolcode schoolname hidden - pct_at_level school ward lea code lea name school code school name tested grade/subject % level 1 % level 2 % level 3 % level 4 % level 5 total valid test takers hidden-pct_at_or_above_level leacode leaname schoolcode schoolname testedgrade metric pct_at_or_above_level parcc math school level 2015-16 data notes overview: school level math mathematics hidden - lookup perflevel test taken ward leacode leaname schoolcode schoolname hidden - pct_at_level school ward lea code lea name school code school name tested grade/subject % level 1 % level 2 % level 3 % level 4 % level 5 total valid test takers hidden-pct_at_or_above_level leacode leaname schoolcode schoolname tested grade/subject level pct_at_or_above_level school, lea, and state participation 2015-16 state level ela math lea level ela math school level ela math data notes overview: parcc 2015 dc grades 3-8 aggregate state, sector, and school results school school ward lea code lea name school code school name tested grade subject category subgroup enrollment grade % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of total tested population state & sector sector tested grade subject category subgroup enrollment grade % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of total tested population data notes accountability reporting rules parcc 2015 dc grades 3-8 math school results school level 3-8 math grades 3-8 math lookup perflevel breakdown (test taken and/or enrollment grade) pct_at_each_level school ward lea code lea name school code school name breakdown pct_1 pct_2 pct_3 pct_4 pct_5 test takers pct_at_or_above_level leacode leaname schoolcode schoolname breakdown level pct_at_or_above_level data notes accountability reporting rules parcc 2015 dc grades 3-8 english language arts school results school level 3-8 ela grades 3-8 english lookup perflevel test taken pct_at_level school ward lea code lea name school code school name tested grade pct_1 pct_2 pct_3 pct_4 pct_5 total_testtakers pct_at_or_above_level leacode leaname schoolcode schoolname breakdown level pct_at_or_above_level data notes accountability reporting rules parcc 2015 dc hs aggregate state, sector, and school results school school ward lea code lea name school code school name subject subgroup % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of population state & sector sector subject subgroup % level 4+ % level 3+ % level 1 % level 2 % level 3 % level 4 % level 5 total valid tests % of population data notes accountability reporting rules parcc 2015 dc high school english ii school results school level hs ela high school english ii lookup perflevel pct_level+_hs_ela leacode leaname schoolcode schoolname level pct_at_level pct_at_level data notes accountability reporting rules parcc 2015 dc high school math school results school level hs math high school math lookup perflevel pct_level+_hs_math leacode leaname schoolcode schoolname level pct_at_level pct_at_level data notes accountability reporting rules students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas accountability star school quality sqr pmf aspire rating"
@@ -11345,7 +11345,6 @@ window.CATALOG = {
       "assessment",
       "special-education"
      ],
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "Overview",
@@ -11410,7 +11409,8 @@ window.CATALOG = {
         "Total Number Of Students"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "FFY 2024 Special Education Annual Performance Report - Part B",
@@ -11421,7 +11421,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores",
      "tabs": [
       {
        "name": "Overview",
@@ -11487,7 +11486,8 @@ window.CATALOG = {
         "14C: Percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
        ]
       }
-     ]
+     ],
+     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores"
     },
     {
      "name": "FFY 2023 Special Education Annual Performance Report - Part B",
@@ -11498,7 +11498,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "accountability aspire assessment dc cape dc cas disabilities disability iep msaa parcc pmf proficiency proficient rating school quality special education special needs sqr standardized test star students with disabilities swd test results test scores",
      "n_pages": 115,
      "has_tabular_data": true,
      "n_table_pages": 79,
@@ -11577,7 +11576,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "FFY 2022 Special Education Annual Performance Report - Part B",
@@ -11588,7 +11588,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "accountability aspire disabilities disability iep pmf rating school quality special education special needs sqr star students with disabilities swd",
      "n_pages": 92,
      "has_tabular_data": true,
      "n_table_pages": 67,
@@ -11668,7 +11667,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "FFY 2021 Special Education Annual Performance Report - Part B",
@@ -11679,7 +11679,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "accountability aspire disabilities disability iep pmf rating school quality special education special needs sqr star students with disabilities swd",
      "n_pages": 79,
      "has_tabular_data": true,
      "n_table_pages": 56,
@@ -11760,7 +11759,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "FFY 2020 Special Education Annual Performance Report - Part B",
@@ -11771,7 +11771,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr cohort graduation disabilities disability dropout graduation graduation rate iep special education special needs students with disabilities swd",
      "n_pages": 79,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -11850,7 +11849,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "Special Education Report to the Public: Part B FFY 2023",
@@ -11861,7 +11861,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores",
      "tabs": [
       {
        "name": "Overview",
@@ -11927,7 +11926,8 @@ window.CATALOG = {
         "14C: Percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
        ]
       }
-     ]
+     ],
+     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores"
     },
     {
      "name": "Special Education Report to the Public: Part B FFY 2022",
@@ -11938,7 +11938,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores",
      "tabs": [
       {
        "name": "Overview",
@@ -12004,7 +12003,8 @@ window.CATALOG = {
         "14C: Percent enrolled in higher education or in some other postsecondary education or training program; or competitvely employed or in some other employment within one year of leaving secondary school"
        ]
       }
-     ]
+     ],
+     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores"
     },
     {
      "name": "Special Education Report to the Public: Part B FFY 2021",
@@ -12015,7 +12015,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores",
      "tabs": [
       {
        "name": "District of Columbia FFY21 APR",
@@ -12042,7 +12041,8 @@ window.CATALOG = {
         "14. Secondary Transition/Post-School Outcomes"
        ]
       }
-     ]
+     ],
+     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores"
     },
     {
      "name": "Special Education Report to the Public: Part B FFY 2020",
@@ -12053,7 +12053,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability discipline dropout early childhood early learning expulsion expulsions graduation graduation rate head start iep msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient special education special needs standardized test students with disabilities suspension suspensions swd test results test scores",
      "n_pages": 38,
      "has_tabular_data": true,
      "n_table_pages": 37,
@@ -12118,7 +12117,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "acgr assessment cohort graduation dc cape dc cas disabilities disability dropout graduation graduation rate iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "Special Education State Performance Plan Indicator Guide",
@@ -12129,11 +12129,11 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "n_pages": 37,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "Special Education SSIP Theory of Action - FFY20-25",
@@ -12144,7 +12144,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -12164,7 +12163,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 13
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "Special Education SSIP Evaluation Plan - FFY20-25",
@@ -12175,7 +12175,6 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -12202,7 +12201,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     }
    ],
    "search": "specialized education data and reports osse mostly statewide/aggregate. for school-level special-ed counts use the report card aggregate enrollment file or edscape. pdf + excel demographics special-education fy 2018 performance on parcc by disability type and hours of service overview office of the state superintendent of education codebook office of the state superintendent of education results by primary disability assessment subject primary disability percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students results by pd & prescribedhours assessment subject primary disability hours of prescribed services percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students results by prescribed hours assessment subject hours of prescribed services percentage of students achieving proficiency level 1 percentage of students achieving proficiency level 2 percentage of students achieving proficiency level 3 percentage of students achieving proficiency level 4 percentage of students achieving proficiency level 5 percentage of students achieving proficiency level 3 or better percentage of students achieving proficiency level 4 or better total number of students ffy 2024 special education annual performance report - part b overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school ffy 2023 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2018 2019 2020 2021 2022 ffy 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2022 data ffy 2023 target ffy 2023 data status slippage ffy 2022 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2017 2018 2019 2020 2021 ffy 2022 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2021 data ffy 2022 target ffy 2022 data status slippage ffy 2021 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2016 2017 2018 2019 2020 ffy 2021 2022 2023 2024 2025 source date description data number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high school diploma number of all youth with ieps who exited special education (ages 14-21) ffy 2020 data ffy 2021 target ffy 2021 data status slippage ffy 2020 special education annual performance report - part b provide sufficient detail to ensure that the secretary and the public are informed of and understand the state’s systems designed to drive improved same data as used for reporting to the department under section 618 of the individuals with disabilities education act (idea), using the definitions in states must report a percentage using the number of youth with ieps (ages 14-21) who exited special education due to graduating with a regular high baseline year baseline data ffy 2015 2016 2017 2018 2019 ffy 2020 2021 2022 2023 2024 2025 source date description data source date description data special education report to the public: part b ffy 2023 overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary educatiion or training program; or competitvely employed or in some other employment within one year of leaving secondary school special education report to the public: part b ffy 2022 overview office of the state superintendent of education lea reporting lea code lea name 1: graduation 2: drop out 3a: participation rate math, grade 04 3a: participation rate math, grade 08 3a: participation rate math, grade hs 3a: participation rate reading, grade 04 3a: participation rate reading, grade 08 3a: participation rate reading, grade hs 3b: proficiency rate math, grade 04 3b: proficiency rate math, grade 08 3b: proficiency rate math, grade hs 3b: proficiency rate reading, grade 04 3b: proficiency rate reading, grade 08 3b: proficiency rate reading, grade hs 3c: proficiency rate alternate standards math, grade 04 3c: proficiency rate alternate standards math, grade 08 3c: proficiency rate alternate standards math, grade hs 3c: proficiency rate alternate standards reading, grade 04 3c: proficiency rate alternate standards reading, grade 08 3c: proficiency rate alternate standards reading, grade hs 3d: proficiency gap math, grade 04 3d: proficiency gap math, grade 08 3d: proficiency gap math, grade hs 3d: proficiency gap reading, grade 04 3d: proficiency gap reading, grade 08 3d: proficiency gap reading, grade hs 4a: significant discrepancy in suspension and expulsion 4b: significant discrepancy in suspension and expulsion by race or ethnicity 5a: percent inside the regular class more than 80% of the day 5b: percent inside the regular class less than 40% of the day 5c: percent placed in separate schools, residential facilities, or homebound 6a: percent in a regular early childhood program and receiving the majority of services in the program 6b: percent in a separate class, separate school or residential facility 6c: percent attending school at home or in a home environment 7a1: growth in positive social emotional skills 7a2: met milestones in positive social emotional skills 7b1: growth in acquisition and use of knowledge and skills 7b2: met milestones in acquisition and use of knowledge and skills 7c1: growth in use of appropriate behaviors to meet their needs 7c2: met milestones in use of appropriate behaviors to meet their needs 8: parent engagement 9: disproportionate representation by race or ethnicity 10: disproportionate representation by race or ethnicity and disability category 11: initial evaluation 12: part c to b transition 13: secondary transition 14a: percent enrolled in higher education within one year of leaving secondary school 14b: percent enrolled in higher education or competitively employed within one year of leaving secondary school 14c: percent enrolled in higher education or in some other postsecondary education or training program; or competitvely employed or in some other employment within one year of leaving secondary school special education report to the public: part b ffy 2021 district of columbia ffy21 apr district of columbia lea performance on annual performance report indicators ffy2021 (2021-22 school year) 1. graduation 2. dropout 3a. statewide assessment participation 3b. statewide assessment proficiency - grade level standards 3c. statewide assessment proficiency - alternate standards 3d. statewide assessment proficiency gap - grade level standards 4a. discipline 4b. significant discrepancy by race/ethnicity in suspensions/expulsions 5. least restrictive environment/placement (school age) 6. preschool settings 7. preschool outcomes 8. parent involvement 9. disproportionate representation in special education 10. disproportionate representation in specific disability categories 11. child find 12. part c to b transition 13. secondary transition with iep goals 14. secondary transition/post-school outcomes special education report to the public: part b ffy 2020 indicator 1 graduation percent of youth with ieps graduating from high school with a regular diploma. indicator 1 graduation indicator 1 graduation percent of youth with ieps graduating from high school with a regular diploma. indicator 2 dropout percent of youth with ieps dropping out of high school. indicator 2 dropout indicator 2 dropout percent of youth with ieps dropping out of high school. indicator 3a participation on statewide assessments participation rates for children with ieps by grade level. indicator 3a participation on statewide assessments indicator 3a participation on statewide assessments participation rates for children with ieps by grade level. indicator 3a participation on statewide assessments grade 4: 97.00% grade 4: 98.00% special education state performance plan indicator guide special education ssip theory of action - ffy20-25 if the district… through these activities... then… district of columbia students with disabilities ages 3 through 5 will demonstrate improved early literacy skills as measured by indicator 7b special education ssip evaluation plan - ffy20-25 evaluation questions intended outcomes relevant activities data sources anticipated evaluation questions intended outcomes relevant activities data sources anticipated students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start discipline suspension suspensions expulsion expulsions"
@@ -12230,7 +12230,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "n_pages": 50,
      "has_tabular_data": true,
      "n_table_pages": 4,
@@ -12278,7 +12277,8 @@ window.CATALOG = {
        ],
        "n_rows": 22
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2024-25 Attendance Brief",
@@ -12289,7 +12289,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -12325,7 +12324,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2024-25 Truancy Data",
@@ -12336,7 +12336,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Overview",
@@ -12356,7 +12355,8 @@ window.CATALOG = {
         "% Truant, 2024-25 (Compulsory Age)"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2024-25 Chronic Absenteeism Metric Scores",
@@ -12367,7 +12367,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12464,7 +12463,8 @@ window.CATALOG = {
         "School Year"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2024-25 Attendance Data Public Reporting (July 2025)",
@@ -12475,7 +12475,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Overview",
@@ -12542,7 +12541,8 @@ window.CATALOG = {
         "Total Students"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "2024-25 Mid-Year Attendance Brief 1 (Nov 2024)",
@@ -12553,7 +12553,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -12589,7 +12588,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy"
     },
     {
      "name": "2024-25 Mid-Year Attendance Brief 2 (Feb 2025)",
@@ -12600,7 +12600,6 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
-     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -12641,7 +12640,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy"
     }
    ],
    "search": "school year attendance reporting (chronic absenteeism/truancy) osse osse leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' sy24-25: 39.5% chronic absenteeism, 36.8% chronic truancy. pdf report + 2 mid-year briefs + excel files attendance district of columbia attendance report 2024-25 year metric percentage students grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total 2024-25 attendance brief attendance summary this brief presents attendance data for the full 2024–25 school year, compared to the 2023–24 school year. compared to the prior school year: chronic absenteeism chronic truancy increased by 0.3 remained unchanged at percentage points. 36.8 percent. 39.2% chronic absenteeism 39.5% 36.8% chronic truancy 36.8% 0 10 20 30 40 sy2023-24 sy2024-25 39.2 2024-25 attendance brief 2024-25 truancy data overview office of the state superintendent of education school school % chronically absent, 2023-24 (k-12) % chronically absent, 2024-25 (k-12) % truant, 2023-24 (compulsory age) % truant, 2024-25 (compulsory age) 2024-25 chronic absenteeism metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year 2024-25 attendance data public reporting (july 2025) overview office of the state superintendent of education school school year lea code lea name school code school name % chronically absent (k-12) % chronically truant (compulsory age) lea school year lea code lea name % chronically absent (k-12) % chronically truant (compulsory age) sector school year sector % chronically absent (k-12) % chronically truant (compulsory age) state grade band student group % chronically absent (24-25) % chronically absent (23-24) % chronically truant, (compulsory age) (24-25) % chronically truant, (compulsory age) (23-24) risk tiers school year grade band absenteeism risk tier percentage students total students 2024-25 mid-year attendance brief 1 (nov 2024) attendance summary the data in this brief reflects attendance data from the start of the school year through nov. 22, 2024, and compares it to the same window in the 2023-24 school year. compared to the same point in time last school year: chronic absenteeism chronic truancy decreased by 3.1 decreased by 0.4 percentage points percentage points excluding partial day unexcused absences, the chronic truancy rate would be 5.1 percent, compared to 5.5 percent at the same time last school year. 31.4% chronic absenteeism 28.3% 7.8% chronic truancy 7.4% 0% 5% 10% 15% 20% 25% 30% 35% * all attendance metrics are calculated for students in grades k-12. chronic truancy is restricted to students of compulsory age (5-17 years on september 30, 2024). a partial day absence occurs when a student attends school for less than 60 percent of the instructional day. 7.8% 2024-25 mid-year attendance brief 2024-25 mid-year attendance brief 2 (feb 2025) attendance summary the data in this brief reflect attendance data from the start of the school year through feb. 28, 2025, and compares it to the same window in the 2023-24 school year. compared to the same point last year: chronic absenteeism chronic truancy increased by 1.6 increased by 0.3 percentage points percentage points 35.3% chronic absenteeism 36.9% 20.6% chronic truancy 20.9% 0% 10% 20% 30% 40% sy2023-24 sy2024-25 20.6% 2024-25 mid-year attendance brief attendance absenteeism chronic absenteeism chronic absence truancy accountability star school quality sqr pmf aspire rating"
@@ -12685,7 +12685,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12730,7 +12729,8 @@ window.CATALOG = {
         "Cohort Total"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
@@ -12741,7 +12741,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12786,7 +12785,8 @@ window.CATALOG = {
         "Rate"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
@@ -12797,7 +12797,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12842,7 +12841,8 @@ window.CATALOG = {
         "Rate (%)"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
@@ -12853,7 +12853,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12898,7 +12897,8 @@ window.CATALOG = {
         "Rate"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "Adjusted Cohort Graduation Rate (ACGR) — Public",
@@ -12909,7 +12909,6 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Data Notes",
@@ -12954,7 +12953,8 @@ window.CATALOG = {
         "Rate"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     }
    ],
    "search": "high school graduation rates / acgr osse cross-sector (dcps + charter), 4-yr and 5-yr acgr with subgroups. 2020-21+ link straight to .xlsx; 2019-20 and earlier use /publication/ pages — a fragmentation point. sy24-25: 78.7% 4-yr. recent years: direct excel (.xlsx); older years: /publication/ pages graduation adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2024-25 rate overview sector cohort outcome rate count cohort total by sector 2024-25 school rates sector cohort school name rate graduates cohort total 2024-25 rates by student group sector cohort student group rate graduates cohort total adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2023-24 rate overview sector cohort outcome cohort size by sector count rate 2023-24 school rates sector cohort school name cohort total graduates rate 2023-24 rates by student group sector cohort student group cohort total graduates rate adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2022-23 rate overview sector cohort outcome cohort size by sector count rate (%) 2022-23 school rates school name cohort sector graduates cohort total rate (%) 2022-23 rates by student group sector cohort student group cohort total graduates rate (%) adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2021-22 rate overview sector cohort outcome cohort size by sector count rate 2021-22 school rates school name cohort sector graduates cohort total rate 2021-22 rates by student group sector cohort student group cohort total graduates rate adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2020-21 rate overview sector cohort outcome cohort size by sector count rate 2020-21 school rates school name cohort sector graduates cohort total rate 2020-21 rates by student group sector cohort student group cohort total graduates rate graduation acgr graduation rate cohort graduation dropout"
@@ -12982,7 +12982,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "disabilities disability discipline early childhood early learning expulsion expulsions head start iep pre-k pre-kindergarten prek preschool special education special needs students with disabilities suspension suspensions swd",
      "n_pages": 51,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -13048,7 +13047,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2023-24 School Year Discipline Report",
@@ -13059,7 +13059,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline early childhood early learning expulsion expulsions head start pre-k pre-kindergarten prek preschool suspension suspensions",
      "n_pages": 43,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -13123,7 +13122,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2022-23 School Year Discipline Report",
@@ -13134,7 +13134,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 40,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -13202,7 +13201,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2021-22 School Year Discipline Report",
@@ -13213,7 +13213,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 68,
      "has_tabular_data": true,
      "n_table_pages": 28,
@@ -13289,7 +13288,8 @@ window.CATALOG = {
        ],
        "n_rows": 29
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2020-21 School Year Discipline Report",
@@ -13300,7 +13300,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -13364,7 +13363,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2019-20 School Year Discipline Report",
@@ -13375,11 +13375,11 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 40,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2018-19 School Year Discipline Report",
@@ -13390,7 +13390,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 106,
      "has_tabular_data": true,
      "n_table_pages": 48,
@@ -13451,7 +13450,8 @@ window.CATALOG = {
        ],
        "n_rows": 19
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2018-19 School Year Discipline Report At A Glance",
@@ -13462,7 +13462,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -13477,7 +13476,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2017-18 School Year Discipline Report",
@@ -13488,7 +13488,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "at-risk disabilities disability disadvantaged discipline economically disadvantaged el ell english language learner english learner esl expulsion expulsions farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities suspension suspensions swd title i",
      "n_pages": 114,
      "has_tabular_data": true,
      "n_table_pages": 48,
@@ -13563,7 +13562,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "at-risk disabilities disability disadvantaged discipline economically disadvantaged el ell english language learner english learner esl expulsion expulsions farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities suspension suspensions swd title i"
     },
     {
      "name": "2017-18 Discipline Report Appendices and Tables",
@@ -13574,7 +13574,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism disabilities disability discipline expulsion expulsions iep special education special needs students with disabilities suspension suspensions swd truancy",
      "tabs": [
       {
        "name": "Data Notes Tab",
@@ -13670,7 +13669,8 @@ window.CATALOG = {
         "Certified with OSSE"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism disabilities disability discipline expulsion expulsions iep special education special needs students with disabilities suspension suspensions swd truancy"
     },
     {
      "name": "2016-17 School Year Discipline Report",
@@ -13681,7 +13681,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 84,
      "has_tabular_data": true,
      "n_table_pages": 81,
@@ -13726,7 +13725,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 11
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2015-16 School Year Discipline Report",
@@ -13737,7 +13737,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 99,
      "has_tabular_data": true,
      "n_table_pages": 68,
@@ -13795,7 +13794,8 @@ window.CATALOG = {
        ],
        "n_rows": 20
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     },
     {
      "name": "2013-14 School Year Discipline Report",
@@ -13806,7 +13806,6 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
-     "syn": "discipline expulsion expulsions suspension suspensions",
      "n_pages": 38,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -13866,7 +13865,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 11
       }
-     ]
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
     }
    ],
    "search": "osse discipline report ('state of discipline') osse suspensions/expulsions/involuntary dismissals per the student fair access to school act. mostly pdf — only 2017-18 has a clean supplementary excel; by-school data otherwise lives in report appendices. pdf reports (school detail in appendices); rare supplementary excel discipline 2024-25 school year discipline report disciplinary incidents, including but not limited to in-school suspensions, out-of-school suspensions, expulsions, in the 2024–25 school year, osse required leas to submit and validate discipline data three times during the the student population for the 2024–25 school year discipline analysis includes all public school students in reason for suspension or expulsion number of number of percent change percent significant discrepancy significant discrepancy apr indicator 4b significant disproportionality discipline significant 2023-24 school year discipline report school sector ward significant discrepancy significant discrepancy apr indicator 4b significant disproportionality discipline significant significant disproportionality significant discrepancy significant disproportionality 4a – 5 10 2022-23 school year discipline report school sector ward disciplinary incidents, including but not limited to in-school suspensions, out-of-school suspensions, in the 2022–23 school year, leas reported 21,465 unique discipline incidents, including 8,910 restorative reason for suspension or expulsion number of number of percent change term definition definition in-school involuntary school- 2021-22 school year discipline report school sector ward kingsman pcs pcs 6 disciplinary incidents, including but not limited to in-school suspensions, out-of-school primary reason number of incidents number of incidents percent change (%) census neighborhood deprivation total community- ward change rationale 3. gathering additional data on how term definition type definition 2020-21 school year discipline report expectations refrain from sharing inappropriate pictures or images during classroom meetings or on discussion boards. monitoring responses iss \" a student that is removed from the virtual classroom will be assigned to virtual only use this code if the exact phrase \"in-school suspension\" is used to ensure it is mutually exclusive with exclude. only use this code if the exact phrase \"in-school suspension\" restorative circles, peer mediations, groups led by school counselors, data element (no longer being state of the data element moving forward 2019-20 school year discipline report 2018-19 school year discipline report school school school school school lea lea lea 2018-19 school year discipline report at a glance 2017-18 school year discipline report school black or african- american hispanic white other race female male english learners students with disabilities at-risk black or other english students school out-of-school in-school suspensions expulsions school out-of-school suspensions school name average length of out-of-school suspensions 2017-18 discipline report appendices and tables data notes tab office of the state superintendent of education school counts and rates school name students with out-of-school suspensions percent students with in-school suspensions percent students with expulsions percent lea counts and rates lea name out-of-school suspensions percent in-school suspensions percent expulsions percent school duration rates school name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school rate of multiple suspens school name lea name count of students with multiple oss percent by gradeband and student groups grade band number of out-of-school suspensions student group swd between 6 and 10 day oss student had iep at time of incident school name average duration of suspension attendance discrepencies lea name days of in-school suspensions from discipline data days of in-school suspensions from attendance data unverified zero counts lea name reported no in-school suspensions certified with osse 2016-17 school year discipline report 2015-16 school year discipline report 57 132 180 7 2 2 786 30 1 3 2013-14 school year discipline report reducing out-of-school suspensions and expulsions in district of columbia public and public charter schools reducing out-of-school suspensions and expulsions in district of columbia public and public charter schools executive summary introduction findings discipline reason in-school suspension out-of-school suspension expulsion at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
@@ -13894,7 +13894,6 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2024",
      "tabs": [
@@ -13957,7 +13956,8 @@ window.CATALOG = {
         "Total Network Expenditures (Sum of LEA Total Exclusions and Total LEA Expenditures)"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     },
     {
      "name": "DC School Report Card Common Financial Reporting Standards (2024)",
@@ -13969,7 +13969,6 @@ window.CATALOG = {
       "finance",
       "methodology"
      ],
-     "syn": "budget cost expenditure finance funding per pupil per-pupil spending",
      "tabs": [
       {
        "name": "Overview",
@@ -14044,7 +14043,8 @@ window.CATALOG = {
         "Per Pupil Instructional Supports"
        ]
       }
-     ]
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
     }
    ],
    "search": "report card school finance data (per-pupil expenditures) osse essa per-pupil expenditure (ppe) by school and lea, split by funding source and expenditure type. this is actual expenditure (cross-sector), distinct from dcps budget allocations — see overlaps. excel (.xlsx) finance dc school report card school finance data (2024) overview office of the state superintendent of education finance data record id# lea code lea name school_year total enrollment count prior year total enrollment count fy24 total school level expenditures state/local total state/local expenditures centralized aggregate state/local expenditures per-pupil expenditure state/local total school level expenditures federal total school share of centralized expenditures federal per-pupil expenditure federal per-pupil expenditure total per-pupil local expenditures fy23 per-pupil local expenditures fy24 per-pupil local expenditures difference from prior year lea total expenditures aggregate state/local expenditures prior year aggregate expenditures difference from prior year aggregate expenditure level required to meet the moe requirement aggregate expenditure amount by which lea exceeded aggregate expenditure potential percentage reduction in fy18 lea allocation if the lea failed, the moe test*: potential percentage reduction in future lea allocation (aggregate expenditure) per-pupil expenditures test moe test result lea excluded expenditure fy24 state/local expenditures for maintenance of effort fy23 (sy 22-23) lea level expenditures- new total total school share of centralized expenditures state/local total school expenditures total excluded expenditures total expenditures per-pupil expenditure state/local percentage per-pupil expenditures federal percentage per-pupil school-level expenditure per-pupil school share of centralized expenditures per-pupil school-level expenditure percentage per-pupil school share of centralized expenditures percentage per-pupil school-level expenditure state/local per-pupil school-level expenditure federal per-pupil school share of centralized expenditures state/local per-pupil school share of centralized expenditures federal moe status sum of total lea expenditures(cfrs) lea total exclusions total network expenditures (sum of lea total exclusions and total lea expenditures) dc school report card common financial reporting standards (2024) overview office of the state superintendent of education cfrs record id# uniquecode lea code lea name school code school name enrollment count fy23 enrollment count fy24 total school level expenditures federal total school level expenditures state/local total school share of centralized expenditures state/local total school share of centralized expenditures federal total school expenditures per pupil expenditure state/local per pupil expenditure federal per pupil expenditure total per pupil expenditure state/local percentage per pupil expenditure federal percentage per pupil school-level expenditure per pupil school share of centralized expenditures per pupil school share of centralized expenditures percentage per pupil school-level expenditure state/local per pupil school-level expenditure federal per pupil school share of centralized expenditures state/local per pupil school share of centralized expenditures federal per pupil school-level expenditure percentage site based instructional staff site based student supports staff site based school administrators site based instructional supports site based educational materials site based non-educational administrative costs site based buildings site based operations site based food service site based total expenditures centralized instructional staff centralized student supports staff centralized school administrators centralized instructional supports centralized educational materials centralized non-educational administrative costs centralized buildings centralized operations centralized food service centralized total expenditures total instructional staff total student supports staff total school administrators total instructional supports total educational materials total non-educational administrative costs total buildings total operations total food service total lea expenditures per pupil based instructional staff per pupil student supports staff per pupil school administrators per pupil instructional supports finance per-pupil per pupil expenditure spending budget cost funding"
@@ -14072,7 +14072,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "n_pages": 41,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -14082,7 +14081,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 28
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce Report",
@@ -14093,7 +14093,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "n_pages": 36,
      "has_tabular_data": true,
      "n_table_pages": 36,
@@ -14147,7 +14146,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce Report",
@@ -14158,7 +14158,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce",
      "n_pages": 44,
      "has_tabular_data": true,
      "n_table_pages": 44,
@@ -14212,7 +14211,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce"
     },
     {
      "name": "Educator Retention Brief",
@@ -14223,7 +14223,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -14247,7 +14246,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Retention Brief",
@@ -14313,7 +14313,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -14358,7 +14357,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce"
     },
     {
      "name": "Educator Retention Brief",
@@ -14369,7 +14369,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -14441,7 +14440,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "disabilities disability educators iep school leaders special education special needs staffing students with disabilities swd teacher teachers workforce"
     },
     {
      "name": "Educator Retention Brief",
@@ -14452,7 +14452,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -14521,7 +14520,8 @@ window.CATALOG = {
        ],
        "n_rows": 6
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Retention Brief — Definitions and Methodology",
@@ -14547,7 +14547,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -14731,7 +14730,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — All Files (combined workbook)",
@@ -14742,7 +14742,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -15560,7 +15559,8 @@ window.CATALOG = {
         "Number of completers who were teaching in the subject of training the 2021-22 school year in a DC LEA"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Counts and Demographics",
@@ -15572,7 +15572,6 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -16028,7 +16027,8 @@ window.CATALOG = {
         "Race/Ethnicity Other/Unknown Gender Other/Unknown"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Preparation and Performance",
@@ -16039,7 +16039,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -16218,7 +16217,8 @@ window.CATALOG = {
         "Percent of School Leaders in this experience category"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Retention",
@@ -16229,7 +16229,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -16385,7 +16384,8 @@ window.CATALOG = {
         "Notes"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Supply and Demand",
@@ -16396,7 +16396,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -16450,7 +16449,8 @@ window.CATALOG = {
         "Number of completers who were teaching in the subject of training the 2021-22 school year in a DC LEA"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — All Files (combined workbook)",
@@ -16461,7 +16461,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview (C&D)",
@@ -17383,7 +17382,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Counts and Demographics",
@@ -17395,7 +17395,6 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview (C&D)",
@@ -17913,7 +17912,8 @@ window.CATALOG = {
         "Student:Staff Ratio"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Preparation and Performance",
@@ -17924,7 +17924,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview (Prep&Perf)",
@@ -18125,7 +18124,8 @@ window.CATALOG = {
         "Percent of School Leaders in this experience category"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Retention",
@@ -18136,7 +18136,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -18289,7 +18288,8 @@ window.CATALOG = {
         "Notes"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Supply and Demand",
@@ -18300,7 +18300,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview (S&D)",
@@ -18356,7 +18355,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — All Files (combined workbook)",
@@ -18367,7 +18367,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -19270,7 +19269,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Counts and Demographics",
@@ -19282,7 +19282,6 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -19800,7 +19799,8 @@ window.CATALOG = {
         "Student:Staff Ratio"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Preparation and Performance",
@@ -19811,7 +19811,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview (Prep+Perf)",
@@ -20005,7 +20004,8 @@ window.CATALOG = {
         "Percent of School Leaders in this experience category"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Retention",
@@ -20016,7 +20016,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -20172,7 +20171,8 @@ window.CATALOG = {
         "Notes"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Supply and Demand",
@@ -20183,7 +20183,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -20224,7 +20223,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — All Files (combined workbook)",
@@ -20235,7 +20235,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -21114,7 +21113,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Counts and Demographics",
@@ -21126,7 +21126,6 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -21644,7 +21643,8 @@ window.CATALOG = {
         "Student:Staff Ratio"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Preparation and Performance",
@@ -21655,7 +21655,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -21824,7 +21823,8 @@ window.CATALOG = {
         "Percent of School Leaders in this experience category"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Retention",
@@ -21835,7 +21835,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -21991,7 +21990,8 @@ window.CATALOG = {
         "Notes"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Workforce — Supply and Demand",
@@ -22002,7 +22002,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "educators school leaders staffing teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -22044,7 +22043,8 @@ window.CATALOG = {
         "Number of Vacant FTEs in this Subject Area"
        ]
       }
-     ]
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
     },
     {
      "name": "Educator Preparation Provider (EPP) Landscape Brief",
@@ -22055,7 +22055,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "accountability aspire educators pmf rating school leaders school quality sqr staffing star teacher teachers workforce",
      "n_pages": 11,
      "has_tabular_data": true,
      "n_table_pages": 5,
@@ -22116,7 +22115,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "accountability aspire educators pmf rating school leaders school quality sqr staffing star teacher teachers workforce"
     },
     {
      "name": "Educator Preparation Provider (EPP) Data Files",
@@ -22127,7 +22127,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -22418,7 +22417,8 @@ window.CATALOG = {
         "Total Teacher FTEs from EPPs by Sector"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce"
     },
     {
      "name": "Educator Preparation Provider (EPP) Data Files",
@@ -22429,7 +22429,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -22766,7 +22765,8 @@ window.CATALOG = {
         "Total EPP FTEs Employed by Sector"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce"
     },
     {
      "name": "Educator Preparation Provider (EPP) Data Files",
@@ -22777,7 +22777,6 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
-     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce",
      "tabs": [
       {
        "name": "Overview",
@@ -23101,7 +23100,8 @@ window.CATALOG = {
         "Percent of All Participants with Private School Clinical Experience in this Ward"
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire disabilities disability educators el ell english language learner english learner esl iep limited english multilingual pmf rating school leaders school quality special education special needs sqr staffing star students with disabilities swd teacher teachers workforce"
     }
    ],
    "search": "dc educator workforce data osse counts, demographics, preparation, retention, supply/demand for dcps + charter educators (one flat file per topic per year). staffing snapshot as of oct 5 each year. also educator preparation provider (epp) data files. pdf reports + excel (.xlsx) at state/lea/school level educators educator workforce report educator workforce report teachers principals school leaders related service providers paraprofessionals leas schools students educator workforce report school year teachers principals school leaders special education related service providers leas and spas schools students educator retention brief teacher retention in the 2021-22 school year, 74 percent of teachers were retained as teachers in the same school at which they taught in the 2020-21 school year and 88 percent of teachers were retained in dc. 2018-19 to 2019-20 2019-20 to 2020-21 2020-21 to 2021-22 70% 1 1% 3% 16% 81% 2%9 % 8% educator retention brief district of columbia educator retention 73% 24% 3 73% 78% 1 9% 3% educator retention brief total school staff teachers principals special education support staff paraprofessionals students leas s chools 78% 7 % 15% 79% 7% 1%13% 71% 26% 3 % educator retention brief total school staff teachers principals special education support staff paraprofessionals students leas and spas* schools teacher retention in the 2024-25 school year, 84 percent of teachers were retained as teachers in dc, and 76 percent of teachers were retained as teachers in the same school principal retention in the 2024-25 school year, 83 percent of principals were retained as principals in dc, and 78 percent of principals were retained 2024-25 district of columbia educator retention brief 80% 4% 3 % 13% 83% 5% 3 % 9% school year total teacher ftes vacant teacher ftes vacancy rate 63% 34% 2 educator retention brief educational landscape 78% 1 %12 % 9% 82% 7 %1 %10 2025-26 district of columbia educator retention brief 82% 4% 2%12% 83% 7% 2% 8% school year total teacher ftes vacant teacher ftes vacancy rate educator retention brief — definitions and methodology educator workforce — all files (combined workbook) overview office of the state superintendent of education lea demographics_all staff lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_all staff school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown lea demographics_teachers lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_teachers school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown lea demographics_leaders lea information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown school demographics_leaders school information gender american indian/alaskan native asian black/african american hispanic/latino two or more races pacific islander/native hawaiian white/caucasian race/ethnicity other/unknown retention_lea school years lea code lea name sector total number of teachers at this lea in sy 2020-21 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_school school years lea code lea name school code school name sector ward of school total number of teachers at this school in sy 2020-21 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes supply epps education preparation program number of completers in 2019-20 number of completers who were teaching in the 2020-21 school year in a dc lea subject area number of completers in this subject of training in 2019-20 number of completers who were teaching in the subject of training the 2020-21 school year vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_school lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown retention_overall_sea school years total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_overall_lea school years lea code lea name sector total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sea school years years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_experience_lea school years lea code lea name sector years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sea school years race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes gradeband_tch_sea grand band total teachers citywide total teachers at least 0.5 fte in this grade band citywide percent teachers at least 0.5 fte in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers at least 0.5 fte in this grade band at this lea percent teachers at least 0.5 fte in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers at least 0.5 fte in this grade band at this school percent teachers at least 0.5 fte in this grade band at this school effective_tch_sea total teachers that were rated citywide percent teachers rated effective citywide effective_tch_lea lea code lea name sector total teachers that were rated at this lea percent teachers rated effective at this lea notes certified_tch_sea total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_lea lea code lea name sector total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sea total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_lea lea code lea name sector total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience total teachers citywide total teachers in this experience category percent of teachers in this experience category exp_tch_lea lea code lea name sector years of experience total teachers at this lea total teachers in this experience category percent of teachers in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience total teachers at this school total teachers in this experience category percent of teachers in this experience category exp_sls_sea years of experience total school leaders citywide total school leaders in this experience category percent of school leaders in this experience category exp_sls_lea lea code lea name sector years of experience total school leaders at this lea total school leaders in this experience category percent of school leaders in this experience category exp_sls_sch lea code lea name school code school name sector ward of school years of experience total school leaders at this school total school leaders in this experience category percent of school leaders in this experience category vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area supply epps education preparation program number of completers in 2020-21 number of completers who were teaching in the 2021-22 school year in a dc lea subject area number of completers in this subject of training in 2020-21 number of completers who were teaching in the subject of training the 2021-22 school year in a dc lea educator workforce — counts and demographics overview office of the state superintendent of education gradeband_tch_sea grand band total teachers citywide total teachers at least 0.5 fte in this grade band citywide percent teachers at least 0.5 fte in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers at least 0.5 fte in this grade band at this lea percent teachers at least 0.5 fte in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers at least 0.5 fte in this grade band at this school percent teachers at least 0.5 fte in this grade band at this school demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sls_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown educator workforce — preparation and performance overview office of the state superintendent of education effective_tch_sea total teachers that were rated citywide percent teachers rated effective citywide effective_tch_lea lea code lea name sector total teachers that were rated at this lea percent teachers rated effective at this lea notes certified_tch_sea total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_lea lea code lea name sector total teachers (dcps only) total teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) certified_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sea total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_lea lea code lea name sector total teachers (dcps only) total teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) infield_tch_sch lea code lea name school code school name sector ward of school total teachers at this school total teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience total teachers citywide total teachers in this experience category percent of teachers in this experience category exp_tch_lea lea code lea name sector years of experience total teachers at this lea total teachers in this experience category percent of teachers in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience total teachers at this school total teachers in this experience category percent of teachers in this experience category exp_sls_sea years of experience total school leaders citywide total school leaders in this experience category percent of school leaders in this experience category exp_sls_lea lea code lea name sector years of experience total school leaders at this lea total school leaders in this experience category percent of school leaders in this experience category exp_sls_sch lea code lea name school code school name sector ward of school years of experience total school leaders at this school total school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_overall_lea school years lea code lea name sector total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school number of teachers who remained employed in the same role type at a new school percent of teachers who remained employed in the same role type at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sea school years years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_experience_lea school years lea code lea name sector years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2021-22 total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sea school years race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2021-22 number of teachers who remained employed in the same role type at the same school percent of teachers who remained employed in the same role type at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area supply epps education preparation program number of completers in 2020-21 number of completers who were teaching in the 2021-22 school year in a dc lea subject area number of completers in this subject of training in 2020-21 number of completers who were teaching in the subject of training the 2021-22 school year in a dc lea educator workforce — all files (combined workbook) overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (retention) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_lea school years lea code lea name sector years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_lea school years lea code lea name sector years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2022-23 total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2022-23 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep+perf) office of the state superintendent of education effective_tch_sea total sy 2024-25 teachers that were rated in sy 2023-24 citywide percent of sy 2024-25 teachers rated effective in sy 2023-24 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2024-25 teachers that were rated in sy 2023-24 at this lea percent of 2024-25 teachers rated effective in sy 2023-24 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2024-25 teachers that were rated in sy 2023-24 at this school percent of sy 2024-25 teachers rated effective in sy 2023-24 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (retn) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (vacancies) office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview (prep+perf) office of the state superintendent of education effective_tch_sea total sy 2024-25 teachers that were rated in sy 2023-24 citywide percent of sy 2024-25 teachers rated effective in sy 2023-24 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2024-25 teachers that were rated in sy 2023-24 at this lea percent of 2024-25 teachers rated effective in sy 2023-24 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2024-25 teachers that were rated in sy 2023-24 at this school percent of sy 2024-25 teachers rated effective in sy 2023-24 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2023-24 total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2023-24 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — all files (combined workbook) overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (2) office of the state superintendent of education effective_tch_sea total sy 2025-26 teachers that were rated in sy 2024-25 citywide percent of sy 2025-26 teachers rated effective in sy 2024-25 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent of teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject in-field (dcps only) percent of teachers that are teaching a subject in-field (dcps only) effective_tch_lea lea code lea name sector total sy 2025-26 teachers that were rated in sy 2024-25 at this lea percent of 2025-26 teachers rated effective in sy 2024-25 at this lea effective_tch_sch lea code lea name school code school name sector ward of school total sy 2025-26 teachers that were rated in sy 2024-25 at this school percent of sy 2025-26 teachers rated effective in sy 2024-25 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent of teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject in-field at this school percent of teachers that are teaching a subject in-field at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (3) office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes overview (4) office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator workforce — counts and demographics overview office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio educator workforce — preparation and performance overview office of the state superintendent of education effective_tch_sea total sy 2025-26 teachers that were rated in sy 2024-25 citywide percent of sy 2025-26 teachers rated effective in sy 2024-25 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent of teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject in-field (dcps only) percent of teachers that are teaching a subject in-field (dcps only) effective_tch_lea lea code lea name sector total sy 2025-26 teachers that were rated in sy 2024-25 at this lea percent of 2025-26 teachers rated effective in sy 2024-25 at this lea effective_tch_sch lea code lea name school code school name sector ward of school total sy 2025-26 teachers that were rated in sy 2024-25 at this school percent of sy 2025-26 teachers rated effective in sy 2024-25 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent of teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject in-field at this school percent of teachers that are teaching a subject in-field at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category educator workforce — retention overview office of the state superintendent of education retention_overall_sea school years total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce retention_experience_sea school years years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_race_sea school years race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school retention_overall_lea school years lea code lea name sector total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_lea school years lea code lea name sector years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_lea school years lea code lea name sector race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_overall_sch school years lea code lea name school code school name sector ward of school total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school number of teachers who remained employed as teachers at a new school percent of teachers who remained employed as teachers at a new school number of teachers who shifted to a new role type at the same or a new school percent of teachers who shifted to a new role type at the same or a new school number of teachers who left the dc public education workforce percent of teachers who left the dc public education workforce notes retention_experience_sch school years lea code lea name school code school name sector ward of school years of experience in sy 2024-25 total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes retention_race_sch school years lea code lea name school code school name sector ward of school race/ethnicity total number of teachers in sy 2024-25 teaching at least half-time number of teachers who remained employed as teachers at the same school percent of teachers who remained employed as teachers at the same school notes educator workforce — supply and demand overview office of the state superintendent of education vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area educator preparation provider (epp) landscape brief introduction a vital role of the office of the state superintendent of education (osse) is to support the district’s educator pipeline so that all dc students have access to high- quality educators. by collecting and reporting data on how the district’s educator preparation providers (epps) respond to citywide talent demands, evaluating epp quality, designing opportunities for strategic connection between epps and local education agencies (leas), and leveraging our convening power to bring together dc epps and lea leaders, osse helps new teachers effectively lead classrooms and foster student success. teacher effectiveness is an important driver of students’ academic achievement. research indicates that “teachers in the top 20 percent of performance generate five to six more months of student learning each year than low-performing teachers.”1 thus, providing educators, particularly new teachers, with the training and tools to be effective is critical to creating high-quality learning environments for all students.2 this training starts in the institutions that prepare our future district educators and continues with ongoing professional learning throughout an educator’s career. to support the development of well-prepared, locally trained educators, osse reviews and approves epp programs to ensure that these institutions provide candidates with the content knowledge, skills, on-the-ground training, and support to meet the needs of the district’s students.3 once approved by osse, epps are eligible to offer programs to educators that prepare them to acquire an educator credential. as part of its ongoing partnership with district epps, osse also collects and analyzes data about these institutions’ programs and candidate cohorts, as demonstrated by this brief and via the osse educator preparation provider data files. this “school year 2024-25 epp landscape brief” discusses the employment and certification rates of epp candidates and completers who were enrolled in their program at any point between sept. 1, 2023 to aug. 31, 2024; details the teacher vacancies filled by epp candidates and completers; and analyzes the demographics of epp candidates and completers compared to district teachers and students.4 osse designed this brief to help policymakers, practitioners, and the public better understand the relationship between the district’s educator workforce, including the supply of new educators stemming from the district’s epps, and osse’s initiatives to expand educator preparation opportunities so that every district learner has consistent access to well-prepared educators.5 2024-25 teachers in the district individuals in the 2023-24 cohort of candidates and completers available to teach 2023-24 completers from traditional programs 2023-24 candidates and completers from arois individuals in the 2023-24 cohort of candidates and completers employed in the district with any experience during 2024-25 79% 21% provisional credentials initial credentials standard credentials added endorsement educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp program # of this epp's participants % of epp's participants who attained credential after applying for epp program cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this this subject area citywide percent of candidates and completers in this subject area citywide praxis exams by test area epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts total pass rate praxis exams by program area epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts total pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp vacancies by subject 1st yrtchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by first-year teachers by subject vacancies by sector 1st yrtchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total first-year teacher ftes from epps by sector vacancies by sbjct any exp.tchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total teacher ftes from epps by subject vacancies by sector anyexp.tchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total teacher ftes from epps by sector educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp pgm # of this epp's participants % of epp's participants who attained credential after applying for epp pgm cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this subject area citywide percent of candidates and completers in this subject area citywide praxis area and overall epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate praxis prog epp epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group sub study cert emp epp program total number of candidates and completers in 2023-24 total number of candidates and completers who were teaching in 2024-25 subject number of candidates and completers in this subject of training in 2023-24 2023-24 dc epp candidates and completers certified in this subject 2023-24 dc epp candidates and completers teaching this subject in sy 2024-25 number of candidates and completers who were teaching in the subject of training first year emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as first-year teachers number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as first-year teachers percent of this epp's teachers certified any experience emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as teachers (any exp) number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as teachers (any exp) percent of this epp's teachers certified first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp vacancies by subject fytchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by subject vacancies by sector fytchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total epp ftes employed by sector vacancies by subject exp.tchs school year of vacancy school year of filled position epp program subject area total vacant ftes by subject total epp ftes employed by subject vacancies by sector exp.tchs school year of vacancy school year of filled position epp program sector total vacant ftes by sector total epp ftes employed by sector educator preparation provider (epp) data files overview office of the state superintendent of education gender epp program gender number of epp candidates & completers in this gender category percent of epp candidates & completers in this gender category race_ethnicity epp program race/ethnicity number of epp candidates & completers in this racial/ethnic category percent of epp candidates & completers in this racial/ethnic category credentials epp program candidate status credential type # of epp's participants who attained credential after applying for epp pgm # of this epp's participants % of epp's participants who attained credential after applying for epp pgm cred. by subject epp program credential subject area number of this epp's completers & candidates with credential in this subject % of city epp completers & candidates w/ cred. in this subject from this epp subject areas of study epp program subject area of study total candidates by subject area at epp percent candidates in this subject area citywide that are at this epp total completers by subject area at epp percent completers in this subject area citywide that are at this epp percent of candidates and completers in this subject area citywide subject areas of study city subject area of study total candidates and completers in this subject area citywide percent of candidates and completers in this subject area citywide praxis area and overall epp program testing area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate praxis prog epp epp program program study area epp total test takers epp total passed on first attempt epp first time pass rate epp total passed attempts epp pass rate first year employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as first-year teachers number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as first-year teachers any experience employment year of employment year enrolled in or completion of epp program epp program program type number of this epp's (candidates +) completers employed as teachers (any exp) number of this epp's completers number of this epp's candidates and completers percent of this epp's (candidates +) completers employed as teachers (any exp) first year employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-1st yr number of this epp's (candidates +) completers employed this school year-1st yr percent of this epp's (candidates +) completers employed in this sector-1st yr any exp. employment by sector year of employment year enrolled in or completion of epp program epp program program type sector number of this epp's (candidates +) completers employed in this sector-any exp number of this epp's (candidates +) completers employed this school year-any exp percent of this epp's (candidates +) completers employed in this sector-any exp stud 1st yeartch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group stud any exp.tch race ethnicity epp program race/ethnicity percent of students in dc leas, by racial/ethnic group percent of this epp's (candidates +) completers employed, by racial/ethnic group grades of instruction 1styr tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea grades of instruction exp. tch epp program grade ranges of instruction # of epp students employed that taught in this range during field experience # of epp students employed that taught in this range while employed in a dc lea stud first yeartch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group stud any exp.tch el swd epp program student group percent of students in student group percent of teachers from this epp who teach students in student group epp rundown epp program total number of candidates and completers in 2024-25 total number of candidates and completers who were teaching in 2025-26 subject number of candidates and completers in this subject of training in 2024-25 2024-25 dc epp candidates and completers certified in this subject 2024-25 dc epp candidates and completers teaching this subject in sy 2025-26 number of candidates and completers who were teaching in the subject of training first year emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as first-year teachers number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as first-year teachers percent of this epp's teachers certified any experience emp. and cert. year of employment year enrolled in or completion of epp program epp program program type number of this epp's candidates and completers employed as teachers (any exp) number of this epp's teachers certified number of this epp's completers number of this epp's candidates and completers percent of this epp's candidates and completers employed as teachers (any exp) percent of this epp's teachers certified first yr effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp exp effectiveness ratings epp program program type epp program completion year effectiveness rating year employment year number of rated teachers who were effective - epp number of rated teachers - epp percent of rated teachers who were effective - epp clinical exp location epp program number of candidates with clinical experience number of completers with clinical experience total number of participants with clinical experience number of participants with dcps clinical experience number of participants with charter school clinical experience number of participants with private school clinical experience number of participants with out-of-state clinical experience percent of all participants with dcps clinical experience percent of all participants with charter school clinical experience percent of all participants with private school clinical experience percent of all participants with out-of-state clinical experience clinical exp location - by ward ward epp program number of candidates with clinical experience in this ward number of completers with clinical experience in this ward total number of participants with clinical experience number of participants with dcps clinical experience in this ward number of participants with charter school clinical experience in this ward number of participants with private school clinical experience in this ward percent of all participants with dcps clinical experience in this ward percent of all participants with charter school clinical experience in this ward percent of all participants with private school clinical experience in this ward english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep accountability star school quality sqr pmf aspire rating educators teachers teacher school leaders workforce staffing"
@@ -23130,7 +23130,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "at-risk budget cost disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool spending title i",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -23208,7 +23207,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2023",
@@ -23219,7 +23219,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "at-risk budget cost disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool spending title i",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -23298,7 +23297,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2022",
@@ -23309,7 +23309,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "at-risk budget cost disabilities disability disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start iep low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool special education special needs spending students with disabilities swd title i",
      "n_pages": 32,
      "has_tabular_data": true,
      "n_table_pages": 21,
@@ -23378,7 +23377,8 @@ window.CATALOG = {
        ],
        "n_rows": 6
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2021",
@@ -23389,7 +23389,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "at-risk budget cost disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool spending title i",
      "n_pages": 21,
      "has_tabular_data": true,
      "n_table_pages": 5,
@@ -23462,7 +23461,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2020",
@@ -23473,7 +23473,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "n_pages": 15,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -23507,7 +23506,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2019",
@@ -23518,7 +23518,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "n_pages": 37,
      "has_tabular_data": true,
      "n_table_pages": 20,
@@ -23587,7 +23586,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2018",
@@ -23598,11 +23598,11 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool",
      "n_pages": 40,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
     },
     {
      "name": "OSSE Annual Pre-K Report 2017",
@@ -23613,7 +23613,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool",
      "n_pages": 39,
      "has_tabular_data": true,
      "n_table_pages": 37,
@@ -23668,7 +23667,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
     },
     {
      "name": "OSSE Annual Pre-K Report 2016",
@@ -23679,7 +23679,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool",
      "n_pages": 33,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -23740,7 +23739,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
     },
     {
      "name": "OSSE Annual Pre-K Report 2015",
@@ -23751,7 +23751,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -23808,7 +23807,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
     },
     {
      "name": "OSSE Annual Pre-K Report 2014",
@@ -23819,7 +23819,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 21,
@@ -23898,7 +23897,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "budget cost early childhood early learning expenditure finance funding head start per pupil per-pupil pre-k pre-kindergarten prek preschool spending"
     },
     {
      "name": "OSSE Annual Pre-K Report 2013",
@@ -23909,7 +23909,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "early childhood early learning educators head start pre-k pre-kindergarten prek preschool school leaders staffing teacher teachers workforce",
      "n_pages": 26,
      "has_tabular_data": true,
      "n_table_pages": 26,
@@ -23975,7 +23974,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
     },
     {
      "name": "OSSE Annual Pre-K Report 2012",
@@ -23986,7 +23986,6 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
-     "syn": "accountability aspire assessment at-risk dc cape dc cas disadvantaged early childhood early learning economically disadvantaged educators farms free lunch frpl head start low income low-income msaa parcc pmf poverty pre-k pre-kindergarten prek preschool proficiency proficient rating school leaders school quality sqr staffing standardized test star teacher teachers test results test scores title i workforce",
      "n_pages": 23,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -24057,7 +24056,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "accountability aspire at-risk disadvantaged early childhood early learning economically disadvantaged farms free lunch frpl head start low income low-income pmf poverty pre-k pre-kindergarten prek preschool rating school quality sqr star title i"
     }
    ],
    "search": "pre-kindergarten reports ('state of pre-k in dc') osse narrative + summary stats on pre-k access/quality, not a granular by-school dataset. pdf early-childhood enrollment osse annual pre-k report 2024 setting universal delivery system overview funding source number of delivery system student per pupil allocation the district of columbia continues to be a national leader in access to and participation in public pre-k. in fy23 fy24 13, 768 13, 791 1,027 (8%) 6,420 (49%) 5,772 (44%) sector sites enrollment number of classrooms estimated capacity estimated utilization unfilled osse annual pre-k report 2023 setting universal delivery system overview funding source number of delivery system student per pupil allocation fy22 fy23 13, 13 505 ,768 13, 791 1001 (8%) 6215 (49%) 55 (43 73 %) sector sites enrollment number of classrooms estimated capacity estimated utilization unfilled number of osse annual pre-k report 2022 i am pleased to submit to the council of the district of columbia the enclosed report titled “fiscal setting universal pre-k program delivery system overview funding source number of universal student per pupil allocation fy21 fy22 sector sites enrollment number of estimated utilization available osse annual pre-k report 2021 setting universal pre-k program delivery system overview funding source universal pre-k age census data number of children served in fy21 number of children served in fy20 percent percent change in number of children served from prior year number of number of percent change sector sites enrollment in fy21 enrollment in fy20 percent change enrollment in osse annual pre-k report 2020 setting universal funding source 6088 6797 1015 ward pkeep dcps pcs total osse annual pre-k report 2019 setting universal pre-k program delivery system overview funding source number of universal census data4 number enrolled percent served sector sites enrollment number of classrooms estimated capacity estimated utilization estimated number of estimated osse annual pre-k report 2018 osse annual pre-k report 2017 district of columbia public schools public charter schools community-based organizations emotional support classroom organization instructional support osse annual pre-k report 2016 total number of classrooms observed emotional support (threshold of 5) classroom organization (threshold of 5) instructional support (threshold of 3) high (6-7) low (1-2) mid (3-5) 5.83 5.62 osse annual pre-k report 2015 5.77 5.79 6.08 5.77 6.14 5.82 5.61 5.83 5.74 5.79 5.95 5.65 5.61 5.80 5.73 osse annual pre-k report 2014 assessing pre-k classroom quality through the class pre-k ™ evaluation tool 5.6 emotional support classroom organization instructional support 5.5 5.7 sector funding sites enrollment estimated utilization available total enrollment enrollment estimated estimated capacity utilization 6,714 sector funding sites enrollment estimated utilization available osse annual pre-k report 2013 2013 annual report osse 2013 annual report osse 2013 annual report osse 2013 annual report osse fy13 pre-k utilization based on 2011 census estimate 2013 annual report osse program number of sites funded slots osse annual pre-k report 2012 fy12 prek utilization based on 2011 census estimate reason child not enrolled in upsff funded pre-­‐k number of percentage of respondents dcps head start classrooms across wards number of title i dcps schools pre-­‐k capacity in title i dcps schools pre-­‐k enrollment in title i dcps schools capacity utilization number of pre-­‐k capacity dcps head start pre-­‐k enrollment in head start cbo enrollment number of head start capacity head start funded enrollment slots6 capacity utilization at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i finance per-pupil per pupil expenditure spending budget cost funding pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating"
@@ -24517,7 +24517,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "2025",
@@ -24526,7 +24525,8 @@ window.CATALOG = {
         "DATA AS OF: October 2025"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2024 Graduation Data Overall Subgroup",
@@ -24538,7 +24538,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "2024_redact",
@@ -24547,7 +24546,8 @@ window.CATALOG = {
         "DATA AS OF: October 2024"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2023 Graduation Data Overall Subgroup",
@@ -24559,7 +24559,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "2023_redact",
@@ -24568,7 +24567,8 @@ window.CATALOG = {
         "DATA AS OF: 11/30/2023"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2022 Graduation Data Overall Subgroup",
@@ -24580,7 +24580,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2022",
@@ -24589,7 +24588,8 @@ window.CATALOG = {
         "DATA AS OF: 11/09/2022"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2021 Graduation Data Overall Subgroup",
@@ -24601,7 +24601,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2021",
@@ -24610,7 +24609,8 @@ window.CATALOG = {
         "DATA AS OF: 11/09/2021"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2020 Graduation Data Overall Subgroup",
@@ -24622,7 +24622,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2020",
@@ -24631,7 +24630,8 @@ window.CATALOG = {
         "DATA AS OF: 10/30/2020"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2019 Graduation Data Overall Subgroup",
@@ -24643,7 +24643,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2019",
@@ -24652,7 +24651,8 @@ window.CATALOG = {
         "DATA AS OF: 11/6/2019"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2018 Graduation Data Overall Subgroup",
@@ -24664,7 +24664,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2018",
@@ -24673,7 +24672,8 @@ window.CATALOG = {
         "DATA AS OF: 11/9/2018"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2017 Graduation Data Overall Subgroup",
@@ -24685,7 +24685,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2017",
@@ -24694,7 +24693,8 @@ window.CATALOG = {
         "DATA AS OF: 11/3/2017"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2016 Graduation Data Overall Subgroup",
@@ -24706,7 +24706,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2016",
@@ -24715,7 +24714,8 @@ window.CATALOG = {
         "DATA AS OF: 10/20/2016"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2015 Graduation Data Overall Subgroup",
@@ -24727,7 +24727,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2015",
@@ -24736,7 +24735,8 @@ window.CATALOG = {
         "DATA AS OF: 1/26/2016"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2014 Graduation Data Overall Subgroup",
@@ -24748,7 +24748,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Class of 2014",
@@ -24757,7 +24756,8 @@ window.CATALOG = {
         "Data as of: 3/8/2016"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2013 Graduation Data Overall Subgroup",
@@ -24769,7 +24769,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Sheet1",
@@ -24778,7 +24777,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DCPS 2012 Graduation Data Overall Subgroup",
@@ -24790,7 +24790,6 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
-     "syn": "acgr cohort graduation dropout graduation graduation rate",
      "tabs": [
       {
        "name": "Sheet1",
@@ -24799,7 +24798,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
     },
     {
      "name": "DC CAS Scores - School Year 2013-2014",
@@ -24811,7 +24811,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -24904,7 +24903,8 @@ window.CATALOG = {
         "DATA AS OF: 8/5/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2012-2013",
@@ -24916,7 +24916,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25009,7 +25008,8 @@ window.CATALOG = {
         "DATA AS OF: 11/10/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2011-2012",
@@ -25021,7 +25021,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25114,7 +25113,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2010-2011",
@@ -25126,7 +25126,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25205,7 +25204,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2009-2010",
@@ -25217,7 +25217,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25289,7 +25288,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2008-2009",
@@ -25301,7 +25301,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25373,7 +25372,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2007-2009",
@@ -25385,7 +25385,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25457,7 +25456,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC CAS Scores - School Year 2006-2007",
@@ -25469,7 +25469,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "tabs": [
       {
        "name": "All Students",
@@ -25541,7 +25540,8 @@ window.CATALOG = {
         "DATA AS OF: 4/7/2014"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "School Year 2024-2025 SAT Scores",
@@ -26505,7 +26505,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2024",
      "tabs": [
@@ -27212,7 +27211,8 @@ window.CATALOG = {
         "MSAA - Math - % Level 4"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC CAPE Scores – School Year 2023-24",
@@ -27224,7 +27224,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2023",
      "tabs": [
@@ -27931,7 +27930,8 @@ window.CATALOG = {
         "MSAA - Math - % Level 4"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC PARCC Scores – School Year 2022-23",
@@ -27943,7 +27943,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2022",
      "tabs": [
@@ -28650,7 +28649,8 @@ window.CATALOG = {
         "MSAA - Math - % Level 4"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC PARCC Scores – School Year 2021-22",
@@ -28662,7 +28662,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2021",
      "tabs": [
@@ -29369,7 +29368,8 @@ window.CATALOG = {
         "MSAA - Math - % Level 4"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas el ell english language learner english learner esl limited english msaa multilingual parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "DC PARCC Scores- School Year 2018-19",
@@ -29381,7 +29381,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment at-risk dc cape dc cas disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income msaa multilingual parcc poverty proficiency proficient special education special needs standardized test students with disabilities swd test results test scores title i",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2018",
      "tabs": [
@@ -30088,7 +30087,8 @@ window.CATALOG = {
         "MSAA - Math - % Level 4"
        ]
       }
-     ]
+     ],
+     "syn": "assessment at-risk dc cape dc cas disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income msaa multilingual parcc poverty proficiency proficient special education special needs standardized test students with disabilities swd test results test scores title i"
     },
     {
      "name": "DC PARCC Scores – School Year 2017-18",
@@ -30100,7 +30100,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment at-risk dc cape dc cas disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income msaa multilingual parcc poverty proficiency proficient special education special needs standardized test students with disabilities swd test results test scores title i",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2017",
      "tabs": [
@@ -30543,7 +30542,8 @@ window.CATALOG = {
         "Math - % Proficient"
        ]
       }
-     ]
+     ],
+     "syn": "assessment at-risk dc cape dc cas disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income msaa multilingual parcc poverty proficiency proficient special education special needs standardized test students with disabilities swd test results test scores title i"
     },
     {
      "name": "DC PARCC Scores – School Year 2016-17",
@@ -30555,7 +30555,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment at-risk dc cape dc cas disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl limited english low income low-income msaa multilingual parcc poverty proficiency proficient standardized test test results test scores title i",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2016",
      "tabs": [
@@ -30650,7 +30649,8 @@ window.CATALOG = {
         "DATA AS OF: SEPTEMBER 2017"
        ]
       }
-     ]
+     ],
+     "syn": "assessment at-risk dc cape dc cas disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl limited english low income low-income msaa multilingual parcc poverty proficiency proficient standardized test test results test scores title i"
     },
     {
      "name": "DC PARCC Scores – School Year 2015-16",
@@ -30662,7 +30662,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2015",
      "tabs": [
@@ -30757,7 +30756,8 @@ window.CATALOG = {
         "DATA AS OF: SEPTEMBER 2016"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "DC PARCC Scores – School Year 2014-15",
@@ -30769,7 +30769,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2014",
      "tabs": [
@@ -30864,7 +30863,8 @@ window.CATALOG = {
         "DATA AS OF: FEBRUARY 2016"
        ]
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
     },
     {
      "name": "2025 DC CAPE Presentation",
@@ -30876,7 +30876,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2025",
      "n_pages": 17,
@@ -30935,7 +30934,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2024 DC CAPE Presentation",
@@ -30947,7 +30947,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas disabilities disability el ell english language learner english learner esl iep limited english msaa multilingual parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2024",
      "n_pages": 15,
@@ -31006,7 +31005,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2023 DC PARCC Presentation",
@@ -31018,7 +31018,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2023",
      "n_pages": 14,
@@ -31077,7 +31076,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2022 DC PARCC Presentation",
@@ -31089,7 +31089,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2022",
      "n_pages": 18,
@@ -31148,7 +31147,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2019 DC PARCC Presentation",
@@ -31160,7 +31160,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2019",
      "n_pages": 22,
@@ -31219,7 +31218,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2018 DC PARCC Presentation",
@@ -31231,7 +31231,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2018",
      "n_pages": 19,
@@ -31290,7 +31289,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2017 DC PARCC Presentation",
@@ -31302,7 +31302,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2017",
      "n_pages": 27,
@@ -31349,7 +31348,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2016 DC PARCC Presentation",
@@ -31361,7 +31361,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2016",
      "n_pages": 29,
@@ -31426,7 +31425,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     },
     {
      "name": "2015 DC PARCC Presentation",
@@ -31438,7 +31438,6 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
-     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2015",
      "n_pages": 17,
@@ -31497,7 +31496,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     }
    ],
    "search": "dcps downloadable data sets (index) dcps index of school-and-subgroup-level files: enrollment, graduation, dc cas, sat, ap, parcc, attendance. each metric is a separate page of yearly excel files rather than one tidy multi-year table. web page indexing excel (.xlsx) files enrollment assessment graduation attendance dcps sy25-26 enrollment audit sy 2025-26 school code school name by grade dcps sy24-25 enrollment audit sy 2024-25 school code school name by grade dcps sy23-24 enrollment audit sy 2023-24 school code school name by grade dcps sy22-23 enrollment audit sy2022-23 school code school name by grade dcps sy21-22 enrollment audit sy2021-22 school code school name by grade dcps sy20-21 enrollment audit sheet1 school code school name by grade dcps sy19-20 enrollment audit sheet1 school code school name by grade dcps sy18-19 enrollment audit sheet1 school code school name by grade dcps sy17-18 enrollment audit sheet1 school code school name by grade dcps sy16-17 enrollment audit sheet1 data as of: 10/5/2016 dcps sy15-16 enrollment audit sy15-16 enrollment audit data as of: 10/5/2015 dcps sy14-15 enrollment audit sy13-14 enrollment audit data as of: 10/6/2014 dcps sy13-14 enrollment audit sy13-14 enrollment audit data as of: 10/5/2013 dcps sy12-13 enrollment audit sy12-13 enrollment audit data as of: 10/5/2012 dcps sy11-12 enrollment audit sy11-12 enrollment audit data as of: 10/5/2011 sheet1 462 462 dcps 2025 graduation data overall subgroup 2025 data as of: october 2025 dcps 2024 graduation data overall subgroup 2024_redact data as of: october 2024 dcps 2023 graduation data overall subgroup 2023_redact data as of: 11/30/2023 dcps 2022 graduation data overall subgroup class of 2022 data as of: 11/09/2022 dcps 2021 graduation data overall subgroup class of 2021 data as of: 11/09/2021 dcps 2020 graduation data overall subgroup class of 2020 data as of: 10/30/2020 dcps 2019 graduation data overall subgroup class of 2019 data as of: 11/6/2019 dcps 2018 graduation data overall subgroup class of 2018 data as of: 11/9/2018 dcps 2017 graduation data overall subgroup class of 2017 data as of: 11/3/2017 dcps 2016 graduation data overall subgroup class of 2016 data as of: 10/20/2016 dcps 2015 graduation data overall subgroup class of 2015 data as of: 1/26/2016 dcps 2014 graduation data overall subgroup class of 2014 data as of: 3/8/2016 dcps 2013 graduation data overall subgroup sheet1 data as of: 4/7/2014 dcps 2012 graduation data overall subgroup sheet1 data as of: 4/7/2014 dc cas scores - school year 2013-2014 all students data as of: 8/5/2014 american indian students data as of: 8/5/2014 asian students data as of: 8/5/2014 black students data as of: 8/5/2014 hispanic students data as of: 8/5/2014 multiracial students data as of: 8/5/2014 nat hawaiian-pac islnd students data as of: 8/5/2014 white students data as of: 8/5/2014 special education students data as of: 8/5/2014 ell students data as of: 8/5/2014 free-red price meal students data as of: 8/5/2014 male students data as of: 8/5/2014 female students data as of: 8/5/2014 dc cas scores - school year 2012-2013 all students data as of: 11/10/2014 american indian students data as of: 11/10/2014 asian students data as of: 11/10/2014 black students data as of: 11/10/2014 hispanic students data as of: 11/10/2014 multiracial students data as of: 11/10/2014 nat hawaiian-pac islnd students data as of: 11/10/2014 white students data as of: 11/10/2014 special education students data as of: 11/10/2014 ell students data as of: 11/10/2014 free-red price meal students data as of: 11/10/2014 male students data as of: 11/10/2014 female students data as of: 11/10/2014 dc cas scores - school year 2011-2012 all students data as of: 4/7/2014 american indian students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 multiracial students data as of: 4/7/2014 nat hawaiian-pac islnd students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2010-2011 all students data as of: 4/7/2014 american indian students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2009-2010 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2008-2009 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2007-2009 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 dc cas scores - school year 2006-2007 all students data as of: 4/7/2014 asian students data as of: 4/7/2014 black students data as of: 4/7/2014 hispanic students data as of: 4/7/2014 white students data as of: 4/7/2014 special education students data as of: 4/7/2014 ell students data as of: 4/7/2014 free-red price meal students data as of: 4/7/2014 male students data as of: 4/7/2014 female students data as of: 4/7/2014 school year 2024-2025 sat scores sy2024-25 by school data as of: 10/20/2025 sy2024-25 by subgroup data as of: 10/20/2025 school year 2023-2024 sat scores sy2023-24 by school data as of: 10/02/2024 sy2023-24 by subgroup data as of: 10/02/2024 school year 2022-2023 sat scores sy2022-23 by school data as of: 09/25/2023 sy2022-23 by subgroup data as of: 09/25/2023 school year 2021-2022 sat scores sy2021-22 by school data as of: 11/10/2022 sy2021-22 by subgroup data as of: 11/10/2022 school year 2020-2021 sat scores sy2020-21 by school data as of: 11/23/2021 sy2020-21 by subgroup data as of: 11/23/2021 school year 2019-2020 sat scores sy2019-20 data as of: 01/15/2021 school year 2018-2019 sat scores sy2018-19 data as of: 12/3/2019 school year 2017-2018 sat scores sy2017-18 data as of: 9/14/2018 school year 2016-2017 sat scores sy2016-17 data as of: 10/24/2017 school year 2015-2016 sat scores sy15-16 . pre-march-2016 sat data as of: 9/14/2016 sy 15-16 . new sat data as of: 9/14/2016 school year 2014-2015 sat scores sy14-15 . pre-march-2016 sat data as of: 9/14/2016 school year 2013-2014 sat scores sy13-14 . pre-march-2016 sat data as of: 9/14/2016 school year 2012-2013 sat scores sy12-13 . pre-march-2016 sat data as of: 9/14/2016 school year 2024-2025 ap scores high school data as of: 08/28/2025 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2023-2024 ap scores high school data as of: 08/22/2024 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2022-2023 ap scores high school data as of: 09/25/2023 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2021-2022 ap scores high school data as of: 11/16/2022 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2020-2021 ap scores high school data as of: 11/24/2021 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 school year 2019-2020 ap scores school data as of: 12/14/2020 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 school year 2018-2019 ap scores high school data as of: 12/3/2019 gender gender number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 subject area subject area number of tests number of tests with ap score of 3, 4, or 5 percent tests scoring 3, 4, or 5 race-ethnicity race/ethnicity number students with an ap score number students with at least one ap score of 3, 4, or 5 percent students scoring 3, 4, or 5 school year 2017-2018 ap scores high school data as of: 10/24/2018 gender data as of: 10/24/2018 subject area data as of: 10/24/2018 race-ethnicity data as of: 10/24/2018 school year 2016-2017 ap scores high school data as of: 10/24/2017 gender data as of: 10/24/2017 subject area data as of: 10/24/2017 race-ethnicity data as of: 10/24/2017 school year 2015-2016 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2014-2015 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2013-2014 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2012-2013 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 school year 2011-2012 ap scores high school data as of: 11/2/2016 gender data as of: 11/2/2016 subject area data as of: 11/2/2016 race-ethnicity data as of: 11/2/2016 dc cape scores – school year 2024-25 overall data as of: august 2025 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc cape scores – school year 2023-24 overall data as of: august 2024 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2022-23 overall data as of: august 2023 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 econdisad school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2021-22 overall data as of: august 2022 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 amindalna school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 blafam school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hisla school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multi school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pacislnah school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 whcau school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 sped school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 atrisk school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores- school year 2018-19 overall data as of: august 2019 female school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 male school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 american indian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 asian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 black school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 hispanic school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 multiracial school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 pac islander-nat hawaiian school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 white school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 el (active and monitored) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 swd (active) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 at-risk school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient msaa - ela - # level 1 msaa - ela - # level 2 msaa - ela - # level 3 msaa - ela - # level 4 msaa - # of english language arts (ela) test takers msaa - ela # proficient msaa - ela - % proficient msaa - ela - % level 1 msaa - ela - % level 2 msaa - ela - % level 3 msaa - ela - % level 4 msaa - math - # level 1 msaa - math - # level 2 msaa - math - # level 3 msaa - math - # level 4 msaa - # of math test takers msaa - math # proficient msaa - math - % proficient msaa - math - % level 1 msaa - math - % level 2 msaa - math - % level 3 msaa - math - % level 4 dc parcc scores – school year 2017-18 overall data as of: september 2018 female students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient male students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient american indian students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient asian students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient black students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient hispanic students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient multiracial students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient nat hawaiian-pac islnd students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient white students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient el students (active & monitor) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient swd (active) school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient at-risk students school code school name grade subgroup # of english language arts (ela) test takers ela - # level 1 ela - # level 2 ela - # level 3 ela - # level 4 ela - # level 5 ela # proficient ela - % level 1 ela - % level 2 ela - % level 3 ela - % level 4 ela - % level 5 ela - % proficient # math test takers math - # level 1 math - # level 2 math - # level 3 math - # level 4 math - # level 5 math - # proficient math - % level 1 math - % level 2 math - % level 3 math - % level 4 math - % level 5 math - % proficient dc parcc scores – school year 2016-17 overall data as of: september 2017 female students data as of: september 2017 male students data as of: september 2017 american indian students data as of: september 2017 asian students data as of: september 2017 black students data as of: september 2017 hispanic students data as of: september 2017 multiracial students data as of: september 2017 nat hawaiian-pac islnd students data as of: september 2017 white students data as of: september 2017 ell students (active & monitor) data as of: september 2017 sped students (active & monitor data as of: september 2017 econ disadvantaged students data as of: september 2017 dc parcc scores – school year 2015-16 all data as of: september 2016 american indian students data as of: september 2016 asian students data as of: september 2016 black students data as of: september 2016 hispanic students data as of: september 2016 multiracial students data as of: september 2016 nat hawaiian-pac islnd students data as of: september 2016 white students data as of: september 2016 special education students data as of: september 2016 eng lang learner students data as of: september 2016 free-red price meal students data as of: september 2016 male students data as of: september 2016 female students data as of: september 2016 dc parcc scores – school year 2014-15 all data as of: february 2016 american indian students data as of: february 2016 asian students data as of: february 2016 black students data as of: february 2016 hispanic students data as of: february 2016 multiracial students data as of: february 2016 nat hawaiian-pac islnd students data as of: february 2016 white students data as of: february 2016 special education students data as of: february 2016 ell students data as of: february 2016 free-red price meal students data as of: february 2016 male students data as of: february 2016 female students data as of: february 2016 2025 dc cape presentation 5.2% 4.9% 7.2% 9.1% 10.9% 9.8% 2024 dc cape presentation 5.2% 4.9% 7.2% 9.1% 10.9% 9.8% 2023 dc parcc presentation 5.2% 4.9% 7.2% 9.1% 10.9% 9.8% 2022 dc parcc presentation 5.2% 4.9% 7.2% 9.1% 10.9% 9.8% 2019 dc parcc presentation 5.2% 4.9% 7.2% 9.1% 10.9% 2.7% 2018 dc parcc presentation 5.2% 4.9% 7.2% 9.1% 2.7% 3.6% 2017 dc parcc presentation 2016 dc parcc presentation performance levels 5.2% 4.9% 2.7% 3.6% 4.7% 4.8% 8.7% 5.6% 3.0% 2015 dc parcc presentation 79% 68% 22% 55% 56% 9% at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout"
@@ -31611,7 +31611,6 @@ window.CATALOG = {
       "finance",
       "profiles"
      ],
-     "syn": "accountability aspire at-risk budget cost disadvantaged economically disadvantaged educators expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil pmf poverty rating school leaders school quality spending sqr staffing star teacher teachers title i workforce",
      "tabs": [
       {
        "name": "FY27 Submitted Budgets",
@@ -31627,7 +31626,8 @@ window.CATALOG = {
         "This spreadsheet represents FY27 initial allocations for DCPS schools. From these initial allocations, school leaders and communities develop submitted budgets. In FY27, DCPS is providing allocation fund source as well as the DCPS funding model allocation type."
        ]
       }
-     ]
+     ],
+     "syn": "accountability aspire at-risk budget cost disadvantaged economically disadvantaged educators expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil pmf poverty rating school leaders school quality spending sqr staffing star teacher teachers title i workforce"
     }
    ],
    "search": "dcps budget transparency portal dcps school-by-school budget allocations under the three-factor model (enrollment / targeted / stability). standalone .com domain, not under dcps.dc.gov — easy to miss. allocation, not expenditure — differs from osse ppe. the consolidated fy initial+submitted spreadsheet is a direct .xlsx; the per-school worksheets and prior years live behind a js 'datasets' browser (dcpsbudget.com/datasets) that's browser-only, not script-fetchable. web portal + downloadable excel spreadsheets finance fy27 initial & submitted budget spreadsheet (school-by-school allocations) fy27 submitted budgets this spreadsheet represents submitted budgets by fund source. these budgets were built off of initial allocations and submitted by school leaders and communities in february 2026. dcps operating budget funds are coded under agency code ga0. non-local funds for school resources including title i, title ii, and title iv-b are coded as gd0 as they are loaded to osse’s budget and not dcps’s. this budget worksheet includes school budgeted items funded under both ga0 (dcps) and gd0 (osse); however, in the mayor's budget book ga0 and gd0 are separated into different sections. fy27 initial allocations this spreadsheet represents fy27 initial allocations for dcps schools. from these initial allocations, school leaders and communities develop submitted budgets. in fy27, dcps is providing allocation fund source as well as the dcps funding model allocation type. at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i finance per-pupil per pupil expenditure spending budget cost funding accountability star school quality sqr pmf aspire rating educators teachers teacher school leaders workforce staffing"
@@ -31892,7 +31892,6 @@ window.CATALOG = {
       "accountability",
       "methodology"
      ],
-     "syn": "accountability aspire educators pmf rating school leaders school quality sqr staffing star teacher teachers workforce",
      "series": "PMF Policy & Technical Guides",
      "label": "2016",
      "n_pages": 137,
@@ -31971,7 +31970,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — 12 12 Final 2015 16 PMF Book",
@@ -31982,7 +31982,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
      "n_pages": 326,
@@ -32041,7 +32040,8 @@ window.CATALOG = {
        ],
        "n_rows": 25
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — Vote 2015 16 PMF Policy Tech March Meeting Final Clean Copy",
@@ -32052,7 +32052,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
      "n_pages": 116,
@@ -32131,7 +32130,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — Final PMF Book 2015 2 29 2016",
@@ -32142,7 +32142,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire assessment at-risk dc cape dc cas disabilities disability disadvantaged early childhood early learning economically disadvantaged el ell english language learner english learner esl farms free lunch frpl head start iep limited english low income low-income msaa multilingual parcc pmf poverty pre-k pre-kindergarten prek preschool proficiency proficient rating school quality special education special needs sqr standardized test star students with disabilities swd test results test scores title i",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
      "n_pages": 300,
@@ -32201,7 +32200,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "accountability aspire early childhood early learning head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star"
     },
     {
      "name": "PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1",
@@ -32212,7 +32212,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
      "n_pages": 102,
@@ -32310,7 +32309,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — 14 Book (12 11 2014)",
@@ -32321,7 +32321,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire early childhood early learning head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star",
      "series": "PMF Books (annual charter results)",
      "label": "2013",
      "n_pages": 328,
@@ -32382,7 +32381,8 @@ window.CATALOG = {
        ],
        "n_rows": 22
       }
-     ]
+     ],
+     "syn": "accountability aspire early childhood early learning head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star"
     },
     {
      "name": "PMF Archive — 2014TechnicalGuide 01 10 14 FINAL",
@@ -32393,7 +32393,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism discipline early childhood early learning expulsion expulsions head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star suspension suspensions truancy",
      "series": "PMF Policy & Technical Guides",
      "label": "2014",
      "n_pages": 25,
@@ -32488,7 +32487,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy"
     },
     {
      "name": "PMF Archive — 2013 PMF REDUCED 2",
@@ -32499,7 +32499,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "absenteeism accountability aspire assessment attendance chronic absence chronic absenteeism dc cape dc cas early childhood early learning el ell english language learner english learner esl head start limited english msaa multilingual parcc pmf pre-k pre-kindergarten prek preschool proficiency proficient rating school quality sqr standardized test star test results test scores truancy",
      "series": "PMF (other documents)",
      "label": "2013",
      "n_pages": 304,
@@ -32569,7 +32568,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — Release 2012 2013 PMF Guidelines revised 9 12",
@@ -32580,7 +32580,6 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
-     "syn": "accountability aspire assessment dc cape dc cas early childhood early learning head start msaa parcc pmf pre-k pre-kindergarten prek preschool proficiency proficient rating school quality sqr standardized test star test results test scores",
      "series": "PMF Policy & Technical Guides",
      "label": "2012",
      "n_pages": 29,
@@ -32679,7 +32678,8 @@ window.CATALOG = {
        ],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
    "search": "performance management framework (pmf) — archive dc pcsb legacy charter accountability with per-school scores/tiers. superseded by aspire/sqr. confirm which framework a given year's 'tier' refers to before combining. harvest gap: 9 pmf books/guides are direct pdfs (profiled); the ~13 machine-readable pmf excel score files are on egnyte (browser-only download — not script-fetchable, not profiled). pdf books/guides + excel data files (via egnyte) accountability methodology pmf archive — 11 21 2016 17 pmf policy & technical guide v2 the data it receives until final results are presented. data are stored to the number of digits measure floor target measure floor target measure floor target business rule calculated target measure floor target calculated target measure floor target measure floor target measure floor target pmf archive — 12 12 final 2015 16 pmf book 2015—16 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2015—16 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2015—16 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2015—16 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2015—16 overall tier 3 (0.0 — 34.9%) ward grade levels percentage pk—8 schools pmf archive — vote 2015 16 pmf policy tech march meeting final clean copy the data it receives until final results are presented. data are stored to the number of digits measure floor target measure floor target measure floor target business rule calculated target measure floor target calculated target measure floor target measure floor target measure floor target pmf archive — final pmf book 2015 2 29 2016 early childhood/elementary/middle schools early childhood/elementary/middle schools early childhood/elementary/middle schools early childhood/elementary/middle schools high schools 2014—15 tier 1 (65.0 — 100.0%) ward ages served pmf archive — revised 2014 15 pmf policy tech guide approved 8 17 15 final1 pcsb makes every effort to retain the measure floor target measure floor target weight indicator measure weight floor6 target7 weight indicator measure weight floor target weigh t indicator measure weigh t floo r target weigh t indicator measure weigh t floo r target weight indicator measure weight floor target pmf archive — 14 book (12 11 2014) 2013—14 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2013—14 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2013—14 overall tier 2 (35.0 — 64.9%) ward grade levels percentage early childhood programs early childhood programs early childhood programs elementary/middle schools pmf archive — 2014technicalguide 01 10 14 final weight indicator metric weight floor5 target6 weight indicator metric weight floor target 20% leading indicators attendance 10% 82.0 weight indicator metric weight floor target weight indicator metric weight floor target pmf, not counting it towards a school’s overall score. once the baseline is established, the floors and targets will be indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale pmf archive — 2013 pmf reduced 2 elementary/middle schools elementary/middle schools high schools elementary/middle schools public charter school 2012–13 grade levels targets met total targets public charter school 2012–13 grade levels targets met total targets public charter school 2012–13 grade levels targets met total targets pmf archive — release 2012 2013 pmf guidelines revised 9 12 weight indicator metric weight floor5 target6 weight indicator metric weight floor target weight indicator metric weight floor target weight indicator metric weight floor target indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale attendance absenteeism chronic absenteeism chronic absence truancy pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating"
@@ -32726,7 +32726,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Academy of Hope Adult PCS",
      "n_pages": 4,
@@ -32769,7 +32768,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Briya PCS",
@@ -32780,7 +32780,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Briya PCS",
      "n_pages": 4,
@@ -32815,7 +32814,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS",
@@ -32826,7 +32826,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Carlos Rosario International PCS",
      "n_pages": 4,
@@ -32869,7 +32868,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS",
@@ -32880,7 +32880,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Community College Preparatory Academy PCS",
      "n_pages": 4,
@@ -32915,7 +32914,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS",
@@ -32926,7 +32926,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "LAYC Career Academy PCS",
      "n_pages": 4,
@@ -32961,7 +32960,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center",
@@ -32972,7 +32972,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Maya Angelou PCS Young Adult Learning Center",
      "n_pages": 4,
@@ -33007,7 +33006,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS",
@@ -33018,7 +33018,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "The Next Step El Proximo Paso PCS",
      "n_pages": 4,
@@ -33053,7 +33052,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School YouthBuild PCS",
@@ -33064,7 +33064,6 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "YouthBuild PCS",
      "n_pages": 4,
@@ -33099,7 +33098,8 @@ window.CATALOG = {
        ],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
     }
    ],
    "search": "school equity reports (charter) dc pcsb per-school attendance, discipline, mobility/withdrawal, growth. pcsb now redirects this detail to osse's dc school report card; its own reports stop at 2017-18. harvest gap: the 2017 per-school equity pdfs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity pdfs are on egnyte (browser-only, not profiled). pdf (via egnyte) equity discipline attendance school equity reports — sy 2017 18 dc pcsb equity report definitions guide school equity reports — equity report public charter school academy of hope adult pcs academy of hope adult pcs 2016-2017 equity report 233public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 5 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 2315 18th pl ne washington, dc 20018 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-269-6623 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.aohdc.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school male 33 32.5 asttutednendat nchcea r &a cdtiesrciisptliicnse academy of hope adult pcs 2016-2017 equity report academy of hope adult pcs 2016-2017 equity report academy of hope adult pcs 2016-2017 equity report school equity reports — equity report public charter school briya pcs briya pcs 2016-2017 equity report 126public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades pk3, pk4, adult equity reports give our schools, families and communities transparent ward 5 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 100 gallatin st ne washington, dc 20011 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-797-7337 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://briya.org/ equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse briya pcs 2016-2017 equity report briya pcs 2016-2017 equity report briya pcs 2016-2017 equity report school equity reports — equity report public charter school carlos rosario international pcs carlos rosario international pcs 2016-2017 equity report 1119public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 1100 harvard st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-797-4700 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.carlosrosario.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school male 41 41.2 asttutednendat nchcea r &a cdtiesrciisptliicnse carlos rosario international pcs 2016-2017 equity report carlos rosario international pcs 2016-2017 equity report carlos rosario international pcs 2016-2017 equity report school equity reports — equity report public charter school community college preparatory academy pcs community college preparatory academy pcs 2016-2017 equity report 216public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 8 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 2405 martin luther king jr ave se washington, dc 20020 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-610-5780 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.ccprep-academy.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse community college preparatory academy pcs 2016-2017 equity report community college preparatory academy pcs 2016-2017 equity report community college preparatory academy pcs 2016-2017 equity report school equity reports — equity report public charter school layc career academy pcs layc career academy pcs 2016-2017 equity report 104public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3224 16th st nw washington, dc 20010 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-2228 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.laycca.org/ equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse layc career academy pcs 2016-2017 equity report layc career academy pcs 2016-2017 equity report layc career academy pcs 2016-2017 equity report school equity reports — equity report public charter school maya angelou pcs young adult learning center maya angelou pcs - young adult learning center 2016-2017 equity report 137public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 7 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 5600 e capitol st ne washington, dc 20019 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-289-8898 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://seeforever.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse maya angelou pcs - young adult learning center 2016-2017 equity report maya angelou pcs - young adult learning center 2016-2017 equity report maya angelou pcs - young adult learning center 2016-2017 equity report school equity reports — equity report public charter school the next step el proximo paso pcs the next step/el proximo paso pcs 2016-2017 equity report 168public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3047 15th st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-2249 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://nextsteppcs.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse the next step/el proximo paso pcs 2016-2017 equity report the next step/el proximo paso pcs 2016-2017 equity report the next step/el proximo paso pcs 2016-2017 equity report school equity reports — equity report public charter school youthbuild pcs youthbuild pcs 2016-2017 equity report 128public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3220 16th st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-0141 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.youthbuildpcs.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse youthbuild pcs 2016-2017 equity report youthbuild pcs 2016-2017 equity report youthbuild pcs 2016-2017 equity report english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
@@ -33129,7 +33129,6 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -33214,7 +33213,8 @@ window.CATALOG = {
        ],
        "n_rows": 11
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
      "name": "Discipline & Attendance — SY 17 18 Attendance and Discipline Report",
@@ -33226,7 +33226,6 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -33289,7 +33288,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
      "name": "Discipline & Attendance — DC PCSB SY 2015 16 Truancy Report",
@@ -33301,7 +33301,6 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 22,
      "has_tabular_data": true,
      "n_table_pages": 13,
@@ -33372,7 +33371,8 @@ window.CATALOG = {
        ],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
      "name": "Discipline & Attendance — 15 PCSB Discipline and Truancy Report",
@@ -33384,11 +33384,11 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 3,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
      "name": "Discipline & Attendance — 2015 Discipline & Attendance Briefing full report",
@@ -33400,7 +33400,6 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy",
      "n_pages": 18,
      "has_tabular_data": true,
      "n_table_pages": 9,
@@ -33465,7 +33464,8 @@ window.CATALOG = {
        ],
        "n_rows": 5
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     }
    ],
    "search": "annual discipline & attendance report (charter) dc pcsb charter suspensions/expulsions/attendance. overlaps osse citywide discipline data and the report card (the cross-sector authority). web page / pdf discipline attendance discipline & attendance — [corrected 9 5 23 council submission] sy22 23 dc pcsb south capital street truan percent of students suspended (suspension rate) 8.4% campus grades served ward sy 2022-23 sy 2021-22 campus grades served ward % of students # of students campus sy 2022-23 isa sy2021-22 isa sy 2020-21 isa in-seat attendance: highest rates campus grades served ward isa campus grades served ward sy 2022-23 isa sy 2021-22 isa campus grades served war d # truant students truancy rate isa discipline & attendance — sy 17 18 attendance and discipline report grades 2016-17 2017-18 school ward served rate rate grades 2016-17 2017-18 school ward served rate rate # of audited grades school ward students served suspended sy 2016-2017 sy 2017-2018 campus highest long t grades erm susp served ward ension rat % of es in 2015-16 students # of students grades highest isa rates sy 2017-18 ward isa rate served grades lowest isa rates sy 2017-18 ward isa rate served discipline & attendance — dc pcsb sy 2015 16 truancy report 395 school ward 2014-15 rate* 2015-16 rate* school ward 2014-15 rate* 2015-16 rate* notable improvements ward # of students sy 2014-2015 sy 2015-2016 ward % of students # of students top schools - highest rates sy 2015-16 rate discipline & attendance — 15 pcsb discipline and truancy report discipline & attendance — 2015 discipline & attendance briefing full report 237 186 186 139 school ward sy2013-­‐14 rate sy2014-­‐15 rate school ward sy2013-­‐ 14 rate sy2014-­‐ 15 rate notable improvements ward # of students attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
@@ -33494,7 +33494,6 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
-     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i",
      "n_pages": 70,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -33555,7 +33554,8 @@ window.CATALOG = {
        ],
        "n_rows": 8
       }
-     ]
+     ],
+     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     },
     {
      "name": "At-Risk Funding — SY 17 18 at risk funding report",
@@ -33567,7 +33567,6 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
-     "syn": "at-risk budget cost disadvantaged discipline early childhood early learning economically disadvantaged educators expenditure expulsion expulsions farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool school leaders spending staffing suspension suspensions teacher teachers title i workforce",
      "n_pages": 47,
      "has_tabular_data": true,
      "n_table_pages": 45,
@@ -33630,7 +33629,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "at-risk budget cost disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool spending title i"
     },
     {
      "name": "At-Risk Funding — DC PCSB At Risk Funding Report (revised 102716)",
@@ -33642,7 +33642,6 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
-     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i",
      "n_pages": 16,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -33742,7 +33741,8 @@ window.CATALOG = {
        ],
        "n_rows": 8
       }
-     ]
+     ],
+     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     },
     {
      "name": "At-Risk Funding — At Risk Report 2015 final 10 01 2015[1]",
@@ -33754,7 +33754,6 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
-     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i",
      "n_pages": 15,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -33859,7 +33858,8 @@ window.CATALOG = {
        ],
        "n_rows": 6
       }
-     ]
+     ],
+     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     }
    ],
    "search": "charter school finances (spending, budgets, audits, 990s) dc pcsb per-school spending breakdowns. cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. charter actuals — distinct from osse ppe methodology. harvest gap: the 4 citywide at-risk funding reports are profiled; the bulk is per-school documents not catalogued individually — ~249 fiscal-audit pdfs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on egnyte (browser-only). open the page to browse a specific school. web page / pdf / excel (much via egnyte) finance at-risk funding — at risk funding report 18 19 1 22 2019 nw at risk funding and enrollment for charter schools fy2018 through fy2019 at risk funding and enrollment for charter schools fy2018 through fy2019 achievement prep charter name charter name breakthrough montessori charter name capital city public charter school (ls, ms, hs) at-risk funding — sy 17 18 at risk funding report national collegiate preparatory pchs 181 $ 391,832 178 $ 399,838 appletree early learning basis dc bridges pcs cedar tree academy pcs center city pcs cesar chavez public charter school at-risk funding — dc pcsb at risk funding report (revised 102716) dc public charter schools fy 2016 at risk funding per school & fy 2017 proposed funding school name fy16 at risk fy16 at risk proposed proposed enrollment funding fy2016 fy16 audit actual actual count at risk fy17 at risk fy17 at risk proposed proposed enrollment funding name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) at-risk funding — at risk report 2015 final 10 01 2015[1] category number of schools percentage name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i finance per-pupil per pupil expenditure spending budget cost funding pre-k pre-kindergarten prek preschool early childhood early learning head start"
@@ -33958,7 +33958,6 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Enrollment by Sector",
      "label": "2026",
      "tabs": [
@@ -34086,7 +34085,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Commute Paths 2024",
@@ -34173,7 +34173,6 @@ window.CATALOG = {
       "boundaries",
       "enrollment"
      ],
-     "syn": "accountability aspire pmf rating school quality sqr star",
      "tabs": [
       {
        "name": "Introduction",
@@ -34241,7 +34240,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Distance 2026",
@@ -34252,7 +34252,6 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Distance to School",
      "label": "2026",
      "tabs": [
@@ -34353,7 +34352,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Enrollment Patterns — EdScape Chapter 1 Population and Students Where Students Miss School 2026",
@@ -34365,7 +34365,6 @@ window.CATALOG = {
       "attendance",
       "enrollment"
      ],
-     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy",
      "tabs": [
       {
        "name": "Introduction",
@@ -34401,7 +34400,8 @@ window.CATALOG = {
         "Notes"
        ]
       }
-     ]
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     },
     {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Feeders 2026",
@@ -34413,7 +34413,6 @@ window.CATALOG = {
       "boundaries",
       "enrollment"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Feeder Patterns",
      "label": "2026",
      "tabs": [
@@ -34500,7 +34499,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns GPR 2026",
@@ -34511,7 +34511,6 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Grade Progression (GPR)",
      "label": "2026",
      "tabs": [
@@ -34653,7 +34652,8 @@ window.CATALOG = {
        "n_rows": 1,
        "columns": []
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Population and Students — EdScape Chapter 4 Enrollment Patterns Total Public School Enrollment 2026",
@@ -34905,7 +34905,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Tableau underlying data",
      "label": "unknown",
      "tabs": [
@@ -34950,7 +34949,8 @@ window.CATALOG = {
         "Matches on Results Day by Preference"
        ]
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Total applications and results from 2018 to 2026 lotteries",
@@ -35034,13 +35034,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2026",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications by Grade",
@@ -35051,13 +35051,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2025",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications by Grade",
@@ -35068,13 +35068,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2024",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants by Grade",
@@ -35085,13 +35085,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2023",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants grade",
@@ -35102,13 +35102,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2022",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications bygrade",
@@ -35119,13 +35119,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2021",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications bygrade",
@@ -35136,13 +35136,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2020",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications bygrade",
@@ -35153,13 +35153,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2019",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications bygrade",
@@ -35170,13 +35170,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2018",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications bygrade",
@@ -35187,13 +35187,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2017",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery number of applications by grade",
@@ -35204,13 +35204,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applications bygrade",
@@ -35221,13 +35221,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2015",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applications bygrade",
@@ -35238,13 +35238,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2014",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications Seats Available",
@@ -35255,7 +35255,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2026",
      "n_pages": 1,
@@ -35267,7 +35266,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications and Seats by Grade",
@@ -35278,7 +35278,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2025",
      "n_pages": 1,
@@ -35290,7 +35289,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 10
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications and Seats by Grade",
@@ -35301,7 +35301,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2024",
      "n_pages": 1,
@@ -35313,7 +35312,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants and Seats Offered by Grade",
@@ -35324,7 +35324,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2023",
      "n_pages": 1,
@@ -35341,7 +35340,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35352,7 +35352,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2022",
      "n_pages": 1,
@@ -35369,7 +35368,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35380,7 +35380,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2021",
      "n_pages": 1,
@@ -35402,7 +35401,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35413,7 +35413,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2020",
      "n_pages": 1,
@@ -35460,7 +35459,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35471,7 +35471,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2019",
      "n_pages": 1,
@@ -35518,7 +35517,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35529,7 +35529,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2018",
      "n_pages": 1,
@@ -35544,7 +35543,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications seats offered",
@@ -35555,7 +35555,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2017",
      "n_pages": 1,
@@ -35570,7 +35569,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery applications and seats offered",
@@ -35581,7 +35581,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -35596,7 +35595,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applications seats offered",
@@ -35607,7 +35607,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2015",
      "n_pages": 1,
@@ -35622,7 +35621,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applications seats offered",
@@ -35633,7 +35633,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2014",
      "n_pages": 1,
@@ -35648,7 +35647,8 @@ window.CATALOG = {
        ],
        "n_rows": 16
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Unique Applicants Waitlists",
@@ -35659,7 +35659,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2026",
      "n_pages": 1,
@@ -35706,7 +35705,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Unique Applicants Waitlisted",
@@ -35717,7 +35717,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2025",
      "n_pages": 1,
@@ -35764,7 +35763,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Unique Applicants Waitlisted",
@@ -35775,7 +35775,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2024",
      "n_pages": 1,
@@ -35822,7 +35821,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Unique Applicants Waitlisted",
@@ -35833,7 +35833,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2023",
      "n_pages": 1,
@@ -35880,7 +35879,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants waitlisted",
@@ -35891,7 +35891,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2022",
      "n_pages": 1,
@@ -35938,7 +35937,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — unique applicants waitlist",
@@ -35949,7 +35949,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2021",
      "n_pages": 1,
@@ -35996,7 +35995,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — unique applicants waitlist",
@@ -36007,7 +36007,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2020",
      "n_pages": 1,
@@ -36054,7 +36053,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — unique applicants waitlist",
@@ -36065,7 +36065,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2019",
      "n_pages": 1,
@@ -36112,7 +36111,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants waitlist",
@@ -36123,7 +36123,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2018",
      "n_pages": 1,
@@ -36137,7 +36136,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants waitlist",
@@ -36148,7 +36148,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2017",
      "n_pages": 1,
@@ -36162,7 +36161,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery unique applicants on wls by grade",
@@ -36173,7 +36173,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -36187,7 +36186,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants waitlist",
@@ -36198,7 +36198,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2015",
      "n_pages": 1,
@@ -36212,7 +36211,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants waitlist",
@@ -36223,7 +36223,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2014",
      "n_pages": 1,
@@ -36237,7 +36236,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications Preferred Language",
@@ -36249,7 +36249,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2026",
      "n_pages": 1,
@@ -36265,7 +36264,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Language Percent",
@@ -36276,7 +36276,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2025",
      "n_pages": 1,
@@ -36292,7 +36291,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Language",
@@ -36303,7 +36303,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2024",
      "n_pages": 1,
@@ -36319,7 +36318,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Language",
@@ -36330,7 +36330,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2023",
      "n_pages": 1,
@@ -36346,7 +36345,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants language",
@@ -36357,7 +36357,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2022",
      "n_pages": 1,
@@ -36373,7 +36372,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants preferred language",
@@ -36385,7 +36385,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2021",
      "n_pages": 1,
@@ -36401,7 +36400,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants preferred language",
@@ -36413,7 +36413,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2020",
      "n_pages": 1,
@@ -36429,7 +36428,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants preferred language",
@@ -36441,7 +36441,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2019",
      "n_pages": 1,
@@ -36457,7 +36456,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants preferred language",
@@ -36469,7 +36469,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2018",
      "n_pages": 1,
@@ -36485,7 +36484,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants preferred language",
@@ -36497,7 +36497,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2017",
      "n_pages": 1,
@@ -36513,7 +36512,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery applicants by preferred language",
@@ -36525,7 +36525,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2016",
      "n_pages": 1,
@@ -36541,7 +36540,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants preferred language",
@@ -36553,7 +36553,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2015",
      "n_pages": 1,
@@ -36569,7 +36568,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants preferred language",
@@ -36581,7 +36581,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2014",
      "n_pages": 1,
@@ -36597,7 +36596,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Distribution Applications Ward",
@@ -36608,7 +36608,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2026",
      "n_pages": 1,
@@ -36624,7 +36623,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Ward",
@@ -36635,7 +36635,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2025",
      "n_pages": 1,
@@ -36651,7 +36650,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Ward",
@@ -36662,7 +36662,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2024",
      "n_pages": 1,
@@ -36678,7 +36677,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Ward",
@@ -36689,7 +36689,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2023",
      "n_pages": 1,
@@ -36704,7 +36703,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants Ward",
@@ -36715,7 +36715,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2022",
      "n_pages": 1,
@@ -36730,7 +36729,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants byward",
@@ -36741,7 +36741,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2021",
      "n_pages": 1,
@@ -36756,7 +36755,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants byward",
@@ -36767,7 +36767,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2020",
      "n_pages": 1,
@@ -36782,7 +36781,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward",
@@ -36793,7 +36793,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2019",
      "n_pages": 1,
@@ -36808,7 +36807,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants byward",
@@ -36819,7 +36819,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2018",
      "n_pages": 1,
@@ -36834,7 +36833,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants byward",
@@ -36845,7 +36845,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2017",
      "n_pages": 1,
@@ -36860,7 +36859,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery distribution of applications by war",
@@ -36871,7 +36871,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2016",
      "n_pages": 1,
@@ -36886,7 +36885,8 @@ window.CATALOG = {
        ],
        "n_rows": 7
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants byward",
@@ -36897,7 +36897,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2015",
      "n_pages": 1,
@@ -36912,7 +36911,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 applicants byward",
@@ -36923,7 +36923,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Ward",
      "label": "2014",
      "n_pages": 1,
@@ -36938,7 +36937,8 @@ window.CATALOG = {
        ],
        "n_rows": 9
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Grade Ward",
@@ -36949,7 +36949,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2026",
      "n_pages": 1,
@@ -36963,7 +36962,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Grade Ward",
@@ -36974,7 +36974,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2025",
      "n_pages": 1,
@@ -36988,7 +36987,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Grade Ward",
@@ -36999,7 +36999,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2024",
      "n_pages": 1,
@@ -37013,7 +37012,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applicants Grade Ward",
@@ -37024,7 +37024,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2023",
      "n_pages": 1,
@@ -37039,7 +37038,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants grade ward",
@@ -37050,7 +37050,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2022",
      "n_pages": 1,
@@ -37065,7 +37064,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward grade",
@@ -37076,7 +37076,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2021",
      "n_pages": 1,
@@ -37091,7 +37090,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward grade",
@@ -37102,7 +37102,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2020",
      "n_pages": 1,
@@ -37117,7 +37116,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward grade",
@@ -37128,7 +37128,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2019",
      "n_pages": 1,
@@ -37143,7 +37142,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward grade",
@@ -37154,7 +37154,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2018",
      "n_pages": 1,
@@ -37169,7 +37168,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applications byward grade",
@@ -37180,7 +37180,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2017",
      "n_pages": 1,
@@ -37195,7 +37194,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Lottery Applications byWardandGrade",
@@ -37206,7 +37206,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2016",
      "n_pages": 1,
@@ -37221,7 +37220,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications byWardandGrade",
@@ -37232,7 +37232,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2015",
      "n_pages": 1,
@@ -37247,7 +37246,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Applications byWardandGrade",
@@ -37258,7 +37258,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2014",
      "n_pages": 1,
@@ -37273,7 +37272,8 @@ window.CATALOG = {
        ],
        "n_rows": 12
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Rate Ward Residence",
@@ -37284,7 +37284,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2026",
      "n_pages": 1,
@@ -37296,7 +37295,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Rate Ward",
@@ -37307,7 +37307,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2025",
      "n_pages": 1,
@@ -37319,7 +37318,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Rate Ward",
@@ -37330,13 +37330,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2024",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Rate Ward",
@@ -37347,7 +37347,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2023",
      "n_pages": 1,
@@ -37359,7 +37358,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicants match ward",
@@ -37370,7 +37370,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2022",
      "n_pages": 1,
@@ -37382,7 +37381,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate ward",
@@ -37393,7 +37393,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2021",
      "n_pages": 1,
@@ -37405,7 +37404,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 3
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate ward",
@@ -37416,7 +37416,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2020",
      "n_pages": 1,
@@ -37428,7 +37427,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate ward",
@@ -37439,7 +37439,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2019",
      "n_pages": 1,
@@ -37451,7 +37450,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 4
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate ward",
@@ -37462,13 +37462,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2018",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — 2017 Lottery Data Slides Match Rate by Ward of Residence",
@@ -37479,13 +37479,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2017",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery match rate by ward of residence",
@@ -37496,13 +37496,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2016",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 match rate ward",
@@ -37513,13 +37513,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2015",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 match rate ward",
@@ -37530,13 +37530,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2014",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Median School Selection",
@@ -37547,7 +37547,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2026",
      "n_pages": 1,
@@ -37559,7 +37558,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Median School Choices by Grade",
@@ -37570,7 +37570,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2025",
      "n_pages": 1,
@@ -37582,7 +37581,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Median School Choices by Grade",
@@ -37593,7 +37593,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2024",
      "n_pages": 1,
@@ -37605,7 +37604,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Median School Choices by Grade",
@@ -37616,7 +37616,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2023",
      "n_pages": 1,
@@ -37628,7 +37627,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — applicant median school selection",
@@ -37639,7 +37639,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2022",
      "n_pages": 1,
@@ -37651,7 +37650,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — median number selections",
@@ -37662,7 +37662,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2021",
      "n_pages": 1,
@@ -37674,7 +37673,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — median number selections",
@@ -37685,7 +37685,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2020",
      "n_pages": 1,
@@ -37697,7 +37696,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — median number selections",
@@ -37708,7 +37708,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2019",
      "n_pages": 1,
@@ -37720,7 +37719,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — median number selections",
@@ -37731,7 +37731,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2018",
      "n_pages": 1,
@@ -37743,7 +37742,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — 2017 Lottery Data Slides Median Number of School Selections",
@@ -37754,7 +37754,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2017",
      "n_pages": 1,
@@ -37766,7 +37765,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery median number of school selections",
@@ -37777,7 +37777,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2016",
      "n_pages": 1,
@@ -37789,7 +37788,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 median number selections",
@@ -37800,7 +37800,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2015",
      "n_pages": 1,
@@ -37812,7 +37811,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 median number selections",
@@ -37823,7 +37823,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Median # of School Selections",
      "label": "2014",
      "n_pages": 1,
@@ -37835,7 +37834,8 @@ window.CATALOG = {
        "header": [],
        "n_rows": 32
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Rate Grade School Selections",
@@ -37846,7 +37846,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2026",
      "n_pages": 1,
@@ -37861,7 +37860,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Grade School Selections",
@@ -37872,7 +37872,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2025",
      "n_pages": 1,
@@ -37887,7 +37886,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Grade School Selection",
@@ -37898,7 +37898,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2024",
      "n_pages": 1,
@@ -37913,7 +37912,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — Match Grade School Selections",
@@ -37924,7 +37924,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2023",
      "n_pages": 1,
@@ -37939,7 +37938,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match grade school selection",
@@ -37950,7 +37950,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2022",
      "n_pages": 1,
@@ -37965,7 +37964,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate grade selections",
@@ -37976,7 +37976,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2021",
      "n_pages": 1,
@@ -37991,7 +37990,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate grade selections",
@@ -38002,7 +38002,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2020",
      "n_pages": 1,
@@ -38017,7 +38016,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate grade selections",
@@ -38028,7 +38028,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2019",
      "n_pages": 1,
@@ -38043,7 +38042,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — match rate grade selections",
@@ -38054,7 +38054,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2018",
      "n_pages": 1,
@@ -38069,7 +38068,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — 2017 Lottery Data Slides Match Rate by Grade and Number of School Selections",
@@ -38080,7 +38080,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2017",
      "n_pages": 1,
@@ -38095,7 +38094,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — lottery match rate by grade and number of s",
@@ -38106,7 +38106,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2016",
      "n_pages": 1,
@@ -38121,7 +38120,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 match rate grade selections",
@@ -38132,7 +38132,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2015",
      "n_pages": 1,
@@ -38147,7 +38146,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Lottery Data — r1 match rate grade selections",
@@ -38158,7 +38158,6 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2014",
      "n_pages": 1,
@@ -38173,7 +38172,8 @@ window.CATALOG = {
        ],
        "n_rows": 18
       }
-     ]
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "My School DC Process and Requirements to Conduct Research",
@@ -38184,13 +38184,13 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
-     "syn": "lottery my school dc school choice waitlist",
      "series": "Lottery: Other / research",
      "label": "unknown",
      "n_pages": 6,
      "has_tabular_data": false,
      "n_table_pages": 0,
-     "tables": []
+     "tables": [],
+     "syn": "lottery my school dc school choice waitlist"
     },
     {
      "name": "Giving At-Risk Students Preference in a Unified Lottery for Public Schools",
@@ -38202,7 +38202,6 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
-     "syn": "at-risk disadvantaged economically disadvantaged farms free lunch frpl lottery low income low-income my school dc poverty school choice title i waitlist",
      "series": "Lottery: Other / research",
      "label": "unknown",
      "n_pages": 27,
@@ -38284,7 +38283,8 @@ window.CATALOG = {
        ],
        "n_rows": 2
       }
-     ]
+     ],
+     "syn": "at-risk disadvantaged economically disadvantaged farms free lunch frpl lottery low income low-income my school dc poverty school choice title i waitlist"
     },
     {
      "name": "Dual Language Immersion Demand",
