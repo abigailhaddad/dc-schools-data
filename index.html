@@ -61,12 +61,12 @@
 <div class="container">
   <div class="filterbar">
     <div class="row g-2">
-      <div class="col-12 col-lg-5">
+      <div class="col-12 col-lg-5" id="wrap-q">
         <input id="q" type="search" class="form-control form-control-lg"
                placeholder="Search: AP, SAT, truancy, enrollment, per-pupil, lottery…" autofocus>
       </div>
-      <div class="col-6 col-lg-3"><select id="owner" class="form-select"></select></div>
-      <div class="col-4 col-lg-3"><select id="year" class="form-select"></select></div>
+      <div class="col-6 col-lg-3" id="wrap-owner"><select id="owner" class="form-select"></select></div>
+      <div class="col-4 col-lg-3" id="wrap-year"><select id="year" class="form-select"></select></div>
       <div class="col-2 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
     </div>
 
@@ -512,6 +512,16 @@ function renderColumns() {
     : '<div class="alert alert-light border">No column headers match. Try a shorter term (e.g. proficient, absentee, ward).</div>';
 }
 
+// which filter controls actually do something in each view — only those are shown
+// (search bleeding into views that ignore it is what made the UI feel broken).
+const VIEW_FILTERS = {
+  files:    { q: 1, owner: 1, year: 1, topics: 1 },
+  coverage: { q: 0, owner: 1, year: 0, topics: 0 },
+  columns:  { q: 1, owner: 1, year: 0, topics: 0 },
+  sources:  { q: 1, owner: 1, year: 0, topics: 1 },
+  overlaps: { q: 1, owner: 0, year: 0, topics: 0 },
+};
+
 const VIEWS = {
   files:    { div: "files",    tab: "tab-files",    render: renderFiles },
   coverage: { div: "coverage", tab: "tab-coverage", render: renderCoverage },
@@ -526,6 +536,13 @@ function render() {
     document.getElementById(v.div).style.display = active ? "" : "none";
     document.getElementById(v.tab).classList.toggle("active", active);
   }
+  // show only the filter controls that actually filter the current view
+  const ff = VIEW_FILTERS[state.view];
+  document.getElementById("wrap-q").style.display = ff.q ? "" : "none";
+  document.getElementById("wrap-owner").style.display = ff.owner ? "" : "none";
+  document.getElementById("wrap-year").style.display = ff.year ? "" : "none";
+  document.getElementById("topicchips").style.display = ff.topics ? "" : "none";
+
   // reflect filter state back onto the controls (single source of truth = state).
   // Drop an active topic that has no data for the current owner+year, then rebuild
   // the chips so only non-empty topics are clickable — a chip never leads to nothing.
