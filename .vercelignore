@@ -5,3 +5,7 @@ data_cache/
 __pycache__/
 *.pyc
 file_profiles.prev.json
+requirements.txt
+*.py
+sources.yaml
+data_files.yaml

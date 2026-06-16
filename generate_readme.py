@@ -93,6 +93,12 @@ def derive_series(source_id: str, name: str, year):
     sets that recur by school (PCSB equity) or by metric under drifting filenames
     (My School DC lottery). Returns {} to fall back to the year heuristic."""
     low = name.lower()
+    # Open Data DC publishes the school list as two sector files (DCPS / charter) —
+    # the cross-sector pair of one directory dataset. Group them, label by sector.
+    if source_id == "opendata-dcps-locations":
+        return {"series": "School Locations (DCPS + charter)", "label": "DCPS"}
+    if source_id == "opendata-charter-locations":
+        return {"series": "School Locations (DCPS + charter)", "label": "Charter"}
     # The OSSE Educator Workforce page has several distinct flat files PER YEAR
     # (Counts & Demographics, Retention, Supply & Demand, Prep & Performance, …).
     # Let the name heuristic split them into one series per sub-file; the broad
@@ -335,7 +341,8 @@ def main() -> int:
       "judgment — how the same metric differs across places.\n")
     w(f"> **Scope:** K-12 public (DCPS + charters). No higher ed.  \n"
       f"> **Last verified:** {last_verified}  \n"
-      f"> **Browse it:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  \n"
+      f"> **Live site:** <https://dc-schools-data.vercel.app>  \n"
+      f"> **Browse it locally:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  \n"
       f"> **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). "
       f"Do not edit this README by hand — run `python generate_readme.py`.\n")
 

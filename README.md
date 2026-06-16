@@ -6,7 +6,8 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 
 > **Scope:** K-12 public (DCPS + charters). No higher ed.  
 > **Last verified:** 2026-06  
-> **Browse it:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  
+> **Live site:** <https://dc-schools-data.vercel.app>  
+> **Browse it locally:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  
 > **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). Do not edit this README by hand — run `python generate_readme.py`.
 
 ## How this repo works

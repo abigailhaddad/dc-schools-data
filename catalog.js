@@ -37368,6 +37368,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Locations (DCPS + charter)",
+     "label": "DCPS",
      "columns": [
       "X",
       "Y",
@@ -37435,6 +37437,8 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "series": "School Locations (DCPS + charter)",
+     "label": "Charter",
      "columns": [
       "X",
       "Y",
