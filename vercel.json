@@ -3,5 +3,29 @@
   "framework": null,
   "buildCommand": null,
   "installCommand": null,
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "dc-schools-data.vercel.app"
+        }
+      ],
+      "destination": "https://dc-schools-data.abigailhaddad.com/",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "dc-schools-data.vercel.app"
+        }
+      ],
+      "destination": "https://dc-schools-data.abigailhaddad.com/:path*",
+      "permanent": false
+    }
+  ]
 }

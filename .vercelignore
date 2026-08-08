@@ -1,5 +1,11 @@
 # Only the static site (index.html + catalog.js) needs to ship. Keep the big
 # local cache and scratch dirs out of the Vercel upload.
+#
+# .vercelignore is the only list Vercel reads - it does NOT honour .gitignore.
+# .claude/ is gitignored, which hid it locally while Vercel published it: both
+# .claude/settings.local.json and .claude/skills/**/SKILL.md were serving 200
+# in production. Anything meant to stay private has to be named here too.
+.claude/
 data_cache/
 .playwright-mcp/
 __pycache__/
