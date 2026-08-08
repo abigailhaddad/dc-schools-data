@@ -395,7 +395,7 @@ def main() -> int:
       "judgment — how the same metric differs across places.\n")
     w(f"> **Scope:** K-12 public (DCPS + charters). No higher ed.  \n"
       f"> **Last verified:** {last_verified}  \n"
-      f"> **Live site:** <https://dc-schools-data.vercel.app>  \n"
+      f"> **Live site:** <https://dc-schools-data.abigailhaddad.com>  \n"
       f"> **Browse it locally:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  \n"
       f"> **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). "
       f"Do not edit this README by hand — run `python generate_readme.py`.\n")
