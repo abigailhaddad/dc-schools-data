@@ -23,7 +23,11 @@ ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "sources.yaml"
 PROFILES = ROOT / "file_profiles.json"
 OUT = ROOT / "README.md"
-CATALOG_JS = ROOT / "catalog.js"   # data the static front end (index.html) loads
+# `public/` is the PUBLISH DIRECTORY — the only thing that ever gets uploaded to
+# the host. It must contain the site and nothing else (no build inputs, no
+# data_cache, no .py/.yaml/.md). test_publish_dir.py enforces that.
+PUBLIC = ROOT / "public"
+CATALOG_JS = PUBLIC / "catalog.js"   # data the static front end (public/index.html) loads
 
 STATUS_NOTE = {
     "ok": "",
@@ -353,6 +357,7 @@ def write_catalog_js(doc, profiles) -> int:
     catalog = {"last_verified": doc.get("last_verified", "?"),
                "owners": doc["owners"], "sources": sources_js, "overlaps": overlaps_js,
                "synonyms": SYNONYM_GROUPS}
+    PUBLIC.mkdir(exist_ok=True)
     CATALOG_JS.write_text("window.CATALOG = "
                           + json.dumps(catalog, ensure_ascii=False, indent=1)
                           + ";\n")
@@ -396,7 +401,8 @@ def main() -> int:
     w(f"> **Scope:** K-12 public (DCPS + charters). No higher ed.  \n"
       f"> **Last verified:** {last_verified}  \n"
       f"> **Live site:** <https://dc-schools-data.abigailhaddad.com>  \n"
-      f"> **Browse it locally:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  \n"
+      f"> **Browse it locally:** `python3 -m http.server -d public` then open <http://localhost:8000/> "
+      f"— searchable, filter by topic/owner/year.  \n"
       f"> **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). "
       f"Do not edit this README by hand — run `python generate_readme.py`.\n")
 
@@ -408,8 +414,9 @@ def main() -> int:
     w("| [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this** (or append via the harvester). |")
     w("| [`profile_files.py`](profile_files.py) | Downloads each file and extracts tabs/columns (xlsx/csv) or pages + tables (pdf) → `file_profiles.json`. |")
     w("| [`add_harvested_files.py`](add_harvested_files.py) | Turns a browser link-harvest into `data_files.yaml` rows (infers year/topics, dedupes). |")
-    w("| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `catalog.js` from the YAML + profiles. |")
-    w("| [`index.html`](index.html) | Static front end (Bootstrap + vanilla JS) that loads `catalog.js`. No build step. |")
+    w("| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `public/catalog.js` from the YAML + profiles. |")
+    w("| [`public/`](public) | **The publish directory** — the only thing uploaded to the host. `index.html` (Bootstrap + vanilla JS) + `catalog.js` + `404.html`. Nothing else may live here. |")
+    w("| [`test_publish_dir.py`](test_publish_dir.py) | Guards the publish directory: allowlist of files, 25 MiB/file host limit, no private paths. |")
     w("| [`refresh.sh`](refresh.sh) / GitHub Action | Re-download + re-profile + regenerate on a schedule (Layer-1 automation). |")
     w("| `update-dc-schools-data` skill | The process for re-verifying links, harvesting new files, and regenerating. |\n")
 

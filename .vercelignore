@@ -1,17 +1,26 @@
-# Only the static site (index.html + catalog.js) needs to ship. Keep the big
-# local cache and scratch dirs out of the Vercel upload.
+# Belt-and-braces only. The real guarantee is vercel.json's
+# "outputDirectory": "public" — the publish directory holds ONLY the site
+# (index.html + catalog.js + 404.html), enforced by test_publish_dir.py.
 #
-# .vercelignore is the only list Vercel reads - it does NOT honour .gitignore.
-# .claude/ is gitignored, which hid it locally while Vercel published it: both
-# .claude/settings.local.json and .claude/skills/**/SKILL.md were serving 200
-# in production. Anything meant to stay private has to be named here too.
+# History, so nobody re-widens the scope: outputDirectory used to be "." and
+# Vercel published the whole repo root (648 MB / 593 files, including the
+# gitignored data_cache/). .vercelignore is the ONLY list Vercel reads — it does
+# NOT honour .gitignore — so .claude/settings.local.json and
+# .claude/skills/**/SKILL.md served 200 in production, and CLAUDE.md and
+# refresh.sh were still serving 200 after those were added here. A deny-list you
+# have to remember to update is the wrong shape; the publish directory is the fix.
 .claude/
-data_cache/
 .playwright-mcp/
+.vercel/
 __pycache__/
+data_cache/
+harvest/
 *.pyc
+*.py
+*.sh
+*.yaml
+*.md
+.DS_Store
+file_profiles.json
 file_profiles.prev.json
 requirements.txt
-*.py
-sources.yaml
-data_files.yaml

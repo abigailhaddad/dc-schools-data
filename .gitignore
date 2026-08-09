@@ -16,3 +16,6 @@ venv/
 # Local Claude runtime
 .claude/scheduled_tasks.lock
 .vercel
+
+# macOS metadata
+.DS_Store

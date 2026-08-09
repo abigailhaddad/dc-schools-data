@@ -7,7 +7,7 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 > **Scope:** K-12 public (DCPS + charters). No higher ed.  
 > **Last verified:** 2026-06  
 > **Live site:** <https://dc-schools-data.abigailhaddad.com>  
-> **Browse it locally:** open [`index.html`](index.html) — searchable, filter by topic/owner/year.  
+> **Browse it locally:** `python3 -m http.server -d public` then open <http://localhost:8000/> — searchable, filter by topic/owner/year.  
 > **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). Do not edit this README by hand — run `python generate_readme.py`.
 
 ## How this repo works
@@ -18,8 +18,9 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 | [`data_files.yaml`](data_files.yaml) | Direct download URLs for individual files (xlsx/csv/pdf). **Edit this** (or append via the harvester). |
 | [`profile_files.py`](profile_files.py) | Downloads each file and extracts tabs/columns (xlsx/csv) or pages + tables (pdf) → `file_profiles.json`. |
 | [`add_harvested_files.py`](add_harvested_files.py) | Turns a browser link-harvest into `data_files.yaml` rows (infers year/topics, dedupes). |
-| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `catalog.js` from the YAML + profiles. |
-| [`index.html`](index.html) | Static front end (Bootstrap + vanilla JS) that loads `catalog.js`. No build step. |
+| [`generate_readme.py`](generate_readme.py) | Renders this README **and** `public/catalog.js` from the YAML + profiles. |
+| [`public/`](public) | **The publish directory** — the only thing uploaded to the host. `index.html` (Bootstrap + vanilla JS) + `catalog.js` + `404.html`. Nothing else may live here. |
+| [`test_publish_dir.py`](test_publish_dir.py) | Guards the publish directory: allowlist of files, 25 MiB/file host limit, no private paths. |
 | [`refresh.sh`](refresh.sh) / GitHub Action | Re-download + re-profile + regenerate on a schedule (Layer-1 automation). |
 | `update-dc-schools-data` skill | The process for re-verifying links, harvesting new files, and regenerating. |
 

@@ -25,10 +25,11 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+PUBLIC = ROOT / "public"          # the publish directory: index.html + catalog.js live here
 
 
 def load_catalog() -> dict:
-    txt = (ROOT / "catalog.js").read_text()
+    txt = (PUBLIC / "catalog.js").read_text()
     txt = txt[txt.index("{"):txt.rindex("}") + 1]   # strip `window.CATALOG = ` … `;`
     return json.loads(txt)
 
@@ -36,7 +37,7 @@ def load_catalog() -> dict:
 def chip_tags() -> list[str]:
     """The topic tags wired up as chips in index.html (read from source, not copied,
     so the test can't drift from the page)."""
-    html = (ROOT / "index.html").read_text()
+    html = (PUBLIC / "index.html").read_text()
     block = re.search(r"const TOPIC_CHIPS\s*=\s*\[(.*?)\];", html, re.S)
     if not block:
         sys.exit("could not find TOPIC_CHIPS in index.html")

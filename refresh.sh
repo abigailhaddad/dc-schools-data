@@ -26,6 +26,9 @@ python3 generate_readme.py
 echo "==> Checking front-end invariants (no empty topic chips)…"
 python3 test_frontend.py
 
+echo "==> Checking the publish directory (allow-list, 25 MiB/file, no private paths)…"
+python3 test_publish_dir.py
+
 echo "==> Scanning for split datasets (one series stops, a near-identical one starts)…"
 python3 find_split_series.py   # informational: flags candidates for a derive_series rule
 

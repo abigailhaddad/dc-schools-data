@@ -27,7 +27,7 @@ MIN_COLS = 4          # ignore tiny/headerless signatures
 
 
 def load_catalog() -> dict:
-    txt = (ROOT / "catalog.js").read_text()
+    txt = (ROOT / "public" / "catalog.js").read_text()
     return json.loads(txt[txt.index("{"):txt.rindex("}") + 1])
 
 

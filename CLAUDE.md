@@ -21,7 +21,7 @@ cross-sector vs sector-only, expenditure vs allocation, different rating *scales
 
 ```
 sources.yaml ─────────────────────────────────┐
-data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generate_readme.py ─► README.md + catalog.js ─► index.html
+data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generate_readme.py ─► README.md + public/catalog.js ─► public/index.html
 ```
 
 - **`sources.yaml`** — hand-curated: the ~66 sources (with `topics`, `cadence`,
@@ -35,7 +35,7 @@ data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generat
   extracts: xlsx/xls → sheet names + columns + row counts; csv → columns + rows;
   pdf → page count + tables scanned across the whole doc (`has_tabular_data`).
   Writes `file_profiles.json`. `--only <ids>` updates a subset; `--refresh` re-downloads.
-- **`generate_readme.py`** — renders `README.md` **and** `catalog.js`
+- **`generate_readme.py`** — renders `README.md` **and** `public/catalog.js`
   (`window.CATALOG = {...}`). All display logic lives here: `derive_series()`
   (grouping), `infer_file_topics()` (per-file topics), title cleanup. The
   "Known gaps" section computes its status counts from `file_profiles.json`, so
@@ -55,12 +55,12 @@ data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generat
   shape changes, fixed/new/removed). `refresh.sh` snapshots → re-profiles → diffs.
 - **`test_frontend.py`** — guards the front-end invariant that **no topic chip is
   ever empty**. Reads the real `catalog.js` + the `TOPIC_CHIPS` list from
-  `index.html` and checks every chip-topic has ≥1 year-tagged file, every year/owner
+  `public/index.html` and checks every chip-topic has ≥1 year-tagged file, every year/owner
   has ≥1 chip, and the availability rule never surfaces an empty chip. Run after
   `generate_readme.py` (it reads `catalog.js`); wired into `refresh.sh` + CI. This is
   why DC CAS counts as `assessment` and the EdScape boundary files carry years —
   the test fails loudly if a topic would show a chip that leads to nothing.
-- **`index.html`** — static, Bootstrap CDN + flat vanilla JS, loads `catalog.js`
+- **`public/index.html`** — static, Bootstrap CDN + flat vanilla JS, loads `catalog.js`
   via `<script src>` (so it opens from `file://`; no server/build). Five views:
   Search files (grouped series, default), **Coverage** (topic × year heatmap,
   cells click through to the filtered files view), **Columns** (every column
@@ -75,10 +75,42 @@ data_files.yaml ─► profile_files.py ─► file_profiles.json ─► generat
 Regenerate after any data/generator change: `python validate.py && python generate_readme.py`.
 Full rebuild: `python profile_files.py && python generate_readme.py`.
 
+## Deployment — the publish directory
+
+**`public/` is the publish directory: the ONLY thing that gets uploaded to the
+host.** It contains exactly `index.html`, `catalog.js`, `404.html` and nothing
+else. Never put build inputs, data, or docs in it.
+
+Why this matters: the old Vercel config used `"outputDirectory": "."`, which
+published the whole repo root — 648 MB / 593 files, including the gitignored
+`data_cache/`. `.vercelignore` is the ONLY list Vercel reads (it does **not**
+honour `.gitignore`), so `.claude/settings.local.json` and
+`.claude/skills/**/SKILL.md` served 200 in production, and `CLAUDE.md`,
+`refresh.sh`, `search_synonyms.yaml`, `file_profiles.json` and `harvest/*.json`
+were still serving 200 after those were patched. A deny-list you have to remember
+to update is the wrong shape — a publish directory plus an allow-list is the fix.
+
+- **`test_publish_dir.py`** enforces it: allow-list of files, Cloudflare Pages'
+  hard 25 MiB (26,214,400 byte) per-file limit and 20,000-file limit, no private
+  paths, `404.html` present. Wired into `refresh.sh` + CI. Run it after any change
+  to what ships.
+- **Every data link in `catalog.js` is an absolute external URL** (~579 of them,
+  pointing at OSSE/DCPS/etc.). The site never serves a data file itself, which is
+  why the publish dir stays ~1.6 MB and no file comes near the 25 MiB limit. Keep
+  it that way — don't start hosting copies of source files.
+- **Cloudflare Pages has no default 404**: without `public/404.html` it serves
+  `index.html` with HTTP 200 for every unmatched path.
+- **`_redirects` matches on PATH ONLY.** Pages silently ignores any rule whose
+  source is an absolute URL (`https://host/*`) — tested and confirmed. The old
+  `vercel.json` redirects were host-conditional (`dc-schools-data.vercel.app` →
+  the custom domain); that has **no** `_redirects` equivalent and needs a
+  zone-level Cloudflare Redirect Rule instead. The site itself needs no path
+  redirects, so there is no `_redirects` file.
+
 ## Key concepts
 
 - **Dataset series.** The file view groups files into one card per dataset across
-  years. Two grouping paths in `generate_readme.py` / `index.html`:
+  years. Two grouping paths in `generate_readme.py` / `public/index.html`:
   - *Year-recurring* (most OSSE/EdScape): heuristic — strip year/version tokens
     from the name, group what's left.
   - *Renamed or per-entity*: explicit `derive_series()` rules return a stable
@@ -119,7 +151,7 @@ full playbook + code snippets):
 - JS: flat functions, `const`/`let`, no framework/build, fail loud. One `state`
   object owns filter state; `render()` reflects it onto all controls. `window.CATALOG`
   is the single data global. (See the user's `dumber-flatter-js` guidance.)
-- Verify JS before committing: `node --check <(sed -n '/<script>/,/<\/script>/p' index.html | sed '1d;$d')`.
+- Verify JS before committing: `node --check <(sed -n '/<script>/,/<\/script>/p' public/index.html | sed '1d;$d')`.
 - Commit only when asked. Trailer: `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`.
 - After harvesting, bump `last_verified` in `sources.yaml` and regenerate.
 

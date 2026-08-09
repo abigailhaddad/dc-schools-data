@@ -31,6 +31,8 @@ jobs:
           python generate_readme.py
       - name: Front-end invariants (no empty topic chips)
         run: python test_frontend.py
+      - name: Publish-dir guard (allow-list, 25 MiB/file, no private paths)
+        run: python test_publish_dir.py
       - name: Report drift
         run: |
           python report_drift.py file_profiles.prev.json file_profiles.json >> "$GITHUB_STEP_SUMMARY"
@@ -39,10 +41,20 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add catalog.js README.md file_profiles.json
+          git add public/catalog.js README.md file_profiles.json
           if git diff --cached --quiet; then
             echo "No changes — catalog is current."
           else
             git commit -m "Automated monthly catalog refresh"
             git push
           fi
+
+      # Vercel watched this repo and built on push, so publishing needed no
+      # step. Cloudflare Pages is a direct upload, so it does. Outside the
+      # commit conditional deliberately: public/ holds index.html too, and
+      # deploying only when the catalog changed would strand edits to the page.
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@4 pages deploy public --project-name=dc-schools-data --branch=main --commit-dirty=true
