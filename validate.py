@@ -9,6 +9,7 @@ Catches the mistakes that otherwise fail silently at render time:
     (generate_readme.py silently drops these)
   * a source whose owner isn't in the owners list
   * missing required fields; unknown `kind` or `status` values
+  * year `unknown` on a file whose filename carries a 4-digit year (harvester bug)
 
 Exits non-zero if any ERROR is found (wire into CI before generate_readme.py).
 WARNINGs are printed but don't fail the build.
@@ -18,8 +19,10 @@ Usage:
 """
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
+from urllib.parse import unquote, urlsplit
 
 import yaml
 
@@ -88,6 +91,12 @@ def main() -> int:
         src = f.get("source_id")
         if src and src not in source_ids:
             errors.append(f"{where}: source_id `{src}` has no matching source")
+        # A filename like ..._2026_0.xlsx carries a year; year="unknown" means the
+        # harvester failed to parse it (its \b regex once missed every EdScape file)
+        # and the file would vanish from the Coverage grid and year filters.
+        fname = unquote(urlsplit(str(f.get("url", ""))).path.rsplit("/", 1)[-1])
+        if str(f.get("year")) == "unknown" and re.search(r"(?<!\d)20\d{2}(?!\d)", fname):
+            errors.append(f"{where}: year is `unknown` but the filename `{fname}` contains a year")
         if src:
             sources_with_files.add(src)
 

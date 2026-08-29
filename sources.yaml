@@ -21,7 +21,7 @@
 #   notes        gotchas, fragmentation, where older years live, overlaps
 #
 # `last_verified` is the month the research sweep confirmed these URLs.
-last_verified: "2026-06"
+last_verified: "2026-08"
 
 owners:
   - key: OSSE
@@ -88,14 +88,14 @@ sources:
   - id: dc-school-report-card-site
     name: "DC School Report Card (public interactive site)"
     owner: OSSE
-    url: "https://dcschoolreportcard.org/"
+    url: "https://schoolreportcard.dc.gov/home"
     topics: [accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles]
     authority: authoritative
-    status: js-rendered
+    status: ok
     format: "Interactive web app (search/browse; not bulk download)"
     cadence: "Annual, refreshed ~December with prior school year"
     years: "Displays latest year only (SY2024-25); history in the Resource Library"
-    notes: "Cross-sector (DCPS + charter). Mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. JS app blocks crawlers (503) — open in a real browser. For analysis use the Resource Library files."
+    notes: "Cross-sector (DCPS + charter). osse.dc.gov/dcschoolreportcard redirects here. The old dcschoolreportcard.org hostname returns a blank 503 (checked Aug 2026, real browser too) — do not link it. For analysis use the Resource Library files."
 
   - id: osse-star-technical-guide
     name: "DC School Report Card & STAR Framework Technical Guide"
@@ -108,6 +108,18 @@ sources:
     cadence: "Annual, with each report card release"
     years: "2018–2025 (latest Sept 2025 update)"
     notes: "Methodology for every STAR metric. Essential companion to the data files."
+
+  - id: osse-assessment-2026
+    name: "Statewide Assessment Results 2025-26 (DC CAPE / MSAA)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+    authority: authoritative
+    status: ok
+    format: "Excel files (direct OSSE attachments) + PDF results deck and appendix"
+    cadence: "Annual, released late summer/fall"
+    years: "2025-26 only on this page"
+    notes: "Released Aug 20, 2026. Unlike prior years, the State/LEA/School-level files are direct osse.dc.gov attachments (not Box). New this year: separate Middle School Advanced Math files at each level. Also hosts translated score-report guides and sample ISRs (not catalogued). No /assessmentresults2026 alias exists — the page is reachable via the Data and Reports hub."
 
   - id: osse-assessment-2025
     name: "Statewide Assessment Results 2024-25 (DC CAPE / MSAA)"
@@ -661,8 +673,8 @@ sources:
     status: ok
     format: "Interactive Tableau dashboards + Excel downloads + PDF summaries"
     cadence: "Rolling, several releases/year"
-    years: "Through SY2025-26; some series back to SY2013-14"
-    notes: "DME's neighborhood education-data platform. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools."
+    years: "Through SY2026-27 (school counts); most series through SY2025-26; some back to SY2013-14"
+    notes: "DME's neighborhood education-data platform. Each chapter page carries a 'Download dataset' .xlsx whose filename ends in the release year (_2026, _2027) — new URLs each year, so the monthly refresh does not see them; re-sweep the chapter pages. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools."
 
   - id: edscape-release-notes
     name: "EdScape — Release Notes (changelog)"
@@ -697,7 +709,7 @@ sources:
     status: ok
     format: "Interactive dashboards + maps + Excel"
     cadence: "Annual+"
-    years: "SY2013-14 through SY2025-26"
+    years: "SY2013-14 through SY2026-27"
     notes: "Building counts/locations, programmatic capacity, utilization (how full), unfilled seats, DCPS modernizations. Produced with DC PCSB, DCPS, OSSE, DGS — the cross-sector facilities view."
 
   - id: dme-facility-planning

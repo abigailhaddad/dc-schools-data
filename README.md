@@ -5,7 +5,7 @@
 A map of **where DC public-school data actually lives** — across OSSE, DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for Education (DME). The data is real but scattered: split across agencies, buried on Tableau, with old years on different pages than new ones, and the *same* metric often published in several places. This catalog links each source, groups the files into multi-year dataset series, inventories their **tabs and columns** (and tables inside PDFs), and describes — without judgment — how the same metric differs across places.
 
 > **Scope:** K-12 public (DCPS + charters). No higher ed.  
-> **Last verified:** 2026-06  
+> **Last verified:** 2026-08  
 > **Live site:** <https://dc-schools-data.abigailhaddad.com>  
 > **Browse it locally:** `python3 -m http.server -d public` then open <http://localhost:8000/> — searchable, filter by topic/owner/year.  
 > **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). Do not edit this README by hand — run `python generate_readme.py`.
@@ -26,7 +26,7 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 
 ## Contents
 
-- [OSSE — Office of the State Superintendent of Education](#osse--office-of-the-state-superintendent-of-education) — 19 source(s)
+- [OSSE — Office of the State Superintendent of Education](#osse--office-of-the-state-superintendent-of-education) — 20 source(s)
 - [DCPS — DC Public Schools](#dcps--dc-public-schools) — 16 source(s)
 - [DC PCSB — DC Public Charter School Board](#dc-pcsb--dc-public-charter-school-board) — 14 source(s)
 - [DME — Deputy Mayor for Education](#dme--deputy-mayor-for-education) — 10 source(s)
@@ -50,6 +50,202 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
 - **Updated:** Rolling; underlying datasets annual
 - **Years on page:** Links span SY2014-15 to SY2024-25 by dataset
 - **Notes:** Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes.
+- **Data files (profiled):**
+  - [`2016-17 to 2018-19 School, LEA and State Assessment Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
+    - tab **State Level** (52 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **LEA Level** (1,924 rows × 2 cols) — cols: `ELA`, `Math`
+    - tab **School Level** (7,371 rows × 2 cols) — cols: `ELA`, `Math`
+  - [`2020 AP/IB and SAT Metric Scores`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (27 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **School Metric Scores** (12,091 rows × 9 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **LEA Metric Scores** (6,418 rows × 7 cols) — cols: `LEA Name`, `LEA Code`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **State Metric Scores** (373 rows × 5 cols) — cols: `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+  - [`2024-25 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Mobility%20Brief%20Data.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `2024-25 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2023-24 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Mobility%20Brief%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `2023-24 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2022-23 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20Mobility%20Brief%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `2022-23 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2021-22 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Mobility%20Brief%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `2021-22 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2020-21 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Mobility%20Brief%20Data.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (19 rows × 1 cols) — cols: `2020-21 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2019-20 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20Mobility%20Brief%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (19 rows × 1 cols) — cols: `2019-20 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2018-19 Mobility Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Mobility%20Brief%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (19 rows × 1 cols) — cols: `2018-19 Mid-Year Mobility Data Office of the State Superintendent of Education`
+    - tab **All Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Compulsory Aged Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **K-12 Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Pre-K Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+    - tab **Adult Students** (15 rows × 5 cols) — cols: `Measure`, `Description`, `Charter`, `DCPS`, `TOTAL`
+  - [`2020 Mobility and Re-enrollment Data Report`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20Student%20Movement%20-%20Metric%20Scores.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Data Notes** (20 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (54 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **School Metric Scores** (16,436 rows × 9 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **School Scores by Framework** (14,884 rows × 11 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `School Framework`, `Student Group`, `Domain`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **LEA Metric Scores** (4,104 rows × 7 cols) — cols: `LEA Name`, `LEA Code`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **LEA Scores by Framework** (4,808 rows × 9 cols) — cols: `LEA Name`, `LEA Code`, `School Framework`, `Student Group`, `Domain`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **State Metric Scores** (110 rows × 5 cols) — cols: `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+    - tab **State Scores by Framework** (280 rows × 7 cols) — cols: `School Framework`, `Student Group`, `Domain`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+  - [`Mid-Year Student Mobility 2016-17 School Year (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q8 Attachment - Mid-year Student Mobility SY16-17.xlsx) — **xlsx** — 17 tab(s)
+    - tab **Data Notes** (22 rows × 2 cols) — cols: `Title`, `Oversight 2017 Q8 Attachment - Mobility`
+    - tab **Overall Movement SY1415** (21 rows × 1 cols) — cols: `OSSE FY 17 POH Q6 (a) Response - Total Overall Movement, SY 14-15`
+    - tab **Overall Movement SY1516** (21 rows × 1 cols) — cols: `OSSE FY 17 POH Q6 (a) Response - Total Overall Movement, SY 15-16`
+    - tab **Overall Movement SY1617** (20 rows × 1 cols) — cols: `OSSE FY 17 POH Q8 Response- Overall Movement, SY 16-17`
+    - tab **Across DC Public Sectors SY1415** (21 rows × 1 cols) — cols: `OSSE FY 17 POH Q8 C Response- Movement Across Public Sectors, SY 14-15`
+    - tab **Across DC Public Sectors SY1516** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 C - Movement Across DC Public Sectors SY 15-16`
+    - tab **Across DC Public Sectors SY1617** (19 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 C- Across DC Public Sectors, SY 16-17`
+    - tab **Out of DC Public Sectors SY1415** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 (b)- Out of DC Public Sectors, SY 14-15`
+    - tab **Out of DC Public Sect SY1516** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 (b)- Out of DC Public Sector, SY 15-16`
+    - tab **Out of DC Public Sectors SY1617** (19 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 B Response- Out of DC Public Sectors SY 16-17`
+    - tab **Into DC Public Sector SY1415** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 18 POH Q8 B Response- Into DC Public Sector, SY 14-15`
+    - tab **Into DC Public Sector SY1516** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 B Response- Movement Into DC Public Sector, SY 15-16`
+    - tab **Into DC Public Sectors SY16-17** (20 rows × 2 cols) — cols: `Grade`, `Moved into DC public sectors: SY2016-17`
+    - tab **Within DC Public Sector SY1415** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 D, Within Public Sector, SY 14-15`
+    - tab **Within DC Public Sector SY1516** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 D Response- Within DC Public Sector, SY 15-16`
+    - tab **Within DC Public Sector SY16-17** (20 rows × 2 cols) — cols: `Grade`, `Moved within a DC public sector: SY2016-17`
+    - tab **Continuous Enrollment** (13 rows × 1 cols) — cols: `OSSE FY 17 POH Q8 E Response- Continuous Enrollment Demographics`
+  - [`Citywide Discipline Data — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data_Notes** (14 rows × 2 cols) — cols: `Title`, `Oversight 2017 Q10 Attachment - Discipline`
+    - tab **school_counts** (235 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School`
+    - tab **school_rates** (234 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School`
+    - tab **school_durations** (235 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Duration of Discipline by School`
+    - tab **school_removals** (239 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Removals by School`
+    - tab **lea_counts** (56 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by LEA`
+    - tab **lea_rates** (68 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by LEA`
+    - tab **lea_durations** (56 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Duration of Discipline by LEA`
+    - tab **lea_removals** (69 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Removals by LEA`
+  - [`Mid-Year Student Mobility 2014-15 and 2015-16 School Years (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q7%20Attachment%20-%20Mid-year%20Student%20Mobility%20SY14-15%20and%20SY15-16.xlsx) — **xlsx** — 12 tab(s)
+    - tab **Data_Notes** (18 rows × 2 cols) — cols: `Title`, `Q7 Attachment- Mid-year Student Mobility.xlsx`
+    - tab **Overall Movement SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Overall movement: SY2014-15`
+    - tab **Overall Movement SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Overall movement: SY2015-16`
+    - tab **Out of DC Public Sect SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved out of DC public sectors: SY2014-15`
+    - tab **Out of DC Public Sect SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved out of DC public sectors: SY2015-16`
+    - tab **Into DC Public Sector SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved into DC public sectors: SY2014-15`
+    - tab **Into DC Public Sector SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved into DC public sectors: SY2015-16`
+    - tab **Across DC Public Sect SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved between DC public sectors: SY2014-15`
+    - tab **Across DC Public Sect SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved between DC public sectors: SY2015-16`
+    - tab **Within DC Public Sect SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2014-15`
+    - tab **Within DC Public Sect SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2015-16`
+    - tab **Continuously Enrolled** (12 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Demographics of Continuously Enrolled Students`
+  - [`Citywide Discipline Data — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Data_Notes** (15 rows × 2 cols) — cols: `Title`, `Q9 Attachment- Discipline Data.xlsx`
+    - tab **school_counts** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School`
+    - tab **school_rates** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School`
+    - tab **school_durations** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Duration of Discipline by School`
+    - tab **school_removals** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Removals by School`
+    - tab **lea_counts** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by LEA`
+    - tab **lea_rates** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by LEA`
+    - tab **lea_durations** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Duration of Discipline by LEA`
+    - tab **lea_removals** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Removals by LEA`
+  - [`Students by Ward in 2012-13 through 2017-18 School Year — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Data_Notes** (11 rows × 2 cols) — cols: `Title`, `Oversight 2017 Q2 Attachment - Student Enrollment by Ward`
+    - tab **SY12-13** (1,828 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY12-13`
+    - tab **SY13-14** (1,664 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY13-14`
+    - tab **SY14-15** (1,864 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY14-15`
+    - tab **SY15_16** (237 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY15-16`
+    - tab **SY16_17** (236 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY16-17`
+    - tab **SY17_18** (238 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY17-18`
+    - tab **Totals** (12 rows × 7 cols) — cols: `Ward`, `SY2012-13`, `SY2013-14`, `SY2014-15`, `SY2015-16`, `SY2016-17`, `SY2017-18`
+  - [`Private School Enrollment from 2014-15 through 2017-18 Schoo — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (8 rows × 2 cols) — cols: `Title`, `Q4 Attachment- Private School Enrollment SY14-15, SY15-16, SY16-17, SY17-18 to date.xlsx`
+    - tab ** SY 14-15** (62 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY14-15`
+    - tab **SY 15-16** (62 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY15-16`
+    - tab **SY 16-17** (64 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY16-17 to date`
+    - tab **SY 17-18** (43 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY17-18 to date`
+  - [`2024-25 Adjusted Cohort Graduation Rate (ACGR) — Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (20 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **2024-25 Rate Overview** (39 rows × 6 cols) — cols: `Sector`, `Cohort`, `Outcome`, `Rate`, `Count`, `Cohort Total by Sector`
+    - tab **2024-25 School Rates** (85 rows × 6 cols) — cols: `Sector`, `Cohort`, `School Name`, `Rate`, `Graduates`, `Cohort Total`
+    - tab **2024-25 Rates by Student Group** (87 rows × 6 cols) — cols: `Sector`, `Cohort`, `Student Group`, `Rate`, `Graduates`, `Cohort Total`
+  - [`2023-24 Adjusted Cohort Graduation Rate (ACGR) — Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Data Notes** (20 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **2023-24 Rate Overview** (39 rows × 6 cols) — cols: `Sector`, `Cohort`, `Outcome`, `Cohort Size by Sector`, `Count`, `Rate`
+    - tab **2023-24 School Rates** (81 rows × 6 cols) — cols: `Sector`, `Cohort`, `School Name`, `Cohort Total`, `Graduates`, `Rate`
+    - tab **2023-24 Rates by Student Group** (91 rows × 6 cols) — cols: `Sector`, `Cohort`, `Student Group`, `Cohort Total`, `Graduates`, `Rate`
+  - [`2023-24 DECP Data File`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2023-24%20DECP%20Reporting.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Overview** (9 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **State Data** (22 rows × 5 cols) — cols: `Student Group`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
+    - tab **LEA Data** (25 rows × 6 cols) — cols: `LEA Code`, `LEA Name`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
+    - tab **IHE Funding** (16 rows × 5 cols) — cols: `Institute of Higher Education (IHE) Partner`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
+  - [`Free and Reduced-Price Meals Status — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (7 rows × 2 cols) — cols: `Title`, `Q77 Attachment - FARM Status`
+    - tab **Public Charter & Private School** (2,073 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - PUBLIC CHARTER AND PRIVATE SCHOOL STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
+    - tab **DCPS - CEP & P2** (100 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - DCPS (CEP AND P2) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
+    - tab **DCPS - Traditional** (462 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - DCPS (TRADITIONAL) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
+    - tab **CEP Schools** (161 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - Schools Participating in the Community Eligibility Provision Program`
+  - [`At-Risk Students — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx) — **xlsx** — 2 tab(s)
+    - tab **Data_Notes** (9 rows × 2 cols) — cols: `Title`, `Q5 Attachment- At-Risk.xlsx`
+    - tab **Q5_PriorYears** (59 rows × 1 cols) — cols: `OSSE FY16 POH Q5 Response -- Number of Homeless, Foster Care, TANF eligible, SNAP eligible, and Overage Youth by LEA for SY13-14, SY14-15, and SY15-16`
+  - [`Foster Children — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data_Notes** (10 rows × 2 cols) — cols: `Title`, `Q6 Attachment- Foster Care.xlsx`
+    - tab **Q6_A** (9 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive General Education Services Only`
+    - tab **Q6_B** (8 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive Special Education Services`
+    - tab **Q6_C** (53 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Amount that OSSE pays to enroll an individual student in an out-of-District public school`
+    - tab **Q6_D** (7 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Amount that OSSE Spent on SPED Transportation for Children in Foster Care - FY16 and FY17 to date`
+  - [`Individual Education Programs (IEPs) — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx) — **xlsx** — 23 tab(s)
+    - tab **Data_Notes** (31 rows × 2 cols) — cols: `Title`, `Q49 Attachment- IEPs.xlsx`
+    - tab **2016_Q49A** (22 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY AGE`
+    - tab **2016_Q49B** (66 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY LEA`
+    - tab **2016_Q49C** (16 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION`
+    - tab **2016_Q49C_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION BY AGE`
+    - tab **2016_Q49C_by_LEA** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION BY LEA`
+    - tab **2016_Q49C_multi_disab** (15 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH MULTIPLE DISABILITIES`
+    - tab **2016_Q49D** (10 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION`
+    - tab **2016_Q49D_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY AGE`
+    - tab **2016_Q49D_by_LEA** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY LEA`
+    - tab **2016_Q49D_by_disability** (15 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY DISABILITY CLASSIFICATION`
+    - tab **2016_Q49E** (17 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE`
+    - tab **2016_Q49E_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY AGE`
+    - tab **2016_Q49E_by_LEA** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY LEA`
+    - tab **2016_Q49E_by_disability** (16 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY DISABILITY`
+    - tab **2016_Q49H** (2 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting`
+    - tab **2016_Q49H_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY AGE`
+    - tab **2016_Q49H_by_LEA** (64 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY LEA`
+    - tab **2016_Q49H_by_disability** (14 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY DISABILITY`
+    - tab **2016_Q49I** (3 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES`
+    - tab **2016_Q49I_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY AGE`
+    - tab **2016_Q49I_by_LEA** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY LEA`
+    - tab **2016_Q49I_by_disability** (15 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY DISABILITY CLASSIFICATION`
+  - [`Special Education Exit — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx) — **xlsx** — 2 tab(s)
+    - tab **Data_Notes** (7 rows × 2 cols) — cols: `Title`, `Q50 and Q51 Attachment- SPED Exit.xlsx`
+    - tab **2016_Q50** (44 rows × 1 cols) — cols: `OSSE FY16 POH Q50 AND 51 RESPONSE - SPED EXITS`
+  - [`Secondary Transitions for Students with Disabilities — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx) — **xlsx** — 2 tab(s)
+    - tab **Data_Notes** (7 rows × 2 cols) — cols: `Title`, `Q52 Attachment- Transitions`
+    - tab **2016_Q52** (77 rows × 1 cols) — cols: `OSSE FY16 POH Q52 RESPONSE - STUDENTS WITH DISABILITIES TRANSITIONING OUT OF SCHOOL`
 
 ### [DC School Report Card Resource Library (downloads)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
@@ -701,15 +897,66 @@ _topics: assessment, attendance, graduation, discipline, enrollment, demographic
     - tab **LEA Overall Scores** (44,906 rows × 7 cols) — cols: `LEA Name`, `LEA Code`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
     - tab **State STAR Metric Scores** (4,629 rows × 6 cols) — cols: `School Framework`, `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
     - tab **State Overall Scores** (2,180 rows × 5 cols) — cols: `Student Group`, `Metric`, `Metric Score`, `Metric N`, `School Year`
+  - [`2026 Metric Calculation Confirmation (MCC) Policy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Policy.pdf) — **pdf** — 4 pages, **extractable tables** on ~2 page(s)
+    - p2 table (4 rows): `Phase`, `Release Date`, `OST Deadline`, `Certification Date`, `Appeal Deadline`
+    - p2 table (11 rows): `Phase I`, `Phase II`, `Phase III`
+    - p3 table (4 rows): `Step`, `LEA Action`
+  - [`2026 Metric Calculation Confirmation (MCC) Data Dictionary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website%20%28Aug%202026%29.xlsx) — **xlsx** — 32 tab(s)
+    - tab **Release Schedule** (32 rows × 5 cols) — cols: `MCC Phase`, `Sheet`, `Release Date`, `LEA OST Deadline`, `LEA Certification Date`
+    - tab **ELA Statewide Assessments** (71 rows × 1 cols) — cols: `Sheet: ELA Statewide Assessments (Participation and Performance)`
+    - tab **Math Statewide Assessments** (63 rows × 1 cols) — cols: `Sheet: Math Statewide Assessments (Participation and Achievement)`
+    - tab **Metric Scores - Phase I** (14 rows × 1 cols) — cols: `Sheet: Metric Scores - Phase I`
+    - tab **ACCESS Growth** (49 rows × 1 cols) — cols: `Sheet: ACCESS Growth`
+    - tab **Adjusted Achievement ** (15 rows × 1 cols) — cols: `Sheet: Adusted Achievement`
+    - tab **Chronic Absenteeism** (38 rows × 1 cols) — cols: `Sheet: Chronic Absenteeism`
+    - tab **Pre-K Chronic Absenteeism** (36 rows × 1 cols) — cols: `Sheet: Pre-K Chronic Absenteeism`
+    - tab **Attendance Growth** (45 rows × 1 cols) — cols: `Sheet: Attendance Growth`
+    - tab **CLASS** (20 rows × 1 cols) — cols: `Sheet: CLASS`
+    - tab **Post-Secondary Enrollment** (44 rows × 1 cols) — cols: `Sheet: Post-Secondary Enrollment`
+    - tab **Directory - Profile** (32 rows × 1 cols) — cols: `Sheet: Directory - Profile`
+    - tab **Directory- Before After Care** (18 rows × 1 cols) — cols: `Sheet: Before After Care`
+    - tab **Directory - Message from School** (9 rows × 1 cols) — cols: `Sheet: Directory - Message from School`
+    - tab **Directory - Transportation** (10 rows × 1 cols) — cols: `Sheet: Directory - Transportation`
+    - tab **Directory - Parent Engagement** (15 rows × 1 cols) — cols: `Sheet: Directory - Parent Engagement`
+    - tab **8th-9th Grade Transition** (35 rows × 1 cols) — cols: `Sheet: 8th to 9th (Alt Only)`
+    - tab **Metric Scores - Phase II** (15 rows × 1 cols) — cols: `Sheet: Metric Scores - Phase II`
+    - tab **Advanced Coursework - Partic** (40 rows × 1 cols) — cols: `Sheet: Advanced Coursework - Participation`
+    - tab **Advanced Coursework - Perform** (39 rows × 1 cols) — cols: `Sheet: Advanced Coursework - Performance`
+    - tab **ACGR** (34 rows × 1 cols) — cols: `Sheet: ACGR`
+    - tab **Other Student Assessments** (36 rows × 1 cols) — cols: `Sheet: Other Student Assessments`
+    - tab **Re-Enrollment** (38 rows × 1 cols) — cols: `Sheet: Re-Enrollment`
+    - tab **SAT Benchmark** (35 rows × 1 cols) — cols: `Sheet: SAT Benchmark`
+    - tab **Science Statewide Assessments** (60 rows × 1 cols) — cols: `Sheet: Science Statewide Assessments`
+    - tab **ELA - Growth** (52 rows × 1 cols) — cols: `Sheet: ELA - Growth`
+    - tab **Math - Growth** (52 rows × 1 cols) — cols: `Sheet: Math - Growth`
+    - tab **Mobility - LEA Level** (52 rows × 1 cols) — cols: `Sheet: Mobility - LEA Level`
+    - tab **Mobility - School Level ** (56 rows × 1 cols) — cols: `Sheet: Mobility - School Level`
+    - tab **Academic Persistence** (36 rows × 1 cols) — cols: `Sheet: Academic Persistence (Alternative School Framework Only)`
+    - tab **Secondary Completion** (32 rows × 1 cols) — cols: `Sheet: Secondary Completion (Alternative School Framework Only)`
+    - tab **Metric Scores - Phase III** (15 rows × 1 cols) — cols: `Sheet: Metric Scores - Phase III`
+  - [`2026 DC School Report Card Technical Guide`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20School%20Report%20Card%20Technical%20Guide.pdf) — **pdf** — 70 pages, **extractable tables** on ~17 page(s)
+    - p6 table (7 rows): `Current Grade Level`, `Prior Year’s Proficiency Level`
+    - p15 table (4 rows): `Test Subject Area`, `Corresponding College Courses`, `Benchmark`
+    - p16 table (11 rows): `Test Subject Area`, `SAT Score 1`, `SAT Score 2`, `Highest`, `Meet /`, `College`
+  - [`DC School Report Card and MySchoolDC Data Elements - Busines`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (6 rows): `Data Source`, `Data Element`, `Definition`, `Business Rules`
+    - p2 table (8 rows): `course on the OSSE State C ourse Catalog.`
+    - p3 table (5 rows): `eSchoolPLUS`, `Single-Gender Campus`, `The school’s enrollment targets a single gender.`, `On eSchoolPLUS, the LEA/school selected "Single-Gender Campus" as one of the School Characteristics for this school.`
+  - [`Alternative Accountability Framework – At a Glance`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20%20-%20At%20a%20Glance%20%282026%29.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (2 rows): `Measures student performance on DC CAPE and MSAA and how many students are approaching, reaching, and exceeding proficiency in English language arts (ELA) and mathematics. State Assessment Proficiency - Students meeting or exceeding expectations in both ELA and Math on the statewide assessment. State Assessment Weighted Index - An index score for student performance across all levels of statewide assessment with heavier weight placed on higher levels of proficiency. ACADEMIC GROWTH`
+    - p1 table (4 rows): `Attendance is reported through two indicators: 1. Chronic Absenteeism - Percentage of students who miss 10 percent or more of the school year. AND* 2. Attendance Growth - Improvement in student level attendance rates from year to year. Academic Persistence* - Percentage of students who remain academically engaged from one year to the next. This includes students who transfer`
+    - p1 table (3 rows): `Five-Year Adjusted Cohort Graduation Rate (high school grades) - Percentage of students who graduate with a diploma within five years of entering high school. EDUCATIONAL PROGRESS`
+  - [`Alternative Accountability Framework - FAQ`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20-%20FAQ%20%282026%29.pdf) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p1 table (14 rows): `METRIC NAME`, `ELEMENTARY/MIDDLE`, `K–12 / 6-12`, `HIGH SCHOOL`
 
-### [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/)
+### [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home)
 
-⚠️ JS app (open in a browser) · _topics: accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles_
+_topics: accountability, assessment, attendance, graduation, discipline, enrollment, demographics, profiles_
 
 - **Format:** Interactive web app (search/browse; not bulk download)
 - **Updated:** Annual, refreshed ~December with prior school year
 - **Years on page:** Displays latest year only (SY2024-25); history in the Resource Library
-- **Notes:** Cross-sector (DCPS + charter). Mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. JS app blocks crawlers (503) — open in a real browser. For analysis use the Resource Library files.
+- **Notes:** Cross-sector (DCPS + charter). osse.dc.gov/dcschoolreportcard redirects here. The old dcschoolreportcard.org hostname returns a blank 503 (checked Aug 2026, real browser too) — do not link it. For analysis use the Resource Library files.
 - **Data files (profiled):**
   - [`School STAR Scores (CSV export)`](https://opendata.dc.gov/api/download/v1/items/90b2efbd069842f29817615611619c9b/csv?layers=0) — **csv** — 203 rows × 9 cols
     - cols: `LEA_Code`, `LEA_Name`, `School_Code`, `School_Name`, `School_Type`, `Ward`, `STAR_Score`, `STAR_Rating`, `ObjectId`
@@ -727,6 +974,65 @@ _topics: accountability, methodology_
     - p9 table (7 rows): `Current Grade Level`, `Prior Year’s Proficiency Level`
     - p17 table (5 rows): `College Readiness Benchmarks for SAT`
     - p18 table (13 rows): `SAT Test 1`, `SAT Test 2`, `Highest`, `Meet /`, `College`
+
+### [Statewide Assessment Results 2025-26 (DC CAPE / MSAA)](https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources)
+
+_topics: assessment_
+
+- **Format:** Excel files (direct OSSE attachments) + PDF results deck and appendix
+- **Updated:** Annual, released late summer/fall
+- **Years on page:** 2025-26 only on this page
+- **Notes:** Released Aug 20, 2026. Unlike prior years, the State/LEA/School-level files are direct osse.dc.gov attachments (not Box). New this year: separate Middle School Advanced Math files at each level. Also hosts translated score-report guides and sample ISRs (not catalogued). No /assessmentresults2026 alias exists — the page is reachable via the Data and Reports hub.
+- **Data files (profiled):**
+  - [`2025-26 Statewide Assessment Results (public deck)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20Statewide%20Assessment%20Results%208.20.26.pdf) — **pdf** — 60 pages, **extractable tables** on ~1 page(s)
+    - p39 table (10 rows): 
+    - p39 table (7 rows): 
+  - [`2025-26 Statewide Assessment Results — Appendix (detailed breakdowns)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Statewide%20Assessment_Appendix.pdf) — **pdf** — 17 pages, **extractable tables** on ~14 page(s)
+    - p4 table (9 rows): `Tested Grade`, `State ELA 4+ Results`, `State Math 4+ Results`
+    - p5 table (9 rows): `Test`, `State 4+ Results`
+    - p6 table (10 rows): `Race/Ethnicity`, `State ELA 4+ Results`, `State Math 4+ Results`
+  - [`2025-26 DC CAPE Middle School Advanced Math — State Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20State%20Level%20DCCAPE%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (30 rows × 1 cols) — cols: `2025-26 Middle School Advanced Math Assessment Participation and Performance - State`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (29 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (29 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (141 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (29 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+  - [`2025-26 DC CAPE & MSAA — State Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20State%20Level%20DCCAPE%20and%20MSAA%20Data%20%281%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (30 rows × 1 cols) — cols: `2025-26 DC CAPE and MSAA Assessment Participation and Performance - State`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (327 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (327 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (2,389 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (329 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+  - [`2025-26 DC CAPE Middle School Advanced Math — LEA Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20LEA%20Level%20DCCAPE%20Data_0.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (30 rows × 1 cols) — cols: `2025-26 Middle School Advanced Math Assessment Participation and Performance - LEA`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (95 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (95 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (471 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (98 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+  - [`2025-26 DC CAPE & MSAA — LEA Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20LEA%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (31 rows × 1 cols) — cols: `2025-26 DC CAPE and MSAA Assessment Participation and Performance - LEA`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (4,521 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (4,521 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (25,944 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (4,655 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+  - [`2025-26 DC CAPE Middle School Advanced Math — School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20School%20Level%20DCCAPE%20Data.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (30 rows × 1 cols) — cols: `2025-26 Middle School Advanced Math Assessment Participation and Performance - Schools`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (281 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (281 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (1,401 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (284 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+  - [`2025-26 DC CAPE & MSAA — School Level`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20School%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx) — **xlsx** — 6 tab(s)
+    - tab **File Notes** (31 rows × 1 cols) — cols: `2025-26 DC CAPE and MSAA Assessment Participation and Performance - Schools`
+    - tab **Data Dictionary** (29 rows × 5 cols) — cols: `Sheet`, `Field Name`, `Variable Type`, `Allowable Values`, `Notes`
+    - tab **Meeting, Exceeding** (13,709 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Approaching, Meeting, Exceeding** (13,709 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Performance Level** (79,026 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
+    - tab **Participation** (14,027 rows × 14 cols) — cols: `Aggregation Level`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Metric`, `Assessment Name`, `Subject`, `Student Group`, `Student Group Value`, `Enrolled Grade or Course`, `Count` …
 
 ### [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025)
 
@@ -1131,6 +1437,13 @@ _topics: attendance_
     - p1 table (3 rows): `ATTENDANCE SUMMARY The data in this brief reflect attendance data from the start of the school year through Feb. 28, 2025, and compares it to the same window in the 2023-24 school year. Compared to the same point last year: CHRONIC ABSENTEEISM CHRONIC TRUANCY INCREASED BY 1.6 INCREASED BY 0.3 PERCENTAGE POINTS PERCENTAGE POINTS 35.3% Chronic Absenteeism 36.9% 20.6% Chronic Truancy 20.9% 0% 10% 20% 30% 40% SY2023-24 SY2024-25`
     - p1 table (2 rows): `20.6%`
     - p2 table (2 rows): `2024-25 MID-YEAR ATTENDANCE BRIEF`
+  - [`2024-25 Attendance Data Public Reporting (March 2025)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20March%202025.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Overview** (9 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **School** (465 rows × 7 cols) — cols: `School Year`, `LEA Code`, `LEA Name`, `School Code`, `School Name`, `% Chronically Absent (K-12)`, `% Chronically Truant (Compulsory Age)`
+    - tab **LEA** (122 rows × 5 cols) — cols: `School Year`, `LEA Code`, `LEA Name`, `% Chronically Absent (K-12)`, `% Chronically Truant (Compulsory Age)`
+    - tab **Sector** (5 rows × 4 cols) — cols: `School Year`, `Sector`, `% Chronically Absent (K-12)`, `% Chronically Truant (Compulsory Age)`
+    - tab **State** (59 rows × 6 cols) — cols: `Grade Band`, `Student Group`, `% Chronically Absent (24-25)`, `% Chronically Absent (23-24)`, `% Chronically Truant, (Compulsory Age) (24-25)`, `% Chronically Truant, (Compulsory Age) (23-24)`
+    - tab **Risk Tiers** (51 rows × 6 cols) — cols: `School Year`, `Grade Band`, `Absenteeism Risk Tier`, `Percentage`, `Students`, `Total Students`
 
 ### [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard)
 
@@ -1877,6 +2190,11 @@ _topics: accountability, methodology_
 - **Updated:** Varies; most annual
 - **Years on page:** Includes historical enrollment-audit Excel SY2001–2009
 - **Notes:** Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.
+- **Data files (profiled):**
+  - [`Public Charter School Historic Enrollment Audit Information `](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+    - tab **pcsb School-by-Grade Enrollment** (1,679 rows × 1 cols) — cols: `PCS Enrollment, by School and Grade, 2001-2009`
+  - [`DC Public Schools Historic Enrollment Audit Information 2001`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+    - tab **DCPS School-by-Grade Enrollment** (2,641 rows × 1 cols) — cols: `DCPS Enrollment, by School and Grade, 2001-2009`
 
 ## DCPS — DC Public Schools
 
@@ -1908,6 +2226,64 @@ _topics: attendance_
 - **Updated:** Annual
 - **Years on page:** SY11-12 through SY24-25 (14 reports)
 - **Notes:** District-level aggregate, filed per DC Code 38-203(i). Granular school-level attendance is better via OSSE.
+- **Data files (profiled):**
+  - [`DCPS Annual Attendance Report SY 2024-2025`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY%202024-2025%20Annual%20Attendance%20Report.pdf) — **pdf** — 24 pages, **extractable tables** on ~17 page(s)
+    - p3 table (4 rows): `Metric`, `SY 23-24`, `SY24-25`
+    - p6 table (15 rows): `Grade`, `Compulsory Aged Students`, `#1-5 Absences`, `%1-5 Absences`, `#6-10 Absences`, `% 6-10 Absences`, `#11-20 Absences`, `%11-20 Absences`
+    - p6 table (3 rows): `Compulsory`
+  - [`DCPS Annual Attendance Report SY 2023-2024`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202023-2024.pdf) — **pdf** — 20 pages, **extractable tables** on ~14 page(s)
+    - p3 table (4 rows): `Metric`, `SY 22-23`, `SY 23-24`
+    - p5 table (16 rows): `Grade`, `Compulsory`, `#1-5`, `% 1-5`, `#6-10`, `%6-10`, `#11-20`, `%11-20`
+    - p8 table (10 rows): `There are several potential factors that contribute to increased absenteeism in the early grades. Parents and`
+  - [`DCPS Annual Attendance Report SY 2022-2023`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202022-2023.pdf) — **pdf** — 26 pages, **extractable tables** on ~13 page(s)
+    - p10 table (5 rows): `Change from SY`
+    - p10 table (15 rows): `Metric`, `Grade`, `SY22-23`
+    - p11 table (16 rows): `Grade`, `Truancy Aged`, `# 1-5`, `% 1-5`, `# 6-10`, `% 6-10`, `# 11-20`, `% 11-20`
+  - [`DCPS Annual Attendance Report SY 2021-2022`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Annual%20Attendance%20Report%20final_1.pdf) — **pdf** — 28 pages, **extractable tables** on ~20 page(s)
+    - p4 table (4 rows): `research- based Multi-Tiered Systems of Support (MTSS) framework2 to address student learning needs.`
+    - p4 table (2 rows): `Additionally, as articulated in the CEP, DCPS is strategically using federal funding to support accelerated`
+    - p5 table (6 rows): `Superintendent of Education (OSSE) to implement the Chronic Absenteeism Reduction`
+  - [`DCPS Annual Attendance Report SY 2020-2021`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-Annual-Attendance-Report-SY-2020-2021.pdf) — **pdf** — 29 pages, **extractable tables** on ~19 page(s)
+    - p3 table (11 rows): `In early November 2020, DCPS took steps to support students in-person through introducing a phased`
+    - p3 table (3 rows): `SY20-21, DCPS set forth clear expectations for both students and school staff regarding attendance`
+    - p3 table (5 rows): `For CARE classes, teachers took in-person attendance for cohort and safety purposes and notified`
+  - [`DCPS Annual Attendance Report SY 2019-2020`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202019-2020.pdf) — **pdf** — 27 pages, **extractable tables** on ~12 page(s)
+    - p6 table (18 rows): `Grade`, `Truancy`, `# 1-5 Absences`, `% 1-5 Absences`, `# 6-10 Absences`, `% 6-10 Absences`, `# 11-20 Absences`, `% 11-20 Absences`
+    - p6 table (2 rows): `# 1-5`
+    - p6 table (2 rows): `% 1-5`
+  - [`DCPS Annual Attendance Report SY 2018-2019`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Final-Attendance-Report-SY18-19.pdf) — **pdf** — 27 pages, **extractable tables** on ~14 page(s)
+    - p6 table (17 rows): `Grade`, `Truancy Age`, `# 1-5`, `% 1-5`, `# 6-10`, `% 6-10`, `# 11-20`, `% 11-20`
+    - p8 table (6 rows): 
+    - p9 table (6 rows): 
+  - [`DCPS Annual Attendance Report SY 2017-2018`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202017-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~12 page(s)
+    - p5 table (19 rows): `Grade`, `Truancy`, `# 1-5 Absences`, `% 1-5 Absences`, `# 6-10 Absences`, `% 6-10 Absences`, `# 11-20 Absences`, `% 11-20 Absences`
+    - p5 table (2 rows): `# 1-5`
+    - p5 table (2 rows): `% 1-5`
+  - [`DCPS Annual Attendance Report SY 2016-2017`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY1617_FINAL.pdf) — **pdf** — 9 pages, **extractable tables** on ~4 page(s)
+    - p3 table (19 rows): `Grade`, `Enrollment`, `# 1-5`, `% 1-5`, `# 6-10`, `% 6-10`, `# 11-20`, `% 11-20`
+    - p4 table (2 rows): `DCPS believes that our overall attendance work is driven by four strategies: reducing truancy, increasing the`
+    - p5 table (10 rows): 
+  - [`DCPS Annual Attendance Report SY 2015-2016 Supplement`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Supplement%20to%20DCPS%202015%20Annual%20Attendance%20Report_FINAL.pdf) — **pdf** — 8 pages, **extractable tables** on ~6 page(s)
+    - p2 table (6 rows): `# %`
+    - p3 table (6 rows): `# %`
+    - p4 table (6 rows): `# %`
+  - [`DCPS Annual Attendance Report SY 2015-2016`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report_SY1516_FINAL.pdf) — **pdf** — 9 pages, **extractable tables** on ~3 page(s)
+    - p4 table (20 rows): `Grade`, `Enrollment`, `# 1-5`, `% 1-5`, `# 6-10 Absences`, `% 6-10`, `# 11-20`, `% 11-20`
+    - p6 table (11 rows): 
+    - p7 table (11 rows): 
+  - [`DCPS Annual Attendance Report SY 2014-2015`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY1415_FINAL.pdf) — **pdf** — 9 pages, **extractable tables** on ~3 page(s)
+    - p4 table (20 rows): `# 1-5`, `% 1-5`, `# 6-10`, `% 6-10`, `# 11-20`, `% 11-20`, `# 21+`, `% 21+`
+    - p6 table (15 rows): 
+    - p7 table (12 rows): `420`
+  - [`DCPS Annual Attendance Report SY 2013-2014`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance%20Report_SY1314_FINAL.pdf) — **pdf** — 10 pages, **extractable tables** on ~3 page(s)
+    - p4 table (20 rows): `Grade Level`, `Enrolled`, `Unexcused Absences`
+    - p4 table (2 rows): `Grade`
+    - p6 table (11 rows): `236 215`
+  - [`DCPS Annual Attendance Report SY 2012-2013`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY12-13_FINAL.PDF) — **pdf** — 9 pages, **extractable tables** on ~1 page(s)
+    - p4 table (21 rows): `Unexcused Absences`
+  - [`DCPS Annual Attendance Report SY 2011-2012`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY11-12%20FINAL.pdf) — **pdf** — 11 pages, **extractable tables** on ~2 page(s)
+    - p3 table (23 rows): `Grade`, `Enrolled`, `Unexcused Absences`
+    - p11 table (11 rows): `District`, `Child`, `% FARM`, `Public`, `General Student`, `Eligibility Criteria`
 
 ### [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets)
 
@@ -2384,6 +2760,63 @@ _topics: surveys, school-climate_
 - **Updated:** Annual (administered each spring)
 - **Years on page:** Panorama 2018, 2019, 2021, 2022; legacy reports 2011, 2013–2017
 - **Notes:** Student/family/staff experience surveys. District results at bit.ly/dcpsresults; school-level/raw data requires staff Panorama login.
+- **Data files (profiled):**
+  - [`Spring 2022 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf) — **pdf** — 6 pages, **extractable tables** on ~4 page(s)
+    - p1 table (3 rows): `2022 Panorama Survey Highlights`
+    - p1 table (2 rows): `DCPS Vision`
+    - p4 table (6 rows): `Five Takeaways from the`
+  - [`2021 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Spring-2021-Panorama-Report.pdf) — **pdf** — 10 pages, **extractable tables** on ~8 page(s)
+    - p1 table (2 rows): `2021 Panorama Survey Highlights`
+    - p1 table (9 rows): `Some key results and outcomes were…`
+    - p1 table (3 rows): 
+  - [`2019 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2019-Panorama-Survey-Report-FINAL.pdf) — **pdf** — 57 pages, **extractable tables** on ~34 page(s)
+    - p3 table (3 rows): 
+    - p6 table (19 rows): 
+    - p6 table (15 rows): 
+  - [`2018 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018PanoramaSurveyReport_0.pdf) — **pdf** — 35 pages, **extractable tables** on ~23 page(s)
+    - p3 table (3 rows): 
+    - p5 table (23 rows): 
+    - p5 table (15 rows): 
+  - [`2017 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017StakeholderSurveyReportFinal.pdf) — **pdf** — 24 pages, **extractable tables** on ~18 page(s)
+    - p3 table (3 rows): 
+    - p3 table (3 rows): 
+    - p4 table (6 rows): `Stakeholder Group`, `2017 Response Rate`
+  - [`2016 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016StakeholderSurveyReport.pdf) — **pdf** — 23 pages, **extractable tables** on ~13 page(s)
+    - p3 table (3 rows): 
+    - p4 table (6 rows): `Stakeholder Group`, `2016 Response Rate`
+    - p4 table (4 rows): `95%94% 90% 88% 88% 85% 76%76% 76% 71% 69% 67% 63% 62% 54% 51% 45% 40% 20% 18% 18%`
+  - [`2015 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2015StakeholderSurveyReportFINAL.pdf) — **pdf** — 40 pages, **extractable tables** on ~31 page(s)
+    - p4 table (6 rows): `Stakeholder Group`, `2015 Response Rate`
+    - p4 table (2 rows): `95%`
+    - p4 table (2 rows): `88%`
+  - [`2014 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2014StakeholderSurveyReportFINAL.pdf) — **pdf** — 50 pages, **extractable tables** on ~36 page(s)
+    - p5 table (8 rows): `Stakeholder Group`, `2014 Response Rate`
+    - p7 table (3 rows): `87%`
+    - p7 table (3 rows): `87%`
+  - [`2013 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2013StudentSurveyReportFINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~17 page(s)
+    - p6 table (2 rows): 
+    - p6 table (2 rows): 
+    - p6 table (3 rows): 
+  - [`2011 Stakeholder Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/DCPS%20District%20Level%20Report%20FINAL%20102011.pdf) — **pdf** — 71 pages, **extractable tables** on ~36 page(s)
+    - p1 table (2 rows): `Stakeholder Surveys 2011`
+    - p6 table (10 rows): `Number of`
+    - p7 table (10 rows): `Student`, `Parent`
+  - [`2019 Panorama Survey Aggregate Data`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Website-Data-for-Panorama-SY18-19.xlsx) — **xlsx** — 1 tab(s)
+    - tab **SY2018-19** (117 rows × 3 cols) — cols: `School Name`, `Response Rate*`, `Student Satisfaction Index (Grades 3-12)`
+  - [`2018 Panorama Survey Aggregate Data`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018%20Aggregate%20Data.xlsx) — **xlsx** — 1 tab(s)
+    - tab **Sheet1** (120 rows × 3 cols) — cols: `School Name`, `Response Rate*`, `Student Satisfaction Index`
+  - [`2017 Stakeholder Survey Aggregate Data`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017%20Aggregate%20Survey%20Results.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Student Survey** (58 rows × 7 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Disagree`, `Strongly Disagree`
+    - tab **Teacher Survey** (36 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **Other Staff Survey** (27 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **Administrator Survey** (47 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **School-Level** (116 rows × 3 cols) — cols: `School Name`, `Response Rate`, `Student Satisfaction Index`
+  - [`2016 Stakeholder Survey Aggregate Data`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016%20Aggregate%20Survey%20Results.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Student Survey** (58 rows × 7 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Disagree`, `Strongly Disagree`
+    - tab **Teacher Survey** (36 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **Other Staff Survey** (27 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **Administrator Survey** (47 rows × 9 cols) — cols: `Question`, `Wording`, `Total Respondents`, `Strongly Agree`, `Agree`, `Somewhat Agree`, `Somewhat Disagree`, `Disagree`, `Strongly Disagree`
+    - tab **School-Level** (110 rows × 3 cols) — cols: `School Name`, `Response Rate`, `Student Satisfaction Index`
 
 ### [DCPS Budget Transparency Portal](https://dcpsbudget.com/)
 
@@ -2698,8 +3131,249 @@ _topics: landing, enrollment, demographics, facilities, boundaries_
 
 - **Format:** Interactive Tableau dashboards + Excel downloads + PDF summaries
 - **Updated:** Rolling, several releases/year
-- **Years on page:** Through SY2025-26; some series back to SY2013-14
-- **Notes:** DME's neighborhood education-data platform. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools.
+- **Years on page:** Through SY2026-27 (school counts); most series through SY2025-26; some back to SY2013-14
+- **Notes:** DME's neighborhood education-data platform. Each chapter page carries a 'Download dataset' .xlsx whose filename ends in the release year (_2026, _2027) — new URLs each year, so the monthly refresh does not see them; re-sweep the chapter pages. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools.
+- **Data files (profiled):**
+  - [`Adult and Youth Population Trends — EdScape Chapter 1 Population and Students Adult and Youth Population Trends 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Adult%20and%20Youth%20Population%20Trends_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch1. Adult & Youth Pop Trends** (91 rows × 4 cols) — cols: `Age Category`, `Population`, `Year`, `Population Source`
+    - tab **Variable Definitions** (6 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (31 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Number of Births and Birth Rates — EdScape Chapter 1 Population and Students Births 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Births_2026.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.1 Births Citywide** (36 rows × 4 cols) — cols: `Year`, `Number of Births`, `Total Population`, `Birth Rate per 1,000 Population`
+    - tab **Ch.1 Births Ward** (121 rows × 3 cols) — cols: `Year`, `Number of Births`, `Ward`
+    - tab **Variable Definitions** (5 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (37 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Forecasted Total Population Growth — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch1. Pop & Studs_TotPopGrowth** (27 rows × 8 cols) — cols: `Population Type`, `Year`, `Population`, `Population Source`, `Avg Annual Change`, `Avg Percent Change`, `5-Year Change`, `5-Year Percent Change`
+    - tab **Ch1. Pop & Studs_AdultYouth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# 17 years and under`, `# 18 years and over`, `% Age 17 and under`, `Total Population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthGrowth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# Ages 0-2 population`, `# Ages 3-10 population`, `# Ages 11-13 population`, `# Ages 14-17 population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthNhood** (2,485 rows × 8 cols) — cols: `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Age category`, `Forecast type`, `Forecast population, 2020`, `Forecast year`, `Forecast population`, `Change from 2020 forecast`
+    - tab **Variable Definitions** (20 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (20 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Forecasted Youth Population Growth — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_0.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch1. Pop & Studs_TotPopGrowth** (27 rows × 8 cols) — cols: `Population Type`, `Year`, `Population`, `Population Source`, `Avg Annual Change`, `Avg Percent Change`, `5-Year Change`, `5-Year Percent Change`
+    - tab **Ch1. Pop & Studs_AdultYouth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# 17 years and under`, `# 18 years and over`, `% Age 17 and under`, `Total Population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthGrowth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# Ages 0-2 population`, `# Ages 3-10 population`, `# Ages 11-13 population`, `# Ages 14-17 population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthNhood** (2,485 rows × 8 cols) — cols: `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Age category`, `Forecast type`, `Forecast population, 2020`, `Forecast year`, `Forecast population`, `Change from 2020 forecast`
+    - tab **Variable Definitions** (20 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (20 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Forecasted Youth Population Growth by Neighborhood Cluster — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_1.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch1. Pop & Studs_TotPopGrowth** (27 rows × 8 cols) — cols: `Population Type`, `Year`, `Population`, `Population Source`, `Avg Annual Change`, `Avg Percent Change`, `5-Year Change`, `5-Year Percent Change`
+    - tab **Ch1. Pop & Studs_AdultYouth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# 17 years and under`, `# 18 years and over`, `% Age 17 and under`, `Total Population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthGrowth** (8 rows × 7 cols) — cols: `Year`, `Population Type`, `# Ages 0-2 population`, `# Ages 3-10 population`, `# Ages 11-13 population`, `# Ages 14-17 population`, `Source`
+    - tab **Ch1. Pop & Studs_YouthNhood** (2,485 rows × 8 cols) — cols: `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Age category`, `Forecast type`, `Forecast population, 2020`, `Forecast year`, `Forecast population`, `Change from 2020 forecast`
+    - tab **Variable Definitions** (20 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (20 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Private School Enrollment — EdScape Chapter 1 Population and Students Private School Enrollment 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Private%20School%20Enrollment_2026_0.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Variable Definitions** (28 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Private Sch Citywide 1 Yr Estim** (16 rows × 28 cols) — cols: `NAME`, `year`, `Enrolled in nursery, preschool through grades 9-12 derived estimate`, `Enrolled in nursery, preschool through grades 9-12 upper bound`, `Enrolled in nursery, preschool through grades 9-12 lower bound`, `Enrolled in grades nursery, preschool through 9-12 derived MOE`, `Enrolled in nursery, preschool through grades 9-12 pct private estimate`, `Enrolled in nursery, preschool through grades 9-12 pct private derived MOE (+/-)`, `Enrolled in nursery school, preschool estimate`, `Enrolled in nursery school, preschool upper bound`, `Enrolled in nursery school, preschool lower bound`, `Enrolled in kindergarten estimate` …
+    - tab **Private Sch by Ward 5 Yr Estima** (146 rows × 28 cols) — cols: `NAME`, `year`, `Enrolled in nursery, preschool through grades 9-12 derived estimate`, `Enrolled in nursery, preschool through grades 9-12 upper bound`, `Enrolled in nursery, preschool through grades 9-12 lower bound`, `Enrolled in grades nursery, preschool through 9-12 derived MOE`, `Enrolled in nursery, preschool through grades 9-12 pct private estimate`, `Enrolled in nursery, preschool through grades 9-12 pct private derived MOE (+/-)`, `Enrolled in nursery school, preschool estimate`, `Enrolled in nursery school, preschool upper bound`, `Enrolled in nursery school, preschool lower bound`, `Enrolled in kindergarten estimate` …
+    - tab **Notes** (21 rows × 1 cols) — cols: `Notes`
+  - [`Race and Ethnicity of Adults and Children — EdScape Chapter 1 Population and Students Race and Ethnicity of Adults and Child`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Adults%20and%20Children_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.1 Race & Ethn Adults & Child** (137 rows × 4 cols) — cols: `Race/Ethnicity`, `Year`, `Age Category`, `Population or Estimate`
+    - tab **Variable Definitions** (5 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (20 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Public School Enrollment by Race and Ethnicity — EdScape Chapter 1 Population and Students Race and Ethnicity of Students 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Students_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.1 Race & Ethn Public Stu** (1,257 rows × 5 cols) — cols: `School Year`, `Sector`, `Grade Group`, `Race/Ethnicity`, `Count of Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes ** (38 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Public School Students by Special Need Categories — EdScape Chapter 1 Population and Students Special Population Shares Over Time 20`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Special%20Population%20Shares%20Over%20Time_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Special Population Pie Charts** (235 rows × 7 cols) — cols: `Special Population`, `School Year`, `Sector`, `Category`, `Count of Category`, `Total Number of Eligible Students`, `Percent`
+    - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (33 rows × 1 cols) — cols: `Notes`
+  - [`Total Population Trends — EdScape Chapter 1 Population and Students Total Population Trends 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Total%20Population%20Trends_2026.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.1 Total Population Trends** (14 rows × 3 cols) — cols: `Year`, `Population`, `Population Source`
+    - tab **Variable Definitions** (5 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Source** (24 rows × 1 cols) — cols: `Notes`
+  - [`Where Adults and Children Live — EdScape Chapter 1 Population and Students Where Adults and Children Live 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Adults%20and%20Children%20Live_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.1 Where Adults Children Live** (29 rows × 6 cols) — cols: `Year`, `Geography`, `Census ID`, `Puma`, `Total 17 years and younger`, `Total 18 years and older`
+    - tab **Variable Definitions** (7 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (27 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Where Public School Students Live — EdScape Chapter 1 Population and Students Where Public School Students Live 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Public%20School%20Students%20Live_2026.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch1. Pop & Stds_Grade x Ward** (833 rows × 5 cols) — cols: `School Year`, `Grade Band of Public School Students Enrolled`, `Ward of Public School Student Residence`, `Ward Boundary Year`, `Count of Public School Students`
+    - tab **Ch1. Pop & Stds_Grd x PlanArea** (2,199 rows × 4 cols) — cols: `School Year`, `Grade Band of Public School Students`, `Comprehensive Plan Planning Area Name`, `Count of Public School Students`
+    - tab **Ch1. Pop & Stds_Grade x NC** (4,311 rows × 5 cols) — cols: `School Year`, `Neighborhood Cluster`, `Grade Band of Public School Students`, `Neighborhood Cluster Names`, `Count of Public School Students`
+    - tab **Ch1. Pop & Studs_DCPS HS** (889 rows × 5 cols) — cols: `School Year`, `Grade Band of Public School Students`, `DCPS High School Boundary School Code`, `DCPS High School Boundary Name`, `Count of Public School Students`
+    - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (41 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Where English Learner Public School Students Live — EdScape Chapter 1 Population and Students Where Special Pop Public School Studen`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Special%20Pop%20Public%20School%20Students%20Live_2026.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 1_Spcl Pop_Ward_2022** (118 rows × 8 cols) — cols: `School Year`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 1_Spcl Pop_PA** (144 rows × 8 cols) — cols: `School Year`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Planning Area`, `Count of At Risk Students`, `At Risk as share of Planning Area`
+    - tab **Chapter 1_Specl Pop_HS boundary** (124 rows × 8 cols) — cols: `School Year`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 1_Special  Pops_NC** (559 rows × 9 cols) — cols: `School Year`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (13 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (38 rows × 1 cols) — cols: `Notes`
+  - [`Grade Configurations of Public Schools — EdScape Chapter 2 Schools Grade Configurations 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20Configurations_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 Schools_Grade Configs** (1,457 rows × 6 cols) — cols: `School Year`, `School Grade Range`, `School Sector`, `Grade Band of Students Enrolled`, `Count of Schools`, `Count of Students Enrolled`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (19 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (28 rows × 1 cols) — cols: `Notes`
+  - [`Grade and Ward Enrollment Trends — EdScape Chapter 2 Schools Grade and Ward Enrollment Trends 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20and%20Ward%20Enrollment%20Trends_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Wards 2022** (3,008 rows × 5 cols) — cols: `School Year`, `Sector`, `UPSFF Grade Level`, `School Ward 2022`, `Enrollment`
+    - tab **Grades** (472 rows × 4 cols) — cols: `School Year`, `School Sector`, `UPSFF Grade Level`, `Enrollment`
+    - tab **Variable Definitions** (6 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (21 rows × 1 cols) — cols: `Notes`
+  - [`School Opening and Closing Trends — EdScape Chapter 2 Schools Openings and Closings 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Openings%20and%20Closings_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 Openings and Closings** (140 rows × 11 cols) — cols: `School Year`, `Opened or Closed`, `School Code`, `School Name`, `Sector`, `School Grade Range`, `Max School Grade Range`, `Address`, `Ward (2022)`, `OP Comprehensive Plan Planning Area`, `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (12 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (19 rows × 1 cols) — cols: `Notes`
+  - [`Public School Enrollment by Race and Ethnicity — EdScape Chapter 2 Schools Race Ethnicity Enrollment 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Race%20Ethnicity%20Enrollment_2026.xlsx) — **xlsx** — 8 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 Schools_Race Ethnicity_NC** (16,274 rows × 9 cols) — cols: `School year`, `Student race/ethnicity`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `School sector`, `Grade band of students enrolled`, `Count of race/ethnicity`, `Total enrollment`, `Share of enrollment`
+    - tab **Ch.2 Schools_Race Ethnicity_HS** (6,603 rows × 8 cols) — cols: `School year`, `Student race/ethnicity`, `DCPS high school boundary`, `School sector`, `Grade band of students enrolled`, `Count of race/ethnicity`, `Total enrollment`, `Share of enrollment`
+    - tab **Ch2 Schools_Race Ethnicity_PA** (6,356 rows × 8 cols) — cols: `School year`, `Student race/ethnicity`, `Comprehensive Plan Planning Area`, `School sector`, `Grade band of students enrolled`, `Count of race/ethnicity`, `Total enrollment`, `Share of enrollment`
+    - tab **Ch2 Schools_Race Ethnicity_Ward** (5,322 rows × 8 cols) — cols: `School year`, `Student race/ethnicity`, `Ward (2022)`, `School sector`, `Grade band of students enrolled`, `Count of race/ethnicity`, `Total enrollment`, `Share of enrollment`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (13 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (28 rows × 1 cols) — cols: `Notes`
+  - [`Enrollment Trends of Specific Public Schools — EdScape Chapter 2 Schools School Enrollment 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Introduction** (18 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 Schools_Enrollment by Sch** (51,296 rows × 8 cols) — cols: `School Year`, `School Sector`, `Grade Band of Students Enrolled`, `Geography`, `School Name`, `School Code`, `Student group`, `Public school enrollment`
+    - tab **Ch.2 Schools_Enrollment by Geo** (7,022 rows × 8 cols) — cols: `School Year`, `Geography category`, `School Sector`, `Grade Band of Students Enrolled`, `Geography`, `Geography label`, `Enrollment by Sector and Grade Band`, `Total public school enrollment`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (37 rows × 1 cols) — cols: `Notes`
+  - [`Enrollment of Public Schools by Ward — EdScape Chapter 2 Schools School Enrollment 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026_0.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Introduction** (18 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 Schools_Enrollment by Sch** (51,296 rows × 8 cols) — cols: `School Year`, `School Sector`, `Grade Band of Students Enrolled`, `Geography`, `School Name`, `School Code`, `Student group`, `Public school enrollment`
+    - tab **Ch.2 Schools_Enrollment by Geo** (7,612 rows × 8 cols) — cols: `School Year`, `Geography category`, `School Sector`, `Grade Band of Students Enrolled`, `Geography`, `Geography label`, `Enrollment by Sector and Grade Band`, `Total public school enrollment`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (39 rows × 1 cols) — cols: `Notes`
+  - [`School Enrollment by Special Populations - At Risk — EdScape Chapter 2 Schools Special Pop Students Public School Locations 2025`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students%20Public%20School%20Locations_2025.xlsx) — **xlsx** — 10 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 2_Special Pops_Ward** (1,261 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 2_Special Pops_PA** (1,526 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Comprehensive Plan Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Comprehensive Plan Planning Area`, `Count of At Risk Students`, `At Risk as share of Comprehensive Plan Planning Area`
+    - tab **Chapter 2_Special Pops_HS_bound** (1,586 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 2_Special Pops_NC** (4,057 rows × 11 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Chapter 2_Special Pops_SPED Lvl** (49 rows × 3 cols) — cols: `School year`, `SPED Level`, `Count of Special Education Students`
+    - tab **Chapter 2_At-risk by School** (2,521 rows × 7 cols) — cols: `School year`, `School Code`, `School Name`, `School Sector`, `Count of At Risk Students`, `Count of Eligible At-Risk Population`, `Share of At Risk Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (34 rows × 1 cols) — cols: `Notes`
+  - [`Special Education Enrollment by Level of Need — EdScape Chapter 2 Schools Special Pop Students 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026.xlsx) — **xlsx** — 10 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 2_Special Pops_Ward** (1,261 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 2_Special Pops_PA** (1,526 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Comprehensive Plan Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Comprehensive Plan Planning Area`, `Count of At Risk Students`, `At Risk as share of Comprehensive Plan Planning Area`
+    - tab **Chapter 2_Special Pops_HS_bound** (1,586 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 2_Special Pops_NC** (4,057 rows × 11 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Chapter 2_Special Pops_SPED Lvl** (53 rows × 3 cols) — cols: `School year`, `SPED Level`, `Count of Special Education Students`
+    - tab **Chapter 2_At-risk by School** (2,521 rows × 7 cols) — cols: `School year`, `School Code`, `School Name`, `School Sector`, `Count of At Risk Students`, `Count of Eligible At-Risk Population`, `Share of At Risk Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (37 rows × 1 cols) — cols: `Notes`
+  - [`School Enrollment by Special Populations - At Risk — EdScape Chapter 2 Schools Special Pop Students 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_0.xlsx) — **xlsx** — 10 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 2_Special Pops_Ward** (1,369 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 2_Special Pops_PA** (1,653 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Comprehensive Plan Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Comprehensive Plan Planning Area`, `Count of At Risk Students`, `At Risk as share of Comprehensive Plan Planning Area`
+    - tab **Chapter 2_Special Pops_HS_bound** (1,717 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 2_Special Pops_NC** (4,408 rows × 11 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Chapter 2_Special Pops_SPED Lvl** (53 rows × 3 cols) — cols: `School year`, `SPED Level`, `Count of Special Education Students`
+    - tab **Chapter 2_At-risk by School** (2,763 rows × 7 cols) — cols: `School year`, `School Code`, `School Name`, `School Sector`, `Count of At Risk Students`, `Count of Eligible At-Risk Population`, `Share of At Risk Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (40 rows × 1 cols) — cols: `Notes`
+  - [`School Enrollment by Special Populations - Special Education — EdScape Chapter 2 Schools Special Pop Students 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_1.xlsx) — **xlsx** — 10 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 2_Special Pops_Ward** (1,369 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 2_Special Pops_PA** (1,653 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Comprehensive Plan Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Comprehensive Plan Planning Area`, `Count of At Risk Students`, `At Risk as share of Comprehensive Plan Planning Area`
+    - tab **Chapter 2_Special Pops_HS_bound** (1,717 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 2_Special Pops_NC** (4,408 rows × 11 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Chapter 2_Special Pops_SPED Lvl** (53 rows × 3 cols) — cols: `School year`, `SPED Level`, `Count of Special Education Students`
+    - tab **Chapter 2_At-risk by School** (2,763 rows × 7 cols) — cols: `School year`, `School Code`, `School Name`, `School Sector`, `Count of At Risk Students`, `Count of Eligible At-Risk Population`, `Share of At Risk Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (40 rows × 1 cols) — cols: `Notes`
+  - [`School Enrollment by Special Populations - English Learners — EdScape Chapter 2 Schools Special Pop Students 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_2.xlsx) — **xlsx** — 10 tab(s)
+    - tab **Introduction** (17 rows × 1 cols) — cols: `EdScape`
+    - tab **Chapter 2_Special Pops_Ward** (1,369 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Ward (2022)`, `Count of Special Education Students`, `Special Education Students as share of Ward`, `Count of English Learner Students`, `English Learner Students as share of Ward`, `Count of At Risk Students`, `At Risk as share of Ward`
+    - tab **Chapter 2_Special Pops_PA** (1,653 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Comprehensive Plan Planning Area`, `Count of Special Education Students`, `Special Education Students as share of Comprehensive Plan Planning Area`, `Count of English Learner Students`, `English Learner Students as share of Comprehensive Plan Planning Area`, `Count of At Risk Students`, `At Risk as share of Comprehensive Plan Planning Area`
+    - tab **Chapter 2_Special Pops_HS_bound** (1,717 rows × 10 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `DCPS high school boundary`, `Count of Special Education Students`, `Special Education Students as share of DCPS high school boundary`, `Count of English Learner Students`, `English Learner Students as share of DCPS high school boundary`, `Count of At Risk Students`, `At Risk as share of DCPS high school boundary`
+    - tab **Chapter 2_Special Pops_NC** (4,408 rows × 11 cols) — cols: `School year`, `Grade band of students enrolled`, `School sector`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `Count of Special Education Students`, `Special Education Students as share of Neighborhood Cluster`, `Count of English Learner Students`, `English Learner Students as share of Neighborhood Cluster`, `Count of At Risk Students`, `At Risk as share of Neighborhood Cluster`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+    - tab **Chapter 2_Special Pops_SPED Lvl** (53 rows × 3 cols) — cols: `School year`, `SPED Level`, `Count of Special Education Students`
+    - tab **Chapter 2_At-risk by School** (2,763 rows × 7 cols) — cols: `School year`, `School Code`, `School Name`, `School Sector`, `Count of At Risk Students`, `Count of Eligible At-Risk Population`, `Share of At Risk Students`
+    - tab **Variable Definitions** (18 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (40 rows × 1 cols) — cols: `Notes`
+  - [`Specialized Programs Offered by Public Schools — EdScape Chapter 2 Schools Specialized Programs 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Specialized%20Programs_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (16 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch.2 School_Programs** (2,556 rows × 13 cols) — cols: `School year`, `Facility ID`, `School ID`, `School name`, `Sector`, `Grade band`, `Feeder pattern`, `Program`, `Languages offered`, `All programs offered at school`, `Facility address`, `MAR Latitude` …
+    - tab **Variable Definitions** (26 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (50 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Educational Attainment for Adults — EdScape Chapter 5 Neighborhood Factors Educational Attainment for Adults 2025`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Educational%20Attainment%20for%20Adults_2025.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch5. Educational Attainment** (10 rows × 7 cols) — cols: `Geography`, `Census ID`, `Puma`, `Population age 25+`, `High School Diploma or GED`, `Bachelors Degree`, `Masters +`
+    - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (20 rows × 1 cols) — cols: `Notes`
+  - [`Vehicle Access — EdScape Chapter 5 Neighborhood Factors Vehicle Access`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Vehicle%20Access.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Vehicle Access** (10 rows × 5 cols) — cols: `Geography`, `Estimated # of workers 16 years+`, `MOE of estimated # of workers 16 years+`, `Estimated % of workers 16 years+`, `MOE for the estimated % of workers 16 years+`
+    - tab **Variable Definitions** (9 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (22 rows × 1 cols) — cols: `Notes`
+  - [`Residential Development Pipeline by Ward — Edscape Chapter 5 Neighborhood Factors Residential Pipeline`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (18 rows × 1 cols) — cols: `EdScape`
+    - tab **Residential Pipeline** (663 rows × 14 cols) — cols: `DCPS Elementary School Boundary Name`, `DCPS Elementary School Boundary Code`, `Pipeline Project Name`, `Address`, `Ward`, `Construction Type`, `Status`, `Status Date`, `Estimated Delivery Date`, `# Total Residential Units`, `# Condo units`, `# Rental units` …
+    - tab **Variable Definitions** (31 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (21 rows × 1 cols) — cols: `Notes`
+  - [`Residential Development Pipeline Projects — Edscape Chapter 5 Neighborhood Factors Residential Pipeline`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (18 rows × 1 cols) — cols: `EdScape`
+    - tab **Residential Pipeline** (663 rows × 14 cols) — cols: `DCPS Elementary School Boundary Name`, `DCPS Elementary School Boundary Code`, `Pipeline Project Name`, `Address`, `Ward`, `Construction Type`, `Status`, `Status Date`, `Estimated Delivery Date`, `# Total Residential Units`, `# Condo units`, `# Rental units` …
+    - tab **Variable Definitions** (31 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (21 rows × 1 cols) — cols: `Notes`
+  - [`Estimated Student Yield from Residential Development Pipeline — Edscape Chapter 5 Neighborhood Factors Residential Pipeline`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_2.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (18 rows × 1 cols) — cols: `EdScape`
+    - tab **Residential Pipeline** (663 rows × 14 cols) — cols: `DCPS Elementary School Boundary Name`, `DCPS Elementary School Boundary Code`, `Pipeline Project Name`, `Address`, `Ward`, `Construction Type`, `Status`, `Status Date`, `Estimated Delivery Date`, `# Total Residential Units`, `# Condo units`, `# Rental units` …
+    - tab **Variable Definitions** (31 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (21 rows × 1 cols) — cols: `Notes`
+  - [`Types of Housing — Edscape Chapter 5 Neighborhood Factors Types of Housing`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Types of Housing Units** (49 rows × 4 cols) — cols: `Basic Housing Unit Type`, `Housing Unit Type`, `Housing Unit Ward`, `Estimated # of Housing Units`
+    - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (23 rows × 1 cols) — cols: `Notes`
+  - [`Types of Housing by Ward — Edscape Chapter 5 Neighborhood Factors Types of Housing`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Types of Housing Units** (49 rows × 4 cols) — cols: `Basic Housing Unit Type`, `Housing Unit Type`, `Housing Unit Ward`, `Estimated # of Housing Units`
+    - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (23 rows × 1 cols) — cols: `Notes`
+  - [`Estimated Student Yield from Residential Development Pipeline — Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_0.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ward by Type Stud Yield** (40 rows × 6 cols) — cols: `Housing Unit Type`, `Housing Unit Ward`, `Estimated # of Housing Units`, `School Year`, `Count of Students`, `All Public School Students Yield per 100 Housing Units`
+    - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (27 rows × 1 cols) — cols: `Notes`
+  - [`Public School Students by Housing Type — Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_1.xlsx) — **xlsx** — 4 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ward by Type Stud Yield** (40 rows × 6 cols) — cols: `Housing Unit Type`, `Housing Unit Ward`, `Estimated # of Housing Units`, `School Year`, `Count of Students`, `All Public School Students Yield per 100 Housing Units`
+    - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (31 rows × 1 cols) — cols: `Notes`
 
 ### [EdScape — Release Notes (changelog)](https://edscape.dc.gov/page/edscape-release-notes)
 
@@ -2794,6 +3468,16 @@ _topics: enrollment, boundaries_
     - tab **Variable Definitions** (15 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
     - tab **Notes ** (30 rows × 1 cols) — cols: `Notes`
     - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Trends in Enrollment by Sector — EdScape Chapter 4 Enrollment Patterns Sector 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026_0.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Introduction** (19 rows × 1 cols) — cols: `EdScape`
+    - tab **Citywide** (406 rows × 5 cols) — cols: `School Year`, `School Choice Enrollment Category`, `Grade Band of Students Enrolled`, `Count of Students`, `Count of Students in Category`
+    - tab **Ward 2022** (2,623 rows × 6 cols) — cols: `School Year`, `Student Ward`, `School Choice Enrollment Category`, `Grade Band of Students Enrolled`, `Count of Students in Ward`, `Count of Students in Category`
+    - tab **Neighborhood** (12,884 rows × 7 cols) — cols: `School Year`, `Neighborhood Cluster`, `Neighborhood Cluster Names`, `School Choice Enrollment Category`, `Grade Band of Students Enrolled`, `Count of Students in Cluster`, `Count of Students in Category`
+    - tab **Planning Area** (3,291 rows × 6 cols) — cols: `School Year`, `Comprehensive Planning Area`, `School Choice Enrollment Category`, `Grade Band of Students Enrolled`, `Count of Students in Planning Area`, `Count of Students in Category`
+    - tab **DCPS HS Boundary** (2,834 rows × 7 cols) — cols: `School Year`, `DCPS HS Zone Code`, `DCPS HS Zone`, `School Choice Enrollment Category`, `Grade Band of Students Enrolled`, `Count of Students in DCPS HS Boundary`, `Count of Students in Category`
+    - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (42 rows × 1 cols) — cols: `Notes`
+    - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
 
 ### [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index)
 
@@ -2801,8 +3485,22 @@ _topics: facilities_
 
 - **Format:** Interactive dashboards + maps + Excel
 - **Updated:** Annual+
-- **Years on page:** SY2013-14 through SY2025-26
+- **Years on page:** SY2013-14 through SY2026-27
 - **Notes:** Building counts/locations, programmatic capacity, utilization (how full), unfilled seats, DCPS modernizations. Produced with DC PCSB, DCPS, OSSE, DGS — the cross-sector facilities view.
+- **Data files (profiled):**
+  - [`Public School Facility Programmatic Capacity — EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2026`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2026_3.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (19 rows × 1 cols) — cols: `EdScape`
+    - tab **Capacities and utilization** (4,126 rows × 31 cols) — cols: `School year`, `LEA ID`, `LEA name`, `School ID`, `School name`, `School sector`, `School category`, `School grades`, `Growing flag`, `Facility ID`, `Facility address`, `DCPS facility name` …
+    - tab **Modernizations** (201 rows × 20 cols) — cols: `Facility ID`, `Modernization year`, `Modernization type`, `LEA ID`, `School ID`, `School year`, `School name`, `School grades`, `Sector`, `All schools occupying facility`, `Facility address`, `DCPS facility name` …
+    - tab **Data dictionary** (35 rows × 2 cols) — cols: `Variable name`, `Variable description`
+    - tab **Notes** (68 rows × 1 cols) — cols: `Notes`
+  - [`Number of Public School Facilities — EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2027`](https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2027_1.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Introduction** (19 rows × 1 cols) — cols: `EdScape`
+    - tab **Capacities and utilization** (4,458 rows × 31 cols) — cols: `School year`, `LEA ID`, `LEA name`, `School ID`, `School name`, `School sector`, `School category`, `School grades`, `Growing flag`, `Facility ID`, `Facility address`, `DCPS facility name` …
+    - tab **Facilities** (3,052 rows × 16 cols) — cols: `School year`, `Facility ID`, `Facility address`, `DCPS facility name`, `MAR xcoord`, `MAR ycoord`, `MAR latitude`, `MAR longitude`, `Ward (2022)`, `Neighborhood cluster`, `Comprehensive plan planning area`, `DCPS boundary` …
+    - tab **Modernizations** (201 rows × 20 cols) — cols: `Facility ID`, `Modernization year`, `Modernization type`, `LEA ID`, `School ID`, `School year`, `School name`, `School grades`, `Sector`, `All schools occupying facility`, `Facility address`, `DCPS facility name` …
+    - tab **Data dictionary** (35 rows × 2 cols) — cols: `Variable name`, `Variable description`
+    - tab **Notes** (74 rows × 1 cols) — cols: `Notes`
 
 ### [DME — Public Education Facility Planning](https://dme.dc.gov/service/public-education-facility-planning)
 
@@ -2830,6 +3528,30 @@ _topics: facilities, projections, enrollment_
 - **Updated:** Annual supplement
 - **Years on page:** SY2024-25 data + 5/10-yr forward projections
 - **Notes:** Released Sept 2025 (latest as of June 2026). Updated capacity/utilization and enrollment projections. Note: the freshest projections now live in EdScape rather than the MFP supplements.
+- **Data files (profiled):**
+  - [`2024 MFP Annual Supplement report`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20FINAL.pdf) — **pdf** — 16 pages, **extractable tables** on ~2 page(s)
+    - p13 table (19 rows): `School name`, `Ward`, `SY24-25 enrollment`, `SY24-25 facility capacity`, `Utilization % (pp change from SY23-24)`, `SY23-24 utilization <=50%`
+    - p14 table (21 rows): `School name`, `Ward`, `SY24-25 enrollment`, `SY24-25 facility capacity`, `Utilization % (pp change from SY23-24)`, `SY23-24 utilization >=95%`
+  - [`2024 MFP Annual Supplement Appendix 1`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%201.xlsx) — **xlsx** — 9 tab(s)
+    - tab **Contents and notes** (15 rows × 3 cols) — cols: `Tab`, `Name`, `Description`
+    - tab **A. SY24-25 PCS DGS Leases** (66 rows × 8 cols) — cols: `Facility ID`, `LEA ID`, `School ID`, `School Name`, `Address`, `Status`, `Sector`, `DCPS facility name`
+    - tab **B. DCPS SY24-25 Enroll & Utiliz** (120 rows × 2 cols) — cols: `SY23-24`, `SY24-25`
+    - tab **C. PCS SY24-25 Enroll & Utiliz** (150 rows × 2 cols) — cols: `SY23-24`, `SY24-25`
+    - tab **D. DCPS FCI** (120 rows × 10 cols) — cols: `Facility ID`, `School ID`, `School name`, `Facility address`, `DCPS facility name`, `Ward (2022)`, `Assessment year`, `1 year Facility Condition Index**`, `5 Year Facility Condition Index**`, `10 Year Facility Condition Index**`
+    - tab **E. PCSB Facility Survey Results** (30 rows × 1 cols) — cols: `Public charter school facility needs and conditions, SY24-25`
+    - tab **F. DCPS Modernization Status** (160 rows × 9 cols) — cols: `Facility ID`, `Year of completion`, `Modernization type`, `Facility address`, `DCPS facility name`, `LEA ID`, `School ID`, `School name`, `All schools`
+    - tab **G. CIP FY25-30** (37 rows × 1 cols) — cols: `Approved FY25-30 Capital Improvements Plan (CIP)`
+    - tab **H. DCPS Facility Classification** (133 rows × 7 cols) — cols: `School ID`, `School name`, `Facility ID`, `Facility address`, `DCPS facility name`, `Designation for SY24-25`, `Notes`
+  - [`2024 MFP Annual Supplement Appendix 2`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%202.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Appendix 2. Contents** (15 rows × 1 cols) — cols: `Master Facilities Plan 2024 Supplement enrollment projections`
+    - tab **A.Methodology Overview** (12 rows × 1 cols) — cols: `Enrollment projection methodology overview`
+    - tab **B.Aggregate projections** (70 rows × 6 cols) — cols: `Sector`, `School year`, `Type`, `Count`, `Change`, `% change`
+    - tab **C.DCPS enrollment projections** (118 rows × 26 cols) — cols: `School code`, `School name`, `SY13-14`, `SY14-15`, `SY15-16`, `SY16-17`, `SY17-18`, `SY18-19`, `SY19-20`, `SY20-21`, `SY21-22`, `SY22-23` …
+    - tab **D.Births** (38 rows × 1 cols) — cols: `Entry year`
+  - [`2024 MFP Annual Supplement Appendix 3`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%203.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): `Facility`, `Ward`, `Agency`, `Gross`, `Notes`
+    - p1 table (4 rows): `Facility`, `Ward (2022)`, `Agency`, `Gross`, `Notes`
+    - p1 table (2 rows): `Ward`
 
 ### [DME — Boundary and Student Assignment Study 2023 (data supplement)](https://dme.dc.gov/page/boundary-and-student-assignment-study-2023-data-supplement)
 
@@ -3127,6 +3849,10 @@ _topics: lottery, enrollment_
     - p1 table (6 rows): 
     - p2 table (4 rows): 
     - p3 table (4 rows): 
+  - [`Year over Year Comparisons — 20260803 MySchoolDC Tableau Data`](https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260803_MySchoolDC_Tableau_Data.xlsx) — **xlsx** — 3 tab(s)
+    - tab **Notes** (26 rows × 2 cols) — cols: `My School DC Public Tableau Data`, `Release: 08/03/2026`
+    - tab **Historic Lottery Results** (20,029 rows × 13 cols) — cols: `MSDC School Code`, `OSSE School Code`, `MSDC School Code and Grade`, `MSDC School Name`, `Grade Offered in Lottery`, `Lottery Year`, `Applications on Results Day`, `Lottery Seats Offered`, `Matches on Results Day`, `Waitlist Length on Results Day`, `Total Waitlist Offers made by June`, `Total Waitlist Offers made by August` …
+    - tab **Matches by Preference** (60,189 rows × 8 cols) — cols: `Lottery Year`, `MSDC School Code`, `MSDC School Name`, `Grade Offered in Lottery`, `Preference Order`, `Preference Name`, `Preference Order and Name`, `Matches on Results Day by Preference`
 
 ## Open Data DC / DCGIS
 
@@ -3217,14 +3943,14 @@ Where it appears:
 - [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment) (DCPS)
 - [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
 - [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) (DME)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 
 ### School accountability ratings
 
 Two different scales. OSSE's STAR rating is 1–5 stars and covers both DCPS and charters. DC PCSB's School Quality Report (SQR), built on the ASPIRE system, scores charters 0–100 with Tier 1/2/3 (charters only). The older PMF (archived at 2018-19) is a separate charter tiering. EmpowerK12 re-presents the OSSE STAR data interactively. A charter can carry both a STAR rating and an SQR tier; they're not the same scale, so note which framework and year a score/tier is from.
 
 Where it appears:
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide) (OSSE)
 - [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report) (DC PCSB)
 - [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system) (DC PCSB)
@@ -3238,7 +3964,7 @@ OSSE administers DC CAPE (formerly PARCC) and MSAA and posts cross-sector result
 Where it appears:
 - [Statewide Assessment Results 2024-25 (DC CAPE / MSAA)](https://osse.dc.gov/assessmentresults2025) (OSSE)
 - [Statewide Assessment Results 2023-24 (+ older-year archive index)](https://osse.dc.gov/assessmentresults2024) (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets) (DCPS)
 - [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc) (DC PCSB)
 
@@ -3249,7 +3975,7 @@ OSSE publishes the cross-sector 4- and 5-year ACGR with subgroups. DCPS posts th
 Where it appears:
 - [High School Graduation Rates / ACGR](https://osse.dc.gov/service/high-school-graduation-rates-0) (OSSE)
 - [DCPS Data Set — Graduation Rates](https://dcps.dc.gov/node/1018352) (DCPS)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 
 ### Attendance / chronic absenteeism
 
@@ -3258,7 +3984,7 @@ OSSE publishes citywide chronic absenteeism and chronic truancy (a 10% threshold
 Where it appears:
 - [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting) (OSSE)
 - [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard) (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [DCPS at a Glance: Attendance](https://dcps.dc.gov/node/1185940) (DCPS)
 - [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
 
@@ -3268,7 +3994,7 @@ OSSE's 'State of Discipline' report and the Report Card carry current cross-sect
 
 Where it appears:
 - [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report) (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports) (DC PCSB)
 - [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
 
@@ -3278,7 +4004,7 @@ OSSE's Report Card 'Aggregate Enrollment Data' Excel breaks enrollment down by r
 
 Where it appears:
 - [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [EdScape (education landscape tool)](https://edscape.dc.gov/) (DME)
 - [DCPS at a Glance: Enrollment](https://dcps.dc.gov/node/966292) (DCPS)
 - [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
@@ -3324,7 +4050,7 @@ Where it appears:
 - [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/) (DCPS)
 - [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles) (DC PCSB)
 - [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory) (DC PCSB)
-- [DC School Report Card (public interactive site)](https://dcschoolreportcard.org/) (OSSE)
+- [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 
 ### Educator workforce
 
@@ -3354,7 +4080,7 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 452 of 453 catalogued files download and profile cleanly · 1 still need a browser to resolve · 0 failed.
+**Profiling status (last run):** 565 of 566 catalogued files download and profile cleanly · 1 still need a browser to resolve · 0 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 
@@ -3366,4 +4092,4 @@ _No download/profile errors on the last run._
 Other structural notes: Egnyte share links return an HTML landing page to scripts (not fetchable — counts are recorded in source notes); the PCSB site returns intermittent 520s; the live Report Card is a JS app (use the Resource Library files for analysis); discipline by-school detail is in PDF appendices; STAR (OSSE) and SQR/PMF/ASPIRE (PCSB) are different rating systems.
 
 ---
-_Generated from `sources.yaml` + `file_profiles.json` by `generate_readme.py`. Sources last verified 2026-06._
+_Generated from `sources.yaml` + `file_profiles.json` by `generate_readme.py`. Sources last verified 2026-08._

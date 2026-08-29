@@ -50,7 +50,21 @@ Playwright for JS/anti-bot pages). When a link breaks:
 When a new school year posts, add the new files to `data_files.yaml`. Watch:
 - **OSSE Report Card Resource Library** — new year ≈ each December. **Filenames are
   inconsistent year to year** — copy the exact link from the page, don't guess.
-- **OSSE assessment results** (`/assessmentresultsYYYY`) — Box links, see §3.
+- **OSSE assessment results** — through 2025 at `/assessmentresultsYYYY` with Box
+  links (see §3). The 2025-26 release (Aug 2026) broke both patterns: no
+  `/assessmentresults2026` alias (404) and the files are direct osse.dc.gov
+  attachments. Find the page via the `data-and-reports-0` hub link titled
+  "YYYY-YY Statewide Assessment Results and Resources" (a `/node/NNN` URL;
+  use its `<link rel=canonical>`). Catalogue the State/LEA/School files (incl.
+  the separate Middle School Advanced Math set), the results PDF and appendix —
+  skip the ~28 translated score-report guides / sample ISRs.
+- **EdScape chapter pages** — every chapter's `.xlsx` filename ends in the
+  release year (`_2026`, `_2027`, sometimes `_2026_0` from Drupal re-uploads),
+  so each year is a NEW URL the monthly refresh never sees. Re-sweep all
+  `/page/` links from the EdScape home nav with curl (no browser needed) and
+  diff hrefs against `data_files.yaml`; chapter 4 → `edscape-enrollment-patterns`,
+  chapter 3 → `edscape-facilities`, chapters 1/2/5 → `edscape`, each row with
+  `page:` = the chapter URL. `harvest/*_2026-08.json` are the worked example.
 - **OSSE attendance** (~November), **discipline** (~December), **graduation** (~winter),
   **enrollment audit** (~Jan/Feb).
 - **EdScape Release Notes** (`edscape.dc.gov/page/edscape-release-notes`) — the

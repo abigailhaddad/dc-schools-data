@@ -1,5 +1,5 @@
 window.CATALOG = {
- "last_verified": "2026-06",
+ "last_verified": "2026-08",
  "owners": [
   {
    "key": "OSSE",
@@ -68,8 +68,1821 @@ window.CATALOG = {
    "cadence": "Rolling; underlying datasets annual",
    "years": "Links span SY2014-15 to SY2024-25 by dataset",
    "notes": "Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes.",
-   "files": [],
-   "search": "osse data and reports (main landing) osse top-level 'hub of hubs.' best fallback when a specific per-year page url changes. web portal of links to files & dashboards landing enrollment assessment attendance graduation discipline finance demographics assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout discipline suspension suspensions expulsion expulsions"
+   "files": [
+    {
+     "name": "2016-17 to 2018-19 School, LEA and State Assessment Participation",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 15,
+       "columns": [
+        "Overview:"
+       ]
+      },
+      {
+       "name": "State Level",
+       "n_rows": 52,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "LEA Level",
+       "n_rows": 1924,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      },
+      {
+       "name": "School Level",
+       "n_rows": 7371,
+       "columns": [
+        "ELA",
+        "Math"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2020 AP/IB and SAT Metric Scores",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "assessment",
+      "advanced-coursework"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "series": "Advanced Coursework (AP, IB & SAT)",
+     "label": "2020",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 18,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 27,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School Metric Scores",
+       "n_rows": 12091,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Name",
+        "School Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "LEA Metric Scores",
+       "n_rows": 6418,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "State Metric Scores",
+       "n_rows": 373,
+       "columns": [
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Mobility%20Brief%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2024-25",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 18,
+       "columns": [
+        "2024-25 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2023-24 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Mobility%20Brief%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 18,
+       "columns": [
+        "2023-24 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2022-23 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20Mobility%20Brief%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2022-23",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 18,
+       "columns": [
+        "2022-23 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2021-22 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Mobility%20Brief%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2021-22",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 18,
+       "columns": [
+        "2021-22 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2020-21 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Mobility%20Brief%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 19,
+       "columns": [
+        "2020-21 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2019-20 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20Mobility%20Brief%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2019-20",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 19,
+       "columns": [
+        "2019-20 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2018-19 Mobility Data",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Mobility%20Brief%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2018-19",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 19,
+       "columns": [
+        "2018-19 Mid-Year Mobility Data Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "All Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Compulsory Aged Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "K-12 Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Pre-K Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      },
+      {
+       "name": "Adult Students",
+       "n_rows": 15,
+       "columns": [
+        "Measure",
+        "Description",
+        "Charter",
+        "DCPS",
+        "TOTAL"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "2020 Mobility and Re-enrollment Data Report",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20Student%20Movement%20-%20Metric%20Scores.xlsx",
+     "kind": "xlsx",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "student-movement",
+      "enrollment"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 54,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School Metric Scores",
+       "n_rows": 16436,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Name",
+        "School Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "School Scores by Framework",
+       "n_rows": 14884,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Name",
+        "School Code",
+        "School Framework",
+        "Student Group",
+        "Domain",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "LEA Metric Scores",
+       "n_rows": 4104,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "LEA Scores by Framework",
+       "n_rows": 4808,
+       "columns": [
+        "LEA Name",
+        "LEA Code",
+        "School Framework",
+        "Student Group",
+        "Domain",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "State Metric Scores",
+       "n_rows": 110,
+       "columns": [
+        "Student Group",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      },
+      {
+       "name": "State Scores by Framework",
+       "n_rows": 280,
+       "columns": [
+        "School Framework",
+        "Student Group",
+        "Domain",
+        "Metric",
+        "Metric Score",
+        "Metric N",
+        "School Year"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Mid-Year Student Mobility 2016-17 School Year (council performance-oversight attachment)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q8 Attachment - Mid-year Student Mobility SY16-17.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 22,
+       "columns": [
+        "Title",
+        "Oversight 2017 Q8 Attachment - Mobility"
+       ]
+      },
+      {
+       "name": "Overall Movement SY1415",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY 17 POH Q6 (a) Response - Total Overall Movement, SY 14-15"
+       ]
+      },
+      {
+       "name": "Overall Movement SY1516",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY 17 POH Q6 (a) Response - Total Overall Movement, SY 15-16"
+       ]
+      },
+      {
+       "name": "Overall Movement SY1617",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY 17 POH Q8 Response- Overall Movement, SY 16-17"
+       ]
+      },
+      {
+       "name": "Across DC Public Sectors SY1415",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY 17 POH Q8 C Response- Movement Across Public Sectors, SY 14-15"
+       ]
+      },
+      {
+       "name": "Across DC Public Sectors SY1516",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 C - Movement Across DC Public Sectors SY 15-16"
+       ]
+      },
+      {
+       "name": "Across DC Public Sectors SY1617",
+       "n_rows": 19,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 C- Across DC Public Sectors, SY 16-17"
+       ]
+      },
+      {
+       "name": "Out of DC Public Sectors SY1415",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 (b)- Out of DC Public Sectors, SY 14-15"
+       ]
+      },
+      {
+       "name": "Out of DC Public Sect SY1516",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 (b)- Out of DC Public Sector, SY 15-16"
+       ]
+      },
+      {
+       "name": "Out of DC Public Sectors SY1617",
+       "n_rows": 19,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 B Response- Out of DC Public Sectors SY 16-17"
+       ]
+      },
+      {
+       "name": "Into DC Public Sector SY1415",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 18 POH Q8 B Response- Into DC Public Sector, SY 14-15"
+       ]
+      },
+      {
+       "name": "Into DC Public Sector SY1516",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 B Response- Movement Into DC Public Sector, SY 15-16"
+       ]
+      },
+      {
+       "name": "Into DC Public Sectors SY16-17",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "Moved into DC public sectors: SY2016-17"
+       ]
+      },
+      {
+       "name": "Within DC Public Sector SY1415",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 D, Within Public Sector, SY 14-15"
+       ]
+      },
+      {
+       "name": "Within DC Public Sector SY1516",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "OSSE FY 17 POH Q8 D Response- Within DC Public Sector, SY 15-16"
+       ]
+      },
+      {
+       "name": "Within DC Public Sector SY16-17",
+       "n_rows": 20,
+       "columns": [
+        "Grade",
+        "Moved within a DC public sector: SY2016-17"
+       ]
+      },
+      {
+       "name": "Continuous Enrollment",
+       "n_rows": 13,
+       "columns": [
+        "OSSE FY 17 POH Q8 E Response- Continuous Enrollment Demographics"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Citywide Discipline Data — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 14,
+       "columns": [
+        "Title",
+        "Oversight 2017 Q10 Attachment - Discipline"
+       ]
+      },
+      {
+       "name": "school_counts",
+       "n_rows": 235,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School"
+       ]
+      },
+      {
+       "name": "school_rates",
+       "n_rows": 234,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School"
+       ]
+      },
+      {
+       "name": "school_durations",
+       "n_rows": 235,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Duration of Discipline by School"
+       ]
+      },
+      {
+       "name": "school_removals",
+       "n_rows": 239,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Removals by School"
+       ]
+      },
+      {
+       "name": "lea_counts",
+       "n_rows": 56,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Number of Students Disciplined by LEA"
+       ]
+      },
+      {
+       "name": "lea_rates",
+       "n_rows": 68,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Number of Students Disciplined by LEA"
+       ]
+      },
+      {
+       "name": "lea_durations",
+       "n_rows": 56,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Duration of Discipline by LEA"
+       ]
+      },
+      {
+       "name": "lea_removals",
+       "n_rows": 69,
+       "columns": [
+        "OSSE FY17 POH Q10 Response -- Removals by LEA"
+       ]
+      }
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
+    },
+    {
+     "name": "Mid-Year Student Mobility 2014-15 and 2015-16 School Years (council performance-oversight attachment)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q7%20Attachment%20-%20Mid-year%20Student%20Mobility%20SY14-15%20and%20SY15-16.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "student-movement"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 18,
+       "columns": [
+        "Title",
+        "Q7 Attachment- Mid-year Student Mobility.xlsx"
+       ]
+      },
+      {
+       "name": "Overall Movement SY1415",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Overall movement: SY2014-15"
+       ]
+      },
+      {
+       "name": "Overall Movement SY1516",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Overall movement: SY2015-16"
+       ]
+      },
+      {
+       "name": "Out of DC Public Sect SY1415",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved out of DC public sectors: SY2014-15"
+       ]
+      },
+      {
+       "name": "Out of DC Public Sect SY1516",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved out of DC public sectors: SY2015-16"
+       ]
+      },
+      {
+       "name": "Into DC Public Sector SY1415",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved into DC public sectors: SY2014-15"
+       ]
+      },
+      {
+       "name": "Into DC Public Sector SY1516",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved into DC public sectors: SY2015-16"
+       ]
+      },
+      {
+       "name": "Across DC Public Sect SY1415",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved between DC public sectors: SY2014-15"
+       ]
+      },
+      {
+       "name": "Across DC Public Sect SY1516",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved between DC public sectors: SY2015-16"
+       ]
+      },
+      {
+       "name": "Within DC Public Sect SY1415",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2014-15"
+       ]
+      },
+      {
+       "name": "Within DC Public Sect SY1516",
+       "n_rows": 20,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2015-16"
+       ]
+      },
+      {
+       "name": "Continuously Enrolled",
+       "n_rows": 12,
+       "columns": [
+        "OSSE FY16 POH Q7 Response - Demographics of Continuously Enrolled Students"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Citywide Discipline Data — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "discipline"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 15,
+       "columns": [
+        "Title",
+        "Q9 Attachment- Discipline Data.xlsx"
+       ]
+      },
+      {
+       "name": "school_counts",
+       "n_rows": 225,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School"
+       ]
+      },
+      {
+       "name": "school_rates",
+       "n_rows": 225,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School"
+       ]
+      },
+      {
+       "name": "school_durations",
+       "n_rows": 225,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Duration of Discipline by School"
+       ]
+      },
+      {
+       "name": "school_removals",
+       "n_rows": 225,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Removals by School"
+       ]
+      },
+      {
+       "name": "lea_counts",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Number of Students Disciplined by LEA"
+       ]
+      },
+      {
+       "name": "lea_rates",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Number of Students Disciplined by LEA"
+       ]
+      },
+      {
+       "name": "lea_durations",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Duration of Discipline by LEA"
+       ]
+      },
+      {
+       "name": "lea_removals",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q9 Response -- Removals by LEA"
+       ]
+      }
+     ],
+     "syn": "discipline expulsion expulsions suspension suspensions"
+    },
+    {
+     "name": "Students by Ward in 2012-13 through 2017-18 School Year — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx",
+     "kind": "xlsx",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 11,
+       "columns": [
+        "Title",
+        "Oversight 2017 Q2 Attachment - Student Enrollment by Ward"
+       ]
+      },
+      {
+       "name": "SY12-13",
+       "n_rows": 1828,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY12-13"
+       ]
+      },
+      {
+       "name": "SY13-14",
+       "n_rows": 1664,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY13-14"
+       ]
+      },
+      {
+       "name": "SY14-15",
+       "n_rows": 1864,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY14-15"
+       ]
+      },
+      {
+       "name": "SY15_16",
+       "n_rows": 237,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY15-16"
+       ]
+      },
+      {
+       "name": "SY16_17",
+       "n_rows": 236,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY16-17"
+       ]
+      },
+      {
+       "name": "SY17_18",
+       "n_rows": 238,
+       "columns": [
+        "OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY17-18"
+       ]
+      },
+      {
+       "name": "Totals",
+       "n_rows": 12,
+       "columns": [
+        "Ward",
+        "SY2012-13",
+        "SY2013-14",
+        "SY2014-15",
+        "SY2015-16",
+        "SY2016-17",
+        "SY2017-18"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Private School Enrollment from 2014-15 through 2017-18 Schoo — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx",
+     "kind": "xlsx",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 8,
+       "columns": [
+        "Title",
+        "Q4 Attachment- Private School Enrollment SY14-15, SY15-16, SY16-17, SY17-18 to date.xlsx"
+       ]
+      },
+      {
+       "name": " SY 14-15",
+       "n_rows": 62,
+       "columns": [
+        "OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY14-15"
+       ]
+      },
+      {
+       "name": "SY 15-16",
+       "n_rows": 62,
+       "columns": [
+        "OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY15-16"
+       ]
+      },
+      {
+       "name": "SY 16-17",
+       "n_rows": 64,
+       "columns": [
+        "OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY16-17 to date"
+       ]
+      },
+      {
+       "name": "SY 17-18",
+       "n_rows": 43,
+       "columns": [
+        "OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY17-18 to date"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024-25 Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2024-25",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2024-25 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Rate",
+        "Count",
+        "Cohort Total by Sector"
+       ]
+      },
+      {
+       "name": "2024-25 School Rates",
+       "n_rows": 85,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "School Name",
+        "Rate",
+        "Graduates",
+        "Cohort Total"
+       ]
+      },
+      {
+       "name": "2024-25 Rates by Student Group",
+       "n_rows": 87,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Rate",
+        "Graduates",
+        "Cohort Total"
+       ]
+      }
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
+    },
+    {
+     "name": "2023-24 Adjusted Cohort Graduation Rate (ACGR) — Public",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx",
+     "kind": "xlsx",
+     "year": "2023-24",
+     "status": "ok",
+     "topics": [
+      "graduation"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 20,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "2023-24 Rate Overview",
+       "n_rows": 39,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Outcome",
+        "Cohort Size by Sector",
+        "Count",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2023-24 School Rates",
+       "n_rows": 81,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "School Name",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      },
+      {
+       "name": "2023-24 Rates by Student Group",
+       "n_rows": 91,
+       "columns": [
+        "Sector",
+        "Cohort",
+        "Student Group",
+        "Cohort Total",
+        "Graduates",
+        "Rate"
+       ]
+      }
+     ],
+     "syn": "acgr cohort graduation dropout graduation graduation rate"
+    },
+    {
+     "name": "2023-24 DECP Data File",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2023-24%20DECP%20Reporting.xlsx",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 9,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "State Data",
+       "n_rows": 22,
+       "columns": [
+        "Student Group",
+        "Fall 2023",
+        "Spring 2024",
+        "Summer 2024",
+        "All Terms (Fall 2023 - Summer 2024)"
+       ]
+      },
+      {
+       "name": "LEA Data",
+       "n_rows": 25,
+       "columns": [
+        "LEA Code",
+        "LEA Name",
+        "Fall 2023",
+        "Spring 2024",
+        "Summer 2024",
+        "All Terms (Fall 2023 - Summer 2024)"
+       ]
+      },
+      {
+       "name": "IHE Funding",
+       "n_rows": 16,
+       "columns": [
+        "Institute of Higher Education (IHE) Partner",
+        "Fall 2023",
+        "Spring 2024",
+        "Summer 2024",
+        "All Terms (Fall 2023 - Summer 2024)"
+       ]
+      }
+     ],
+     "syn": "budget cost expenditure finance funding per pupil per-pupil spending"
+    },
+    {
+     "name": "Free and Reduced-Price Meals Status — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data Notes",
+       "n_rows": 7,
+       "columns": [
+        "Title",
+        "Q77 Attachment - FARM Status"
+       ]
+      },
+      {
+       "name": "Public Charter & Private School",
+       "n_rows": 2073,
+       "columns": [
+        "OSSE FY16 POH Q77 RESPONSE - PUBLIC CHARTER AND PRIVATE SCHOOL STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016"
+       ]
+      },
+      {
+       "name": "DCPS - CEP & P2",
+       "n_rows": 100,
+       "columns": [
+        "OSSE FY16 POH Q77 RESPONSE - DCPS (CEP AND P2) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016"
+       ]
+      },
+      {
+       "name": "DCPS - Traditional",
+       "n_rows": 462,
+       "columns": [
+        "OSSE FY16 POH Q77 RESPONSE - DCPS (TRADITIONAL) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016"
+       ]
+      },
+      {
+       "name": "CEP Schools",
+       "n_rows": 161,
+       "columns": [
+        "OSSE FY16 POH Q77 RESPONSE - Schools Participating in the Community Eligibility Provision Program"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "At-Risk Students — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 9,
+       "columns": [
+        "Title",
+        "Q5 Attachment- At-Risk.xlsx"
+       ]
+      },
+      {
+       "name": "Q5_PriorYears",
+       "n_rows": 59,
+       "columns": [
+        "OSSE FY16 POH Q5 Response -- Number of Homeless, Foster Care, TANF eligible, SNAP eligible, and Overage Youth by LEA for SY13-14, SY14-15, and SY15-16"
+       ]
+      }
+     ],
+     "syn": "at-risk disadvantaged economically disadvantaged farms free lunch frpl low income low-income poverty title i"
+    },
+    {
+     "name": "Foster Children — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 10,
+       "columns": [
+        "Title",
+        "Q6 Attachment- Foster Care.xlsx"
+       ]
+      },
+      {
+       "name": "Q6_A",
+       "n_rows": 9,
+       "columns": [
+        "OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive General Education Services Only"
+       ]
+      },
+      {
+       "name": "Q6_B",
+       "n_rows": 8,
+       "columns": [
+        "OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive Special Education Services"
+       ]
+      },
+      {
+       "name": "Q6_C",
+       "n_rows": 53,
+       "columns": [
+        "OSSE FY16 POH Q6 Response -- Amount that OSSE pays to enroll an individual student in an out-of-District public school"
+       ]
+      },
+      {
+       "name": "Q6_D",
+       "n_rows": 7,
+       "columns": [
+        "OSSE FY16 POH Q6 Response -- Amount that OSSE Spent on SPED Transportation for Children in Foster Care - FY16 and FY17 to date"
+       ]
+      }
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+    },
+    {
+     "name": "Individual Education Programs (IEPs) — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 31,
+       "columns": [
+        "Title",
+        "Q49 Attachment- IEPs.xlsx"
+       ]
+      },
+      {
+       "name": "2016_Q49A",
+       "n_rows": 22,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49B",
+       "n_rows": 66,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49C",
+       "n_rows": 16,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION"
+       ]
+      },
+      {
+       "name": "2016_Q49C_by_age",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49C_by_LEA",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY DISABILITY CLASSIFICATION BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49C_multi_disab",
+       "n_rows": 15,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH MULTIPLE DISABILITIES"
+       ]
+      },
+      {
+       "name": "2016_Q49D",
+       "n_rows": 10,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION"
+       ]
+      },
+      {
+       "name": "2016_Q49D_by_age",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49D_by_LEA",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49D_by_disability",
+       "n_rows": 15,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - PERCENTAGE OF TIME OUTSIDE OF GENERAL EDUCATION BY DISABILITY CLASSIFICATION"
+       ]
+      },
+      {
+       "name": "2016_Q49E",
+       "n_rows": 17,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE"
+       ]
+      },
+      {
+       "name": "2016_Q49E_by_age",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49E_by_LEA",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49E_by_disability",
+       "n_rows": 16,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - STUDENTS BY PLACEMENT TYPE BY DISABILITY"
+       ]
+      },
+      {
+       "name": "2016_Q49H",
+       "n_rows": 2,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting"
+       ]
+      },
+      {
+       "name": "2016_Q49H_by_age",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49H_by_LEA",
+       "n_rows": 64,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49H_by_disability",
+       "n_rows": 14,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - Number of students with Specialized Instruction in General Education Setting BY DISABILITY"
+       ]
+      },
+      {
+       "name": "2016_Q49I",
+       "n_rows": 3,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES"
+       ]
+      },
+      {
+       "name": "2016_Q49I_by_age",
+       "n_rows": 21,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY AGE"
+       ]
+      },
+      {
+       "name": "2016_Q49I_by_LEA",
+       "n_rows": 65,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY LEA"
+       ]
+      },
+      {
+       "name": "2016_Q49I_by_disability",
+       "n_rows": 15,
+       "columns": [
+        "OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY DISABILITY CLASSIFICATION"
+       ]
+      }
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+    },
+    {
+     "name": "Special Education Exit — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 7,
+       "columns": [
+        "Title",
+        "Q50 and Q51 Attachment- SPED Exit.xlsx"
+       ]
+      },
+      {
+       "name": "2016_Q50",
+       "n_rows": 44,
+       "columns": [
+        "OSSE FY16 POH Q50 AND 51 RESPONSE - SPED EXITS"
+       ]
+      }
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+    },
+    {
+     "name": "Secondary Transitions for Students with Disabilities — council performance-oversight attachment",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "special-education"
+     ],
+     "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "tabs": [
+      {
+       "name": "Data_Notes",
+       "n_rows": 7,
+       "columns": [
+        "Title",
+        "Q52 Attachment- Transitions"
+       ]
+      },
+      {
+       "name": "2016_Q52",
+       "n_rows": 77,
+       "columns": [
+        "OSSE FY16 POH Q52 RESPONSE - STUDENTS WITH DISABILITIES TRANSITIONING OUT OF SCHOOL"
+       ]
+      }
+     ],
+     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+    }
+   ],
+   "search": "osse data and reports (main landing) osse top-level 'hub of hubs.' best fallback when a specific per-year page url changes. web portal of links to files & dashboards landing enrollment assessment attendance graduation discipline finance demographics 2016-17 to 2018-19 school, lea and state assessment participation data notes overview: state level ela math lea level ela math school level ela math 2020 ap/ib and sat metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2024-25 mobility data data notes 2024-25 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total adult students measure description charter dcps total pre-k students measure description charter dcps total k-12 students measure description charter dcps total 2023-24 mobility data data notes 2023-24 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2022-23 mobility data data notes 2022-23 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2021-22 mobility data data notes 2021-22 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020-21 mobility data data notes 2020-21 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2019-20 mobility data data notes 2019-20 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2018-19 mobility data data notes 2018-19 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020 mobility and re-enrollment data report data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group domain metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group domain metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group domain metric metric score metric n school year mid-year student mobility 2016-17 school year (council performance-oversight attachment) data notes title oversight 2017 q8 attachment - mobility overall movement sy1415 osse fy 17 poh q6 (a) response - total overall movement, sy 14-15 overall movement sy1516 osse fy 17 poh q6 (a) response - total overall movement, sy 15-16 overall movement sy1617 osse fy 17 poh q8 response- overall movement, sy 16-17 across dc public sectors sy1415 osse fy 17 poh q8 c response- movement across public sectors, sy 14-15 across dc public sectors sy1516 grade osse fy 17 poh q8 c - movement across dc public sectors sy 15-16 across dc public sectors sy1617 grade osse fy 17 poh q8 c- across dc public sectors, sy 16-17 out of dc public sectors sy1415 grade osse fy 17 poh q8 (b)- out of dc public sectors, sy 14-15 out of dc public sect sy1516 grade osse fy 17 poh q8 (b)- out of dc public sector, sy 15-16 out of dc public sectors sy1617 grade osse fy 17 poh q8 b response- out of dc public sectors sy 16-17 into dc public sector sy1415 grade osse fy 18 poh q8 b response- into dc public sector, sy 14-15 into dc public sector sy1516 grade osse fy 17 poh q8 b response- movement into dc public sector, sy 15-16 into dc public sectors sy16-17 grade moved into dc public sectors: sy2016-17 within dc public sector sy1415 grade osse fy 17 poh q8 d, within public sector, sy 14-15 within dc public sector sy1516 grade osse fy 17 poh q8 d response- within dc public sector, sy 15-16 within dc public sector sy16-17 grade moved within a dc public sector: sy2016-17 continuous enrollment osse fy 17 poh q8 e response- continuous enrollment demographics citywide discipline data — council performance-oversight attachment data_notes title oversight 2017 q10 attachment - discipline school_counts osse fy17 poh q10 response -- number of students disciplined by school school_rates osse fy17 poh q10 response -- number of students disciplined by school school_durations osse fy17 poh q10 response -- duration of discipline by school school_removals osse fy17 poh q10 response -- removals by school lea_counts osse fy17 poh q10 response -- number of students disciplined by lea lea_rates osse fy17 poh q10 response -- number of students disciplined by lea lea_durations osse fy17 poh q10 response -- duration of discipline by lea lea_removals osse fy17 poh q10 response -- removals by lea mid-year student mobility 2014-15 and 2015-16 school years (council performance-oversight attachment) data_notes title q7 attachment- mid-year student mobility.xlsx overall movement sy1415 osse fy16 poh q7 response - overall movement: sy2014-15 overall movement sy1516 osse fy16 poh q7 response - overall movement: sy2015-16 out of dc public sect sy1415 osse fy16 poh q7 response - moved out of dc public sectors: sy2014-15 out of dc public sect sy1516 osse fy16 poh q7 response - moved out of dc public sectors: sy2015-16 into dc public sector sy1415 osse fy16 poh q7 response - moved into dc public sectors: sy2014-15 into dc public sector sy1516 osse fy16 poh q7 response - moved into dc public sectors: sy2015-16 across dc public sect sy1415 osse fy16 poh q7 response - moved between dc public sectors: sy2014-15 across dc public sect sy1516 osse fy16 poh q7 response - moved between dc public sectors: sy2015-16 within dc public sect sy1415 osse fy16 poh q7 response - moved within a dc public sector: sy2014-15 within dc public sect sy1516 osse fy16 poh q7 response - moved within a dc public sector: sy2015-16 continuously enrolled osse fy16 poh q7 response - demographics of continuously enrolled students citywide discipline data — council performance-oversight attachment data_notes title q9 attachment- discipline data.xlsx school_counts osse fy16 poh q9 response -- number of students disciplined by school school_rates osse fy16 poh q9 response -- number of students disciplined by school school_durations osse fy16 poh q9 response -- duration of discipline by school school_removals osse fy16 poh q9 response -- removals by school lea_counts osse fy16 poh q9 response -- number of students disciplined by lea lea_rates osse fy16 poh q9 response -- number of students disciplined by lea lea_durations osse fy16 poh q9 response -- duration of discipline by lea lea_removals osse fy16 poh q9 response -- removals by lea students by ward in 2012-13 through 2017-18 school year — council performance-oversight attachment data_notes title oversight 2017 q2 attachment - student enrollment by ward sy12-13 osse fy17 poh q2 response -- students by ward of residence for each public school sy12-13 sy13-14 osse fy17 poh q2 response -- students by ward of residence for each public school sy13-14 sy14-15 osse fy17 poh q2 response -- students by ward of residence for each public school sy14-15 sy15_16 osse fy17 poh q2 response -- students by ward of residence for each public school sy15-16 sy16_17 osse fy17 poh q2 response -- students by ward of residence for each public school sy16-17 sy17_18 osse fy17 poh q2 response -- students by ward of residence for each public school sy17-18 totals ward sy2012-13 sy2013-14 sy2014-15 sy2015-16 sy2016-17 sy2017-18 private school enrollment from 2014-15 through 2017-18 schoo — council performance-oversight attachment data notes title q4 attachment- private school enrollment sy14-15, sy15-16, sy16-17, sy17-18 to date.xlsx  sy 14-15 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy14-15 sy 15-16 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy15-16 sy 16-17 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy16-17 to date sy 17-18 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy17-18 to date 2024-25 adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2024-25 rate overview sector cohort outcome rate count cohort total by sector 2024-25 school rates sector cohort school name rate graduates cohort total 2024-25 rates by student group sector cohort student group rate graduates cohort total 2023-24 adjusted cohort graduation rate (acgr) — public data notes office of the state superintendent of education 2023-24 rate overview sector cohort outcome cohort size by sector count rate 2023-24 school rates sector cohort school name cohort total graduates rate 2023-24 rates by student group sector cohort student group cohort total graduates rate 2023-24 decp data file overview office of the state superintendent of education state data student group fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) lea data lea code lea name fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) ihe funding institute of higher education (ihe) partner fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) free and reduced-price meals status — council performance-oversight attachment data notes title q77 attachment - farm status public charter & private school osse fy16 poh q77 response - public charter and private school students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - cep & p2 osse fy16 poh q77 response - dcps (cep and p2) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - traditional osse fy16 poh q77 response - dcps (traditional) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 cep schools osse fy16 poh q77 response - schools participating in the community eligibility provision program at-risk students — council performance-oversight attachment data_notes title q5 attachment- at-risk.xlsx q5_prioryears osse fy16 poh q5 response -- number of homeless, foster care, tanf eligible, snap eligible, and overage youth by lea for sy13-14, sy14-15, and sy15-16 foster children — council performance-oversight attachment data_notes title q6 attachment- foster care.xlsx q6_a osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive general education services only q6_b osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive special education services q6_c osse fy16 poh q6 response -- amount that osse pays to enroll an individual student in an out-of-district public school q6_d osse fy16 poh q6 response -- amount that osse spent on sped transportation for children in foster care - fy16 and fy17 to date individual education programs (ieps) — council performance-oversight attachment data_notes title q49 attachment- ieps.xlsx 2016_q49a osse fy16 poh q49 response - students with ieps by age 2016_q49b osse fy16 poh q49 response - students with ieps by lea 2016_q49c osse fy16 poh q49 response - students with ieps by disability classification 2016_q49c_by_age osse fy16 poh q49 response - students with ieps by disability classification by age 2016_q49c_by_lea osse fy16 poh q49 response - students with ieps by disability classification by lea 2016_q49c_multi_disab osse fy16 poh q49 response - students with multiple disabilities 2016_q49d osse fy16 poh q49 response - percentage of time outside of general education 2016_q49d_by_age osse fy16 poh q49 response - percentage of time outside of general education by age 2016_q49d_by_lea osse fy16 poh q49 response - percentage of time outside of general education by lea 2016_q49d_by_disability osse fy16 poh q49 response - percentage of time outside of general education by disability classification 2016_q49e osse fy16 poh q49 response - students by placement type 2016_q49e_by_age osse fy16 poh q49 response - students by placement type by age 2016_q49e_by_lea osse fy16 poh q49 response - students by placement type by lea 2016_q49e_by_disability osse fy16 poh q49 response - students by placement type by disability 2016_q49h osse fy16 poh q49 response - number of students with specialized instruction in general education setting 2016_q49h_by_age osse fy16 poh q49 response - number of students with specialized instruction in general education setting by age 2016_q49h_by_lea osse fy16 poh q49 response - number of students with specialized instruction in general education setting by lea 2016_q49h_by_disability osse fy16 poh q49 response - number of students with specialized instruction in general education setting by disability 2016_q49i osse fy16 poh q49 response - number of students receiving related services 2016_q49i_by_age osse fy16 poh q49 response - number of students receiving related services by age 2016_q49i_by_lea osse fy16 poh q49 response - number of students receiving related services by lea 2016_q49i_by_disability osse fy16 poh q49 response - number of students receiving related services by disability classification special education exit — council performance-oversight attachment data_notes title q50 and q51 attachment- sped exit.xlsx 2016_q50 osse fy16 poh q50 and 51 response - sped exits secondary transitions for students with disabilities — council performance-oversight attachment data_notes title q52 attachment- transitions 2016_q52 osse fy16 poh q52 response - students with disabilities transitioning out of school at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "osse-report-card-resource-library",
@@ -7505,15 +9318,509 @@ window.CATALOG = {
       }
      ],
      "syn": "accountability aspire pmf rating school quality sqr star"
+    },
+    {
+     "name": "2026 Metric Calculation Confirmation (MCC) Policy",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Policy.pdf",
+     "kind": "pdf",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "methodology"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "Phase",
+        "Release Date",
+        "OST Deadline",
+        "Certification Date",
+        "Appeal Deadline"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 2,
+       "header": [
+        "Phase I",
+        "Phase II",
+        "Phase III"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 3,
+       "header": [
+        "Step",
+        "LEA Action"
+       ],
+       "n_rows": 4
+      }
+     ]
+    },
+    {
+     "name": "2026 Metric Calculation Confirmation (MCC) Data Dictionary",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website%20%28Aug%202026%29.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "methodology"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "tabs": [
+      {
+       "name": "Release Schedule",
+       "n_rows": 32,
+       "columns": [
+        "MCC Phase",
+        "Sheet",
+        "Release Date",
+        "LEA OST Deadline",
+        "LEA Certification Date"
+       ]
+      },
+      {
+       "name": "ELA Statewide Assessments",
+       "n_rows": 71,
+       "columns": [
+        "Sheet: ELA Statewide Assessments (Participation and Performance)"
+       ]
+      },
+      {
+       "name": "Math Statewide Assessments",
+       "n_rows": 63,
+       "columns": [
+        "Sheet: Math Statewide Assessments (Participation and Achievement)"
+       ]
+      },
+      {
+       "name": "Metric Scores - Phase I",
+       "n_rows": 14,
+       "columns": [
+        "Sheet: Metric Scores - Phase I"
+       ]
+      },
+      {
+       "name": "ACCESS Growth",
+       "n_rows": 49,
+       "columns": [
+        "Sheet: ACCESS Growth"
+       ]
+      },
+      {
+       "name": "Adjusted Achievement ",
+       "n_rows": 15,
+       "columns": [
+        "Sheet: Adusted Achievement"
+       ]
+      },
+      {
+       "name": "Chronic Absenteeism",
+       "n_rows": 38,
+       "columns": [
+        "Sheet: Chronic Absenteeism"
+       ]
+      },
+      {
+       "name": "Pre-K Chronic Absenteeism",
+       "n_rows": 36,
+       "columns": [
+        "Sheet: Pre-K Chronic Absenteeism"
+       ]
+      },
+      {
+       "name": "Attendance Growth",
+       "n_rows": 45,
+       "columns": [
+        "Sheet: Attendance Growth"
+       ]
+      },
+      {
+       "name": "CLASS",
+       "n_rows": 20,
+       "columns": [
+        "Sheet: CLASS"
+       ]
+      },
+      {
+       "name": "Post-Secondary Enrollment",
+       "n_rows": 44,
+       "columns": [
+        "Sheet: Post-Secondary Enrollment"
+       ]
+      },
+      {
+       "name": "Directory - Profile",
+       "n_rows": 32,
+       "columns": [
+        "Sheet: Directory - Profile"
+       ]
+      },
+      {
+       "name": "Directory- Before After Care",
+       "n_rows": 18,
+       "columns": [
+        "Sheet: Before After Care"
+       ]
+      },
+      {
+       "name": "Directory - Message from School",
+       "n_rows": 9,
+       "columns": [
+        "Sheet: Directory - Message from School"
+       ]
+      },
+      {
+       "name": "Directory - Transportation",
+       "n_rows": 10,
+       "columns": [
+        "Sheet: Directory - Transportation"
+       ]
+      },
+      {
+       "name": "Directory - Parent Engagement",
+       "n_rows": 15,
+       "columns": [
+        "Sheet: Directory - Parent Engagement"
+       ]
+      },
+      {
+       "name": "8th-9th Grade Transition",
+       "n_rows": 35,
+       "columns": [
+        "Sheet: 8th to 9th (Alt Only)"
+       ]
+      },
+      {
+       "name": "Metric Scores - Phase II",
+       "n_rows": 15,
+       "columns": [
+        "Sheet: Metric Scores - Phase II"
+       ]
+      },
+      {
+       "name": "Advanced Coursework - Partic",
+       "n_rows": 40,
+       "columns": [
+        "Sheet: Advanced Coursework - Participation"
+       ]
+      },
+      {
+       "name": "Advanced Coursework - Perform",
+       "n_rows": 39,
+       "columns": [
+        "Sheet: Advanced Coursework - Performance"
+       ]
+      },
+      {
+       "name": "ACGR",
+       "n_rows": 34,
+       "columns": [
+        "Sheet: ACGR"
+       ]
+      },
+      {
+       "name": "Other Student Assessments",
+       "n_rows": 36,
+       "columns": [
+        "Sheet: Other Student Assessments"
+       ]
+      },
+      {
+       "name": "Re-Enrollment",
+       "n_rows": 38,
+       "columns": [
+        "Sheet: Re-Enrollment"
+       ]
+      },
+      {
+       "name": "SAT Benchmark",
+       "n_rows": 35,
+       "columns": [
+        "Sheet: SAT Benchmark"
+       ]
+      },
+      {
+       "name": "Science Statewide Assessments",
+       "n_rows": 60,
+       "columns": [
+        "Sheet: Science Statewide Assessments"
+       ]
+      },
+      {
+       "name": "ELA - Growth",
+       "n_rows": 52,
+       "columns": [
+        "Sheet: ELA - Growth"
+       ]
+      },
+      {
+       "name": "Math - Growth",
+       "n_rows": 52,
+       "columns": [
+        "Sheet: Math - Growth"
+       ]
+      },
+      {
+       "name": "Mobility - LEA Level",
+       "n_rows": 52,
+       "columns": [
+        "Sheet: Mobility - LEA Level"
+       ]
+      },
+      {
+       "name": "Mobility - School Level ",
+       "n_rows": 56,
+       "columns": [
+        "Sheet: Mobility - School Level"
+       ]
+      },
+      {
+       "name": "Academic Persistence",
+       "n_rows": 36,
+       "columns": [
+        "Sheet: Academic Persistence (Alternative School Framework Only)"
+       ]
+      },
+      {
+       "name": "Secondary Completion",
+       "n_rows": 32,
+       "columns": [
+        "Sheet: Secondary Completion (Alternative School Framework Only)"
+       ]
+      },
+      {
+       "name": "Metric Scores - Phase III",
+       "n_rows": 15,
+       "columns": [
+        "Sheet: Metric Scores - Phase III"
+       ]
+      }
+     ],
+     "syn": "absenteeism acgr assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas dropout early childhood early learning graduation graduation rate head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test test results test scores truancy"
+    },
+    {
+     "name": "2026 DC School Report Card Technical Guide",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20School%20Report%20Card%20Technical%20Guide.pdf",
+     "kind": "pdf",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "methodology"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "n_pages": 70,
+     "has_tabular_data": true,
+     "n_table_pages": 17,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "Current Grade Level",
+        "Prior Year’s Proficiency Level"
+       ],
+       "n_rows": 7
+      },
+      {
+       "page": 15,
+       "header": [
+        "Test Subject Area",
+        "Corresponding College Courses",
+        "Benchmark"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 16,
+       "header": [
+        "Test Subject Area",
+        "SAT Score 1",
+        "SAT Score 2",
+        "Highest",
+        "Meet /",
+        "College"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 34,
+       "header": [
+        "Student Survey (Grades 3-5, 6-12)",
+        "School-Based Staff Survey",
+        "Family Survey"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 34,
+       "header": [
+        "The OSSE response rate may include students who were unable to take the survey, including"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 38,
+       "header": [
+        "Data Elements",
+        "Reporting",
+        "Source"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 39,
+       "header": [
+        "Accountability Framework",
+        "School",
+        "OSSE Data Validation"
+       ],
+       "n_rows": 23
+      },
+      {
+       "page": 39,
+       "header": [
+        "OSSE Data"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
+    },
+    {
+     "name": "DC School Report Card and MySchoolDC Data Elements - Busines",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf",
+     "kind": "pdf",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "lottery"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Data Source",
+        "Data Element",
+        "Definition",
+        "Business Rules"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 2,
+       "header": [
+        "course on the OSSE State C ourse Catalog."
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 3,
+       "header": [
+        "eSchoolPLUS",
+        "Single-Gender Campus",
+        "The school’s enrollment targets a single gender.",
+        "On eSchoolPLUS, the LEA/school selected \"Single-Gender Campus\" as one of the School Characteristics for this school."
+       ],
+       "n_rows": 5
+      }
+     ]
+    },
+    {
+     "name": "Alternative Accountability Framework – At a Glance",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20%20-%20At%20a%20Glance%20%282026%29.pdf",
+     "kind": "pdf",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "accountability"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Measures student performance on DC CAPE and MSAA and how many students are approaching, reaching, and exceeding proficiency in English language arts (ELA) and mathematics. State Assessment Proficiency - Students meeting or exceeding expectations in both ELA and Math on the statewide assessment. State Assessment Weighted Index - An index score for student performance across all levels of statewide assessment with heavier weight placed on higher levels of proficiency. ACADEMIC GROWTH"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "Attendance is reported through two indicators: 1. Chronic Absenteeism - Percentage of students who miss 10 percent or more of the school year. AND* 2. Attendance Growth - Improvement in student level attendance rates from year to year. Academic Persistence* - Percentage of students who remain academically engaged from one year to the next. This includes students who transfer"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 1,
+       "header": [
+        "Five-Year Adjusted Cohort Graduation Rate (high school grades) - Percentage of students who graduate with a diploma within five years of entering high school. EDUCATIONAL PROGRESS"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 2,
+       "header": [
+        "Alternative School Type",
+        "Academic Achievement",
+        "Academic Growth",
+        "School Environment",
+        "English Language Proficiency",
+        "Graduation Rate",
+        "Educational Progress"
+       ],
+       "n_rows": 4
+      }
+     ],
+     "syn": "absenteeism accountability acgr aspire assessment attendance chronic absence chronic absenteeism cohort graduation dc cape dc cas dropout graduation graduation rate msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores truancy"
+    },
+    {
+     "name": "Alternative Accountability Framework - FAQ",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20-%20FAQ%20%282026%29.pdf",
+     "kind": "pdf",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "accountability"
+     ],
+     "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "METRIC NAME",
+        "ELEMENTARY/MIDDLE",
+        "K–12 / 6-12",
+        "HIGH SCHOOL"
+       ],
+       "n_rows": 14
+      }
+     ],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
-   "search": "dc school report card resource library (downloads) osse the single richest source of downloadable school-level osse data. per-year filenames are inconsistent — verify each year's exact link on the page. excel (.xlsx) files (some via box) + pdf technical guides assessment attendance graduation discipline enrollment demographics finance educators 2026 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release date lea ost deadline lea certification date ela statewide assessments sheet: ela statewide assessments (participation and performance) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th-9th grade transition sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance acgr sheet: acgr other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet: ela - growth math - growth sheet: math - growth mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence sheet: academic persistence (alternative school framework only) secondary completion sheet: secondary completion (alternative school framework only) metric scores - phase iii sheet: metric scores - phase iii 2025 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release to leas lea ost deadline lea certification deadline ela statewide assessments sheet: ela statewide assessments (participation and achievement) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class discipline sheet: discipline post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th to 9th (alt only) sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance graduation sheet: graduation other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet text math - growth sheet text mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence (alt only) sheet: academuc persistence (alt only) secondary completion (alt only) sheet: secondary completion (alt only) metric scores - phase iii sheet: metric scores - phase iii dc school report card advanced coursework and sat – metric scores (2025) data notes school year 2024-25 dc school report card advanced coursework and sat metric scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card assessment – metric scores (2025) data notes school year 2024-25 dc school year report card assessment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card attendance – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card student movement - metric scores (2025) data notes school year 2024-25 dc school report card student movement data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year dc school report card – dc says grades 3-12 student metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state gradeband scores gradeband metric metric score school year lea gradeband scores lea name lea code gradeband metric metric score school year school gradeband scores lea name lea code school name school code gradeband metric metric score school year dc school report card – dc says grades pk-12 family metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says grades pk-12 staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says adult student and staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student state gradeband scores gradeband metric metric score school year student lea-school gradeband lea name lea code school name school code gradeband metric metric score school year staff state overall scores group metric metric score school year staff lea-school overall lea name lea code school name school code group metric metric score school year dc school report card discipline - metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment – metric scores (2025) data notes school year 2024-25 dc school report card graduation and college enrollment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card lea course catalog (2025) data notes office of the state superintendent of education data dictionary school year 2025-26 dc school report card course catalog data office of the state superintendent of education course catalog lea code lea name school code school name school type ward osse subject area lea course name osse course code osse course title literacy curriculum used math curriculum used minimum course grade level maximum course grade level course credit offered (high school courses only) dual language or world language course course specifically designed for students for disabilities course specifically designed for english learners advanced placement (ap) or international baccalaureate (ib) course career and technical education (cte) indicator dual enrollment course indicator dc school report card school directory information (2025) overview office of the state superintendent of education school profile data 2024-2025 school id school name lea id lea name sector monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs offered extracurricular and enrichment activities dc school report card accountability scores (2025) data notes school year 2024-25 dc school report card aggregate data office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year state student group scores framework student group student group score school year lea student group scores lea code lea name framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card floors and targets (2025) data notes school year 2024-25 dc school report card floors and targets office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card state-level msaa participation data (2025) data notes and business rules 2024-25 msaa participation results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes participation aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course school framework count total count percent dc school report card state-level dc cape science and dlm cross tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated science assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent performance level aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent participation aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent dc school report card state-level dc cape and msaa cross-tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting,exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code school code assessment name subject student group student group value enrolled grade or course count total count percent metric dc school report card state overall assessment growth metric scores cross tabulated (2025) data notes 2024-25 statewide assessment cross-tabulated growth scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card state overall acgr metric scores cross tabulated (2025) data notes 2024-25 statewide cross-tabulated adjusted cohort graduation rates (acgr) office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card - progress toward long term goals data notes 2024-25 progress toward long-term achievement goals office of the state superintendent of education data dictionary sheet field name variable type allowable values notes state level student group metric grade band goal score difference lea level lea code lea name student group metric grade band goal score difference school level lea code lea name school code school name student group metric grade band goal score difference dc school report card accountability scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card advanced coursework and sat-metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card aggregate enrollment data (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card assessment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card assessment science – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card attendance – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card class – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card discipline – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card graduation and college enrollment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card school directory information (2024) overview office of the state superintendent of education school profile data 2023-2024 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card student movement – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – educator data (2024) overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area sheet38 metric calculation confirmation data dictionary summary office of the state superintendent of education metric scores sheet description ela - participation sheet description math - participation sheet description ela - acheivement sheet description math - acheivement sheet description adjusted achievement  sheet description access growth sheet description attendance growth sheet description chronic absenteeism sheet description pre-k chronic absenteeism sheet description class sheet description discipline sheet description post-secondary enrollment sheet description directory - profile sheet description directory- before after care sheet description directory - message from school sheet description directory - transportation sheet description directory - family engagement sheet description ela - growth sheet description math - growth sheet description graduation sheet description advanced coursework - partic sheet description advanced coursework - perform sheet description science - participation sheet description science- acheivement sheet description sat benchmark sheet description mobility - school level  sheet description mobility - lea level sheet description re-enrollment sheet description other student assessments sheet description dc school report card school finance data overview office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year lea finance (single-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card common financial reporting standards overview office of the state superintendent of education state cfrs category finance disaggregation value school year lea cfrs lea name lea code category finance disaggregation value school year school cfrs lea name lea code school name school code category finance disaggregation value school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card aggregate public data data notes office of the state superintendent of education data dictionary office of the state superintendent of education enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year dc school report report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card directory data overview office of the state superintendent of education school profile data sy2022-2023 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – school summative scores data notes office of the state superintendent of education all schools lea code lea name school code school name summative school score elementary school middle school high school dc school report card - discipline data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card assessment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea overall scores lea name lea code student group metric metric score metric n school year lea framework scores lea name lea code student group metric metric score metric n school year school framework state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets data data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year dc school report card - school accountability data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card assessment – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card discipline - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card finance data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card teachers and school leaders data notes office of the state superintendent of education data dictionary office of the state superintendent of education teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metricscore school year 2021 dc school report card aggregate enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year 2021 dc school report card alternative school metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card ap, ib and sat metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card attendance metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card directory data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name 2021 dc school report card graduation and college enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card learning environment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education in-person rate month grade band ward percent of time in-person school year learning environment month grade band ward student group learning environment percent of students in learning environment school year 2021 dc school report card student movement metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card teacher and school leader metrics data notes office of the state superintendent of education data dictionary field name variable type description allowable values teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metric score school year 2021 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year 2020 dc school report card aggregate data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year teacher and health staff lea code lea name school code school name entity type ward metric metric score school year 2020 dc school report card cross-tabulated data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2020 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2019 dc school report card and star framework data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students star student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year star framework scores lea code lea name school code school name school type ward accountability framework framework weight framework points earned framework points possible framework star score framework star rating school year star scores lea code lea name school code school name school type ward star score star rating school year lea student group scores lea name lea code framework student group student group score school year state student group scores framework student group student group score school year 2019 dc school report card and star framework cross-tabulated data file 2019 dc school report card per-pupil expenditures file data note office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2018 dc school report card and star framework data files data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name school type ward student group grade metric metric score school year star metric scores lea code lea name school code school name school type ward school framework student group domain metric metric n metric score floor target metric points earned metric points possible star student group scores lea code lea name school code school name school type ward school framework student group student group points earned student group points possible student group score framework points earned framework points possible star framework scores lea code lea name school code school name school type ward school framework framework weight framework points earned framework points possible framework star score framework star rating star scores lea code lea name school code school name school type ward star score star rating school report card scores lea code lea name school code school name school type ward student group metric metric score metric n school year lea report card scores lea code lea name student group metric metric score school year lea star metric scores lea code lea name school framework student group metric metric score school year lea student group scores lea code lea name school framework student group student group score school year state report card scores student/school group metric metric score school year state star metric scores school framework student group metric metric score school year state student group scores school framework student group student group score school year 2018 star framework cross-tabulated student group data file data notes office of the state superintendent of education school star metric scores lea name lea code school name school code school framework student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea star metric scores lea name lea code school framework student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state star metric scores school framework student group metric metric score metric n school year state overall scores student group metric metric score metric n school year english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions educators teachers teacher school leaders workforce staffing"
+   "search": "dc school report card resource library (downloads) osse the single richest source of downloadable school-level osse data. per-year filenames are inconsistent — verify each year's exact link on the page. excel (.xlsx) files (some via box) + pdf technical guides assessment attendance graduation discipline enrollment demographics finance educators 2026 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release date lea ost deadline lea certification date ela statewide assessments sheet: ela statewide assessments (participation and performance) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th-9th grade transition sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance acgr sheet: acgr other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet: ela - growth math - growth sheet: math - growth mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence sheet: academic persistence (alternative school framework only) secondary completion sheet: secondary completion (alternative school framework only) metric scores - phase iii sheet: metric scores - phase iii 2025 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release to leas lea ost deadline lea certification deadline ela statewide assessments sheet: ela statewide assessments (participation and achievement) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class discipline sheet: discipline post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th to 9th (alt only) sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance graduation sheet: graduation other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet text math - growth sheet text mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence (alt only) sheet: academuc persistence (alt only) secondary completion (alt only) sheet: secondary completion (alt only) metric scores - phase iii sheet: metric scores - phase iii dc school report card advanced coursework and sat – metric scores (2025) data notes school year 2024-25 dc school report card advanced coursework and sat metric scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card assessment – metric scores (2025) data notes school year 2024-25 dc school year report card assessment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card attendance – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class – metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card student movement - metric scores (2025) data notes school year 2024-25 dc school report card student movement data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year dc school report card – dc says grades 3-12 student metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state gradeband scores gradeband metric metric score school year lea gradeband scores lea name lea code gradeband metric metric score school year school gradeband scores lea name lea code school name school code gradeband metric metric score school year dc school report card – dc says grades pk-12 family metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says grades pk-12 staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores group metric metric score school year lea overall scores lea name lea code group metric metric score school year school overall scores lea name lea code school name school code group metric metric score school year dc school report card – dc says adult student and staff metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student state gradeband scores gradeband metric metric score school year student lea-school gradeband lea name lea code school name school code gradeband metric metric score school year staff state overall scores group metric metric score school year staff lea-school overall lea name lea code school name school code group metric metric score school year dc school report card discipline - metric scores (2025) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment – metric scores (2025) data notes school year 2024-25 dc school report card graduation and college enrollment data office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card lea course catalog (2025) data notes office of the state superintendent of education data dictionary school year 2025-26 dc school report card course catalog data office of the state superintendent of education course catalog lea code lea name school code school name school type ward osse subject area lea course name osse course code osse course title literacy curriculum used math curriculum used minimum course grade level maximum course grade level course credit offered (high school courses only) dual language or world language course course specifically designed for students for disabilities course specifically designed for english learners advanced placement (ap) or international baccalaureate (ib) course career and technical education (cte) indicator dual enrollment course indicator dc school report card school directory information (2025) overview office of the state superintendent of education school profile data 2024-2025 school id school name lea id lea name sector monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs offered extracurricular and enrichment activities dc school report card accountability scores (2025) data notes school year 2024-25 dc school report card aggregate data office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year state student group scores framework student group student group score school year lea student group scores lea code lea name framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card floors and targets (2025) data notes school year 2024-25 dc school report card floors and targets office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card state-level msaa participation data (2025) data notes and business rules 2024-25 msaa participation results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes participation aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course school framework count total count percent dc school report card state-level dc cape science and dlm cross tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated science assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent performance level aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent participation aggregation level lea code school code metric assessment name subject grade of enrollment student group student group value count total count percent dc school report card state-level dc cape and msaa cross-tabulated data (2025) data notes and business rules 2024-25 statewide cross-tabulated assessment results office of the state superintendent of education data dictionary sheet field name variable type allowable values notes meeting,exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code school code metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code school code assessment name subject student group student group value enrolled grade or course count total count percent metric dc school report card state overall assessment growth metric scores cross tabulated (2025) data notes 2024-25 statewide assessment cross-tabulated growth scores office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card state overall acgr metric scores cross tabulated (2025) data notes 2024-25 statewide cross-tabulated adjusted cohort graduation rates (acgr) office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year dc school report card - progress toward long term goals data notes 2024-25 progress toward long-term achievement goals office of the state superintendent of education data dictionary sheet field name variable type allowable values notes state level student group metric grade band goal score difference lea level lea code lea name student group metric grade band goal score difference school level lea code lea name school code school name student group metric grade band goal score difference dc school report card accountability scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year framework percentile rank lea code lea name school code school name framework sub- framework framework percentile rank school year dc school report card advanced coursework and sat-metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card aggregate enrollment data (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card assessment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card assessment science – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card attendance – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card class – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card discipline – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card graduation and college enrollment – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card school directory information (2024) overview office of the state superintendent of education school profile data 2023-2024 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card student movement – metric scores (2024) data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – educator data (2024) overview (c&d) office of the state superintendent of education demographics_staff_sea reporting level total staff citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_lea lea code lea name sector total staff at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sea reporting level total teachers citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sea reporting level total school leaders citywide female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_lea lea code lea name sector total teachers at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_lea lea code lea name sector total school leaders at this lea female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_staff_sch lea code lea name school code school name sector ward of school total staff at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_tch_sch lea code lea name school code school name sector ward of school total teachers at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown demographics_sl_sch lea code lea name school code school name sector ward of school total school leaders at this school female male gender other/unknown american indian/alaskan native american indian/alaskan native female american indian/alaskan native male american indian/alaskan native gender other/unknown asian asian female asian male asian gender other/unknown black/african american black/african american female black/african american male black/african american gender other/unknown hispanic/latino hispanic/latino female hispanic/latino male hispanic/latino gender other/unknown two or more races two or more races female two or more races male two or more races gender other/unknown pacific islander/native hawaiian pacific islander/native hawaiian female pacific islander/native hawaiian male pacific islander/native hawaiian gender other/unknown white/caucasian white/caucasian female white/caucasian male white/caucasian gender other/unknown race/ethnicity other/unknown race/ethnicity other/unknown female race/ethnicity other/unknown male race/ethnicity other/unknown gender other/unknown gradeband_tch_sea grand band total teachers citywide total teachers in this grade band citywide percent teachers in this grade band citywide gradeband_tch_lea lea code lea name sector grand band total teachers at this lea total teachers in this grade band at this lea percent teachers in this grade band at this lea gradeband_tch_sch lea code lea name school code school name sector ward of school grand band total teachers at this school total teachers in this grade band at this school percent teachers in this grade band at this school student-teacher ratios_sea citywide student:teacher ratio student-staff ratios_sea citywide student:staff ratio student-teacher ratios_lea lea code lea name sector student:teacher ratio student-staff ratios_lea lea code lea name sector student:staff ratio student-teacher ratios_sch lea code lea name school code school name sector ward student:teacher ratio student-staff ratios_sch lea code lea name school code school name sector ward student:staff ratio overview (prep&perf) office of the state superintendent of education codebook (prep&perf) office of the state superintendent of education effective_tch_sea total sy 2023-24 teachers that were rated in sy 2022-23 citywide percent of sy 2023-34 teachers rated effective in sy 2022-23 citywide certified_tch_sea number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_sea number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_lea lea code lea name sector total sy 2023-24 teachers that were rated in sy 2022-23 at this lea percent of 2023-24 teachers rated effective in sy 2022-23 at this lea notes certified_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that hold a dc teaching certification (dcps only) percent teachers that hold a dc teaching certification (dcps only) infield_tch_lea lea code lea name sector number of teachers (dcps only) number of teachers that are teaching a subject infield (dcps only) percent teachers that are teaching a subject infield (dcps only) effective_tch_sch lea code lea name school code school name sector ward of school total sy 2023-24 teachers that were rated in sy 2022-23 at this school percent of sy 2023-24 teachers rated effective in sy 2022-23 at this school notes certified_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that hold a dc teaching certification at this school percent teachers that hold a dc teaching certification at this school infield_tch_sch lea code lea name school code school name sector ward of school number of teachers at this school number of teachers that are teaching a subject infield at this school percent teachers that are teaching a subject infield at this school exp_tch_sea years of experience number of teachers citywide number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sea years of experience number of school leaders citywide number of school leaders in this experience category percent of school leaders in this experience category exp_tch_lea lea code lea name sector years of experience number of teachers at this lea number of teachers in this experience category percent of teachers in this experience category exp_school_leader_lea lea code lea name sector years of experience number of school leaders at this lea number of school leaders in this experience category percent of school leaders in this experience category exp_tch_sch lea code lea name school code school name sector ward of school years of experience number of teachers at this school number of teachers in this experience category percent of teachers in this experience category exp_school_leader_sch lea code lea name school code school name sector ward of school years of experience number of school leaders at this school number of school leaders in this experience category percent of school leaders in this experience category overview (s&d) office of the state superintendent of education supply epps epp program total number of candidates and completers in 2022-23 total number of candidates and completers who were teaching in the 2023-24 schoo subject number of candidates and completers in this subject of training in 2022-23 2022-23 dc epp candidates and completers certified in this subject 2022-23 dc epp candidates and completers teaching this subject in sy 2023-24 number of candidates and completers who were teaching in the subject of training vacancies_sea subject number of vacant ftes in this subject area vacancies_lea lea code lea name sector subject number of vacant ftes in this subject area vacancies_sch lea code lea name school code school name sector ward of school subject number of vacant ftes in this subject area sheet38 metric calculation confirmation data dictionary summary office of the state superintendent of education metric scores sheet description ela - participation sheet description math - participation sheet description ela - acheivement sheet description math - acheivement sheet description adjusted achievement  sheet description access growth sheet description attendance growth sheet description chronic absenteeism sheet description pre-k chronic absenteeism sheet description class sheet description discipline sheet description post-secondary enrollment sheet description directory - profile sheet description directory- before after care sheet description directory - message from school sheet description directory - transportation sheet description directory - family engagement sheet description ela - growth sheet description math - growth sheet description graduation sheet description advanced coursework - partic sheet description advanced coursework - perform sheet description science - participation sheet description science- acheivement sheet description sat benchmark sheet description mobility - school level  sheet description mobility - lea level sheet description re-enrollment sheet description other student assessments sheet description dc school report card school finance data overview office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year lea finance (single-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card common financial reporting standards overview office of the state superintendent of education state cfrs category finance disaggregation value school year lea cfrs lea name lea code category finance disaggregation value school year school cfrs lea name lea code school name school code category finance disaggregation value school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year dc school report card aggregate public data data notes office of the state superintendent of education data dictionary office of the state superintendent of education enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score school year metric scores by framework lea code lea name school code school name accountability framework metric name total points earned total points possible percent of points earned framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year dc school report report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card directory data overview office of the state superintendent of education school profile data sy2022-2023 school id school name lea id lea name sector school type monday instructional hours tuesday instructional hours wednesday instructional hours thursday instructional hours friday instructional hours pre-kindergarten (3) instructional hours pre-kindergarten (4) instructional hours kindergarten instructional hours telephone number school website school twitter information school facebook information school instagram information school address school ward school uniform policy before care availability before care cost after care availability after care cost school programs available extracuricular and enrichment activities dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea framework scores lea name lea code student group metric metric score metric n school year school framework dc school report card – school summative scores data notes office of the state superintendent of education all schools lea code lea name school code school name summative school score elementary school middle school high school dc school report card - discipline data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card assessment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school overall scores lea name lea code school name school code student group metric metric score metric n school year school framework scores lea name lea code school name school code student group metric metric score metric n school year school framework lea overall scores lea name lea code student group metric metric score metric n school year lea framework scores lea name lea code student group metric metric score metric n school year school framework state overall scores student group metric metric score metric n school year state framework scores student group metric metric score metric n school year school framework dc school report card floors and targets data data notes office of the state superintendent of education data dictionary office of the state superintendent of education floors and targets metric name school framework student group floor target school year dc school report card aggregate enrollment data data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year dc school report card - school accountability data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year framework scores lea code lea name school code school name school type ward accountability framework framework points earned framework points possible framework score framework weight weighted framework score school year school scores lea code lea name school code school name school type ward school score school year lea student group scores lea code lea name framework student group student group score school year state student group scores framework student group student group score school year dc school report card ap ib and sat - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card assessment – metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state overall scores student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card attendance - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card class - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card discipline - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year dc school report card graduation and college enrollment - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year dc school report card finance data data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year dc school report card student movement - metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year dc school report card teachers and school leaders data notes office of the state superintendent of education data dictionary office of the state superintendent of education teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metricscore school year 2021 dc school report card aggregate enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education ever enrolled population lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year audit population lea code lea name school code school name entity type ward student group grade percent enrolled audit count total number of student in audit school year 2021 dc school report card alternative school metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card ap, ib and sat metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card attendance metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card directory data data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name 2021 dc school report card graduation and college enrollment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2021 dc school report card learning environment metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education in-person rate month grade band ward percent of time in-person school year learning environment month grade band ward student group learning environment percent of students in learning environment school year 2021 dc school report card student movement metrics data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group metric metric score metric n school year 2021 dc school report card teacher and school leader metrics data notes office of the state superintendent of education data dictionary field name variable type description allowable values teacher and school leader staff lea code lea name school code school name entity type ward subgroup metric metric score school year 2021 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance finance disaggregation value school year lea finance (multi-school) lea name lea code finance disaggregation value school year school finance (multi-school) lea name lea code school name school code finance disaggregation value school year school finance (single-school) lea name lea code school name school code finance disaggregation value school year 2020 dc school report card aggregate data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name entity type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students school year teacher and health staff lea code lea name school code school name entity type ward metric metric score school year 2020 dc school report card cross-tabulated data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2020 dc school report card per-pupil expenditures file data notes office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2019 dc school report card and star framework data file data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code school name school code school type school ward address phone number web address leader title leader name enrollment lea code lea name school code school name entity type ward student group grade percent enrolled enrollment count total count of students star student group scores lea code lea name school code school name school type ward accountability framework student group student group points earned student group points possible student group score framework points earned framework points possible school year star framework scores lea code lea name school code school name school type ward accountability framework framework weight framework points earned framework points possible framework star score framework star rating school year star scores lea code lea name school code school name school type ward star score star rating school year lea student group scores lea name lea code framework student group student group score school year state student group scores framework student group student group score school year 2019 dc school report card and star framework cross-tabulated data file 2019 dc school report card per-pupil expenditures file data note office of the state superintendent of education data dictionary office of the state superintendent of education state finance per pupil expenditures per pupil expenditures by type multi-site lea finance per pupil expenditures per pupil expenditures by type multi-site school finance per pupil expenditures per pupil expenditures by type single-site school finance per pupil expenditures per pupil expenditures by type 2018 dc school report card and star framework data files data notes office of the state superintendent of education data dictionary office of the state superintendent of education school directory lea code lea name school code school name school type ward address phone number web address leader title leader name enrollment lea code lea name school code school name school type ward student group grade metric metric score school year star metric scores lea code lea name school code school name school type ward school framework student group domain metric metric n metric score floor target metric points earned metric points possible star student group scores lea code lea name school code school name school type ward school framework student group student group points earned student group points possible student group score framework points earned framework points possible star framework scores lea code lea name school code school name school type ward school framework framework weight framework points earned framework points possible framework star score framework star rating star scores lea code lea name school code school name school type ward star score star rating school report card scores lea code lea name school code school name school type ward student group metric metric score metric n school year lea report card scores lea code lea name student group metric metric score school year lea star metric scores lea code lea name school framework student group metric metric score school year lea student group scores lea code lea name school framework student group student group score school year state report card scores student/school group metric metric score school year state star metric scores school framework student group metric metric score school year state student group scores school framework student group student group score school year 2018 star framework cross-tabulated student group data file data notes office of the state superintendent of education school star metric scores lea name lea code school name school code school framework student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year lea star metric scores lea name lea code school framework student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year state star metric scores school framework student group metric metric score metric n school year state overall scores student group metric metric score metric n school year 2026 metric calculation confirmation (mcc) policy phase release date ost deadline certification date appeal deadline phase i phase ii phase iii step lea action 2026 metric calculation confirmation (mcc) data dictionary release schedule mcc phase sheet release date lea ost deadline lea certification date ela statewide assessments sheet: ela statewide assessments (participation and performance) math statewide assessments sheet: math statewide assessments (participation and achievement) metric scores - phase i sheet: metric scores - phase i access growth sheet: access growth adjusted achievement  sheet: adusted achievement chronic absenteeism sheet: chronic absenteeism pre-k chronic absenteeism sheet: pre-k chronic absenteeism attendance growth sheet: attendance growth class sheet: class post-secondary enrollment sheet: post-secondary enrollment directory - profile sheet: directory - profile directory- before after care sheet: before after care directory - message from school sheet: directory - message from school directory - transportation sheet: directory - transportation directory - parent engagement sheet: directory - parent engagement 8th-9th grade transition sheet: 8th to 9th (alt only) metric scores - phase ii sheet: metric scores - phase ii advanced coursework - partic sheet: advanced coursework - participation advanced coursework - perform sheet: advanced coursework - performance acgr sheet: acgr other student assessments sheet: other student assessments re-enrollment sheet: re-enrollment sat benchmark sheet: sat benchmark science statewide assessments sheet: science statewide assessments ela - growth sheet: ela - growth math - growth sheet: math - growth mobility - lea level sheet: mobility - lea level mobility - school level  sheet: mobility - school level academic persistence sheet: academic persistence (alternative school framework only) secondary completion sheet: secondary completion (alternative school framework only) metric scores - phase iii sheet: metric scores - phase iii 2026 dc school report card technical guide current grade level prior year’s proficiency level test subject area corresponding college courses benchmark test subject area sat score 1 sat score 2 highest meet / college student survey (grades 3-5, 6-12) school-based staff survey family survey the osse response rate may include students who were unable to take the survey, including data elements reporting source accountability framework school osse data validation osse data dc school report card and myschooldc data elements - busines data source data element definition business rules course on the osse state c ourse catalog. eschoolplus single-gender campus the school’s enrollment targets a single gender. on eschoolplus, the lea/school selected \"single-gender campus\" as one of the school characteristics for this school. alternative accountability framework – at a glance measures student performance on dc cape and msaa and how many students are approaching, reaching, and exceeding proficiency in english language arts (ela) and mathematics. state assessment proficiency - students meeting or exceeding expectations in both ela and math on the statewide assessment. state assessment weighted index - an index score for student performance across all levels of statewide assessment with heavier weight placed on higher levels of proficiency. academic growth attendance is reported through two indicators: 1. chronic absenteeism - percentage of students who miss 10 percent or more of the school year. and* 2. attendance growth - improvement in student level attendance rates from year to year. academic persistence* - percentage of students who remain academically engaged from one year to the next. this includes students who transfer five-year adjusted cohort graduation rate (high school grades) - percentage of students who graduate with a diploma within five years of entering high school. educational progress alternative school type academic achievement academic growth school environment english language proficiency graduation rate educational progress alternative accountability framework - faq metric name elementary/middle k–12 / 6-12 high school english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions educators teachers teacher school leaders workforce staffing"
   },
   {
    "id": "dc-school-report-card-site",
    "name": "DC School Report Card (public interactive site)",
    "owner": "OSSE",
-   "url": "https://dcschoolreportcard.org/",
+   "url": "https://schoolreportcard.dc.gov/home",
    "topics": [
     "accountability",
     "assessment",
@@ -7524,11 +9831,11 @@ window.CATALOG = {
     "demographics",
     "profiles"
    ],
-   "status": "js-rendered",
+   "status": "ok",
    "format": "Interactive web app (search/browse; not bulk download)",
    "cadence": "Annual, refreshed ~December with prior school year",
    "years": "Displays latest year only (SY2024-25); history in the Resource Library",
-   "notes": "Cross-sector (DCPS + charter). Mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. JS app blocks crawlers (503) — open in a real browser. For analysis use the Resource Library files.",
+   "notes": "Cross-sector (DCPS + charter). osse.dc.gov/dcschoolreportcard redirects here. The old dcschoolreportcard.org hostname returns a blank 503 (checked Aug 2026, real browser too) — do not link it. For analysis use the Resource Library files.",
    "files": [
     {
      "name": "School STAR Scores (CSV export)",
@@ -7554,7 +9861,7 @@ window.CATALOG = {
      "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
-   "search": "dc school report card (public interactive site) osse cross-sector (dcps + charter). mirror at schoolreportcard.dc.gov/home and osse.dc.gov/dcschoolreportcard. js app blocks crawlers (503) — open in a real browser. for analysis use the resource library files. interactive web app (search/browse; not bulk download) accountability assessment attendance graduation discipline enrollment demographics profiles school star scores (csv export) lea_code lea_name school_code school_name school_type ward star_score star_rating objectid assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions"
+   "search": "dc school report card (public interactive site) osse cross-sector (dcps + charter). osse.dc.gov/dcschoolreportcard redirects here. the old dcschoolreportcard.org hostname returns a blank 503 (checked aug 2026, real browser too) — do not link it. for analysis use the resource library files. interactive web app (search/browse; not bulk download) accountability assessment attendance graduation discipline enrollment demographics profiles school star scores (csv export) lea_code lea_name school_code school_name school_type ward star_score star_rating objectid assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "osse-star-technical-guide",
@@ -7654,6 +9961,807 @@ window.CATALOG = {
     }
    ],
    "search": "dc school report card & star framework technical guide osse methodology for every star metric. essential companion to the data files. pdf (one per year) accountability methodology 2025 report card technical guide (september 2025 update) current grade level prior year’s proficiency level college readiness benchmarks for sat sat test 1 sat test 2 highest meet / college student survey school-based staff survey family survey the osse response rate may include students who were unable to take the survey, including data elements repor source lea, schools have an opportunity to submit a brief message which highlights unique aspects of the school and information they want to include about the school. schools are welcome to include information such as course offerings, special programs, features of the school, and/or the mission/vision of the school. the format allows for 530 characters. assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas accountability star school quality sqr pmf aspire rating"
+  },
+  {
+   "id": "osse-assessment-2026",
+   "name": "Statewide Assessment Results 2025-26 (DC CAPE / MSAA)",
+   "owner": "OSSE",
+   "url": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+   "topics": [
+    "assessment"
+   ],
+   "status": "ok",
+   "format": "Excel files (direct OSSE attachments) + PDF results deck and appendix",
+   "cadence": "Annual, released late summer/fall",
+   "years": "2025-26 only on this page",
+   "notes": "Released Aug 20, 2026. Unlike prior years, the State/LEA/School-level files are direct osse.dc.gov attachments (not Box). New this year: separate Middle School Advanced Math files at each level. Also hosts translated score-report guides and sample ISRs (not catalogued). No /assessmentresults2026 alias exists — the page is reachable via the Data and Reports hub.",
+   "files": [
+    {
+     "name": "2025-26 Statewide Assessment Results (public deck)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20Statewide%20Assessment%20Results%208.20.26.pdf",
+     "kind": "pdf",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "n_pages": 60,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 39,
+       "header": [],
+       "n_rows": 10
+      },
+      {
+       "page": 39,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 Statewide Assessment Results — Appendix (detailed breakdowns)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Statewide%20Assessment_Appendix.pdf",
+     "kind": "pdf",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "n_pages": 17,
+     "has_tabular_data": true,
+     "n_table_pages": 14,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "Tested Grade",
+        "State ELA 4+ Results",
+        "State Math 4+ Results"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 5,
+       "header": [
+        "Test",
+        "State 4+ Results"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 6,
+       "header": [
+        "Race/Ethnicity",
+        "State ELA 4+ Results",
+        "State Math 4+ Results"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 7,
+       "header": [
+        "Student Group",
+        "State ELA 4+",
+        "State Math 4+"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 8,
+       "header": [
+        "Enrolled Grade",
+        "ELA Participation"
+       ],
+       "n_rows": 12
+      },
+      {
+       "page": 9,
+       "header": [
+        "Enrolled Grade",
+        "Math Participation"
+       ],
+       "n_rows": 12
+      },
+      {
+       "page": 10,
+       "header": [
+        "Ward",
+        "State ELA 4+ Results",
+        "State Math 4+ Results"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 11,
+       "header": [
+        "Tested Grade",
+        "ELA 4+ Results"
+       ],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE Middle School Advanced Math — State Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20State%20Level%20DCCAPE%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 30,
+       "columns": [
+        "2025-26 Middle School Advanced Math Assessment Participation and Performance - State"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 29,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 29,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 141,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 29,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE & MSAA — State Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20State%20Level%20DCCAPE%20and%20MSAA%20Data%20%281%29.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 30,
+       "columns": [
+        "2025-26 DC CAPE and MSAA Assessment Participation and Performance - State"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 327,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 327,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 2389,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 329,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE Middle School Advanced Math — LEA Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20LEA%20Level%20DCCAPE%20Data_0.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 30,
+       "columns": [
+        "2025-26 Middle School Advanced Math Assessment Participation and Performance - LEA"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 95,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 95,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 471,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 98,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE & MSAA — LEA Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20LEA%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 31,
+       "columns": [
+        "2025-26 DC CAPE and MSAA Assessment Participation and Performance - LEA"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 4521,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 4521,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 25944,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 4655,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE Middle School Advanced Math — School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20School%20Level%20DCCAPE%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 30,
+       "columns": [
+        "2025-26 Middle School Advanced Math Assessment Participation and Performance - Schools"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 281,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 281,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 1401,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 284,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2025-26 DC CAPE & MSAA — School Level",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20School%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2025-26",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "tabs": [
+      {
+       "name": "File Notes",
+       "n_rows": 31,
+       "columns": [
+        "2025-26 DC CAPE and MSAA Assessment Participation and Performance - Schools"
+       ]
+      },
+      {
+       "name": "Data Dictionary",
+       "n_rows": 29,
+       "columns": [
+        "Sheet",
+        "Field Name",
+        "Variable Type",
+        "Allowable Values",
+        "Notes"
+       ]
+      },
+      {
+       "name": "Meeting, Exceeding",
+       "n_rows": 13709,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Approaching, Meeting, Exceeding",
+       "n_rows": 13709,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Performance Level",
+       "n_rows": 79026,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Participation",
+       "n_rows": 14027,
+       "columns": [
+        "Aggregation Level",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "Metric",
+        "Assessment Name",
+        "Subject",
+        "Student Group",
+        "Student Group Value",
+        "Enrolled Grade or Course",
+        "Count",
+        "Total Count",
+        "Percent"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    }
+   ],
+   "search": "statewide assessment results 2025-26 (dc cape / msaa) osse released aug 20, 2026. unlike prior years, the state/lea/school-level files are direct osse.dc.gov attachments (not box). new this year: separate middle school advanced math files at each level. also hosts translated score-report guides and sample isrs (not catalogued). no /assessmentresults2026 alias exists — the page is reachable via the data and reports hub. excel files (direct osse attachments) + pdf results deck and appendix assessment 2025-26 statewide assessment results (public deck) 2025-26 statewide assessment results — appendix (detailed breakdowns) tested grade state ela 4+ results state math 4+ results test state 4+ results race/ethnicity state ela 4+ results state math 4+ results student group state ela 4+ state math 4+ enrolled grade ela participation enrolled grade math participation ward state ela 4+ results state math 4+ results tested grade ela 4+ results 2025-26 dc cape middle school advanced math — state level file notes 2025-26 middle school advanced math assessment participation and performance - state data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent 2025-26 dc cape & msaa — state level file notes 2025-26 dc cape and msaa assessment participation and performance - state data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent 2025-26 dc cape middle school advanced math — lea level file notes 2025-26 middle school advanced math assessment participation and performance - lea data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent 2025-26 dc cape & msaa — lea level file notes 2025-26 dc cape and msaa assessment participation and performance - lea data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent 2025-26 dc cape middle school advanced math — school level file notes 2025-26 middle school advanced math assessment participation and performance - schools data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent 2025-26 dc cape & msaa — school level file notes 2025-26 dc cape and msaa assessment participation and performance - schools data dictionary sheet field name variable type allowable values notes meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent approaching, meeting, exceeding aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent performance level aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent participation aggregation level lea code lea name school code school name metric assessment name subject student group student group value enrolled grade or course count total count percent assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas"
   },
   {
    "id": "osse-assessment-2025",
@@ -12642,9 +15750,88 @@ window.CATALOG = {
       }
      ],
      "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy"
+    },
+    {
+     "name": "2024-25 Attendance Data Public Reporting (March 2025)",
+     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20March%202025.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting",
+     "tabs": [
+      {
+       "name": "Overview",
+       "n_rows": 9,
+       "columns": [
+        "Office of the State Superintendent of Education"
+       ]
+      },
+      {
+       "name": "School",
+       "n_rows": 465,
+       "columns": [
+        "School Year",
+        "LEA Code",
+        "LEA Name",
+        "School Code",
+        "School Name",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "LEA",
+       "n_rows": 122,
+       "columns": [
+        "School Year",
+        "LEA Code",
+        "LEA Name",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "Sector",
+       "n_rows": 5,
+       "columns": [
+        "School Year",
+        "Sector",
+        "% Chronically Absent (K-12)",
+        "% Chronically Truant (Compulsory Age)"
+       ]
+      },
+      {
+       "name": "State",
+       "n_rows": 59,
+       "columns": [
+        "Grade Band",
+        "Student Group",
+        "% Chronically Absent (24-25)",
+        "% Chronically Absent (23-24)",
+        "% Chronically Truant, (Compulsory Age) (24-25)",
+        "% Chronically Truant, (Compulsory Age) (23-24)"
+       ]
+      },
+      {
+       "name": "Risk Tiers",
+       "n_rows": 51,
+       "columns": [
+        "School Year",
+        "Grade Band",
+        "Absenteeism Risk Tier",
+        "Percentage",
+        "Students",
+        "Total Students"
+       ]
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
     }
    ],
-   "search": "school year attendance reporting (chronic absenteeism/truancy) osse osse leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' sy24-25: 39.5% chronic absenteeism, 36.8% chronic truancy. pdf report + 2 mid-year briefs + excel files attendance district of columbia attendance report 2024-25 year metric percentage students grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total 2024-25 attendance brief attendance summary this brief presents attendance data for the full 2024–25 school year, compared to the 2023–24 school year. compared to the prior school year: chronic absenteeism chronic truancy increased by 0.3 remained unchanged at percentage points. 36.8 percent. 39.2% chronic absenteeism 39.5% 36.8% chronic truancy 36.8% 0 10 20 30 40 sy2023-24 sy2024-25 39.2 2024-25 attendance brief 2024-25 truancy data overview office of the state superintendent of education school school % chronically absent, 2023-24 (k-12) % chronically absent, 2024-25 (k-12) % truant, 2023-24 (compulsory age) % truant, 2024-25 (compulsory age) 2024-25 chronic absenteeism metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year 2024-25 attendance data public reporting (july 2025) overview office of the state superintendent of education school school year lea code lea name school code school name % chronically absent (k-12) % chronically truant (compulsory age) lea school year lea code lea name % chronically absent (k-12) % chronically truant (compulsory age) sector school year sector % chronically absent (k-12) % chronically truant (compulsory age) state grade band student group % chronically absent (24-25) % chronically absent (23-24) % chronically truant, (compulsory age) (24-25) % chronically truant, (compulsory age) (23-24) risk tiers school year grade band absenteeism risk tier percentage students total students 2024-25 mid-year attendance brief 1 (nov 2024) attendance summary the data in this brief reflects attendance data from the start of the school year through nov. 22, 2024, and compares it to the same window in the 2023-24 school year. compared to the same point in time last school year: chronic absenteeism chronic truancy decreased by 3.1 decreased by 0.4 percentage points percentage points excluding partial day unexcused absences, the chronic truancy rate would be 5.1 percent, compared to 5.5 percent at the same time last school year. 31.4% chronic absenteeism 28.3% 7.8% chronic truancy 7.4% 0% 5% 10% 15% 20% 25% 30% 35% * all attendance metrics are calculated for students in grades k-12. chronic truancy is restricted to students of compulsory age (5-17 years on september 30, 2024). a partial day absence occurs when a student attends school for less than 60 percent of the instructional day. 7.8% 2024-25 mid-year attendance brief 2024-25 mid-year attendance brief 2 (feb 2025) attendance summary the data in this brief reflect attendance data from the start of the school year through feb. 28, 2025, and compares it to the same window in the 2023-24 school year. compared to the same point last year: chronic absenteeism chronic truancy increased by 1.6 increased by 0.3 percentage points percentage points 35.3% chronic absenteeism 36.9% 20.6% chronic truancy 20.9% 0% 10% 20% 30% 40% sy2023-24 sy2024-25 20.6% 2024-25 mid-year attendance brief attendance absenteeism chronic absenteeism chronic absence truancy accountability star school quality sqr pmf aspire rating"
+   "search": "school year attendance reporting (chronic absenteeism/truancy) osse osse leads with chronic absenteeism / chronic truancy (10% threshold), not 'in-seat attendance.' sy24-25: 39.5% chronic absenteeism, 36.8% chronic truancy. pdf report + 2 mid-year briefs + excel files attendance district of columbia attendance report 2024-25 year metric percentage students grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total grade absenteeism risk tier percentage students total 2024-25 attendance brief attendance summary this brief presents attendance data for the full 2024–25 school year, compared to the 2023–24 school year. compared to the prior school year: chronic absenteeism chronic truancy increased by 0.3 remained unchanged at percentage points. 36.8 percent. 39.2% chronic absenteeism 39.5% 36.8% chronic truancy 36.8% 0 10 20 30 40 sy2023-24 sy2024-25 39.2 2024-25 attendance brief 2024-25 truancy data overview office of the state superintendent of education school school % chronically absent, 2023-24 (k-12) % chronically absent, 2024-25 (k-12) % truant, 2023-24 (compulsory age) % truant, 2024-25 (compulsory age) 2024-25 chronic absenteeism metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education state overall scores student group metric metric score metric n school year lea overall scores lea name lea code student group metric metric score metric n school year school overall scores lea name lea code school name school code student group metric metric score metric n school year state framework scores school framework student group metric metric score metric n school year lea framework scores lea name lea code school framework student group metric metric score metric n school year school framework scores lea name lea code school name school code school framework student group metric metric score metric n school year 2024-25 attendance data public reporting (july 2025) overview office of the state superintendent of education school school year lea code lea name school code school name % chronically absent (k-12) % chronically truant (compulsory age) lea school year lea code lea name % chronically absent (k-12) % chronically truant (compulsory age) sector school year sector % chronically absent (k-12) % chronically truant (compulsory age) state grade band student group % chronically absent (24-25) % chronically absent (23-24) % chronically truant, (compulsory age) (24-25) % chronically truant, (compulsory age) (23-24) risk tiers school year grade band absenteeism risk tier percentage students total students 2024-25 mid-year attendance brief 1 (nov 2024) attendance summary the data in this brief reflects attendance data from the start of the school year through nov. 22, 2024, and compares it to the same window in the 2023-24 school year. compared to the same point in time last school year: chronic absenteeism chronic truancy decreased by 3.1 decreased by 0.4 percentage points percentage points excluding partial day unexcused absences, the chronic truancy rate would be 5.1 percent, compared to 5.5 percent at the same time last school year. 31.4% chronic absenteeism 28.3% 7.8% chronic truancy 7.4% 0% 5% 10% 15% 20% 25% 30% 35% * all attendance metrics are calculated for students in grades k-12. chronic truancy is restricted to students of compulsory age (5-17 years on september 30, 2024). a partial day absence occurs when a student attends school for less than 60 percent of the instructional day. 7.8% 2024-25 mid-year attendance brief 2024-25 mid-year attendance brief 2 (feb 2025) attendance summary the data in this brief reflect attendance data from the start of the school year through feb. 28, 2025, and compares it to the same window in the 2023-24 school year. compared to the same point last year: chronic absenteeism chronic truancy increased by 1.6 increased by 0.3 percentage points percentage points 35.3% chronic absenteeism 36.9% 20.6% chronic truancy 20.9% 0% 10% 20% 30% 40% sy2023-24 sy2024-25 20.6% 2024-25 mid-year attendance brief 2024-25 attendance data public reporting (march 2025) overview office of the state superintendent of education school school year lea code lea name school code school name % chronically absent (k-12) % chronically truant (compulsory age) lea school year lea code lea name % chronically absent (k-12) % chronically truant (compulsory age) sector school year sector % chronically absent (k-12) % chronically truant (compulsory age) state grade band student group % chronically absent (24-25) % chronically absent (23-24) % chronically truant, (compulsory age) (24-25) % chronically truant, (compulsory age) (23-24) risk tiers school year grade band absenteeism risk tier percentage students total students attendance absenteeism chronic absenteeism chronic absence truancy accountability star school quality sqr pmf aspire rating"
   },
   {
    "id": "osse-attendance-dashboard",
@@ -24112,8 +27299,49 @@ window.CATALOG = {
    "cadence": "Varies; most annual",
    "years": "Includes historical enrollment-audit Excel SY2001–2009",
    "notes": "Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.",
-   "files": [],
-   "search": "sled — statewide longitudinal education data (osse reports) osse two-tier: public direct links vs. credentialed access (sled login + user agreement) for the main reports portal. public pdf/excel/tableau links + login-gated qlik sense reports enrollment assessment graduation landing assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas graduation acgr graduation rate cohort graduation dropout"
+   "files": [
+    {
+     "name": "Public Charter School Historic Enrollment Audit Information ",
+     "url": "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
+     "kind": "xls",
+     "year": "2001",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
+     "tabs": [
+      {
+       "name": "pcsb School-by-Grade Enrollment",
+       "n_rows": 1679,
+       "columns": [
+        "PCS Enrollment, by School and Grade, 2001-2009"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "DC Public Schools Historic Enrollment Audit Information 2001",
+     "url": "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
+     "kind": "xls",
+     "year": "2001",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
+     "tabs": [
+      {
+       "name": "DCPS School-by-Grade Enrollment",
+       "n_rows": 2641,
+       "columns": [
+        "DCPS Enrollment, by School and Grade, 2001-2009"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "sled — statewide longitudinal education data (osse reports) osse two-tier: public direct links vs. credentialed access (sled login + user agreement) for the main reports portal. public pdf/excel/tableau links + login-gated qlik sense reports enrollment assessment graduation landing public charter school historic enrollment audit information  pcsb school-by-grade enrollment pcs enrollment, by school and grade, 2001-2009 dc public schools historic enrollment audit information 2001 dcps school-by-grade enrollment dcps enrollment, by school and grade, 2001-2009 assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas graduation acgr graduation rate cohort graduation dropout"
   },
   {
    "id": "dcps-school-data-hub",
@@ -24161,8 +27389,1021 @@ window.CATALOG = {
    "cadence": "Annual",
    "years": "SY11-12 through SY24-25 (14 reports)",
    "notes": "District-level aggregate, filed per DC Code 38-203(i). Granular school-level attendance is better via OSSE.",
-   "files": [],
-   "search": "dcps at a glance: attendance dcps district-level aggregate, filed per dc code 38-203(i). granular school-level attendance is better via osse. pdf reports (one per year) attendance attendance absenteeism chronic absenteeism chronic absence truancy"
+   "files": [
+    {
+     "name": "DCPS Annual Attendance Report SY 2024-2025",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY%202024-2025%20Annual%20Attendance%20Report.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 24,
+     "has_tabular_data": true,
+     "n_table_pages": 17,
+     "tables": [
+      {
+       "page": 3,
+       "header": [
+        "Metric",
+        "SY 23-24",
+        "SY24-25"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 6,
+       "header": [
+        "Grade",
+        "Compulsory Aged Students",
+        "#1-5 Absences",
+        "%1-5 Absences",
+        "#6-10 Absences",
+        "% 6-10 Absences",
+        "#11-20 Absences",
+        "%11-20 Absences",
+        "#21+ Absences",
+        "% 21+ Absences"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 6,
+       "header": [
+        "Compulsory"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 6,
+       "header": [
+        "#1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "%1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "#6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "% 6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "#11-20"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2023-2024",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202023-2024.pdf",
+     "kind": "pdf",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 20,
+     "has_tabular_data": true,
+     "n_table_pages": 14,
+     "tables": [
+      {
+       "page": 3,
+       "header": [
+        "Metric",
+        "SY 22-23",
+        "SY 23-24"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 5,
+       "header": [
+        "Grade",
+        "Compulsory",
+        "#1-5",
+        "% 1-5",
+        "#6-10",
+        "%6-10",
+        "#11-20",
+        "%11-20",
+        "#21+",
+        "%21+"
+       ],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [
+        "There are several potential factors that contribute to increased absenteeism in the early grades. Parents and"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 4
+      },
+      {
+       "page": 11,
+       "header": [
+        "School Name",
+        "Compulsory",
+        "#1-5 Absences",
+        "%1-5 Absences",
+        "#6-10 Absences",
+        "%6-10 Absences",
+        "#11-20 Absences",
+        "%11-20 Absences",
+        "#21+ Absences",
+        "%21+ Absences"
+       ],
+       "n_rows": 38
+      },
+      {
+       "page": 11,
+       "header": [
+        "#1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 11,
+       "header": [
+        "%1-5"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2022-2023",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202022-2023.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 26,
+     "has_tabular_data": true,
+     "n_table_pages": 13,
+     "tables": [
+      {
+       "page": 10,
+       "header": [
+        "Change from SY"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 10,
+       "header": [
+        "Metric",
+        "Grade",
+        "SY22-23"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 11,
+       "header": [
+        "Grade",
+        "Truancy Aged",
+        "# 1-5",
+        "% 1-5",
+        "# 6-10",
+        "% 6-10",
+        "# 11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 16
+      },
+      {
+       "page": 14,
+       "header": [],
+       "n_rows": 12
+      },
+      {
+       "page": 17,
+       "header": [
+        "School Name",
+        "Truancy",
+        "# 1-5 Absences",
+        "% 1-5 Absences",
+        "# 6-10 Absences",
+        "% 6-10 Absences",
+        "# 11-20 Absences",
+        "% 11-20 Absences",
+        "# 21+ Absences",
+        "% 21+ Absences"
+       ],
+       "n_rows": 32
+      },
+      {
+       "page": 17,
+       "header": [
+        "# 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 17,
+       "header": [
+        "% 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 17,
+       "header": [
+        "# 6-10"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2021-2022",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Annual%20Attendance%20Report%20final_1.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 28,
+     "has_tabular_data": true,
+     "n_table_pages": 20,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "research- based Multi-Tiered Systems of Support (MTSS) framework2 to address student learning needs."
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 4,
+       "header": [
+        "Additionally, as articulated in the CEP, DCPS is strategically using federal funding to support accelerated"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "Superintendent of Education (OSSE) to implement the Chronic Absenteeism Reduction"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 5,
+       "header": [
+        "always assigned to a cluster led by an Instructional Superintendent, they were also supported by a"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 7,
+       "header": [
+        "Metric",
+        "Grade",
+        "SY21-22"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 8,
+       "header": [
+        "Grade",
+        "Truancy",
+        "# 1-5 Absences",
+        "% 1-5 Absences",
+        "# 6-10 Absences",
+        "% 6-10 Absences",
+        "# 11-20 Absences",
+        "% 11-20 Absences",
+        "# 21+ Absences",
+        "% 21+ Absences"
+       ],
+       "n_rows": 17
+      },
+      {
+       "page": 8,
+       "header": [
+        "# 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "% 1-5"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance budget chronic absence chronic absenteeism cost expenditure finance funding per pupil per-pupil spending truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2020-2021",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-Annual-Attendance-Report-SY-2020-2021.pdf",
+     "kind": "pdf",
+     "year": "2020",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 29,
+     "has_tabular_data": true,
+     "n_table_pages": 19,
+     "tables": [
+      {
+       "page": 3,
+       "header": [
+        "In early November 2020, DCPS took steps to support students in-person through introducing a phased"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 3,
+       "header": [
+        "SY20-21, DCPS set forth clear expectations for both students and school staff regarding attendance"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 3,
+       "header": [
+        "For CARE classes, teachers took in-person attendance for cohort and safety purposes and notified"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 4,
+       "header": [
+        "remote learning to better incorporate digital technologies into schooling. DCPS invested"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 4,
+       "header": [
+        "approval of and in accordance with these flexibilities provided by the Office of State"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "Full Year",
+        "T1",
+        "T2",
+        "T3",
+        "T4"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "Grade",
+        "Truancy Aged",
+        "#1-5",
+        "% 1-5",
+        "# 6-10",
+        "% 6-10 Absences",
+        "#11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 17
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism educators school leaders staffing teacher teachers truancy workforce"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2019-2020",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202019-2020.pdf",
+     "kind": "pdf",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 27,
+     "has_tabular_data": true,
+     "n_table_pages": 12,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "Grade",
+        "Truancy",
+        "# 1-5 Absences",
+        "% 1-5 Absences",
+        "# 6-10 Absences",
+        "% 6-10 Absences",
+        "# 11-20 Absences",
+        "% 11-20 Absences",
+        "# 21+ Absences",
+        "% 21+ Absences"
+       ],
+       "n_rows": 18
+      },
+      {
+       "page": 6,
+       "header": [
+        "# 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "% 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "# 6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "% 6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "# 11-20"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "% 11-20"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "# 21+"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2018-2019",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Final-Attendance-Report-SY18-19.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 27,
+     "has_tabular_data": true,
+     "n_table_pages": 14,
+     "tables": [
+      {
+       "page": 6,
+       "header": [
+        "Grade",
+        "Truancy Age",
+        "# 1-5",
+        "% 1-5",
+        "# 6-10",
+        "% 6-10",
+        "# 11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 17
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 6
+      },
+      {
+       "page": 14,
+       "header": [
+        "Specifically, DCPS is planning to take this past year’s family communication effort to scale and piloting a"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 18,
+       "header": [
+        "School Name",
+        "Truancy Age",
+        "# 1-5",
+        "# 6-10",
+        "# 11-20",
+        "# 21+"
+       ],
+       "n_rows": 41
+      },
+      {
+       "page": 19,
+       "header": [
+        "School Name",
+        "Truancy Age",
+        "# 1-5",
+        "# 6-10",
+        "# 11-20",
+        "# 21+"
+       ],
+       "n_rows": 47
+      },
+      {
+       "page": 20,
+       "header": [
+        "School Name",
+        "Truancy Age",
+        "# 1-5",
+        "# 6-10",
+        "# 11-20",
+        "# 21+"
+       ],
+       "n_rows": 43
+      },
+      {
+       "page": 21,
+       "header": [
+        "School Name",
+        "Truancy Age",
+        "# 1-5",
+        "# 6-10",
+        "# 11-20",
+        "# 21+"
+       ],
+       "n_rows": 33
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2017-2018",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202017-2018.pdf",
+     "kind": "pdf",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 26,
+     "has_tabular_data": true,
+     "n_table_pages": 12,
+     "tables": [
+      {
+       "page": 5,
+       "header": [
+        "Grade",
+        "Truancy",
+        "# 1-5 Absences",
+        "% 1-5 Absences",
+        "# 6-10 Absences",
+        "% 6-10 Absences",
+        "# 11-20 Absences",
+        "% 11-20 Absences",
+        "# 21+ Absences",
+        "% 21+ Absences"
+       ],
+       "n_rows": 19
+      },
+      {
+       "page": 5,
+       "header": [
+        "# 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "% 1-5"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "# 6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "% 6-10"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "# 11-20"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "% 11-20"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "# 21+"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2016-2017",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY1617_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 3,
+       "header": [
+        "Grade",
+        "Enrollment",
+        "# 1-5",
+        "% 1-5",
+        "# 6-10",
+        "% 6-10",
+        "# 11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 19
+      },
+      {
+       "page": 4,
+       "header": [
+        "DCPS believes that our overall attendance work is driven by four strategies: reducing truancy, increasing the"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 10
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2015-2016 Supplement",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Supplement%20to%20DCPS%202015%20Annual%20Attendance%20Report_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "# %"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 3,
+       "header": [
+        "# %"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "# %"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "Deep exposure to trauma significantly impacts these students’ ability to focus on learning and"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "# %"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 5,
+       "header": [
+        "% of SY13-14"
+       ],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [
+        "% of SY13-14"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 7,
+       "header": [
+        "Difference Between 80/20 Rule and"
+       ],
+       "n_rows": 10
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2015-2016",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report_SY1516_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "Grade",
+        "Enrollment",
+        "# 1-5",
+        "% 1-5",
+        "# 6-10 Absences",
+        "% 6-10",
+        "# 11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 11
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2014-2015",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY1415_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "# 1-5",
+        "% 1-5",
+        "# 6-10",
+        "% 6-10",
+        "# 11-20",
+        "% 11-20",
+        "# 21+",
+        "% 21+"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 15
+      },
+      {
+       "page": 7,
+       "header": [
+        "420"
+       ],
+       "n_rows": 12
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2013-2014",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance%20Report_SY1314_FINAL.pdf",
+     "kind": "pdf",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "Grade Level",
+        "Enrolled",
+        "Unexcused Absences"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 4,
+       "header": [
+        "Grade"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "236 215"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 7,
+       "header": [
+        "284"
+       ],
+       "n_rows": 9
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2012-2013",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY12-13_FINAL.PDF",
+     "kind": "pdf",
+     "year": "2012",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "Unexcused Absences"
+       ],
+       "n_rows": 21
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    },
+    {
+     "name": "DCPS Annual Attendance Report SY 2011-2012",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY11-12%20FINAL.pdf",
+     "kind": "pdf",
+     "year": "2011",
+     "status": "ok",
+     "topics": [
+      "attendance"
+     ],
+     "page": "https://dcps.dc.gov/node/1185940",
+     "n_pages": 11,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 3,
+       "header": [
+        "Grade",
+        "Enrolled",
+        "Unexcused Absences"
+       ],
+       "n_rows": 23
+      },
+      {
+       "page": 11,
+       "header": [
+        "District",
+        "Child",
+        "% FARM",
+        "Public",
+        "General Student",
+        "Eligibility Criteria"
+       ],
+       "n_rows": 11
+      }
+     ],
+     "syn": "absenteeism attendance chronic absence chronic absenteeism truancy"
+    }
+   ],
+   "search": "dcps at a glance: attendance dcps district-level aggregate, filed per dc code 38-203(i). granular school-level attendance is better via osse. pdf reports (one per year) attendance dcps annual attendance report sy 2024-2025 metric sy 23-24 sy24-25 grade compulsory aged students #1-5 absences %1-5 absences #6-10 absences % 6-10 absences #11-20 absences %11-20 absences #21+ absences % 21+ absences compulsory #1-5 %1-5 #6-10 % 6-10 #11-20 dcps annual attendance report sy 2023-2024 metric sy 22-23 sy 23-24 grade compulsory #1-5 % 1-5 #6-10 %6-10 #11-20 %11-20 #21+ %21+ there are several potential factors that contribute to increased absenteeism in the early grades. parents and school name compulsory #1-5 absences %1-5 absences #6-10 absences %6-10 absences #11-20 absences %11-20 absences #21+ absences %21+ absences #1-5 %1-5 dcps annual attendance report sy 2022-2023 change from sy metric grade sy22-23 grade truancy aged # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ % 21+ school name truancy # 1-5 absences % 1-5 absences # 6-10 absences % 6-10 absences # 11-20 absences % 11-20 absences # 21+ absences % 21+ absences # 1-5 % 1-5 # 6-10 dcps annual attendance report sy 2021-2022 research- based multi-tiered systems of support (mtss) framework2 to address student learning needs. additionally, as articulated in the cep, dcps is strategically using federal funding to support accelerated superintendent of education (osse) to implement the chronic absenteeism reduction always assigned to a cluster led by an instructional superintendent, they were also supported by a metric grade sy21-22 grade truancy # 1-5 absences % 1-5 absences # 6-10 absences % 6-10 absences # 11-20 absences % 11-20 absences # 21+ absences % 21+ absences # 1-5 % 1-5 dcps annual attendance report sy 2020-2021 in early november 2020, dcps took steps to support students in-person through introducing a phased sy20-21, dcps set forth clear expectations for both students and school staff regarding attendance for care classes, teachers took in-person attendance for cohort and safety purposes and notified remote learning to better incorporate digital technologies into schooling. dcps invested approval of and in accordance with these flexibilities provided by the office of state full year t1 t2 t3 t4 grade truancy aged #1-5 % 1-5 # 6-10 % 6-10 absences #11-20 % 11-20 # 21+ % 21+ dcps annual attendance report sy 2019-2020 grade truancy # 1-5 absences % 1-5 absences # 6-10 absences % 6-10 absences # 11-20 absences % 11-20 absences # 21+ absences % 21+ absences # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ dcps annual attendance report sy 2018-2019 grade truancy age # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ % 21+ specifically, dcps is planning to take this past year’s family communication effort to scale and piloting a school name truancy age # 1-5 # 6-10 # 11-20 # 21+ school name truancy age # 1-5 # 6-10 # 11-20 # 21+ school name truancy age # 1-5 # 6-10 # 11-20 # 21+ school name truancy age # 1-5 # 6-10 # 11-20 # 21+ dcps annual attendance report sy 2017-2018 grade truancy # 1-5 absences % 1-5 absences # 6-10 absences % 6-10 absences # 11-20 absences % 11-20 absences # 21+ absences % 21+ absences # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ dcps annual attendance report sy 2016-2017 grade enrollment # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ % 21+ dcps believes that our overall attendance work is driven by four strategies: reducing truancy, increasing the dcps annual attendance report sy 2015-2016 supplement # % # % # % deep exposure to trauma significantly impacts these students’ ability to focus on learning and # % % of sy13-14 % of sy13-14 difference between 80/20 rule and dcps annual attendance report sy 2015-2016 grade enrollment # 1-5 % 1-5 # 6-10 absences % 6-10 # 11-20 % 11-20 # 21+ % 21+ dcps annual attendance report sy 2014-2015 # 1-5 % 1-5 # 6-10 % 6-10 # 11-20 % 11-20 # 21+ % 21+ 420 dcps annual attendance report sy 2013-2014 grade level enrolled unexcused absences grade 236 215 284 dcps annual attendance report sy 2012-2013 unexcused absences dcps annual attendance report sy 2011-2012 grade enrolled unexcused absences district child % farm public general student eligibility criteria finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy educators teachers teacher school leaders workforce staffing"
   },
   {
    "id": "dcps-downloadable-datasets",
@@ -31584,8 +35825,902 @@ window.CATALOG = {
    "cadence": "Annual (administered each spring)",
    "years": "Panorama 2018, 2019, 2021, 2022; legacy reports 2011, 2013–2017",
    "notes": "Student/family/staff experience surveys. District results at bit.ly/dcpsresults; school-level/raw data requires staff Panorama login.",
-   "files": [],
-   "search": "dcps stakeholder / panorama satisfaction surveys dcps student/family/staff experience surveys. district results at bit.ly/dcpsresults; school-level/raw data requires staff panorama login. pdf + excel aggregates; interactive panorama portal surveys school-climate"
+   "files": [
+    {
+     "name": "Spring 2022 Panorama Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf",
+     "kind": "pdf",
+     "year": "2022",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "2022 Panorama Survey Highlights"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 1,
+       "header": [
+        "DCPS Vision"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "Five Takeaways from the"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "1. Overall favorability on the Loved, Challenged, and Prepared Index (LCPI), which has"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "2. Increases on LCPI and the Loved and Prepared scales have been driven primarily by more"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 12
+      },
+      {
+       "page": 5,
+       "header": [
+        "3. Black and Hispanic students, students in Special Education, and English Learners"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "5. The Student Satisfaction Index, which increased during the pandemic and fell in Fall 2021 (potentially due to the unique circumstances of virtual learning), remains four points higher than its pre-pandemic score."
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd"
+    },
+    {
+     "name": "2021 Panorama Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Spring-2021-Panorama-Report.pdf",
+     "kind": "pdf",
+     "year": "2021",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "2021 Panorama Survey Highlights"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "Some key results and outcomes were…"
+       ],
+       "n_rows": 9
+      },
+      {
+       "page": 1,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 3,
+       "header": [
+        "How did schools build students’ sense of belonging during virtual learning?"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 3,
+       "header": [
+        "• Patterson Elementary School’s Behavioral Health Team conducted Restorative Justice Circles, monthly"
+       ],
+       "n_rows": 14
+      },
+      {
+       "page": 5,
+       "header": [
+        "Five Takeaways from the DCPS Spring 2021 Panorama Student Survey"
+       ],
+       "n_rows": 47
+      },
+      {
+       "page": 5,
+       "header": [
+        "1. More students responded than on any previous Panorama Student Survey, and the DCPS"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 5,
+       "header": [
+        "Distribution by Race/Ethnicity of Responses and DCPS Student Body"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "2019 Panorama Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2019-Panorama-Survey-Report-FINAL.pdf",
+     "kind": "pdf",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 57,
+     "has_tabular_data": true,
+     "n_table_pages": 34,
+     "tables": [
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 19
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 15
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 18
+      },
+      {
+       "page": 7,
+       "header": [
+        "Professional learning about"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [
+        "Stakeholder Group",
+        "2018 Response Rate",
+        "2019 Response Rate",
+        "Change"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 9,
+       "header": [
+        "Race",
+        "Percent of Family Responses",
+        "Percent of Student Responses"
+       ],
+       "n_rows": 28
+      }
+     ]
+    },
+    {
+     "name": "2018 Panorama Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018PanoramaSurveyReport_0.pdf",
+     "kind": "pdf",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 35,
+     "has_tabular_data": true,
+     "n_table_pages": 23,
+     "tables": [
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 23
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 18
+      },
+      {
+       "page": 6,
+       "header": [
+        "Professional Learning about"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [
+        "Stakeholder Group",
+        "2018 Response Rate"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 7,
+       "header": [
+        "98% 95%94% 92% 92% 88% 89% 86%86% 88% 90% 87% 85% 76%76% 76% 73% 71% 69% 67% 63% 64% 64% 57% 54% 53% 51% 51% 50% 42% 41% 31% 28% 23% 24%"
+       ],
+       "n_rows": 8
+      }
+     ]
+    },
+    {
+     "name": "2017 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017StakeholderSurveyReportFinal.pdf",
+     "kind": "pdf",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 24,
+     "has_tabular_data": true,
+     "n_table_pages": 18,
+     "tables": [
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "Stakeholder Group",
+        "2017 Response Rate"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "98% 95%94% 92% 92% 90% 88% 86% 88% 87% 85% 76%76% 76% 71% 69% 67% 63% 64% 64% 54% 51% 51% 42% 41% 31% 23% 24%"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 4,
+       "header": [
+        "98%"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 4,
+       "header": [
+        "92%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "90%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "86%"
+       ],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "2016 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016StakeholderSurveyReport.pdf",
+     "kind": "pdf",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 23,
+     "has_tabular_data": true,
+     "n_table_pages": 13,
+     "tables": [
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "Stakeholder Group",
+        "2016 Response Rate"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "95%94% 90% 88% 88% 85% 76%76% 76% 71% 69% 67% 63% 62% 54% 51% 45% 40% 20% 18% 18%"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 4,
+       "header": [
+        "95%",
+        "94%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "90%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "85%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 4,
+       "header": [
+        "76%",
+        "76%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "67%"
+       ],
+       "n_rows": 3
+      }
+     ]
+    },
+    {
+     "name": "2015 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2015StakeholderSurveyReportFINAL.pdf",
+     "kind": "pdf",
+     "year": "2015",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 40,
+     "has_tabular_data": true,
+     "n_table_pages": 31,
+     "tables": [
+      {
+       "page": 4,
+       "header": [
+        "Stakeholder Group",
+        "2015 Response Rate"
+       ],
+       "n_rows": 6
+      },
+      {
+       "page": 4,
+       "header": [
+        "95%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "88%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "85%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "76%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "63%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "62%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 4,
+       "header": [
+        "20%"
+       ],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "2014 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2014StakeholderSurveyReportFINAL.pdf",
+     "kind": "pdf",
+     "year": "2014",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 50,
+     "has_tabular_data": true,
+     "n_table_pages": 36,
+     "tables": [
+      {
+       "page": 5,
+       "header": [
+        "Stakeholder Group",
+        "2014 Response Rate"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 7,
+       "header": [
+        "87%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "87%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "85%"
+       ],
+       "n_rows": 3
+      },
+      {
+       "page": 7,
+       "header": [
+        "84%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "84%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "64%"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 8,
+       "header": [
+        "75%"
+       ],
+       "n_rows": 23
+      }
+     ]
+    },
+    {
+     "name": "2013 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2013StudentSurveyReportFINAL.pdf",
+     "kind": "pdf",
+     "year": "2013",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 25,
+     "has_tabular_data": true,
+     "n_table_pages": 17,
+     "tables": [
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 3
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 7,
+       "header": [
+        "95%"
+       ],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [
+        "90%"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 2
+      }
+     ]
+    },
+    {
+     "name": "2011 Stakeholder Survey Report",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/DCPS%20District%20Level%20Report%20FINAL%20102011.pdf",
+     "kind": "pdf",
+     "year": "2011",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "n_pages": 71,
+     "has_tabular_data": true,
+     "n_table_pages": 36,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Stakeholder Surveys 2011"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 6,
+       "header": [
+        "Number of"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 7,
+       "header": [
+        "Student",
+        "Parent"
+       ],
+       "n_rows": 10
+      },
+      {
+       "page": 8,
+       "header": [
+        "Teacher",
+        "Administrator",
+        "Staff"
+       ],
+       "n_rows": 8
+      },
+      {
+       "page": 13,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 13,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 13,
+       "header": [],
+       "n_rows": 2
+      },
+      {
+       "page": 34,
+       "header": [],
+       "n_rows": 2
+      }
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
+    },
+    {
+     "name": "2019 Panorama Survey Aggregate Data",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Website-Data-for-Panorama-SY18-19.xlsx",
+     "kind": "xlsx",
+     "year": "2019",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "tabs": [
+      {
+       "name": "SY2018-19",
+       "n_rows": 117,
+       "columns": [
+        "School Name",
+        "Response Rate*",
+        "Student Satisfaction Index (Grades 3-12)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2018 Panorama Survey Aggregate Data",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018%20Aggregate%20Data.xlsx",
+     "kind": "xlsx",
+     "year": "2018",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "tabs": [
+      {
+       "name": "Sheet1",
+       "n_rows": 120,
+       "columns": [
+        "School Name",
+        "Response Rate*",
+        "Student Satisfaction Index"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2017 Stakeholder Survey Aggregate Data",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017%20Aggregate%20Survey%20Results.xlsx",
+     "kind": "xlsx",
+     "year": "2017",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "tabs": [
+      {
+       "name": "Student Survey",
+       "n_rows": 58,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Teacher Survey",
+       "n_rows": 36,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Other Staff Survey",
+       "n_rows": 27,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Administrator Survey",
+       "n_rows": 47,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "School-Level",
+       "n_rows": 116,
+       "columns": [
+        "School Name",
+        "Response Rate",
+        "Student Satisfaction Index"
+       ]
+      }
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
+    },
+    {
+     "name": "2016 Stakeholder Survey Aggregate Data",
+     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016%20Aggregate%20Survey%20Results.xlsx",
+     "kind": "xlsx",
+     "year": "2016",
+     "status": "ok",
+     "topics": [
+      "school-climate"
+     ],
+     "page": "https://dcps.dc.gov/surveys",
+     "tabs": [
+      {
+       "name": "Student Survey",
+       "n_rows": 58,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Teacher Survey",
+       "n_rows": 36,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Other Staff Survey",
+       "n_rows": 27,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "Administrator Survey",
+       "n_rows": 47,
+       "columns": [
+        "Question",
+        "Wording",
+        "Total Respondents",
+        "Strongly Agree",
+        "Agree",
+        "Somewhat Agree",
+        "Somewhat Disagree",
+        "Disagree",
+        "Strongly Disagree"
+       ]
+      },
+      {
+       "name": "School-Level",
+       "n_rows": 110,
+       "columns": [
+        "School Name",
+        "Response Rate",
+        "Student Satisfaction Index"
+       ]
+      }
+     ],
+     "syn": "educators school leaders staffing teacher teachers workforce"
+    }
+   ],
+   "search": "dcps stakeholder / panorama satisfaction surveys dcps student/family/staff experience surveys. district results at bit.ly/dcpsresults; school-level/raw data requires staff panorama login. pdf + excel aggregates; interactive panorama portal surveys school-climate spring 2022 panorama survey report 2022 panorama survey highlights dcps vision five takeaways from the 1. overall favorability on the loved, challenged, and prepared index (lcpi), which has 2. increases on lcpi and the loved and prepared scales have been driven primarily by more 3. black and hispanic students, students in special education, and english learners 5. the student satisfaction index, which increased during the pandemic and fell in fall 2021 (potentially due to the unique circumstances of virtual learning), remains four points higher than its pre-pandemic score. 2021 panorama survey report 2021 panorama survey highlights some key results and outcomes were… how did schools build students’ sense of belonging during virtual learning? • patterson elementary school’s behavioral health team conducted restorative justice circles, monthly five takeaways from the dcps spring 2021 panorama student survey 1. more students responded than on any previous panorama student survey, and the dcps distribution by race/ethnicity of responses and dcps student body 2019 panorama survey report professional learning about stakeholder group 2018 response rate 2019 response rate change race percent of family responses percent of student responses 2018 panorama survey report professional learning about stakeholder group 2018 response rate 98% 95%94% 92% 92% 88% 89% 86%86% 88% 90% 87% 85% 76%76% 76% 73% 71% 69% 67% 63% 64% 64% 57% 54% 53% 51% 51% 50% 42% 41% 31% 28% 23% 24% 2017 stakeholder survey report stakeholder group 2017 response rate 98% 95%94% 92% 92% 90% 88% 86% 88% 87% 85% 76%76% 76% 71% 69% 67% 63% 64% 64% 54% 51% 51% 42% 41% 31% 23% 24% 98% 92% 90% 86% 2016 stakeholder survey report stakeholder group 2016 response rate 95%94% 90% 88% 88% 85% 76%76% 76% 71% 69% 67% 63% 62% 54% 51% 45% 40% 20% 18% 18% 95% 94% 90% 85% 76% 76% 67% 2015 stakeholder survey report stakeholder group 2015 response rate 95% 88% 85% 76% 63% 62% 20% 2014 stakeholder survey report stakeholder group 2014 response rate 87% 87% 85% 84% 84% 64% 75% 2013 stakeholder survey report 95% 90% 2011 stakeholder survey report stakeholder surveys 2011 number of student parent teacher administrator staff 2019 panorama survey aggregate data sy2018-19 school name response rate* student satisfaction index (grades 3-12) 2018 panorama survey aggregate data sheet1 school name response rate* student satisfaction index 2017 stakeholder survey aggregate data student survey question wording total respondents strongly agree agree disagree strongly disagree teacher survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree other staff survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree administrator survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree school-level school name response rate student satisfaction index 2016 stakeholder survey aggregate data student survey question wording total respondents strongly agree agree disagree strongly disagree teacher survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree other staff survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree administrator survey question wording total respondents strongly agree agree somewhat agree somewhat disagree disagree strongly disagree school-level school name response rate student satisfaction index english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep educators teachers teacher school leaders workforce staffing"
   },
   {
    "id": "dcps-budget-portal",
@@ -32721,7 +37856,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School Academy of Hope Adult PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -32775,7 +37910,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School Briya PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -32821,7 +37956,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -32875,7 +38010,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -32921,7 +38056,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -32967,7 +38102,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -33013,7 +38148,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -33059,7 +38194,7 @@ window.CATALOG = {
      "name": "School Equity Reports — Equity Report Public Charter School YouthBuild PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2017",
      "status": "ok",
      "topics": [
       "equity"
@@ -33913,10 +39048,2485 @@ window.CATALOG = {
    "status": "ok",
    "format": "Interactive Tableau dashboards + Excel downloads + PDF summaries",
    "cadence": "Rolling, several releases/year",
-   "years": "Through SY2025-26; some series back to SY2013-14",
-   "notes": "DME's neighborhood education-data platform. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools.",
-   "files": [],
-   "search": "edscape (education landscape tool) dme dme's neighborhood education-data platform. 5 chapters: population & students, public schools, facilities, enrollment patterns, neighborhood factors. built on osse audited enrollment, geocoded to wards/clusters/boundaries. for planners, not parents choosing schools. interactive tableau dashboards + excel downloads + pdf summaries landing enrollment demographics facilities boundaries"
+   "years": "Through SY2026-27 (school counts); most series through SY2025-26; some back to SY2013-14",
+   "notes": "DME's neighborhood education-data platform. Each chapter page carries a 'Download dataset' .xlsx whose filename ends in the release year (_2026, _2027) — new URLs each year, so the monthly refresh does not see them; re-sweep the chapter pages. 5 chapters: Population & Students, Public Schools, Facilities, Enrollment Patterns, Neighborhood Factors. Built on OSSE audited enrollment, geocoded to wards/clusters/boundaries. For planners, not parents choosing schools.",
+   "files": [
+    {
+     "name": "Adult and Youth Population Trends — EdScape Chapter 1 Population and Students Adult and Youth Population Trends 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Adult%20and%20Youth%20Population%20Trends_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/adult-and-youth-population-trends",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch1. Adult & Youth Pop Trends",
+       "n_rows": 91,
+       "columns": [
+        "Age Category",
+        "Population",
+        "Year",
+        "Population Source"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 6,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 31,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Number of Births and Birth Rates — EdScape Chapter 1 Population and Students Births 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Births_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-number-births-and-birth-rates",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.1 Births Citywide",
+       "n_rows": 36,
+       "columns": [
+        "Year",
+        "Number of Births",
+        "Total Population",
+        "Birth Rate per 1,000 Population"
+       ]
+      },
+      {
+       "name": "Ch.1 Births Ward",
+       "n_rows": 121,
+       "columns": [
+        "Year",
+        "Number of Births",
+        "Ward"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 5,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 37,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Forecasted Total Population Growth — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-forecasted-total-population-growth",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_TotPopGrowth",
+       "n_rows": 27,
+       "columns": [
+        "Population Type",
+        "Year",
+        "Population",
+        "Population Source",
+        "Avg Annual Change",
+        "Avg Percent Change",
+        "5-Year Change",
+        "5-Year Percent Change"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_AdultYouth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# 17 years and under",
+        "# 18 years and over",
+        "% Age 17 and under",
+        "Total Population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthGrowth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# Ages 0-2 population",
+        "# Ages 3-10 population",
+        "# Ages 11-13 population",
+        "# Ages 14-17 population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthNhood",
+       "n_rows": 2485,
+       "columns": [
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Age category",
+        "Forecast type",
+        "Forecast population, 2020",
+        "Forecast year",
+        "Forecast population",
+        "Change from 2020 forecast"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 20,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 20,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Forecasted Youth Population Growth — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_0.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-forecasted-youth-population-growth",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_TotPopGrowth",
+       "n_rows": 27,
+       "columns": [
+        "Population Type",
+        "Year",
+        "Population",
+        "Population Source",
+        "Avg Annual Change",
+        "Avg Percent Change",
+        "5-Year Change",
+        "5-Year Percent Change"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_AdultYouth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# 17 years and under",
+        "# 18 years and over",
+        "% Age 17 and under",
+        "Total Population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthGrowth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# Ages 0-2 population",
+        "# Ages 3-10 population",
+        "# Ages 11-13 population",
+        "# Ages 14-17 population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthNhood",
+       "n_rows": 2485,
+       "columns": [
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Age category",
+        "Forecast type",
+        "Forecast population, 2020",
+        "Forecast year",
+        "Forecast population",
+        "Change from 2020 forecast"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 20,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 20,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Forecasted Youth Population Growth by Neighborhood Cluster — EdScape Chapter 1 Population and Students Forecasted Population Growth 2024",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_1.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-youth-pop-forecasts-nhood",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_TotPopGrowth",
+       "n_rows": 27,
+       "columns": [
+        "Population Type",
+        "Year",
+        "Population",
+        "Population Source",
+        "Avg Annual Change",
+        "Avg Percent Change",
+        "5-Year Change",
+        "5-Year Percent Change"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_AdultYouth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# 17 years and under",
+        "# 18 years and over",
+        "% Age 17 and under",
+        "Total Population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthGrowth",
+       "n_rows": 8,
+       "columns": [
+        "Year",
+        "Population Type",
+        "# Ages 0-2 population",
+        "# Ages 3-10 population",
+        "# Ages 11-13 population",
+        "# Ages 14-17 population",
+        "Source"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_YouthNhood",
+       "n_rows": 2485,
+       "columns": [
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Age category",
+        "Forecast type",
+        "Forecast population, 2020",
+        "Forecast year",
+        "Forecast population",
+        "Change from 2020 forecast"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 20,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 20,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Private School Enrollment — EdScape Chapter 1 Population and Students Private School Enrollment 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Private%20School%20Enrollment_2026_0.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-private-school-enrollment",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 28,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Private Sch Citywide 1 Yr Estim",
+       "n_rows": 16,
+       "columns": [
+        "NAME",
+        "year",
+        "Enrolled in nursery, preschool through grades 9-12 derived estimate",
+        "Enrolled in nursery, preschool through grades 9-12 upper bound",
+        "Enrolled in nursery, preschool through grades 9-12 lower bound",
+        "Enrolled in grades nursery, preschool through 9-12 derived MOE",
+        "Enrolled in nursery, preschool through grades 9-12 pct private estimate",
+        "Enrolled in nursery, preschool through grades 9-12 pct private derived MOE (+/-)",
+        "Enrolled in nursery school, preschool estimate",
+        "Enrolled in nursery school, preschool upper bound",
+        "Enrolled in nursery school, preschool lower bound",
+        "Enrolled in kindergarten estimate",
+        "Enrolled in kindergarten upper bound",
+        "Enrolled in kindergarten lower bound",
+        "Enrolled in grades 1-4 estimate",
+        "Enrolled in grades 1-4 upper bound",
+        "Enrolled in grades 1-4 lower bound",
+        "Enrolled in grades 5-8 estimate",
+        "Enrolled in grades 5-8 upper bound",
+        "Enrolled in grades 5-8 lower bound",
+        "Enrolled in grades 9-12 estimate",
+        "Enrolled in grades 9-12 upper bound",
+        "Enrolled in grades 9-12 lower bound",
+        "Enrolled in nursery, preschool derived MOE",
+        "Enrolled in kindergarten derived MOE",
+        "Enrolled in grades 1-4 derived MOE",
+        "Enrolled in grades 5-8 derived MOE",
+        "Enrolled in grades 9-12 derived MOE"
+       ]
+      },
+      {
+       "name": "Private Sch by Ward 5 Yr Estima",
+       "n_rows": 146,
+       "columns": [
+        "NAME",
+        "year",
+        "Enrolled in nursery, preschool through grades 9-12 derived estimate",
+        "Enrolled in nursery, preschool through grades 9-12 upper bound",
+        "Enrolled in nursery, preschool through grades 9-12 lower bound",
+        "Enrolled in grades nursery, preschool through 9-12 derived MOE",
+        "Enrolled in nursery, preschool through grades 9-12 pct private estimate",
+        "Enrolled in nursery, preschool through grades 9-12 pct private derived MOE (+/-)",
+        "Enrolled in nursery school, preschool estimate",
+        "Enrolled in nursery school, preschool upper bound",
+        "Enrolled in nursery school, preschool lower bound",
+        "Enrolled in kindergarten estimate",
+        "Enrolled in kindergarten upper bound",
+        "Enrolled in kindergarten lower bound",
+        "Enrolled in grades 1-4 estimate",
+        "Enrolled in grades 1-4 upper bound",
+        "Enrolled in grades 1-4 lower bound",
+        "Enrolled in grades 5-8 estimate",
+        "Enrolled in grades 5-8 upper bound",
+        "Enrolled in grades 5-8 lower bound",
+        "Enrolled in grades 9-12 estimate",
+        "Enrolled in grades 9-12 upper bound",
+        "Enrolled in grades 9-12 lower bound",
+        "Enrolled in nursery, preschool derived MOE",
+        "Enrolled in kindergarten derived MOE",
+        "Enrolled in grades 1-4 derived MOE",
+        "Enrolled in grades 5-8 derived MOE",
+        "Enrolled in grades 9-12 derived MOE"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 21,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "early childhood early learning head start pre-k pre-kindergarten prek preschool"
+    },
+    {
+     "name": "Race and Ethnicity of Adults and Children — EdScape Chapter 1 Population and Students Race and Ethnicity of Adults and Child",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Adults%20and%20Children_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.1 Race & Ethn Adults & Child",
+       "n_rows": 137,
+       "columns": [
+        "Race/Ethnicity",
+        "Year",
+        "Age Category",
+        "Population or Estimate"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 5,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 20,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Public School Enrollment by Race and Ethnicity — EdScape Chapter 1 Population and Students Race and Ethnicity of Students 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Students_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment",
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-public-school-enrollment-by-race-and-ethnicity",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.1 Race & Ethn Public Stu",
+       "n_rows": 1257,
+       "columns": [
+        "School Year",
+        "Sector",
+        "Grade Group",
+        "Race/Ethnicity",
+        "Count of Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes ",
+       "n_rows": 38,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Public School Students by Special Need Categories — EdScape Chapter 1 Population and Students Special Population Shares Over Time 20",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Special%20Population%20Shares%20Over%20Time_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-public-school-students-special-need-categories",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Special Population Pie Charts",
+       "n_rows": 235,
+       "columns": [
+        "Special Population",
+        "School Year",
+        "Sector",
+        "Category",
+        "Count of Category",
+        "Total Number of Eligible Students",
+        "Percent"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 11,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 33,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Total Population Trends — EdScape Chapter 1 Population and Students Total Population Trends 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Total%20Population%20Trends_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-total-population-trends",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.1 Total Population Trends",
+       "n_rows": 14,
+       "columns": [
+        "Year",
+        "Population",
+        "Population Source"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 5,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Source",
+       "n_rows": 24,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Where Adults and Children Live — EdScape Chapter 1 Population and Students Where Adults and Children Live 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Adults%20and%20Children%20Live_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-where-adults-and-children-live",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.1 Where Adults Children Live",
+       "n_rows": 29,
+       "columns": [
+        "Year",
+        "Geography",
+        "Census ID",
+        "Puma",
+        "Total 17 years and younger",
+        "Total 18 years and older"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 7,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 27,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Where Public School Students Live — EdScape Chapter 1 Population and Students Where Public School Students Live 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Public%20School%20Students%20Live_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-where-public-school-students-live",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Stds_Grade x Ward",
+       "n_rows": 833,
+       "columns": [
+        "School Year",
+        "Grade Band of Public School Students Enrolled",
+        "Ward of Public School Student Residence",
+        "Ward Boundary Year",
+        "Count of Public School Students"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Stds_Grd x PlanArea",
+       "n_rows": 2199,
+       "columns": [
+        "School Year",
+        "Grade Band of Public School Students",
+        "Comprehensive Plan Planning Area Name",
+        "Count of Public School Students"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Stds_Grade x NC",
+       "n_rows": 4311,
+       "columns": [
+        "School Year",
+        "Neighborhood Cluster",
+        "Grade Band of Public School Students",
+        "Neighborhood Cluster Names",
+        "Count of Public School Students"
+       ]
+      },
+      {
+       "name": "Ch1. Pop & Studs_DCPS HS",
+       "n_rows": 889,
+       "columns": [
+        "School Year",
+        "Grade Band of Public School Students",
+        "DCPS High School Boundary School Code",
+        "DCPS High School Boundary Name",
+        "Count of Public School Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 11,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 41,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Where English Learner Public School Students Live — EdScape Chapter 1 Population and Students Where Special Pop Public School Studen",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Special%20Pop%20Public%20School%20Students%20Live_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 1_Spcl Pop_Ward_2022",
+       "n_rows": 118,
+       "columns": [
+        "School Year",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 1_Spcl Pop_PA",
+       "n_rows": 144,
+       "columns": [
+        "School Year",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 1_Specl Pop_HS boundary",
+       "n_rows": 124,
+       "columns": [
+        "School Year",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 1_Special  Pops_NC",
+       "n_rows": 559,
+       "columns": [
+        "School Year",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 13,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 38,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "Grade Configurations of Public Schools — EdScape Chapter 2 Schools Grade Configurations 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20Configurations_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-grade-configurations-of-public-schools",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Grade Configs",
+       "n_rows": 1457,
+       "columns": [
+        "School Year",
+        "School Grade Range",
+        "School Sector",
+        "Grade Band of Students Enrolled",
+        "Count of Schools",
+        "Count of Students Enrolled"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 19,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 28,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Grade and Ward Enrollment Trends — EdScape Chapter 2 Schools Grade and Ward Enrollment Trends 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20and%20Ward%20Enrollment%20Trends_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/grade-and-ward-enrollment-trends",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Wards 2022",
+       "n_rows": 3008,
+       "columns": [
+        "School Year",
+        "Sector",
+        "UPSFF Grade Level",
+        "School Ward 2022",
+        "Enrollment"
+       ]
+      },
+      {
+       "name": "Grades",
+       "n_rows": 472,
+       "columns": [
+        "School Year",
+        "School Sector",
+        "UPSFF Grade Level",
+        "Enrollment"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 6,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 21,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Opening and Closing Trends — EdScape Chapter 2 Schools Openings and Closings 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Openings%20and%20Closings_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-opening-and-closing-trends",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 Openings and Closings",
+       "n_rows": 140,
+       "columns": [
+        "School Year",
+        "Opened or Closed",
+        "School Code",
+        "School Name",
+        "Sector",
+        "School Grade Range",
+        "Max School Grade Range",
+        "Address",
+        "Ward (2022)",
+        "OP Comprehensive Plan Planning Area",
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 12,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 19,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Public School Enrollment by Race and Ethnicity — EdScape Chapter 2 Schools Race Ethnicity Enrollment 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Race%20Ethnicity%20Enrollment_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment",
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-race-and-ethnicity",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Race Ethnicity_NC",
+       "n_rows": 16274,
+       "columns": [
+        "School year",
+        "Student race/ethnicity",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "School sector",
+        "Grade band of students enrolled",
+        "Count of race/ethnicity",
+        "Total enrollment",
+        "Share of enrollment"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Race Ethnicity_HS",
+       "n_rows": 6603,
+       "columns": [
+        "School year",
+        "Student race/ethnicity",
+        "DCPS high school boundary",
+        "School sector",
+        "Grade band of students enrolled",
+        "Count of race/ethnicity",
+        "Total enrollment",
+        "Share of enrollment"
+       ]
+      },
+      {
+       "name": "Ch2 Schools_Race Ethnicity_PA",
+       "n_rows": 6356,
+       "columns": [
+        "School year",
+        "Student race/ethnicity",
+        "Comprehensive Plan Planning Area",
+        "School sector",
+        "Grade band of students enrolled",
+        "Count of race/ethnicity",
+        "Total enrollment",
+        "Share of enrollment"
+       ]
+      },
+      {
+       "name": "Ch2 Schools_Race Ethnicity_Ward",
+       "n_rows": 5322,
+       "columns": [
+        "School year",
+        "Student race/ethnicity",
+        "Ward (2022)",
+        "School sector",
+        "Grade band of students enrolled",
+        "Count of race/ethnicity",
+        "Total enrollment",
+        "Share of enrollment"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 13,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 28,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Enrollment Trends of Specific Public Schools — EdScape Chapter 2 Schools School Enrollment 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/enrollment-trends-specific-public-schools",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 18,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Enrollment by Sch",
+       "n_rows": 51296,
+       "columns": [
+        "School Year",
+        "School Sector",
+        "Grade Band of Students Enrolled",
+        "Geography",
+        "School Name",
+        "School Code",
+        "Student group",
+        "Public school enrollment"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Enrollment by Geo",
+       "n_rows": 7022,
+       "columns": [
+        "School Year",
+        "Geography category",
+        "School Sector",
+        "Grade Band of Students Enrolled",
+        "Geography",
+        "Geography label",
+        "Enrollment by Sector and Grade Band",
+        "Total public school enrollment"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 15,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 37,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Enrollment of Public Schools by Ward — EdScape Chapter 2 Schools School Enrollment 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026_0.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-enrollment-public-schools-ward",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 18,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Enrollment by Sch",
+       "n_rows": 51296,
+       "columns": [
+        "School Year",
+        "School Sector",
+        "Grade Band of Students Enrolled",
+        "Geography",
+        "School Name",
+        "School Code",
+        "Student group",
+        "Public school enrollment"
+       ]
+      },
+      {
+       "name": "Ch.2 Schools_Enrollment by Geo",
+       "n_rows": 7612,
+       "columns": [
+        "School Year",
+        "Geography category",
+        "School Sector",
+        "Grade Band of Students Enrolled",
+        "Geography",
+        "Geography label",
+        "Enrollment by Sector and Grade Band",
+        "Total public school enrollment"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 15,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 39,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "School Enrollment by Special Populations - At Risk — EdScape Chapter 2 Schools Special Pop Students Public School Locations 2025",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students%20Public%20School%20Locations_2025.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "enrollment",
+      "demographics",
+      "profiles"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-special-populations-risk",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_Ward",
+       "n_rows": 1261,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_PA",
+       "n_rows": 1526,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Comprehensive Plan Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Comprehensive Plan Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Comprehensive Plan Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_HS_bound",
+       "n_rows": 1586,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_NC",
+       "n_rows": 4057,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Chapter 2_Special Pops_SPED Lvl",
+       "n_rows": 49,
+       "columns": [
+        "School year",
+        "SPED Level",
+        "Count of Special Education Students"
+       ]
+      },
+      {
+       "name": "Chapter 2_At-risk by School",
+       "n_rows": 2521,
+       "columns": [
+        "School year",
+        "School Code",
+        "School Name",
+        "School Sector",
+        "Count of At Risk Students",
+        "Count of Eligible At-Risk Population",
+        "Share of At Risk Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 34,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "Special Education Enrollment by Level of Need — EdScape Chapter 2 Schools Special Pop Students 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "special-education",
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-special-education-enrollment-level-need",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_Ward",
+       "n_rows": 1261,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_PA",
+       "n_rows": 1526,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Comprehensive Plan Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Comprehensive Plan Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Comprehensive Plan Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_HS_bound",
+       "n_rows": 1586,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_NC",
+       "n_rows": 4057,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Chapter 2_Special Pops_SPED Lvl",
+       "n_rows": 53,
+       "columns": [
+        "School year",
+        "SPED Level",
+        "Count of Special Education Students"
+       ]
+      },
+      {
+       "name": "Chapter 2_At-risk by School",
+       "n_rows": 2521,
+       "columns": [
+        "School year",
+        "School Code",
+        "School Name",
+        "School Sector",
+        "Count of At Risk Students",
+        "Count of Eligible At-Risk Population",
+        "Share of At Risk Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 37,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "School Enrollment by Special Populations - At Risk — EdScape Chapter 2 Schools Special Pop Students 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_0.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment",
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-special-populations-risk",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_Ward",
+       "n_rows": 1369,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_PA",
+       "n_rows": 1653,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Comprehensive Plan Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Comprehensive Plan Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Comprehensive Plan Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_HS_bound",
+       "n_rows": 1717,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_NC",
+       "n_rows": 4408,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Chapter 2_Special Pops_SPED Lvl",
+       "n_rows": 53,
+       "columns": [
+        "School year",
+        "SPED Level",
+        "Count of Special Education Students"
+       ]
+      },
+      {
+       "name": "Chapter 2_At-risk by School",
+       "n_rows": 2763,
+       "columns": [
+        "School year",
+        "School Code",
+        "School Name",
+        "School Sector",
+        "Count of At Risk Students",
+        "Count of Eligible At-Risk Population",
+        "Share of At Risk Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 40,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "School Enrollment by Special Populations - Special Education — EdScape Chapter 2 Schools Special Pop Students 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_1.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "special-education",
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-special-populations-special-education",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_Ward",
+       "n_rows": 1369,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_PA",
+       "n_rows": 1653,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Comprehensive Plan Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Comprehensive Plan Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Comprehensive Plan Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_HS_bound",
+       "n_rows": 1717,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_NC",
+       "n_rows": 4408,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Chapter 2_Special Pops_SPED Lvl",
+       "n_rows": 53,
+       "columns": [
+        "School year",
+        "SPED Level",
+        "Count of Special Education Students"
+       ]
+      },
+      {
+       "name": "Chapter 2_At-risk by School",
+       "n_rows": 2763,
+       "columns": [
+        "School year",
+        "School Code",
+        "School Name",
+        "School Sector",
+        "Count of At Risk Students",
+        "Count of Eligible At-Risk Population",
+        "Share of At Risk Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 40,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "School Enrollment by Special Populations - English Learners — EdScape Chapter 2 Schools Special Pop Students 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_2.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment",
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 17,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_Ward",
+       "n_rows": 1369,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Ward (2022)",
+        "Count of Special Education Students",
+        "Special Education Students as share of Ward",
+        "Count of English Learner Students",
+        "English Learner Students as share of Ward",
+        "Count of At Risk Students",
+        "At Risk as share of Ward"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_PA",
+       "n_rows": 1653,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Comprehensive Plan Planning Area",
+        "Count of Special Education Students",
+        "Special Education Students as share of Comprehensive Plan Planning Area",
+        "Count of English Learner Students",
+        "English Learner Students as share of Comprehensive Plan Planning Area",
+        "Count of At Risk Students",
+        "At Risk as share of Comprehensive Plan Planning Area"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_HS_bound",
+       "n_rows": 1717,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "DCPS high school boundary",
+        "Count of Special Education Students",
+        "Special Education Students as share of DCPS high school boundary",
+        "Count of English Learner Students",
+        "English Learner Students as share of DCPS high school boundary",
+        "Count of At Risk Students",
+        "At Risk as share of DCPS high school boundary"
+       ]
+      },
+      {
+       "name": "Chapter 2_Special Pops_NC",
+       "n_rows": 4408,
+       "columns": [
+        "School year",
+        "Grade band of students enrolled",
+        "School sector",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "Count of Special Education Students",
+        "Special Education Students as share of Neighborhood Cluster",
+        "Count of English Learner Students",
+        "English Learner Students as share of Neighborhood Cluster",
+        "Count of At Risk Students",
+        "At Risk as share of Neighborhood Cluster"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      },
+      {
+       "name": "Chapter 2_Special Pops_SPED Lvl",
+       "n_rows": 53,
+       "columns": [
+        "School year",
+        "SPED Level",
+        "Count of Special Education Students"
+       ]
+      },
+      {
+       "name": "Chapter 2_At-risk by School",
+       "n_rows": 2763,
+       "columns": [
+        "School year",
+        "School Code",
+        "School Name",
+        "School Sector",
+        "Count of At Risk Students",
+        "Count of Eligible At-Risk Population",
+        "Share of At Risk Students"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 18,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 40,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "at-risk disabilities disability disadvantaged economically disadvantaged el ell english language learner english learner esl farms free lunch frpl iep limited english low income low-income multilingual poverty special education special needs students with disabilities swd title i"
+    },
+    {
+     "name": "Specialized Programs Offered by Public Schools — EdScape Chapter 2 Schools Specialized Programs 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Specialized%20Programs_2026.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://edscape.dc.gov/page/schools-specialized-programs-offered",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 16,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch.2 School_Programs",
+       "n_rows": 2556,
+       "columns": [
+        "School year",
+        "Facility ID",
+        "School ID",
+        "School name",
+        "Sector",
+        "Grade band",
+        "Feeder pattern",
+        "Program",
+        "Languages offered",
+        "All programs offered at school",
+        "Facility address",
+        "MAR Latitude",
+        "MAR Longitude"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 26,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 50,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ]
+    },
+    {
+     "name": "Educational Attainment for Adults — EdScape Chapter 5 Neighborhood Factors Educational Attainment for Adults 2025",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Educational%20Attainment%20for%20Adults_2025.xlsx",
+     "kind": "xlsx",
+     "year": "2025",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-educational-attainment",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ch5. Educational Attainment",
+       "n_rows": 10,
+       "columns": [
+        "Geography",
+        "Census ID",
+        "Puma",
+        "Population age 25+",
+        "High School Diploma or GED",
+        "Bachelors Degree",
+        "Masters +"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 15,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 20,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Vehicle Access — EdScape Chapter 5 Neighborhood Factors Vehicle Access",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Vehicle%20Access.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-vehicle-access",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Vehicle Access",
+       "n_rows": 10,
+       "columns": [
+        "Geography",
+        "Estimated # of workers 16 years+",
+        "MOE of estimated # of workers 16 years+",
+        "Estimated % of workers 16 years+",
+        "MOE for the estimated % of workers 16 years+"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 9,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 22,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Residential Development Pipeline by Ward — Edscape Chapter 5 Neighborhood Factors Residential Pipeline",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-residential-development-pipeline-ward",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 18,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Residential Pipeline",
+       "n_rows": 663,
+       "columns": [
+        "DCPS Elementary School Boundary Name",
+        "DCPS Elementary School Boundary Code",
+        "Pipeline Project Name",
+        "Address",
+        "Ward",
+        "Construction Type",
+        "Status",
+        "Status Date",
+        "Estimated Delivery Date",
+        "# Total Residential Units",
+        "# Condo units",
+        "# Rental units",
+        "# Single Family units",
+        "# Affordable Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 31,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 21,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Residential Development Pipeline Projects — Edscape Chapter 5 Neighborhood Factors Residential Pipeline",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_0.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-residential-pipeline-projects-boundaries-map",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 18,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Residential Pipeline",
+       "n_rows": 663,
+       "columns": [
+        "DCPS Elementary School Boundary Name",
+        "DCPS Elementary School Boundary Code",
+        "Pipeline Project Name",
+        "Address",
+        "Ward",
+        "Construction Type",
+        "Status",
+        "Status Date",
+        "Estimated Delivery Date",
+        "# Total Residential Units",
+        "# Condo units",
+        "# Rental units",
+        "# Single Family units",
+        "# Affordable Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 31,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 21,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Estimated Student Yield from Residential Development Pipeline — Edscape Chapter 5 Neighborhood Factors Residential Pipeline",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_2.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 18,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Residential Pipeline",
+       "n_rows": 663,
+       "columns": [
+        "DCPS Elementary School Boundary Name",
+        "DCPS Elementary School Boundary Code",
+        "Pipeline Project Name",
+        "Address",
+        "Ward",
+        "Construction Type",
+        "Status",
+        "Status Date",
+        "Estimated Delivery Date",
+        "# Total Residential Units",
+        "# Condo units",
+        "# Rental units",
+        "# Single Family units",
+        "# Affordable Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 31,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 21,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Types of Housing — Edscape Chapter 5 Neighborhood Factors Types of Housing",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-types-housing",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Types of Housing Units",
+       "n_rows": 49,
+       "columns": [
+        "Basic Housing Unit Type",
+        "Housing Unit Type",
+        "Housing Unit Ward",
+        "Estimated # of Housing Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 11,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 23,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Types of Housing by Ward — Edscape Chapter 5 Neighborhood Factors Types of Housing",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_0.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-types-housing-ward",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Types of Housing Units",
+       "n_rows": 49,
+       "columns": [
+        "Basic Housing Unit Type",
+        "Housing Unit Type",
+        "Housing Unit Ward",
+        "Estimated # of Housing Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 11,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 23,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Estimated Student Yield from Residential Development Pipeline — Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_0.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ward by Type Stud Yield",
+       "n_rows": 40,
+       "columns": [
+        "Housing Unit Type",
+        "Housing Unit Ward",
+        "Estimated # of Housing Units",
+        "School Year",
+        "Count of Students",
+        "All Public School Students Yield per 100 Housing Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 15,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 27,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Public School Students by Housing Type — Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_1.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "demographics"
+     ],
+     "page": "https://edscape.dc.gov/page/neighborhood-factors-public-school-students-housing-type",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 15,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Ward by Type Stud Yield",
+       "n_rows": 40,
+       "columns": [
+        "Housing Unit Type",
+        "Housing Unit Ward",
+        "Estimated # of Housing Units",
+        "School Year",
+        "Count of Students",
+        "All Public School Students Yield per 100 Housing Units"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 15,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 31,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "edscape (education landscape tool) dme dme's neighborhood education-data platform. each chapter page carries a 'download dataset' .xlsx whose filename ends in the release year (_2026, _2027) — new urls each year, so the monthly refresh does not see them; re-sweep the chapter pages. 5 chapters: population & students, public schools, facilities, enrollment patterns, neighborhood factors. built on osse audited enrollment, geocoded to wards/clusters/boundaries. for planners, not parents choosing schools. interactive tableau dashboards + excel downloads + pdf summaries landing enrollment demographics facilities boundaries adult and youth population trends — edscape chapter 1 population and students adult and youth population trends 2026 introduction edscape ch1. adult & youth pop trends age category population year population source variable definitions variable name variable definition notes notes esri_mapinfo_sheet number of births and birth rates — edscape chapter 1 population and students births 2026 introduction edscape ch.1 births citywide year number of births total population birth rate per 1,000 population ch.1 births ward year number of births ward variable definitions variable name variable definition notes notes esri_mapinfo_sheet forecasted total population growth — edscape chapter 1 population and students forecasted population growth 2024 introduction edscape ch1. pop & studs_totpopgrowth population type year population population source avg annual change avg percent change 5-year change 5-year percent change ch1. pop & studs_adultyouth year population type # 17 years and under # 18 years and over % age 17 and under total population source ch1. pop & studs_youthgrowth year population type # ages 0-2 population # ages 3-10 population # ages 11-13 population # ages 14-17 population source ch1. pop & studs_youthnhood neighborhood cluster neighborhood cluster names age category forecast type forecast population, 2020 forecast year forecast population change from 2020 forecast variable definitions variable name variable definition notes notes esri_mapinfo_sheet forecasted youth population growth — edscape chapter 1 population and students forecasted population growth 2024 introduction edscape ch1. pop & studs_totpopgrowth population type year population population source avg annual change avg percent change 5-year change 5-year percent change ch1. pop & studs_adultyouth year population type # 17 years and under # 18 years and over % age 17 and under total population source ch1. pop & studs_youthgrowth year population type # ages 0-2 population # ages 3-10 population # ages 11-13 population # ages 14-17 population source ch1. pop & studs_youthnhood neighborhood cluster neighborhood cluster names age category forecast type forecast population, 2020 forecast year forecast population change from 2020 forecast variable definitions variable name variable definition notes notes esri_mapinfo_sheet forecasted youth population growth by neighborhood cluster — edscape chapter 1 population and students forecasted population growth 2024 introduction edscape ch1. pop & studs_totpopgrowth population type year population population source avg annual change avg percent change 5-year change 5-year percent change ch1. pop & studs_adultyouth year population type # 17 years and under # 18 years and over % age 17 and under total population source ch1. pop & studs_youthgrowth year population type # ages 0-2 population # ages 3-10 population # ages 11-13 population # ages 14-17 population source ch1. pop & studs_youthnhood neighborhood cluster neighborhood cluster names age category forecast type forecast population, 2020 forecast year forecast population change from 2020 forecast variable definitions variable name variable definition notes notes esri_mapinfo_sheet private school enrollment — edscape chapter 1 population and students private school enrollment 2026 introduction edscape variable definitions variable name variable definition private sch citywide 1 yr estim name year enrolled in nursery, preschool through grades 9-12 derived estimate enrolled in nursery, preschool through grades 9-12 upper bound enrolled in nursery, preschool through grades 9-12 lower bound enrolled in grades nursery, preschool through 9-12 derived moe enrolled in nursery, preschool through grades 9-12 pct private estimate enrolled in nursery, preschool through grades 9-12 pct private derived moe (+/-) enrolled in nursery school, preschool estimate enrolled in nursery school, preschool upper bound enrolled in nursery school, preschool lower bound enrolled in kindergarten estimate enrolled in kindergarten upper bound enrolled in kindergarten lower bound enrolled in grades 1-4 estimate enrolled in grades 1-4 upper bound enrolled in grades 1-4 lower bound enrolled in grades 5-8 estimate enrolled in grades 5-8 upper bound enrolled in grades 5-8 lower bound enrolled in grades 9-12 estimate enrolled in grades 9-12 upper bound enrolled in grades 9-12 lower bound enrolled in nursery, preschool derived moe enrolled in kindergarten derived moe enrolled in grades 1-4 derived moe enrolled in grades 5-8 derived moe enrolled in grades 9-12 derived moe private sch by ward 5 yr estima name year enrolled in nursery, preschool through grades 9-12 derived estimate enrolled in nursery, preschool through grades 9-12 upper bound enrolled in nursery, preschool through grades 9-12 lower bound enrolled in grades nursery, preschool through 9-12 derived moe enrolled in nursery, preschool through grades 9-12 pct private estimate enrolled in nursery, preschool through grades 9-12 pct private derived moe (+/-) enrolled in nursery school, preschool estimate enrolled in nursery school, preschool upper bound enrolled in nursery school, preschool lower bound enrolled in kindergarten estimate enrolled in kindergarten upper bound enrolled in kindergarten lower bound enrolled in grades 1-4 estimate enrolled in grades 1-4 upper bound enrolled in grades 1-4 lower bound enrolled in grades 5-8 estimate enrolled in grades 5-8 upper bound enrolled in grades 5-8 lower bound enrolled in grades 9-12 estimate enrolled in grades 9-12 upper bound enrolled in grades 9-12 lower bound enrolled in nursery, preschool derived moe enrolled in kindergarten derived moe enrolled in grades 1-4 derived moe enrolled in grades 5-8 derived moe enrolled in grades 9-12 derived moe notes notes race and ethnicity of adults and children — edscape chapter 1 population and students race and ethnicity of adults and child introduction edscape ch.1 race & ethn adults & child race/ethnicity year age category population or estimate variable definitions variable name variable definition notes notes esri_mapinfo_sheet public school enrollment by race and ethnicity — edscape chapter 1 population and students race and ethnicity of students 2026 introduction edscape ch.1 race & ethn public stu school year sector grade group race/ethnicity count of students variable definitions variable name variable definition notes  notes esri_mapinfo_sheet public school students by special need categories — edscape chapter 1 population and students special population shares over time 20 introduction edscape esri_mapinfo_sheet special population pie charts special population school year sector category count of category total number of eligible students percent variable definitions variable name variable definition notes notes total population trends — edscape chapter 1 population and students total population trends 2026 introduction edscape ch.1 total population trends year population population source variable definitions variable name variable definition source notes where adults and children live — edscape chapter 1 population and students where adults and children live 2026 introduction edscape ch.1 where adults children live year geography census id puma total 17 years and younger total 18 years and older variable definitions variable name variable definition notes notes esri_mapinfo_sheet where public school students live — edscape chapter 1 population and students where public school students live 2026 introduction edscape ch1. pop & stds_grade x ward school year grade band of public school students enrolled ward of public school student residence ward boundary year count of public school students ch1. pop & stds_grd x planarea school year grade band of public school students comprehensive plan planning area name count of public school students ch1. pop & stds_grade x nc school year neighborhood cluster grade band of public school students neighborhood cluster names count of public school students ch1. pop & studs_dcps hs school year grade band of public school students dcps high school boundary school code dcps high school boundary name count of public school students variable definitions variable name variable definition notes notes esri_mapinfo_sheet where english learner public school students live — edscape chapter 1 population and students where special pop public school studen introduction edscape chapter 1_spcl pop_ward_2022 school year ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 1_spcl pop_pa school year comprehensive plan planning area count of special education students special education students as share of planning area count of english learner students english learner students as share of planning area count of at risk students at risk as share of planning area chapter 1_specl pop_hs boundary school year dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 1_special  pops_nc school year neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet variable definitions variable name variable definition notes notes grade configurations of public schools — edscape chapter 2 schools grade configurations 2026 introduction edscape ch.2 schools_grade configs school year school grade range school sector grade band of students enrolled count of schools count of students enrolled esri_mapinfo_sheet variable definitions variable name variable definition notes notes grade and ward enrollment trends — edscape chapter 2 schools grade and ward enrollment trends 2026 introduction edscape wards 2022 school year sector upsff grade level school ward 2022 enrollment grades school year school sector upsff grade level enrollment variable definitions variable name variable definition notes notes school opening and closing trends — edscape chapter 2 schools openings and closings 2026 introduction edscape ch.2 openings and closings school year opened or closed school code school name sector school grade range max school grade range address ward (2022) op comprehensive plan planning area notes esri_mapinfo_sheet variable definitions variable name variable definition notes notes public school enrollment by race and ethnicity — edscape chapter 2 schools race ethnicity enrollment 2026 introduction edscape ch.2 schools_race ethnicity_nc school year student race/ethnicity neighborhood cluster neighborhood cluster names school sector grade band of students enrolled count of race/ethnicity total enrollment share of enrollment ch.2 schools_race ethnicity_hs school year student race/ethnicity dcps high school boundary school sector grade band of students enrolled count of race/ethnicity total enrollment share of enrollment ch2 schools_race ethnicity_pa school year student race/ethnicity comprehensive plan planning area school sector grade band of students enrolled count of race/ethnicity total enrollment share of enrollment ch2 schools_race ethnicity_ward school year student race/ethnicity ward (2022) school sector grade band of students enrolled count of race/ethnicity total enrollment share of enrollment esri_mapinfo_sheet variable definitions variable name variable definition notes notes enrollment trends of specific public schools — edscape chapter 2 schools school enrollment 2026 introduction edscape ch.2 schools_enrollment by sch school year school sector grade band of students enrolled geography school name school code student group public school enrollment ch.2 schools_enrollment by geo school year geography category school sector grade band of students enrolled geography geography label enrollment by sector and grade band total public school enrollment esri_mapinfo_sheet variable definitions variable name variable definition notes notes enrollment of public schools by ward — edscape chapter 2 schools school enrollment 2026 introduction edscape ch.2 schools_enrollment by sch school year school sector grade band of students enrolled geography school name school code student group public school enrollment ch.2 schools_enrollment by geo school year geography category school sector grade band of students enrolled geography geography label enrollment by sector and grade band total public school enrollment esri_mapinfo_sheet variable definitions variable name variable definition notes notes school enrollment by special populations - at risk — edscape chapter 2 schools special pop students public school locations 2025 introduction edscape chapter 2_special pops_ward school year grade band of students enrolled school sector ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 2_special pops_pa school year grade band of students enrolled school sector comprehensive plan planning area count of special education students special education students as share of comprehensive plan planning area count of english learner students english learner students as share of comprehensive plan planning area count of at risk students at risk as share of comprehensive plan planning area chapter 2_special pops_hs_bound school year grade band of students enrolled school sector dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 2_special pops_nc school year grade band of students enrolled school sector neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet chapter 2_special pops_sped lvl school year sped level count of special education students chapter 2_at-risk by school school year school code school name school sector count of at risk students count of eligible at-risk population share of at risk students variable definitions variable name variable definition notes notes special education enrollment by level of need — edscape chapter 2 schools special pop students 2026 introduction edscape chapter 2_special pops_ward school year grade band of students enrolled school sector ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 2_special pops_pa school year grade band of students enrolled school sector comprehensive plan planning area count of special education students special education students as share of comprehensive plan planning area count of english learner students english learner students as share of comprehensive plan planning area count of at risk students at risk as share of comprehensive plan planning area chapter 2_special pops_hs_bound school year grade band of students enrolled school sector dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 2_special pops_nc school year grade band of students enrolled school sector neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet chapter 2_special pops_sped lvl school year sped level count of special education students chapter 2_at-risk by school school year school code school name school sector count of at risk students count of eligible at-risk population share of at risk students variable definitions variable name variable definition notes notes school enrollment by special populations - at risk — edscape chapter 2 schools special pop students 2026 introduction edscape chapter 2_special pops_ward school year grade band of students enrolled school sector ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 2_special pops_pa school year grade band of students enrolled school sector comprehensive plan planning area count of special education students special education students as share of comprehensive plan planning area count of english learner students english learner students as share of comprehensive plan planning area count of at risk students at risk as share of comprehensive plan planning area chapter 2_special pops_hs_bound school year grade band of students enrolled school sector dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 2_special pops_nc school year grade band of students enrolled school sector neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet chapter 2_special pops_sped lvl school year sped level count of special education students chapter 2_at-risk by school school year school code school name school sector count of at risk students count of eligible at-risk population share of at risk students variable definitions variable name variable definition notes notes school enrollment by special populations - special education — edscape chapter 2 schools special pop students 2026 introduction edscape chapter 2_special pops_ward school year grade band of students enrolled school sector ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 2_special pops_pa school year grade band of students enrolled school sector comprehensive plan planning area count of special education students special education students as share of comprehensive plan planning area count of english learner students english learner students as share of comprehensive plan planning area count of at risk students at risk as share of comprehensive plan planning area chapter 2_special pops_hs_bound school year grade band of students enrolled school sector dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 2_special pops_nc school year grade band of students enrolled school sector neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet chapter 2_special pops_sped lvl school year sped level count of special education students chapter 2_at-risk by school school year school code school name school sector count of at risk students count of eligible at-risk population share of at risk students variable definitions variable name variable definition notes notes school enrollment by special populations - english learners — edscape chapter 2 schools special pop students 2026 introduction edscape chapter 2_special pops_ward school year grade band of students enrolled school sector ward (2022) count of special education students special education students as share of ward count of english learner students english learner students as share of ward count of at risk students at risk as share of ward chapter 2_special pops_pa school year grade band of students enrolled school sector comprehensive plan planning area count of special education students special education students as share of comprehensive plan planning area count of english learner students english learner students as share of comprehensive plan planning area count of at risk students at risk as share of comprehensive plan planning area chapter 2_special pops_hs_bound school year grade band of students enrolled school sector dcps high school boundary count of special education students special education students as share of dcps high school boundary count of english learner students english learner students as share of dcps high school boundary count of at risk students at risk as share of dcps high school boundary chapter 2_special pops_nc school year grade band of students enrolled school sector neighborhood cluster neighborhood cluster names count of special education students special education students as share of neighborhood cluster count of english learner students english learner students as share of neighborhood cluster count of at risk students at risk as share of neighborhood cluster esri_mapinfo_sheet chapter 2_special pops_sped lvl school year sped level count of special education students chapter 2_at-risk by school school year school code school name school sector count of at risk students count of eligible at-risk population share of at risk students variable definitions variable name variable definition notes notes specialized programs offered by public schools — edscape chapter 2 schools specialized programs 2026 introduction edscape ch.2 school_programs school year facility id school id school name sector grade band feeder pattern program languages offered all programs offered at school facility address mar latitude mar longitude variable definitions variable name variable definition notes notes esri_mapinfo_sheet educational attainment for adults — edscape chapter 5 neighborhood factors educational attainment for adults 2025 introduction edscape ch5. educational attainment geography census id puma population age 25+ high school diploma or ged bachelors degree masters + variable definitions variable name variable definition notes notes vehicle access — edscape chapter 5 neighborhood factors vehicle access introduction edscape vehicle access geography estimated # of workers 16 years+ moe of estimated # of workers 16 years+ estimated % of workers 16 years+ moe for the estimated % of workers 16 years+ variable definitions variable name variable definition notes notes residential development pipeline by ward — edscape chapter 5 neighborhood factors residential pipeline introduction edscape residential pipeline dcps elementary school boundary name dcps elementary school boundary code pipeline project name address ward construction type status status date estimated delivery date # total residential units # condo units # rental units # single family units # affordable units variable definitions variable name variable definition notes notes residential development pipeline projects — edscape chapter 5 neighborhood factors residential pipeline introduction edscape residential pipeline dcps elementary school boundary name dcps elementary school boundary code pipeline project name address ward construction type status status date estimated delivery date # total residential units # condo units # rental units # single family units # affordable units variable definitions variable name variable definition notes notes estimated student yield from residential development pipeline — edscape chapter 5 neighborhood factors residential pipeline introduction edscape residential pipeline dcps elementary school boundary name dcps elementary school boundary code pipeline project name address ward construction type status status date estimated delivery date # total residential units # condo units # rental units # single family units # affordable units variable definitions variable name variable definition notes notes types of housing — edscape chapter 5 neighborhood factors types of housing introduction edscape types of housing units basic housing unit type housing unit type housing unit ward estimated # of housing units variable definitions variable name variable definition notes notes types of housing by ward — edscape chapter 5 neighborhood factors types of housing introduction edscape types of housing units basic housing unit type housing unit type housing unit ward estimated # of housing units variable definitions variable name variable definition notes notes estimated student yield from residential development pipeline — edscape chapter 5 neighborhood factors types of housing student yield introduction edscape ward by type stud yield housing unit type housing unit ward estimated # of housing units school year count of students all public school students yield per 100 housing units variable definitions variable name variable definition notes notes public school students by housing type — edscape chapter 5 neighborhood factors types of housing student yield introduction edscape ward by type stud yield housing unit type housing unit ward estimated # of housing units school year count of students all public school students yield per 100 housing units variable definitions variable name variable definition notes notes at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep pre-k pre-kindergarten prek preschool early childhood early learning head start"
   },
   {
    "id": "edscape-release-notes",
@@ -34756,9 +42366,113 @@ window.CATALOG = {
        "columns": []
       }
      ]
+    },
+    {
+     "name": "Trends in Enrollment by Sector — EdScape Chapter 4 Enrollment Patterns Sector 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026_0.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/trends-enrollment-sector",
+     "series": "Enrollment by Sector",
+     "label": "2026",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 19,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Citywide",
+       "n_rows": 406,
+       "columns": [
+        "School Year",
+        "School Choice Enrollment Category",
+        "Grade Band of Students Enrolled",
+        "Count of Students",
+        "Count of Students in Category"
+       ]
+      },
+      {
+       "name": "Ward 2022",
+       "n_rows": 2623,
+       "columns": [
+        "School Year",
+        "Student Ward",
+        "School Choice Enrollment Category",
+        "Grade Band of Students Enrolled",
+        "Count of Students in Ward",
+        "Count of Students in Category"
+       ]
+      },
+      {
+       "name": "Neighborhood",
+       "n_rows": 12884,
+       "columns": [
+        "School Year",
+        "Neighborhood Cluster",
+        "Neighborhood Cluster Names",
+        "School Choice Enrollment Category",
+        "Grade Band of Students Enrolled",
+        "Count of Students in Cluster",
+        "Count of Students in Category"
+       ]
+      },
+      {
+       "name": "Planning Area",
+       "n_rows": 3291,
+       "columns": [
+        "School Year",
+        "Comprehensive Planning Area",
+        "School Choice Enrollment Category",
+        "Grade Band of Students Enrolled",
+        "Count of Students in Planning Area",
+        "Count of Students in Category"
+       ]
+      },
+      {
+       "name": "DCPS HS Boundary",
+       "n_rows": 2834,
+       "columns": [
+        "School Year",
+        "DCPS HS Zone Code",
+        "DCPS HS Zone",
+        "School Choice Enrollment Category",
+        "Grade Band of Students Enrolled",
+        "Count of Students in DCPS HS Boundary",
+        "Count of Students in Category"
+       ]
+      },
+      {
+       "name": "Variable Definitions",
+       "n_rows": 11,
+       "columns": [
+        "Variable Name",
+        "Variable Definition"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 42,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "ESRI_MAPINFO_SHEET",
+       "n_rows": 1,
+       "columns": []
+      }
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     }
    ],
-   "search": "edscape — enrollment patterns (cross-sector / where students attend) dme in-boundary / out-of-boundary / charter enrollment, cross-sector & cross-ward flows, student commute, feeder patterns, grade progression. the core 'where students actually attend' analysis. interactive dashboards + excel enrollment boundaries enrollment patterns — edscape chapter 4 enrollment patterns sector 2026 introduction edscape citywide school year school choice enrollment category grade band of students enrolled count of students count of students in category ward 2022 school year student ward school choice enrollment category grade band of students enrolled count of students in ward count of students in category neighborhood school year neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled count of students in cluster count of students in category planning area school year comprehensive planning area school choice enrollment category grade band of students enrolled count of students in planning area count of students in category citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category dcps hs boundary school year dcps hs zone code dcps hs zone school choice enrollment category grade band of students enrolled count of students in dcps hs boundary count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns commute paths 2024 ch4 stu ward 2022-sch ward 2022 school year school sector grade band of students enrolled student group student ward school ward count of students median walk distance school commute path share of students in student geography share of students in school geography ch4 stu plng area-sch plng area school year school sector grade band of students enrolled student group student planning area school planning area count of students median walk distance school commute path share of students in student geography share of students in school geography introduction edscape variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns enrollments per dcps boundary 2025 introduction edscape edscape_chapter4_public sch sup school year dcps boundary school code dcps boundary dcps boundary grade band dcps boundary school enrollment number of grade-specific students living in-boundary and attending boundary school number of grade-specific students living in-boundary percent in-boundary (%) [school] boundary participation rate (%) [boundary] number of dcps schools attended by grade-specific students living in the boundary number of pcs schools attended by grade-specific students living in the boundary total number of public schools attended by students living in the boundary schools attended by grade-specific students living in the boundary flag: attending school is dcps boundary school count of grade-specific students living in the dcps boundary that attend the school rank within boundary school code of school attended by students living in the dcps boundary total enrollment of school percent enrolled at school from dcps boundary percent of grade-specific students living in the dcps boundary that attend the school number of grade-specific students living in the boundary with school attended reported (n>10) percent of grade-specific students living in the boundary with school attended reported (n>10) osse schoolwide accountability score of school attended osse schoolwide accountability score of dcps boundary school percentage point difference of osse schoolwide accountability score lea code of school attended by students living in the dcps boundary lea name of school attended by students living in the dcps boundary address of school attended (main facility) census tract of school attended (main facility) ward of school attended (main facility) top 10 concentration variable definitions category variable name variable definition jc notes notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns distance 2026 introduction edscape c4. dist x grade band school year grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x ward school year student ward grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x nc school year student neighborhood cluster neighborhood cluster names grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x op school year student comprehensive plan planning area grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x dcps hs school year student dcps hs boundary grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 1 population and students where students miss school 2026 introduction edscape ch.1 where students miss school school year geography type geography grade band chronic absenteeism rate count of students variable definitions variable name variable definition notes notes enrollment patterns — edscape chapter 4 enrollment patterns feeders 2026 introduction edscape enrollment paths from school year from lea name from school code from school name from grade from feeder pattern to school year to lea name to school code to school name to grade to feeder pattern year 1 to year 2 path summary count of students citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns gpr 2026 introduction edscape citywide student population from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year sector student population from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year lea student population (local education agency (lea) : lea code) from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year school student population (lea : school: school code) from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year dcps feeder pattern student population: schools in the dcps geographic feeder pattern from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet population and students — edscape chapter 4 enrollment patterns total public school enrollment 2026 introduction edscape, or \"education landscape,\" is a set of interactive visualizations and downloadable datasets to inform and support program and school planning in washington, dc. edscape is organized into five chapters. ch.4 total public school enroll school year public school enrollment sector variable definitions variable name variable definition notes notes population and students — edscape chapter 4 enrollment patterns public school enrollment by grade 2026 introduction edscape ch.4 public school x grade band grade band school year public school enrollment sector ch.4 public school x grade grade school year public school enrollment sector variable definitions variable name variable definition notes  notes esri_mapinfo_sheet attendance absenteeism chronic absenteeism chronic absence truancy accountability star school quality sqr pmf aspire rating lottery my school dc waitlist school choice"
+   "search": "edscape — enrollment patterns (cross-sector / where students attend) dme in-boundary / out-of-boundary / charter enrollment, cross-sector & cross-ward flows, student commute, feeder patterns, grade progression. the core 'where students actually attend' analysis. interactive dashboards + excel enrollment boundaries enrollment patterns — edscape chapter 4 enrollment patterns sector 2026 introduction edscape citywide school year school choice enrollment category grade band of students enrolled count of students count of students in category ward 2022 school year student ward school choice enrollment category grade band of students enrolled count of students in ward count of students in category neighborhood school year neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled count of students in cluster count of students in category planning area school year comprehensive planning area school choice enrollment category grade band of students enrolled count of students in planning area count of students in category citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category dcps hs boundary school year dcps hs zone code dcps hs zone school choice enrollment category grade band of students enrolled count of students in dcps hs boundary count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns commute paths 2024 ch4 stu ward 2022-sch ward 2022 school year school sector grade band of students enrolled student group student ward school ward count of students median walk distance school commute path share of students in student geography share of students in school geography ch4 stu plng area-sch plng area school year school sector grade band of students enrolled student group student planning area school planning area count of students median walk distance school commute path share of students in student geography share of students in school geography introduction edscape variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns enrollments per dcps boundary 2025 introduction edscape edscape_chapter4_public sch sup school year dcps boundary school code dcps boundary dcps boundary grade band dcps boundary school enrollment number of grade-specific students living in-boundary and attending boundary school number of grade-specific students living in-boundary percent in-boundary (%) [school] boundary participation rate (%) [boundary] number of dcps schools attended by grade-specific students living in the boundary number of pcs schools attended by grade-specific students living in the boundary total number of public schools attended by students living in the boundary schools attended by grade-specific students living in the boundary flag: attending school is dcps boundary school count of grade-specific students living in the dcps boundary that attend the school rank within boundary school code of school attended by students living in the dcps boundary total enrollment of school percent enrolled at school from dcps boundary percent of grade-specific students living in the dcps boundary that attend the school number of grade-specific students living in the boundary with school attended reported (n>10) percent of grade-specific students living in the boundary with school attended reported (n>10) osse schoolwide accountability score of school attended osse schoolwide accountability score of dcps boundary school percentage point difference of osse schoolwide accountability score lea code of school attended by students living in the dcps boundary lea name of school attended by students living in the dcps boundary address of school attended (main facility) census tract of school attended (main facility) ward of school attended (main facility) top 10 concentration variable definitions category variable name variable definition jc notes notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns distance 2026 introduction edscape c4. dist x grade band school year grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x ward school year student ward grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x nc school year student neighborhood cluster neighborhood cluster names grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x op school year student comprehensive plan planning area grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range c4. dist x gb x dcps hs school year student dcps hs boundary grade band of students school choice enrollment category student group average walk distance in miles median walk distance in miles count of students in category range variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 1 population and students where students miss school 2026 introduction edscape ch.1 where students miss school school year geography type geography grade band chronic absenteeism rate count of students variable definitions variable name variable definition notes notes enrollment patterns — edscape chapter 4 enrollment patterns feeders 2026 introduction edscape enrollment paths from school year from lea name from school code from school name from grade from feeder pattern to school year to lea name to school code to school name to grade to feeder pattern year 1 to year 2 path summary count of students citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet enrollment patterns — edscape chapter 4 enrollment patterns gpr 2026 introduction edscape citywide student population from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year sector student population from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year lea student population (local education agency (lea) : lea code) from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year school student population (lea : school: school code) from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year dcps feeder pattern student population: schools in the dcps geographic feeder pattern from school year to school year from grade to grade count of students in from grade count of students in to grade grade progression ratio (gpr) kindergarten cohort year citywide_old school choice enrollment category school year grade band of students enrolled count of students count of students in category ward_old student ward school choice enrollment category grade band of students enrolled school year count of students in ward count of students in category neighborhood_old neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled school year count of students in cluster count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet population and students — edscape chapter 4 enrollment patterns total public school enrollment 2026 introduction edscape, or \"education landscape,\" is a set of interactive visualizations and downloadable datasets to inform and support program and school planning in washington, dc. edscape is organized into five chapters. ch.4 total public school enroll school year public school enrollment sector variable definitions variable name variable definition notes notes population and students — edscape chapter 4 enrollment patterns public school enrollment by grade 2026 introduction edscape ch.4 public school x grade band grade band school year public school enrollment sector ch.4 public school x grade grade school year public school enrollment sector variable definitions variable name variable definition notes  notes esri_mapinfo_sheet trends in enrollment by sector — edscape chapter 4 enrollment patterns sector 2026 introduction edscape citywide school year school choice enrollment category grade band of students enrolled count of students count of students in category ward 2022 school year student ward school choice enrollment category grade band of students enrolled count of students in ward count of students in category neighborhood school year neighborhood cluster neighborhood cluster names school choice enrollment category grade band of students enrolled count of students in cluster count of students in category planning area school year comprehensive planning area school choice enrollment category grade band of students enrolled count of students in planning area count of students in category dcps hs boundary school year dcps hs zone code dcps hs zone school choice enrollment category grade band of students enrolled count of students in dcps hs boundary count of students in category variable definitions variable name variable definition notes notes esri_mapinfo_sheet attendance absenteeism chronic absenteeism chronic absence truancy accountability star school quality sqr pmf aspire rating lottery my school dc waitlist school choice"
   },
   {
    "id": "edscape-facilities",
@@ -34771,10 +42485,231 @@ window.CATALOG = {
    "status": "ok",
    "format": "Interactive dashboards + maps + Excel",
    "cadence": "Annual+",
-   "years": "SY2013-14 through SY2025-26",
+   "years": "SY2013-14 through SY2026-27",
    "notes": "Building counts/locations, programmatic capacity, utilization (how full), unfilled seats, DCPS modernizations. Produced with DC PCSB, DCPS, OSSE, DGS — the cross-sector facilities view.",
-   "files": [],
-   "search": "edscape — public school facilities (capacity/utilization/locations) dme building counts/locations, programmatic capacity, utilization (how full), unfilled seats, dcps modernizations. produced with dc pcsb, dcps, osse, dgs — the cross-sector facilities view. interactive dashboards + maps + excel facilities"
+   "files": [
+    {
+     "name": "Public School Facility Programmatic Capacity — EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2026",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2026_3.xlsx",
+     "kind": "xlsx",
+     "year": "2026",
+     "status": "ok",
+     "topics": [
+      "facilities",
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/facilities-programmatic-capacity",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 19,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Capacities and utilization",
+       "n_rows": 4126,
+       "columns": [
+        "School year",
+        "LEA ID",
+        "LEA name",
+        "School ID",
+        "School name",
+        "School sector",
+        "School category",
+        "School grades",
+        "Growing flag",
+        "Facility ID",
+        "Facility address",
+        "DCPS facility name",
+        "MAR xcoord",
+        "MAR ycoord",
+        "MAR latitude",
+        "MAR longitude",
+        "Ward (2022)",
+        "Neighborhood cluster",
+        "Comprehensive plan planning area",
+        "DCPS boundary",
+        "Grade range",
+        "Grade band",
+        "Facility sector",
+        "Facility capacity",
+        "Portable facility capacity",
+        "Enrollment",
+        "Utilization",
+        "Unfilled seats",
+        "Swinging",
+        "Permanent facility ID",
+        "Permanent facility address"
+       ]
+      },
+      {
+       "name": "Modernizations",
+       "n_rows": 201,
+       "columns": [
+        "Facility ID",
+        "Modernization year",
+        "Modernization type",
+        "LEA ID",
+        "School ID",
+        "School year",
+        "School name",
+        "School grades",
+        "Sector",
+        "All schools occupying facility",
+        "Facility address",
+        "DCPS facility name",
+        "Ward (2022)",
+        "MAR xcoord",
+        "MAR ycoord",
+        "MAR latitude",
+        "MAR longitude",
+        "Neighborhood cluster",
+        "Comprehensive plan planning area",
+        "DCPS boundary"
+       ]
+      },
+      {
+       "name": "Data dictionary",
+       "n_rows": 35,
+       "columns": [
+        "Variable name",
+        "Variable description"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 68,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Number of Public School Facilities — EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2027",
+     "url": "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2027_1.xlsx",
+     "kind": "xlsx",
+     "year": "2027",
+     "status": "ok",
+     "topics": [
+      "facilities",
+      "enrollment"
+     ],
+     "page": "https://edscape.dc.gov/page/facilities-number",
+     "tabs": [
+      {
+       "name": "Introduction",
+       "n_rows": 19,
+       "columns": [
+        "EdScape"
+       ]
+      },
+      {
+       "name": "Capacities and utilization",
+       "n_rows": 4458,
+       "columns": [
+        "School year",
+        "LEA ID",
+        "LEA name",
+        "School ID",
+        "School name",
+        "School sector",
+        "School category",
+        "School grades",
+        "Growing flag",
+        "Facility ID",
+        "Facility address",
+        "DCPS facility name",
+        "MAR xcoord",
+        "MAR ycoord",
+        "MAR latitude",
+        "MAR longitude",
+        "Ward (2022)",
+        "Neighborhood cluster",
+        "Comprehensive plan planning area",
+        "DCPS boundary",
+        "Grade range",
+        "Grade band",
+        "Facility sector",
+        "Facility capacity",
+        "Portable facility capacity",
+        "Enrollment",
+        "Utilization",
+        "Unfilled seats",
+        "Swinging",
+        "Permanent facility ID",
+        "Permanent facility address"
+       ]
+      },
+      {
+       "name": "Facilities",
+       "n_rows": 3052,
+       "columns": [
+        "School year",
+        "Facility ID",
+        "Facility address",
+        "DCPS facility name",
+        "MAR xcoord",
+        "MAR ycoord",
+        "MAR latitude",
+        "MAR longitude",
+        "Ward (2022)",
+        "Neighborhood cluster",
+        "Comprehensive plan planning area",
+        "DCPS boundary",
+        "Facility sector",
+        "All LEAs located in facility",
+        "All schools located in facility",
+        "Grade ranges for schools located in facility"
+       ]
+      },
+      {
+       "name": "Modernizations",
+       "n_rows": 201,
+       "columns": [
+        "Facility ID",
+        "Modernization year",
+        "Modernization type",
+        "LEA ID",
+        "School ID",
+        "School year",
+        "School name",
+        "School grades",
+        "Sector",
+        "All schools occupying facility",
+        "Facility address",
+        "DCPS facility name",
+        "Ward (2022)",
+        "MAR xcoord",
+        "MAR ycoord",
+        "MAR latitude",
+        "MAR longitude",
+        "Neighborhood cluster",
+        "Comprehensive plan planning area",
+        "DCPS boundary"
+       ]
+      },
+      {
+       "name": "Data dictionary",
+       "n_rows": 35,
+       "columns": [
+        "Variable name",
+        "Variable description"
+       ]
+      },
+      {
+       "name": "Notes",
+       "n_rows": 74,
+       "columns": [
+        "Notes"
+       ]
+      }
+     ]
+    }
+   ],
+   "search": "edscape — public school facilities (capacity/utilization/locations) dme building counts/locations, programmatic capacity, utilization (how full), unfilled seats, dcps modernizations. produced with dc pcsb, dcps, osse, dgs — the cross-sector facilities view. interactive dashboards + maps + excel facilities public school facility programmatic capacity — edscape chapter 3 facilities facility enrollment and utilization 2026 introduction edscape capacities and utilization school year lea id lea name school id school name school sector school category school grades growing flag facility id facility address dcps facility name mar xcoord mar ycoord mar latitude mar longitude ward (2022) neighborhood cluster comprehensive plan planning area dcps boundary grade range grade band facility sector facility capacity portable facility capacity enrollment utilization unfilled seats swinging permanent facility id permanent facility address modernizations facility id modernization year modernization type lea id school id school year school name school grades sector all schools occupying facility facility address dcps facility name ward (2022) mar xcoord mar ycoord mar latitude mar longitude neighborhood cluster comprehensive plan planning area dcps boundary data dictionary variable name variable description notes notes number of public school facilities — edscape chapter 3 facilities facility enrollment and utilization 2027 introduction edscape capacities and utilization school year lea id lea name school id school name school sector school category school grades growing flag facility id facility address dcps facility name mar xcoord mar ycoord mar latitude mar longitude ward (2022) neighborhood cluster comprehensive plan planning area dcps boundary grade range grade band facility sector facility capacity portable facility capacity enrollment utilization unfilled seats swinging permanent facility id permanent facility address facilities school year facility id facility address dcps facility name mar xcoord mar ycoord mar latitude mar longitude ward (2022) neighborhood cluster comprehensive plan planning area dcps boundary facility sector all leas located in facility all schools located in facility grade ranges for schools located in facility modernizations facility id modernization year modernization type lea id school id school year school name school grades sector all schools occupying facility facility address dcps facility name ward (2022) mar xcoord mar ycoord mar latitude mar longitude neighborhood cluster comprehensive plan planning area dcps boundary data dictionary variable name variable description notes notes"
   },
   {
    "id": "dme-facility-planning",
@@ -34826,8 +42761,301 @@ window.CATALOG = {
    "cadence": "Annual supplement",
    "years": "SY2024-25 data + 5/10-yr forward projections",
    "notes": "Released Sept 2025 (latest as of June 2026). Updated capacity/utilization and enrollment projections. Note: the freshest projections now live in EdScape rather than the MFP supplements.",
-   "files": [],
-   "search": "2024 master facilities plan annual supplement dme released sept 2025 (latest as of june 2026). updated capacity/utilization and enrollment projections. note: the freshest projections now live in edscape rather than the mfp supplements. report pdf + excel appendices facilities projections enrollment"
+   "files": [
+    {
+     "name": "2024 MFP Annual Supplement report",
+     "url": "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20FINAL.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "n_pages": 16,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 13,
+       "header": [
+        "School name",
+        "Ward",
+        "SY24-25 enrollment",
+        "SY24-25 facility capacity",
+        "Utilization % (pp change from SY23-24)",
+        "SY23-24 utilization <=50%"
+       ],
+       "n_rows": 19
+      },
+      {
+       "page": 14,
+       "header": [
+        "School name",
+        "Ward",
+        "SY24-25 enrollment",
+        "SY24-25 facility capacity",
+        "Utilization % (pp change from SY23-24)",
+        "SY23-24 utilization >=95%"
+       ],
+       "n_rows": 21
+      }
+     ]
+    },
+    {
+     "name": "2024 MFP Annual Supplement Appendix 1",
+     "url": "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%201.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "tabs": [
+      {
+       "name": "Contents and notes",
+       "n_rows": 15,
+       "columns": [
+        "Tab",
+        "Name",
+        "Description"
+       ]
+      },
+      {
+       "name": "A. SY24-25 PCS DGS Leases",
+       "n_rows": 66,
+       "columns": [
+        "Facility ID",
+        "LEA ID",
+        "School ID",
+        "School Name",
+        "Address",
+        "Status",
+        "Sector",
+        "DCPS facility name"
+       ]
+      },
+      {
+       "name": "B. DCPS SY24-25 Enroll & Utiliz",
+       "n_rows": 120,
+       "columns": [
+        "SY23-24",
+        "SY24-25"
+       ]
+      },
+      {
+       "name": "C. PCS SY24-25 Enroll & Utiliz",
+       "n_rows": 150,
+       "columns": [
+        "SY23-24",
+        "SY24-25"
+       ]
+      },
+      {
+       "name": "D. DCPS FCI",
+       "n_rows": 120,
+       "columns": [
+        "Facility ID",
+        "School ID",
+        "School name",
+        "Facility address",
+        "DCPS facility name",
+        "Ward (2022)",
+        "Assessment year",
+        "1 year Facility Condition Index**",
+        "5 Year Facility Condition Index**",
+        "10 Year Facility Condition Index**"
+       ]
+      },
+      {
+       "name": "E. PCSB Facility Survey Results",
+       "n_rows": 30,
+       "columns": [
+        "Public charter school facility needs and conditions, SY24-25"
+       ]
+      },
+      {
+       "name": "F. DCPS Modernization Status",
+       "n_rows": 160,
+       "columns": [
+        "Facility ID",
+        "Year of completion",
+        "Modernization type",
+        "Facility address",
+        "DCPS facility name",
+        "LEA ID",
+        "School ID",
+        "School name",
+        "All schools"
+       ]
+      },
+      {
+       "name": "G. CIP FY25-30",
+       "n_rows": 37,
+       "columns": [
+        "Approved FY25-30 Capital Improvements Plan (CIP)"
+       ]
+      },
+      {
+       "name": "H. DCPS Facility Classification",
+       "n_rows": 133,
+       "columns": [
+        "School ID",
+        "School name",
+        "Facility ID",
+        "Facility address",
+        "DCPS facility name",
+        "Designation for SY24-25",
+        "Notes"
+       ]
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "2024 MFP Annual Supplement Appendix 2",
+     "url": "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%202.xlsx",
+     "kind": "xlsx",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "tabs": [
+      {
+       "name": "Appendix 2. Contents",
+       "n_rows": 15,
+       "columns": [
+        "Master Facilities Plan 2024 Supplement enrollment projections"
+       ]
+      },
+      {
+       "name": "A.Methodology Overview",
+       "n_rows": 12,
+       "columns": [
+        "Enrollment projection methodology overview"
+       ]
+      },
+      {
+       "name": "B.Aggregate projections",
+       "n_rows": 70,
+       "columns": [
+        "Sector",
+        "School year",
+        "Type",
+        "Count",
+        "Change",
+        "% change"
+       ]
+      },
+      {
+       "name": "C.DCPS enrollment projections",
+       "n_rows": 118,
+       "columns": [
+        "School code",
+        "School name",
+        "SY13-14",
+        "SY14-15",
+        "SY15-16",
+        "SY16-17",
+        "SY17-18",
+        "SY18-19",
+        "SY19-20",
+        "SY20-21",
+        "SY21-22",
+        "SY22-23",
+        "SY23-24",
+        "SY24-25",
+        "SY25-26",
+        "SY26-27",
+        "SY27-28",
+        "SY28-29",
+        "SY29-30",
+        "SY30-31",
+        "SY31-32",
+        "SY32-33",
+        "SY33-34",
+        "SY34-35",
+        "SY35-36",
+        "Trend"
+       ]
+      },
+      {
+       "name": "D.Births",
+       "n_rows": 38,
+       "columns": [
+        "Entry year"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "2024 MFP Annual Supplement Appendix 3",
+     "url": "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%203.pdf",
+     "kind": "pdf",
+     "year": "2024",
+     "status": "ok",
+     "topics": [
+      "other"
+     ],
+     "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "n_pages": 1,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 1,
+       "header": [
+        "Facility",
+        "Ward",
+        "Agency",
+        "Gross",
+        "Notes"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 1,
+       "header": [
+        "Facility",
+        "Ward (2022)",
+        "Agency",
+        "Gross",
+        "Notes"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 1,
+       "header": [
+        "Ward"
+       ],
+       "n_rows": 2
+      },
+      {
+       "page": 1,
+       "header": [
+        "Facility",
+        "Ward (2022)",
+        "Agency",
+        "Gross",
+        "Notes"
+       ],
+       "n_rows": 4
+      },
+      {
+       "page": 1,
+       "header": [
+        "Ward"
+       ],
+       "n_rows": 2
+      }
+     ]
+    }
+   ],
+   "search": "2024 master facilities plan annual supplement dme released sept 2025 (latest as of june 2026). updated capacity/utilization and enrollment projections. note: the freshest projections now live in edscape rather than the mfp supplements. report pdf + excel appendices facilities projections enrollment 2024 mfp annual supplement report school name ward sy24-25 enrollment sy24-25 facility capacity utilization % (pp change from sy23-24) sy23-24 utilization <=50% school name ward sy24-25 enrollment sy24-25 facility capacity utilization % (pp change from sy23-24) sy23-24 utilization >=95% 2024 mfp annual supplement appendix 1 contents and notes tab name description a. sy24-25 pcs dgs leases facility id lea id school id school name address status sector dcps facility name b. dcps sy24-25 enroll & utiliz sy23-24 sy24-25 c. pcs sy24-25 enroll & utiliz sy23-24 sy24-25 d. dcps fci facility id school id school name facility address dcps facility name ward (2022) assessment year 1 year facility condition index** 5 year facility condition index** 10 year facility condition index** e. pcsb facility survey results public charter school facility needs and conditions, sy24-25 f. dcps modernization status facility id year of completion modernization type facility address dcps facility name lea id school id school name all schools g. cip fy25-30 approved fy25-30 capital improvements plan (cip) h. dcps facility classification school id school name facility id facility address dcps facility name designation for sy24-25 notes 2024 mfp annual supplement appendix 2 appendix 2. contents master facilities plan 2024 supplement enrollment projections a.methodology overview enrollment projection methodology overview b.aggregate projections sector school year type count change % change c.dcps enrollment projections school code school name sy13-14 sy14-15 sy15-16 sy16-17 sy17-18 sy18-19 sy19-20 sy20-21 sy21-22 sy22-23 sy23-24 sy24-25 sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 sy31-32 sy32-33 sy33-34 sy34-35 sy35-36 trend d.births entry year 2024 mfp annual supplement appendix 3 facility ward agency gross notes facility ward (2022) agency gross notes ward facility ward (2022) agency gross notes ward assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas"
   },
   {
    "id": "dme-boundary-study",
@@ -38196,14 +46424,14 @@ window.CATALOG = {
      "name": "Giving At-Risk Students Preference in a Unified Lottery for Public Schools",
      "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/MSDC%20At-Risk%20Preference%20in%20a%20Unified%20Lottery%204.26.2018_Final.pdf",
      "kind": "pdf",
-     "year": "unknown",
+     "year": "2018",
      "status": "ok",
      "topics": [
       "lottery",
       "demographics"
      ],
      "series": "Lottery: Other / research",
-     "label": "unknown",
+     "label": "2018",
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 10,
@@ -38348,9 +46576,66 @@ window.CATALOG = {
        "n_rows": 4
       }
      ]
+    },
+    {
+     "name": "Year over Year Comparisons — 20260803 MySchoolDC Tableau Data",
+     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260803_MySchoolDC_Tableau_Data.xlsx",
+     "kind": "xlsx",
+     "year": "unknown",
+     "status": "ok",
+     "topics": [
+      "lottery"
+     ],
+     "page": "https://www.myschooldc.org/resources/data",
+     "series": "Lottery: Tableau underlying data",
+     "label": "unknown",
+     "tabs": [
+      {
+       "name": "Notes",
+       "n_rows": 26,
+       "columns": [
+        "My School DC Public Tableau Data",
+        "Release: 08/03/2026"
+       ]
+      },
+      {
+       "name": "Historic Lottery Results",
+       "n_rows": 20029,
+       "columns": [
+        "MSDC School Code",
+        "OSSE School Code",
+        "MSDC School Code and Grade",
+        "MSDC School Name",
+        "Grade Offered in Lottery",
+        "Lottery Year",
+        "Applications on Results Day",
+        "Lottery Seats Offered",
+        "Matches on Results Day",
+        "Waitlist Length on Results Day",
+        "Total Waitlist Offers made by June",
+        "Total Waitlist Offers made by August",
+        "Total Waitlist Offers made by October"
+       ]
+      },
+      {
+       "name": "Matches by Preference",
+       "n_rows": 60189,
+       "columns": [
+        "Lottery Year",
+        "MSDC School Code",
+        "MSDC School Name",
+        "Grade Offered in Lottery",
+        "Preference Order",
+        "Preference Name",
+        "Preference Order and Name",
+        "Matches on Results Day by Preference"
+       ]
+      }
+     ],
+     "syn": "lottery my school dc school choice waitlist"
     }
    ],
-   "search": "my school dc — lottery data ('by the numbers') my school dc the common lottery (one application for dcps + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. administered jointly by osse/dme. the citywide common-lottery demand/choice dataset. report pdfs + excel/csv + interactive tableau (waitlist movement) lottery enrollment year over year comparisons — 20260602 myschooldc tableau data notes my school dc public tableau data release: 06/02/2026 historic lottery results msdc school code osse school code msdc school code and grade msdc school name grade offered in lottery lottery year applications on results day lottery seats offered matches on results day waitlist length on results day total waitlist offers made by june total waitlist offers made by august total waitlist offers made by october matches by preference lottery year msdc school code msdc school name grade offered in lottery preference order preference name preference order and name matches on results day by preference total applications and results from 2018 to 2026 lotteries 20,987 5,366 15,621 8,905 8,907 8,289 6,496 6,067 5,953 5,615 lottery data — applicants by grade lottery data — applications by grade lottery data — applications by grade lottery data — applicants by grade lottery data — applicants grade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — lottery number of applications by grade lottery data — r1 applications bygrade lottery data — r1 applications bygrade lottery data — applications seats available lottery data — applications and seats by grade lottery data — applications and seats by grade lottery data — applicants and seats offered by grade lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered submitted applications seats offered in the lottery lottery data — applications seats offered submitted applications seats offered in the lottery lottery data — lottery applications and seats offered submitted applications seats offered in the lottery lottery data — r1 applications seats offered submitted applications seats offered in the lottery lottery data — r1 applications seats offered submitted applications seats offered in the lottery lottery data — unique applicants waitlists lottery data — unique applicants waitlisted lottery data — unique applicants waitlisted lottery data — unique applicants waitlisted lottery data — applicants waitlisted lottery data — unique applicants waitlist lottery data — unique applicants waitlist lottery data — unique applicants waitlist lottery data — applicants waitlist number of unique applicants on waitlists lottery data — applicants waitlist number of unique applicants on waitlists lottery data — lottery unique applicants on wls by grade number of unique applicants on waitlists lottery data — r1 applicants waitlist number of unique applicants on waitlists lottery data — r1 applicants waitlist number of unique applicants on waitlists lottery data — applications preferred language language count percent lottery data — applicants language percent language count percent lottery data — applicants language language count percent lottery data — applicants language language count percent lottery data — applicants language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — lottery applicants by preferred language language count percent lottery data — r1 applicants preferred language language count percent lottery data — r1 applicants preferred language language count percent lottery data — distribution applications ward ward distribution of lottery applications by ward (sy26-27) distribution of total public school enrollmentby ward of residence (sy24-25) lottery data — applicants ward ward distribution of lottery applications by ward (sy25-26) distribution of total public school enrollmentby ward of residence (sy23-24) lottery data — applicants ward ward distribution of lottery applications by ward (sy24-25) distribution of total public school enrollmentby ward of residence (sy22-23) lottery data — applicants ward ward distribution of total public schoolenrollment by ward of residence (sy21-22*) lottery data — applicants ward ward distribution of total public schoolenrollment by ward of residence (sy21-22) lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applications byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total 16-17 public school enrollment by ward of residence 8% lottery data — lottery distribution of applications by war ward 1 distribution of total public school enrollment by ward of residence 10% lottery data — r1 applicants byward ward distribution of total public school enrollment by ward of residence lottery data — r1 applicants byward ward distribution of total public school enrollment by ward of residence lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level total applicants in ward lottery data — applicants grade ward grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — lottery applications bywardandgrade grade level total applicants in ward lottery data — applications bywardandgrade grade level total applicants in ward lottery data — applications bywardandgrade grade level total applicants in ward lottery data — match rate ward residence lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — applicants match ward lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — 2017 lottery data slides match rate by ward of residence lottery data — lottery match rate by ward of residence lottery data — r1 match rate ward lottery data — r1 match rate ward lottery data — median school selection lottery data — median school choices by grade lottery data — median school choices by grade lottery data — median school choices by grade lottery data — applicant median school selection lottery data — median number selections lottery data — median number selections lottery data — median number selections lottery data — median number selections lottery data — 2017 lottery data slides median number of school selections lottery data — lottery median number of school selections lottery data — r1 median number selections lottery data — r1 median number selections lottery data — match rate grade school selections number of school selected on application overall match rate for grade lottery data — match grade school selections number of school selected on application overall match rate for grade lottery data — match grade school selection number of school selected on application overall match rate for grade lottery data — match grade school selections number of schools selected on application overall match rate for grade lottery data — match grade school selection number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — 2017 lottery data slides match rate by grade and number of school selections number of schools selected on application overall match rate for grade lottery data — lottery match rate by grade and number of s number of schools selected on application overall match rate for grade lottery data — r1 match rate grade selections number of schools selected on application overall match rate for grade lottery data — r1 match rate grade selections number of schools selected on application overall match rate for grade my school dc process and requirements to conduct research giving at-risk students preference in a unified lottery for public schools denver public schools gives a weighting light weighting student random lottery number is multiplied by .75, reducing it by priority to sibling preference is placed just ahead of sibling preference (different at light weighting at-risk 16 20 1 7395 heavy weighting at-risk 73 114 7 6 7232 priority to sibling at-risk 195 294 19 23 6901 twin offered applicant has a twin who was matched or received a dual language immersion demand total applicants 20,349 21,208 22,050 24,996 at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i lottery my school dc waitlist school choice"
+   "search": "my school dc — lottery data ('by the numbers') my school dc the common lottery (one application for dcps + charters): applications by grade, seats offered, waitlists, match rates by ward/grade. administered jointly by osse/dme. the citywide common-lottery demand/choice dataset. report pdfs + excel/csv + interactive tableau (waitlist movement) lottery enrollment year over year comparisons — 20260602 myschooldc tableau data notes my school dc public tableau data release: 06/02/2026 historic lottery results msdc school code osse school code msdc school code and grade msdc school name grade offered in lottery lottery year applications on results day lottery seats offered matches on results day waitlist length on results day total waitlist offers made by june total waitlist offers made by august total waitlist offers made by october matches by preference lottery year msdc school code msdc school name grade offered in lottery preference order preference name preference order and name matches on results day by preference total applications and results from 2018 to 2026 lotteries 20,987 5,366 15,621 8,905 8,907 8,289 6,496 6,067 5,953 5,615 lottery data — applicants by grade lottery data — applications by grade lottery data — applications by grade lottery data — applicants by grade lottery data — applicants grade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — applications bygrade lottery data — lottery number of applications by grade lottery data — r1 applications bygrade lottery data — r1 applications bygrade lottery data — applications seats available lottery data — applications and seats by grade lottery data — applications and seats by grade lottery data — applicants and seats offered by grade lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered lottery data — applications seats offered submitted applications seats offered in the lottery lottery data — applications seats offered submitted applications seats offered in the lottery lottery data — lottery applications and seats offered submitted applications seats offered in the lottery lottery data — r1 applications seats offered submitted applications seats offered in the lottery lottery data — r1 applications seats offered submitted applications seats offered in the lottery lottery data — unique applicants waitlists lottery data — unique applicants waitlisted lottery data — unique applicants waitlisted lottery data — unique applicants waitlisted lottery data — applicants waitlisted lottery data — unique applicants waitlist lottery data — unique applicants waitlist lottery data — unique applicants waitlist lottery data — applicants waitlist number of unique applicants on waitlists lottery data — applicants waitlist number of unique applicants on waitlists lottery data — lottery unique applicants on wls by grade number of unique applicants on waitlists lottery data — r1 applicants waitlist number of unique applicants on waitlists lottery data — r1 applicants waitlist number of unique applicants on waitlists lottery data — applications preferred language language count percent lottery data — applicants language percent language count percent lottery data — applicants language language count percent lottery data — applicants language language count percent lottery data — applicants language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — applicants preferred language language count percent lottery data — lottery applicants by preferred language language count percent lottery data — r1 applicants preferred language language count percent lottery data — r1 applicants preferred language language count percent lottery data — distribution applications ward ward distribution of lottery applications by ward (sy26-27) distribution of total public school enrollmentby ward of residence (sy24-25) lottery data — applicants ward ward distribution of lottery applications by ward (sy25-26) distribution of total public school enrollmentby ward of residence (sy23-24) lottery data — applicants ward ward distribution of lottery applications by ward (sy24-25) distribution of total public school enrollmentby ward of residence (sy22-23) lottery data — applicants ward ward distribution of total public schoolenrollment by ward of residence (sy21-22*) lottery data — applicants ward ward distribution of total public schoolenrollment by ward of residence (sy21-22) lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applications byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total public school enrollment by ward of residence 8% lottery data — applicants byward ward 1 distribution of total 16-17 public school enrollment by ward of residence 8% lottery data — lottery distribution of applications by war ward 1 distribution of total public school enrollment by ward of residence 10% lottery data — r1 applicants byward ward distribution of total public school enrollment by ward of residence lottery data — r1 applicants byward ward distribution of total public school enrollment by ward of residence lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level lottery data — applicants grade ward grade level total applicants in ward lottery data — applicants grade ward grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — applications byward grade grade level total applicants in ward lottery data — lottery applications bywardandgrade grade level total applicants in ward lottery data — applications bywardandgrade grade level total applicants in ward lottery data — applications bywardandgrade grade level total applicants in ward lottery data — match rate ward residence lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — applicants match ward lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — match rate ward lottery data — 2017 lottery data slides match rate by ward of residence lottery data — lottery match rate by ward of residence lottery data — r1 match rate ward lottery data — r1 match rate ward lottery data — median school selection lottery data — median school choices by grade lottery data — median school choices by grade lottery data — median school choices by grade lottery data — applicant median school selection lottery data — median number selections lottery data — median number selections lottery data — median number selections lottery data — median number selections lottery data — 2017 lottery data slides median number of school selections lottery data — lottery median number of school selections lottery data — r1 median number selections lottery data — r1 median number selections lottery data — match rate grade school selections number of school selected on application overall match rate for grade lottery data — match grade school selections number of school selected on application overall match rate for grade lottery data — match grade school selection number of school selected on application overall match rate for grade lottery data — match grade school selections number of schools selected on application overall match rate for grade lottery data — match grade school selection number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — match rate grade selections number of schools selected on application overall match rate for grade lottery data — 2017 lottery data slides match rate by grade and number of school selections number of schools selected on application overall match rate for grade lottery data — lottery match rate by grade and number of s number of schools selected on application overall match rate for grade lottery data — r1 match rate grade selections number of schools selected on application overall match rate for grade lottery data — r1 match rate grade selections number of schools selected on application overall match rate for grade my school dc process and requirements to conduct research giving at-risk students preference in a unified lottery for public schools denver public schools gives a weighting light weighting student random lottery number is multiplied by .75, reducing it by priority to sibling preference is placed just ahead of sibling preference (different at light weighting at-risk 16 20 1 7395 heavy weighting at-risk 73 114 7 6 7232 priority to sibling at-risk 195 294 19 23 6901 twin offered applicant has a twin who was matched or received a dual language immersion demand total applicants 20,349 21,208 22,050 24,996 year over year comparisons — 20260803 myschooldc tableau data notes my school dc public tableau data release: 08/03/2026 historic lottery results msdc school code osse school code msdc school code and grade msdc school name grade offered in lottery lottery year applications on results day lottery seats offered matches on results day waitlist length on results day total waitlist offers made by june total waitlist offers made by august total waitlist offers made by october matches by preference lottery year msdc school code msdc school name grade offered in lottery preference order preference name preference order and name matches on results day by preference at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i lottery my school dc waitlist school choice"
   },
   {
    "id": "opendata-dcps-locations",
@@ -38588,7 +46873,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     }
    ]
@@ -38599,7 +46884,7 @@ window.CATALOG = {
    "sources": [
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     },
     {
@@ -38645,7 +46930,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     },
     {
@@ -38676,7 +46961,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     }
    ]
@@ -38697,7 +46982,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     },
     {
@@ -38723,7 +47008,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     },
     {
@@ -38749,7 +47034,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     },
     {
@@ -38883,7 +47168,7 @@ window.CATALOG = {
     },
     {
      "name": "DC School Report Card (public interactive site)",
-     "url": "https://dcschoolreportcard.org/",
+     "url": "https://schoolreportcard.dc.gov/home",
      "owner": "OSSE"
     }
    ]

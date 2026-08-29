@@ -1741,7 +1741,7 @@ data_files:
     name: "Giving At-Risk Students Preference in a Unified Lottery for Public Schools"
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/MSDC%20At-Risk%20Preference%20in%20a%20Unified%20Lottery%204.26.2018_Final.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2018"
     topics: [lottery]
 
   - id: msdc-dual-language-immersion-demand-unknown
@@ -1986,7 +1986,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School Academy of Hope Adult PCS"
     url: "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-briya-pcs-unknown
@@ -1994,7 +1994,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School Briya PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-carlos-rosario-internation
@@ -2002,7 +2002,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School Carlos Rosario International PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-community-college-preparat
@@ -2010,7 +2010,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School Community College Preparatory Academy PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-layc-career-academy-pcs-un
@@ -2018,7 +2018,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School LAYC Career Academy PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-maya-angelou-pcs-young-adu
@@ -2026,7 +2026,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-the-next-step-el-proximo-p
@@ -2034,7 +2034,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School The Next Step El Proximo Paso PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-youthbuild-pcs-unknown
@@ -2042,7 +2042,7 @@ data_files:
     name: "School Equity Reports \u2014 Equity Report Public Charter School YouthBuild PCS"
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf"
     kind: pdf
-    year: "unknown"
+    year: "2017"
     topics: [other]
 
   # ---- Harvested from osse-assessment-archive (35 files) ----
@@ -3787,3 +3787,1032 @@ data_files:
     kind: xlsx
     year: "2020"
     topics: [graduation]
+
+  # ---- Harvested from osse-assessment-2026 (8 files) ----
+  - id: osse-cape-2026-2025-26-statewide-assessment-results-public-deck-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 Statewide Assessment Results (public deck)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20Statewide%20Assessment%20Results%208.20.26.pdf"
+    kind: pdf
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-statewide-assessment-results-appendix-detailed-breakdowns-2025
+    source_id: osse-assessment-2026
+    name: "2025-26 Statewide Assessment Results \u2014 Appendix (detailed breakdowns)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Statewide%20Assessment_Appendix.pdf"
+    kind: pdf
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-middle-advanced-math-state-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE Middle School Advanced Math \u2014 State Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20State%20Level%20DCCAPE%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-msaa-state-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE & MSAA \u2014 State Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20State%20Level%20DCCAPE%20and%20MSAA%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-middle-advanced-math-lea-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE Middle School Advanced Math \u2014 LEA Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20LEA%20Level%20DCCAPE%20Data_0.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-msaa-lea-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE & MSAA \u2014 LEA Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20LEA%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-middle-advanced-math-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE Middle School Advanced Math \u2014 School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20School%20Level%20DCCAPE%20Data.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-cape-2026-2025-26-cape-msaa-level-2025-26
+    source_id: osse-assessment-2026
+    name: "2025-26 DC CAPE & MSAA \u2014 School Level"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20School%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
+    topics: [assessment]
+
+  # ---- Harvested from edscape (34 files) ----
+  - id: edscape-adult-and-youth-population-trends-edscape-chapter-1-population-and-stu
+    source_id: edscape
+    name: "Adult and Youth Population Trends \u2014 EdScape Chapter 1 Population and Students Adult and Youth Population Trends 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Adult%20and%20Youth%20Population%20Trends_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/adult-and-youth-population-trends"
+    topics: [demographics]
+
+  - id: edscape-number-of-births-and-birth-rates-edscape-chapter-1-population-and-stud
+    source_id: edscape
+    name: "Number of Births and Birth Rates \u2014 EdScape Chapter 1 Population and Students Births 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Births_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-number-births-and-birth-rates"
+    topics: [demographics]
+
+  - id: edscape-forecasted-total-population-growth-edscape-chapter-1-population-and-st
+    source_id: edscape
+    name: "Forecasted Total Population Growth \u2014 EdScape Chapter 1 Population and Students Forecasted Population Growth 2024"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://edscape.dc.gov/page/pop-and-students-forecasted-total-population-growth"
+    topics: [demographics]
+
+  - id: edscape-forecasted-youth-population-growth-edscape-chapter-1-population-and-st
+    source_id: edscape
+    name: "Forecasted Youth Population Growth \u2014 EdScape Chapter 1 Population and Students Forecasted Population Growth 2024"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_0.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://edscape.dc.gov/page/pop-and-students-forecasted-youth-population-growth"
+    topics: [demographics]
+
+  - id: edscape-forecasted-youth-population-growth-by-neighborhood-cluster-edscape-cha
+    source_id: edscape
+    name: "Forecasted Youth Population Growth by Neighborhood Cluster \u2014 EdScape Chapter 1 Population and Students Forecasted Population Growth 2024"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_1.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://edscape.dc.gov/page/pop-and-students-youth-pop-forecasts-nhood"
+    topics: [demographics]
+
+  - id: edscape-private-enrollment-edscape-chapter-1-population-and-students-private-e
+    source_id: edscape
+    name: "Private School Enrollment \u2014 EdScape Chapter 1 Population and Students Private School Enrollment 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Private%20School%20Enrollment_2026_0.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-private-school-enrollment"
+    topics: [demographics]
+
+  - id: edscape-race-and-ethnicity-of-adults-and-children-edscape-chapter-1-population
+    source_id: edscape
+    name: "Race and Ethnicity of Adults and Children \u2014 EdScape Chapter 1 Population and Students Race and Ethnicity of Adults and Child"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Adults%20and%20Children_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children"
+    topics: [demographics]
+
+  - id: edscape-public-enrollment-by-race-and-ethnicity-edscape-chapter-1-population-a
+    source_id: edscape
+    name: "Public School Enrollment by Race and Ethnicity \u2014 EdScape Chapter 1 Population and Students Race and Ethnicity of Students 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Students_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-public-school-enrollment-by-race-and-ethnicity"
+    topics: [enrollment, demographics]
+
+  - id: edscape-public-students-by-special-need-categories-edscape-chapter-1-populatio
+    source_id: edscape
+    name: "Public School Students by Special Need Categories \u2014 EdScape Chapter 1 Population and Students Special Population Shares Over Time 20"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Special%20Population%20Shares%20Over%20Time_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-public-school-students-special-need-categories"
+    topics: [demographics]
+
+  - id: edscape-total-population-trends-edscape-chapter-1-population-and-students-tota
+    source_id: edscape
+    name: "Total Population Trends \u2014 EdScape Chapter 1 Population and Students Total Population Trends 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Total%20Population%20Trends_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-total-population-trends"
+    topics: [demographics]
+
+  - id: edscape-where-adults-and-children-live-edscape-chapter-1-population-and-studen
+    source_id: edscape
+    name: "Where Adults and Children Live \u2014 EdScape Chapter 1 Population and Students Where Adults and Children Live 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Adults%20and%20Children%20Live_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-where-adults-and-children-live"
+    topics: [demographics]
+
+  - id: edscape-where-public-students-live-edscape-chapter-1-population-and-students-w
+    source_id: edscape
+    name: "Where Public School Students Live \u2014 EdScape Chapter 1 Population and Students Where Public School Students Live 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Public%20School%20Students%20Live_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-where-public-school-students-live"
+    topics: [demographics]
+
+  - id: edscape-where-english-learner-public-students-live-edscape-chapter-1-populatio
+    source_id: edscape
+    name: "Where English Learner Public School Students Live \u2014 EdScape Chapter 1 Population and Students Where Special Pop Public School Studen"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Special%20Pop%20Public%20School%20Students%20Live_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live"
+    topics: [demographics]
+
+  - id: edscape-grade-configurations-of-public-schools-edscape-chapter-2-schools-grade
+    source_id: edscape
+    name: "Grade Configurations of Public Schools \u2014 EdScape Chapter 2 Schools Grade Configurations 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20Configurations_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-grade-configurations-of-public-schools"
+    topics: [other]
+
+  - id: edscape-grade-and-ward-enrollment-trends-edscape-chapter-2-schools-grade-and-w
+    source_id: edscape
+    name: "Grade and Ward Enrollment Trends \u2014 EdScape Chapter 2 Schools Grade and Ward Enrollment Trends 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20and%20Ward%20Enrollment%20Trends_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/grade-and-ward-enrollment-trends"
+    topics: [other]
+
+  - id: edscape-school-opening-and-closing-trends-edscape-chapter-2-schools-openings-a
+    source_id: edscape
+    name: "School Opening and Closing Trends \u2014 EdScape Chapter 2 Schools Openings and Closings 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Openings%20and%20Closings_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-opening-and-closing-trends"
+    topics: [other]
+
+  - id: edscape-public-enrollment-by-race-and-ethnicity-edscape-chapter-2-schools-race
+    source_id: edscape
+    name: "Public School Enrollment by Race and Ethnicity \u2014 EdScape Chapter 2 Schools Race Ethnicity Enrollment 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Race%20Ethnicity%20Enrollment_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-race-and-ethnicity"
+    topics: [enrollment, demographics]
+
+  - id: edscape-enrollment-trends-of-specific-public-schools-edscape-chapter-2-schools
+    source_id: edscape
+    name: "Enrollment Trends of Specific Public Schools \u2014 EdScape Chapter 2 Schools School Enrollment 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/enrollment-trends-specific-public-schools"
+    topics: [other]
+
+  - id: edscape-enrollment-of-public-schools-by-ward-edscape-chapter-2-schools-enrollm
+    source_id: edscape
+    name: "Enrollment of Public Schools by Ward \u2014 EdScape Chapter 2 Schools School Enrollment 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026_0.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-enrollment-public-schools-ward"
+    topics: [other]
+
+  - id: edscape-school-enrollment-by-special-populations-at-risk-edscape-chapter-2-sch
+    source_id: edscape
+    name: "School Enrollment by Special Populations - At Risk \u2014 EdScape Chapter 2 Schools Special Pop Students Public School Locations 2025"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students%20Public%20School%20Locations_2025.xlsx"
+    kind: xlsx
+    year: "2025"
+    page: "https://edscape.dc.gov/page/schools-special-populations-risk"
+    topics: [enrollment, demographics]
+
+  - id: edscape-special-education-enrollment-by-level-of-need-edscape-chapter-2-school
+    source_id: edscape
+    name: "Special Education Enrollment by Level of Need \u2014 EdScape Chapter 2 Schools Special Pop Students 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-special-education-enrollment-level-need"
+    topics: [enrollment]
+
+  - id: edscape-school-enrollment-by-special-populations-at-risk-edscape-chapter-2-sch-2
+    source_id: edscape
+    name: "School Enrollment by Special Populations - At Risk \u2014 EdScape Chapter 2 Schools Special Pop Students 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_0.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-special-populations-risk"
+    topics: [enrollment, demographics]
+
+  - id: edscape-school-enrollment-by-special-populations-special-education-edscape-cha
+    source_id: edscape
+    name: "School Enrollment by Special Populations - Special Education \u2014 EdScape Chapter 2 Schools Special Pop Students 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_1.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-special-populations-special-education"
+    topics: [enrollment, demographics]
+
+  - id: edscape-school-enrollment-by-special-populations-english-learners-edscape-chap
+    source_id: edscape
+    name: "School Enrollment by Special Populations - English Learners \u2014 EdScape Chapter 2 Schools Special Pop Students 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_2.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners"
+    topics: [enrollment, demographics]
+
+  - id: edscape-specialized-programs-offered-by-public-schools-edscape-chapter-2-schoo
+    source_id: edscape
+    name: "Specialized Programs Offered by Public Schools \u2014 EdScape Chapter 2 Schools Specialized Programs 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Specialized%20Programs_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/schools-specialized-programs-offered"
+    topics: [other]
+
+  - id: edscape-educational-attainment-for-adults-edscape-chapter-5-neighborhood-facto
+    source_id: edscape
+    name: "Educational Attainment for Adults \u2014 EdScape Chapter 5 Neighborhood Factors Educational Attainment for Adults 2025"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Educational%20Attainment%20for%20Adults_2025.xlsx"
+    kind: xlsx
+    year: "2025"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-educational-attainment"
+    topics: [demographics]
+
+  - id: edscape-vehicle-access-edscape-chapter-5-neighborhood-factors-vehicle-access-u
+    source_id: edscape
+    name: "Vehicle Access \u2014 EdScape Chapter 5 Neighborhood Factors Vehicle Access"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Vehicle%20Access.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-vehicle-access"
+    topics: [demographics]
+
+  - id: edscape-residential-development-pipeline-by-ward-edscape-chapter-5-neighborhoo
+    source_id: edscape
+    name: "Residential Development Pipeline by Ward \u2014 Edscape Chapter 5 Neighborhood Factors Residential Pipeline"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-residential-development-pipeline-ward"
+    topics: [demographics]
+
+  - id: edscape-residential-development-pipeline-projects-edscape-chapter-5-neighborho
+    source_id: edscape
+    name: "Residential Development Pipeline Projects \u2014 Edscape Chapter 5 Neighborhood Factors Residential Pipeline"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_0.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-residential-pipeline-projects-boundaries-map"
+    topics: [demographics]
+
+  - id: edscape-estimated-student-yield-from-residential-development-pipeline-edscape
+    source_id: edscape
+    name: "Estimated Student Yield from Residential Development Pipeline \u2014 Edscape Chapter 5 Neighborhood Factors Residential Pipeline"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_2.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline"
+    topics: [demographics]
+
+  - id: edscape-types-of-housing-edscape-chapter-5-neighborhood-factors-types-of-housi
+    source_id: edscape
+    name: "Types of Housing \u2014 Edscape Chapter 5 Neighborhood Factors Types of Housing"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-types-housing"
+    topics: [demographics]
+
+  - id: edscape-types-of-housing-by-ward-edscape-chapter-5-neighborhood-factors-types
+    source_id: edscape
+    name: "Types of Housing by Ward \u2014 Edscape Chapter 5 Neighborhood Factors Types of Housing"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_0.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-types-housing-ward"
+    topics: [demographics]
+
+  - id: edscape-estimated-student-yield-from-residential-development-pipeline-edscape-2
+    source_id: edscape
+    name: "Estimated Student Yield from Residential Development Pipeline \u2014 Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_0.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline"
+    topics: [demographics]
+
+  - id: edscape-public-students-by-housing-type-edscape-chapter-5-neighborhood-factors
+    source_id: edscape
+    name: "Public School Students by Housing Type \u2014 Edscape Chapter 5 Neighborhood Factors Types of Housing Student Yield"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_1.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://edscape.dc.gov/page/neighborhood-factors-public-school-students-housing-type"
+    topics: [demographics]
+
+  # ---- Harvested from edscape-enrollment-patterns (1 files) ----
+  - id: edscape-enrollment-patterns-trends-in-enrollment-by-sector-edscape-chapter-4-enrollment-patterns-s
+    source_id: edscape-enrollment-patterns
+    name: "Trends in Enrollment by Sector \u2014 EdScape Chapter 4 Enrollment Patterns Sector 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026_0.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/trends-enrollment-sector"
+    topics: [enrollment]
+
+  # ---- Harvested from edscape-facilities (2 files) ----
+  - id: edscape-facilities-public-facility-programmatic-capacity-edscape-chapter-3-facilities-fac
+    source_id: edscape-facilities
+    name: "Public School Facility Programmatic Capacity \u2014 EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2026"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2026_3.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://edscape.dc.gov/page/facilities-programmatic-capacity"
+    topics: [facilities]
+
+  - id: edscape-facilities-number-of-public-facilities-edscape-chapter-3-facilities-facility-enro
+    source_id: edscape-facilities
+    name: "Number of Public School Facilities \u2014 EdScape Chapter 3 Facilities Facility Enrollment and Utilization 2027"
+    url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2027_1.xlsx"
+    kind: xlsx
+    year: "2027"
+    page: "https://edscape.dc.gov/page/facilities-number"
+    topics: [facilities]
+
+  # ---- Harvested from osse-data-reports (25 files) ----
+  - id: osse-data-reports-2016-17-to-2018-19-lea-and-state-assessment-participation-2016
+    source_id: osse-data-reports
+    name: "2016-17 to 2018-19 School, LEA and State Assessment Participation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx"
+    kind: xlsx
+    year: "2016"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [assessment]
+
+  - id: osse-data-reports-2020-ap-ib-and-sat-scores-2020
+    source_id: osse-data-reports
+    name: "2020 AP/IB and SAT Metric Scores"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx"
+    kind: xlsx
+    year: "2020"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [advanced-coursework]
+
+  - id: osse-data-reports-2024-25-mobility-data-2024-25
+    source_id: osse-data-reports
+    name: "2024-25 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Mobility%20Brief%20Data.xlsx"
+    kind: xlsx
+    year: "2024-25"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2023-24-mobility-data-2023-24
+    source_id: osse-data-reports
+    name: "2023-24 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Mobility%20Brief%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2023-24"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2022-23-mobility-data-2022-23
+    source_id: osse-data-reports
+    name: "2022-23 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20Mobility%20Brief%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2022-23"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2021-22-mobility-data-2021-22
+    source_id: osse-data-reports
+    name: "2021-22 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Mobility%20Brief%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2020-21-mobility-data-2020-21
+    source_id: osse-data-reports
+    name: "2020-21 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Mobility%20Brief%20Data.xlsx"
+    kind: xlsx
+    year: "2020-21"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2019-20-mobility-data-2019-20
+    source_id: osse-data-reports
+    name: "2019-20 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20Mobility%20Brief%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2019-20"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2018-19-mobility-data-2018-19
+    source_id: osse-data-reports
+    name: "2018-19 Mobility Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Mobility%20Brief%20Data%20%281%29.xlsx"
+    kind: xlsx
+    year: "2018-19"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-2020-mobility-and-re-enrollment-report-2020
+    source_id: osse-data-reports
+    name: "2020 Mobility and Re-enrollment Data Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20Student%20Movement%20-%20Metric%20Scores.xlsx"
+    kind: xlsx
+    year: "2020"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [enrollment, student-movement]
+
+  - id: osse-data-reports-mid-year-student-mobility-2016-17-year-council-performance-oversight-a
+    source_id: osse-data-reports
+    name: "Mid-Year Student Mobility 2016-17 School Year (council performance-oversight attachment)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q8 Attachment - Mid-year Student Mobility SY16-17.xlsx"
+    kind: xlsx
+    year: "2016"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown
+    source_id: osse-data-reports
+    name: "Citywide Discipline Data \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [discipline]
+
+  - id: osse-data-reports-mid-year-student-mobility-2014-15-and-2015-16-years-council-performanc
+    source_id: osse-data-reports
+    name: "Mid-Year Student Mobility 2014-15 and 2015-16 School Years (council performance-oversight attachment)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q7%20Attachment%20-%20Mid-year%20Student%20Mobility%20SY14-15%20and%20SY15-16.xlsx"
+    kind: xlsx
+    year: "2014"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [student-movement]
+
+  - id: osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown-2
+    source_id: osse-data-reports
+    name: "Citywide Discipline Data \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [discipline]
+
+  - id: osse-data-reports-students-by-ward-in-2012-13-through-2017-18-year-council-performance-o
+    source_id: osse-data-reports
+    name: "Students by Ward in 2012-13 through 2017-18 School Year \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx"
+    kind: xlsx
+    year: "2012"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-private-enrollment-from-2014-15-through-2017-18-schoo-council-performa
+    source_id: osse-data-reports
+    name: "Private School Enrollment from 2014-15 through 2017-18 Schoo \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx"
+    kind: xlsx
+    year: "2014"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-2024-25-adjusted-cohort-graduation-rate-acgr-public-2024-25
+    source_id: osse-data-reports
+    name: "2024-25 Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx"
+    kind: xlsx
+    year: "2024-25"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [graduation]
+
+  - id: osse-data-reports-2023-24-adjusted-cohort-graduation-rate-acgr-public-2023-24
+    source_id: osse-data-reports
+    name: "2023-24 Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx"
+    kind: xlsx
+    year: "2023-24"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [graduation]
+
+  - id: osse-data-reports-2023-24-decp-file-2023
+    source_id: osse-data-reports
+    name: "2023-24 DECP Data File"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2023-24%20DECP%20Reporting.xlsx"
+    kind: xlsx
+    year: "2023"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-free-and-reduced-price-meals-status-council-performance-oversight-atta
+    source_id: osse-data-reports
+    name: "Free and Reduced-Price Meals Status \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-at-risk-students-council-performance-oversight-attachment-unknown
+    source_id: osse-data-reports
+    name: "At-Risk Students \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-foster-children-council-performance-oversight-attachment-unknown
+    source_id: osse-data-reports
+    name: "Foster Children \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-individual-education-programs-ieps-council-performance-oversight-attac
+    source_id: osse-data-reports
+    name: "Individual Education Programs (IEPs) \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-special-education-exit-council-performance-oversight-attachment-unknow
+    source_id: osse-data-reports
+    name: "Special Education Exit \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  - id: osse-data-reports-secondary-transitions-for-students-with-disabilities-council-performan
+    source_id: osse-data-reports
+    name: "Secondary Transitions for Students with Disabilities \u2014 council performance-oversight attachment"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://osse.dc.gov/page/data-and-reports-0"
+    topics: [other]
+
+  # ---- Harvested from osse-report-card-resource-library (6 files) ----
+  - id: osse-report-card-resource-library-2026-calculation-confirmation-mcc-policy-2026
+    source_id: osse-report-card-resource-library
+    name: "2026 Metric Calculation Confirmation (MCC) Policy"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Policy.pdf"
+    kind: pdf
+    year: "2026"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [methodology]
+
+  - id: osse-report-card-resource-library-2026-calculation-confirmation-mcc-dictionary-2026
+    source_id: osse-report-card-resource-library
+    name: "2026 Metric Calculation Confirmation (MCC) Data Dictionary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website%20%28Aug%202026%29.xlsx"
+    kind: xlsx
+    year: "2026"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [methodology]
+
+  - id: osse-report-card-resource-library-2026-school-card-technical-guide-2026
+    source_id: osse-report-card-resource-library
+    name: "2026 DC School Report Card Technical Guide"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20School%20Report%20Card%20Technical%20Guide.pdf"
+    kind: pdf
+    year: "2026"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [other]
+
+  - id: osse-report-card-resource-library-dc-report-and-myschooldc-elements-busines-unknown
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card and MySchoolDC Data Elements - Busines"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf"
+    kind: pdf
+    year: "unknown"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [other]
+
+  - id: osse-report-card-resource-library-alternative-accountability-framework-at-a-glance-2026
+    source_id: osse-report-card-resource-library
+    name: "Alternative Accountability Framework \u2013 At a Glance"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20%20-%20At%20a%20Glance%20%282026%29.pdf"
+    kind: pdf
+    year: "2026"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [accountability]
+
+  - id: osse-report-card-resource-library-alternative-accountability-framework-faq-2026
+    source_id: osse-report-card-resource-library
+    name: "Alternative Accountability Framework - FAQ"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20-%20FAQ%20%282026%29.pdf"
+    kind: pdf
+    year: "2026"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [accountability]
+
+  # ---- Harvested from osse-attendance (1 files) ----
+  - id: osse-attendance-2024-25-attendance-public-reporting-march-2025-2024
+    source_id: osse-attendance
+    name: "2024-25 Attendance Data Public Reporting (March 2025)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20March%202025.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting"
+    topics: [attendance]
+
+  # ---- Harvested from osse-sled (2 files) ----
+  - id: osse-sled-public-charter-historic-enrollment-audit-information-2001
+    source_id: osse-sled
+    name: "Public Charter School Historic Enrollment Audit Information "
+    url: "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls"
+    kind: xls
+    year: "2001"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [other]
+
+  - id: osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001
+    source_id: osse-sled
+    name: "DC Public Schools Historic Enrollment Audit Information 2001"
+    url: "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls"
+    kind: xls
+    year: "2001"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [other]
+
+  # ---- Harvested from dcps-glance-attendance (15 files) ----
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2024-2025-2024
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2024-2025"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY%202024-2025%20Annual%20Attendance%20Report.pdf"
+    kind: pdf
+    year: "2024"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2023-2024-2023
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2023-2024"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202023-2024.pdf"
+    kind: pdf
+    year: "2023"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2022-2023-2022
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2022-2023"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202022-2023.pdf"
+    kind: pdf
+    year: "2022"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2021-2022-2021
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2021-2022"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Annual%20Attendance%20Report%20final_1.pdf"
+    kind: pdf
+    year: "2021"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2020-2021-2020
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2020-2021"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-Annual-Attendance-Report-SY-2020-2021.pdf"
+    kind: pdf
+    year: "2020"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2019-2020-2019
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2019-2020"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202019-2020.pdf"
+    kind: pdf
+    year: "2019"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2018-2019-2018
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2018-2019"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Final-Attendance-Report-SY18-19.pdf"
+    kind: pdf
+    year: "2018"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2017-2018-2017
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2017-2018"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202017-2018.pdf"
+    kind: pdf
+    year: "2017"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2016-2017-2016
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2016-2017"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY1617_FINAL.pdf"
+    kind: pdf
+    year: "2016"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2015-2016-supplement-2015
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2015-2016 Supplement"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Supplement%20to%20DCPS%202015%20Annual%20Attendance%20Report_FINAL.pdf"
+    kind: pdf
+    year: "2015"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2015-2016-2015
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2015-2016"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report_SY1516_FINAL.pdf"
+    kind: pdf
+    year: "2015"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2014-2015-2014
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2014-2015"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY1415_FINAL.pdf"
+    kind: pdf
+    year: "2014"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2013-2014-2013
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2013-2014"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance%20Report_SY1314_FINAL.pdf"
+    kind: pdf
+    year: "2013"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2012-2013-2012
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2012-2013"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY12-13_FINAL.PDF"
+    kind: pdf
+    year: "2012"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2011-2012-2011
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2011-2012"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY11-12%20FINAL.pdf"
+    kind: pdf
+    year: "2011"
+    page: "https://dcps.dc.gov/node/1185940"
+    topics: [attendance]
+
+  # ---- Harvested from dcps-surveys (14 files) ----
+  - id: dcps-surveys-spring-2022-panorama-survey-report-2022
+    source_id: dcps-surveys
+    name: "Spring 2022 Panorama Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf"
+    kind: pdf
+    year: "2022"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2021-panorama-survey-report-2021
+    source_id: dcps-surveys
+    name: "2021 Panorama Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Spring-2021-Panorama-Report.pdf"
+    kind: pdf
+    year: "2021"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2019-panorama-survey-report-2019
+    source_id: dcps-surveys
+    name: "2019 Panorama Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2019-Panorama-Survey-Report-FINAL.pdf"
+    kind: pdf
+    year: "2019"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2018-panorama-survey-report-2018
+    source_id: dcps-surveys
+    name: "2018 Panorama Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018PanoramaSurveyReport_0.pdf"
+    kind: pdf
+    year: "2018"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2017-stakeholder-survey-report-2017
+    source_id: dcps-surveys
+    name: "2017 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017StakeholderSurveyReportFinal.pdf"
+    kind: pdf
+    year: "2017"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2016-stakeholder-survey-report-2016
+    source_id: dcps-surveys
+    name: "2016 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016StakeholderSurveyReport.pdf"
+    kind: pdf
+    year: "2016"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2015-stakeholder-survey-report-2015
+    source_id: dcps-surveys
+    name: "2015 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2015StakeholderSurveyReportFINAL.pdf"
+    kind: pdf
+    year: "2015"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2014-stakeholder-survey-report-2014
+    source_id: dcps-surveys
+    name: "2014 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2014StakeholderSurveyReportFINAL.pdf"
+    kind: pdf
+    year: "2014"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2013-stakeholder-survey-report-2013
+    source_id: dcps-surveys
+    name: "2013 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2013StudentSurveyReportFINAL.pdf"
+    kind: pdf
+    year: "2013"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2011-stakeholder-survey-report-2011
+    source_id: dcps-surveys
+    name: "2011 Stakeholder Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/DCPS%20District%20Level%20Report%20FINAL%20102011.pdf"
+    kind: pdf
+    year: "2011"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2019-panorama-survey-aggregate-data-2019
+    source_id: dcps-surveys
+    name: "2019 Panorama Survey Aggregate Data"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Website-Data-for-Panorama-SY18-19.xlsx"
+    kind: xlsx
+    year: "2019"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2018-panorama-survey-aggregate-data-2018
+    source_id: dcps-surveys
+    name: "2018 Panorama Survey Aggregate Data"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018%20Aggregate%20Data.xlsx"
+    kind: xlsx
+    year: "2018"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2017-stakeholder-survey-aggregate-data-2017
+    source_id: dcps-surveys
+    name: "2017 Stakeholder Survey Aggregate Data"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017%20Aggregate%20Survey%20Results.xlsx"
+    kind: xlsx
+    year: "2017"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  - id: dcps-surveys-2016-stakeholder-survey-aggregate-data-2016
+    source_id: dcps-surveys
+    name: "2016 Stakeholder Survey Aggregate Data"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016%20Aggregate%20Survey%20Results.xlsx"
+    kind: xlsx
+    year: "2016"
+    page: "https://dcps.dc.gov/surveys"
+    topics: [school-climate]
+
+  # ---- Harvested from mfp-2024-supplement (4 files) ----
+  - id: mfp-2024-supplement-2024-mfp-annual-supplement-report-2024
+    source_id: mfp-2024-supplement
+    name: "2024 MFP Annual Supplement report"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20FINAL.pdf"
+    kind: pdf
+    year: "2024"
+    page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
+    topics: [other]
+
+  - id: mfp-2024-supplement-2024-mfp-annual-supplement-appendix-1-2024
+    source_id: mfp-2024-supplement
+    name: "2024 MFP Annual Supplement Appendix 1"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%201.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
+    topics: [other]
+
+  - id: mfp-2024-supplement-2024-mfp-annual-supplement-appendix-2-2024
+    source_id: mfp-2024-supplement
+    name: "2024 MFP Annual Supplement Appendix 2"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%202.xlsx"
+    kind: xlsx
+    year: "2024"
+    page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
+    topics: [other]
+
+  - id: mfp-2024-supplement-2024-mfp-annual-supplement-appendix-3-2024
+    source_id: mfp-2024-supplement
+    name: "2024 MFP Annual Supplement Appendix 3"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%203.pdf"
+    kind: pdf
+    year: "2024"
+    page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
+    topics: [other]
+
+  # ---- Harvested from myschooldc-lottery (1 files) ----
+  - id: myschooldc-lottery-year-over-year-comparisons-20260803-myschooldc-tableau-data-unknown
+    source_id: myschooldc-lottery
+    name: "Year over Year Comparisons \u2014 20260803 MySchoolDC Tableau Data"
+    url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260803_MySchoolDC_Tableau_Data.xlsx"
+    kind: xlsx
+    year: "unknown"
+    page: "https://www.myschooldc.org/resources/data"
+    topics: [other]

@@ -130,6 +130,29 @@ def profile_xlsx(path: Path) -> dict:
     wb.close()
     return {"kind": "xlsx", "n_sheets": len(sheets), "sheets": sheets}
 
+def profile_xls(path: Path) -> dict:
+    """Legacy binary .xls (e.g. SLED's 2001-09 enrollment audits): openpyxl refuses
+    these, so go through xlrd. Same output shape as profile_xlsx."""
+    import xlrd
+    wb = xlrd.open_workbook(path, on_demand=True)
+    sheets = []
+    for ws in wb.sheets():
+        header = []
+        for r in range(ws.nrows):               # first non-empty row = header
+            cells = _clean(ws.row_values(r))
+            if cells:
+                header = cells
+                break
+        sheets.append({
+            "name": ws.name,
+            "n_rows": ws.nrows,
+            "n_columns": len(header),
+            "columns": header[:MAX_COLS],
+            "columns_truncated": len(header) > MAX_COLS,
+        })
+    # report as "xlsx": downstream summaries/renderers key on that shape
+    return {"kind": "xlsx", "n_sheets": len(sheets), "sheets": sheets}
+
 def profile_csv(path: Path) -> dict:
     import pandas as pd
     # nrows=0 reads just the header cheaply; then count rows separately.
@@ -194,7 +217,7 @@ def profile_pdf(path: Path) -> dict:
 
 PROFILERS = {
     "xlsx": profile_xlsx,
-    "xls": profile_xlsx,
+    "xls": profile_xls,
     "csv": profile_csv,
     "pdf": profile_pdf,
 }

@@ -187,7 +187,7 @@ def derive_series(source_id: str, name: str, year):
 # broad — the Resource Library is tagged with everything). One place to improve.
 FILE_TOPIC_RULES = [
     (r"applicant|application|lottery|waitlist|match rate|seats|school selection|my ?school ?dc", "lottery"),
-    (r"\bela\b|\bmath|parcc|dc cape|\bcape\b|dc cas|\bcas\b|msaa|proficien|assessment|science|growth|participation|advanced coursework|\bsat\b|ap,? ib", "assessment"),
+    (r"\bela\b|\bmath|parcc|dc cape|\bcape\b|dc cas|\bcas\b|msaa|proficien|assessment|science|(?<!population )growth|participation|advanced coursework|\bsat\b|ap,? ib", "assessment"),
     (r"ap,? ib|advanced coursework|\bsat\b|\bib\b", "advanced-coursework"),
     (r"attendance|truancy|absentee|miss school", "attendance"),
     (r"discipline|suspension|expulsion", "discipline"),

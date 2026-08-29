@@ -31,7 +31,8 @@ TOPIC_RULES = [
     (r"lottery|applicant|application|waitlist|match rate|seats|school selection|seats offered", "lottery"),
     (r"aggregate enrollment|enrollment data|enrollment metric|enrollment by|by grade", "enrollment"),
     (r"demographic|preferred language|\blanguage\b|race|ethnicity", "demographics"),
-    (r"assessment|dc cape|msaa|\bela\b|\bmath\b|science|growth|proficien", "assessment"),
+    (r"assessment|dc cape|msaa|\bela\b|\bmath\b|science|(?<!population )growth|proficien", "assessment"),
+    (r"population|births|birth rate|adults and children|housing|residential|vehicle access|educational attainment", "demographics"),
     (r"ap ib|advanced coursework|\bsat\b", "advanced-coursework"),
     (r"attendance|truancy|absentee", "attendance"),
     (r"discipline|suspension|expulsion", "discipline"),
@@ -63,6 +64,7 @@ def pretty_from_filename(href: str) -> str:
     stem = re.sub(r"^SY\d{2}[_-]?\d{2}[_-]?", "", stem, flags=re.I)   # SY23_24_ prefix
     stem = re.sub(r"^\d{4}[_-]", "", stem)                            # 2016- / 2014_ prefix
     stem = re.sub(r"^(L|R\d)[_-]", "", stem)                          # round markers
+    stem = re.sub(r"_\d$", "", stem)                                   # Drupal dup-upload suffix (_0, _1)
     stem = stem.replace("_", " ").replace("-", " ")
     stem = re.sub(r"\s+", " ", stem).strip()
     return stem[:80] or "file"
@@ -93,7 +95,9 @@ def infer_year(section: str, text: str, href: str) -> str:
     m = re.search(r"SY(\d{2})[_-]?(\d{2})", href, re.I)   # SY23_24 -> 2023-24
     if m:
         return f"20{m.group(1)}-{m.group(2)}"
-    m = re.search(r"\b(20\d{2})\b", href)
+    # No \b here: EdScape names files ..._2026.xlsx / ..._2026_0.xlsx and "_" is a
+    # word character, so \b never fires and every such file came out "unknown".
+    m = re.search(r"(?<!\d)(20\d{2})(?!\d)", href)
     return m.group(1) if m else "unknown"
 
 
