@@ -138,7 +138,7 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **Within DC Public Sector SY1516** (20 rows × 2 cols) — cols: `Grade`, `OSSE FY 17 POH Q8 D Response- Within DC Public Sector, SY 15-16`
     - tab **Within DC Public Sector SY16-17** (20 rows × 2 cols) — cols: `Grade`, `Moved within a DC public sector: SY2016-17`
     - tab **Continuous Enrollment** (13 rows × 1 cols) — cols: `OSSE FY 17 POH Q8 E Response- Continuous Enrollment Demographics`
-  - [`Citywide Discipline Data — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx) — **xlsx** — 9 tab(s)
+  - [`Citywide Discipline Data (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx) — **xlsx** — 9 tab(s)
     - tab **Data_Notes** (14 rows × 2 cols) — cols: `Title`, `Oversight 2017 Q10 Attachment - Discipline`
     - tab **school_counts** (235 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School`
     - tab **school_rates** (234 rows × 1 cols) — cols: `OSSE FY17 POH Q10 Response -- Number of Students Disciplined by School`
@@ -161,7 +161,7 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **Within DC Public Sect SY1415** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2014-15`
     - tab **Within DC Public Sect SY1516** (20 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Moved within a DC public sector: SY2015-16`
     - tab **Continuously Enrolled** (12 rows × 1 cols) — cols: `OSSE FY16 POH Q7 Response - Demographics of Continuously Enrolled Students`
-  - [`Citywide Discipline Data — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx) — **xlsx** — 9 tab(s)
+  - [`Citywide Discipline Data (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx) — **xlsx** — 9 tab(s)
     - tab **Data_Notes** (15 rows × 2 cols) — cols: `Title`, `Q9 Attachment- Discipline Data.xlsx`
     - tab **school_counts** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School`
     - tab **school_rates** (225 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by School`
@@ -171,7 +171,7 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **lea_rates** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Number of Students Disciplined by LEA`
     - tab **lea_durations** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Duration of Discipline by LEA`
     - tab **lea_removals** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q9 Response -- Removals by LEA`
-  - [`Students by Ward in 2012-13 through 2017-18 School Year — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx) — **xlsx** — 8 tab(s)
+  - [`Students by Ward, 2012-13 through 2017-18 (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx) — **xlsx** — 8 tab(s)
     - tab **Data_Notes** (11 rows × 2 cols) — cols: `Title`, `Oversight 2017 Q2 Attachment - Student Enrollment by Ward`
     - tab **SY12-13** (1,828 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY12-13`
     - tab **SY13-14** (1,664 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY13-14`
@@ -180,7 +180,7 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **SY16_17** (236 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY16-17`
     - tab **SY17_18** (238 rows × 1 cols) — cols: `OSSE FY17 POH Q2 Response -- Students by Ward of Residence for Each Public School SY17-18`
     - tab **Totals** (12 rows × 7 cols) — cols: `Ward`, `SY2012-13`, `SY2013-14`, `SY2014-15`, `SY2015-16`, `SY2016-17`, `SY2017-18`
-  - [`Private School Enrollment from 2014-15 through 2017-18 Schoo — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx) — **xlsx** — 5 tab(s)
+  - [`Private School Enrollment, 2014-15 through 2017-18 (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx) — **xlsx** — 5 tab(s)
     - tab **Data Notes** (8 rows × 2 cols) — cols: `Title`, `Q4 Attachment- Private School Enrollment SY14-15, SY15-16, SY16-17, SY17-18 to date.xlsx`
     - tab ** SY 14-15** (62 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY14-15`
     - tab **SY 15-16** (62 rows × 1 cols) — cols: `OSSE FY17 POH Q4 Response -- Enrollment in Private and Parochial Schools in SY15-16`
@@ -201,22 +201,22 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **State Data** (22 rows × 5 cols) — cols: `Student Group`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
     - tab **LEA Data** (25 rows × 6 cols) — cols: `LEA Code`, `LEA Name`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
     - tab **IHE Funding** (16 rows × 5 cols) — cols: `Institute of Higher Education (IHE) Partner`, `Fall 2023`, `Spring 2024`, `Summer 2024`, `All Terms (Fall 2023 - Summer 2024)`
-  - [`Free and Reduced-Price Meals Status — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx) — **xlsx** — 5 tab(s)
+  - [`Free and Reduced-Price Meals Status (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx) — **xlsx** — 5 tab(s)
     - tab **Data Notes** (7 rows × 2 cols) — cols: `Title`, `Q77 Attachment - FARM Status`
     - tab **Public Charter & Private School** (2,073 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - PUBLIC CHARTER AND PRIVATE SCHOOL STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
     - tab **DCPS - CEP & P2** (100 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - DCPS (CEP AND P2) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
     - tab **DCPS - Traditional** (462 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - DCPS (TRADITIONAL) STUDENTS ELIGIBLE FOR FREE AND REDUCED MEALS BY SCHOOL AND GRADE - AS OF SEPT 1, 2016`
     - tab **CEP Schools** (161 rows × 1 cols) — cols: `OSSE FY16 POH Q77 RESPONSE - Schools Participating in the Community Eligibility Provision Program`
-  - [`At-Risk Students — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx) — **xlsx** — 2 tab(s)
+  - [`At-Risk Students (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx) — **xlsx** — 2 tab(s)
     - tab **Data_Notes** (9 rows × 2 cols) — cols: `Title`, `Q5 Attachment- At-Risk.xlsx`
     - tab **Q5_PriorYears** (59 rows × 1 cols) — cols: `OSSE FY16 POH Q5 Response -- Number of Homeless, Foster Care, TANF eligible, SNAP eligible, and Overage Youth by LEA for SY13-14, SY14-15, and SY15-16`
-  - [`Foster Children — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx) — **xlsx** — 5 tab(s)
+  - [`Foster Children (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx) — **xlsx** — 5 tab(s)
     - tab **Data_Notes** (10 rows × 2 cols) — cols: `Title`, `Q6 Attachment- Foster Care.xlsx`
     - tab **Q6_A** (9 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive General Education Services Only`
     - tab **Q6_B** (8 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Number of Foster Children Enrolled in Out-of-District Public Schools and Receive Special Education Services`
     - tab **Q6_C** (53 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Amount that OSSE pays to enroll an individual student in an out-of-District public school`
     - tab **Q6_D** (7 rows × 1 cols) — cols: `OSSE FY16 POH Q6 Response -- Amount that OSSE Spent on SPED Transportation for Children in Foster Care - FY16 and FY17 to date`
-  - [`Individual Education Programs (IEPs) — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx) — **xlsx** — 23 tab(s)
+  - [`Individual Education Programs (IEPs) (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx) — **xlsx** — 23 tab(s)
     - tab **Data_Notes** (31 rows × 2 cols) — cols: `Title`, `Q49 Attachment- IEPs.xlsx`
     - tab **2016_Q49A** (22 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY AGE`
     - tab **2016_Q49B** (66 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - STUDENTS WITH IEPs BY LEA`
@@ -240,10 +240,10 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **2016_Q49I_by_age** (21 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY AGE`
     - tab **2016_Q49I_by_LEA** (65 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY LEA`
     - tab **2016_Q49I_by_disability** (15 rows × 1 cols) — cols: `OSSE FY16 POH Q49 RESPONSE - NUMBER OF STUDENTS RECEIVING RELATED SERVICES BY DISABILITY CLASSIFICATION`
-  - [`Special Education Exit — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx) — **xlsx** — 2 tab(s)
+  - [`Special Education Exit (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx) — **xlsx** — 2 tab(s)
     - tab **Data_Notes** (7 rows × 2 cols) — cols: `Title`, `Q50 and Q51 Attachment- SPED Exit.xlsx`
     - tab **2016_Q50** (44 rows × 1 cols) — cols: `OSSE FY16 POH Q50 AND 51 RESPONSE - SPED EXITS`
-  - [`Secondary Transitions for Students with Disabilities — council performance-oversight attachment`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx) — **xlsx** — 2 tab(s)
+  - [`Secondary Transitions for Students with Disabilities (council performance-oversight attachment)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx) — **xlsx** — 2 tab(s)
     - tab **Data_Notes** (7 rows × 2 cols) — cols: `Title`, `Q52 Attachment- Transitions`
     - tab **2016_Q52** (77 rows × 1 cols) — cols: `OSSE FY16 POH Q52 RESPONSE - STUDENTS WITH DISABILITIES TRANSITIONING OUT OF SCHOOL`
 
@@ -938,7 +938,7 @@ _topics: assessment, attendance, graduation, discipline, enrollment, demographic
     - p6 table (7 rows): `Current Grade Level`, `Prior Year’s Proficiency Level`
     - p15 table (4 rows): `Test Subject Area`, `Corresponding College Courses`, `Benchmark`
     - p16 table (11 rows): `Test Subject Area`, `SAT Score 1`, `SAT Score 2`, `Highest`, `Meet /`, `College`
-  - [`DC School Report Card and MySchoolDC Data Elements - Busines`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+  - [`DC School Report Card and MySchoolDC Data Elements — Business Rules and Definitions`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
     - p1 table (6 rows): `Data Source`, `Data Element`, `Definition`, `Business Rules`
     - p2 table (8 rows): `course on the OSSE State C ourse Catalog.`
     - p3 table (5 rows): `eSchoolPLUS`, `Single-Gender Campus`, `The school’s enrollment targets a single gender.`, `On eSchoolPLUS, the LEA/school selected "Single-Gender Campus" as one of the School Characteristics for this school.`
@@ -2191,9 +2191,9 @@ _topics: accountability, methodology_
 - **Years on page:** Includes historical enrollment-audit Excel SY2001–2009
 - **Notes:** Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.
 - **Data files (profiled):**
-  - [`Public Charter School Historic Enrollment Audit Information `](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`Public Charter Schools Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009`](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **pcsb School-by-Grade Enrollment** (1,679 rows × 1 cols) — cols: `PCS Enrollment, by School and Grade, 2001-2009`
-  - [`DC Public Schools Historic Enrollment Audit Information 2001`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`DCPS Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **DCPS School-by-Grade Enrollment** (2,641 rows × 1 cols) — cols: `DCPS Enrollment, by School and Grade, 2001-2009`
 
 ## DCPS — DC Public Schools

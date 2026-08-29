@@ -10169,7 +10169,7 @@
     "name": "Year over Year Comparisons — 20260602 MySchoolDC Tableau Data",
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260602_MySchoolDC_Tableau_Data.xlsx",
     "kind": "xlsx",
-    "year": "unknown",
+    "year": "2026-06",
     "topics": [
       "other"
     ],
@@ -56195,7 +56195,7 @@
   "osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown": {
     "id": "osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown",
     "source_id": "osse-data-reports",
-    "name": "Citywide Discipline Data — council performance-oversight attachment",
+    "name": "Citywide Discipline Data (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -56424,7 +56424,7 @@
   "osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown-2": {
     "id": "osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown-2",
     "source_id": "osse-data-reports",
-    "name": "Citywide Discipline Data — council performance-oversight attachment",
+    "name": "Citywide Discipline Data (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -56525,7 +56525,7 @@
   "osse-data-reports-students-by-ward-in-2012-13-through-2017-18-year-council-performance-o": {
     "id": "osse-data-reports-students-by-ward-in-2012-13-through-2017-18-year-council-performance-o",
     "source_id": "osse-data-reports",
-    "name": "Students by Ward in 2012-13 through 2017-18 School Year — council performance-oversight attachment",
+    "name": "Students by Ward, 2012-13 through 2017-18 (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx",
     "kind": "xlsx",
     "year": "2012",
@@ -56623,7 +56623,7 @@
   "osse-data-reports-private-enrollment-from-2014-15-through-2017-18-schoo-council-performa": {
     "id": "osse-data-reports-private-enrollment-from-2014-15-through-2017-18-schoo-council-performa",
     "source_id": "osse-data-reports",
-    "name": "Private School Enrollment from 2014-15 through 2017-18 Schoo — council performance-oversight attachment",
+    "name": "Private School Enrollment, 2014-15 through 2017-18 (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx",
     "kind": "xlsx",
     "year": "2014",
@@ -56896,7 +56896,7 @@
   "osse-data-reports-free-and-reduced-price-meals-status-council-performance-oversight-atta": {
     "id": "osse-data-reports-free-and-reduced-price-meals-status-council-performance-oversight-atta",
     "source_id": "osse-data-reports",
-    "name": "Free and Reduced-Price Meals Status — council performance-oversight attachment",
+    "name": "Free and Reduced-Price Meals Status (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -56961,7 +56961,7 @@
   "osse-data-reports-at-risk-students-council-performance-oversight-attachment-unknown": {
     "id": "osse-data-reports-at-risk-students-council-performance-oversight-attachment-unknown",
     "source_id": "osse-data-reports",
-    "name": "At-Risk Students — council performance-oversight attachment",
+    "name": "At-Risk Students (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -56999,7 +56999,7 @@
   "osse-data-reports-foster-children-council-performance-oversight-attachment-unknown": {
     "id": "osse-data-reports-foster-children-council-performance-oversight-attachment-unknown",
     "source_id": "osse-data-reports",
-    "name": "Foster Children — council performance-oversight attachment",
+    "name": "Foster Children (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -57064,7 +57064,7 @@
   "osse-data-reports-individual-education-programs-ieps-council-performance-oversight-attac": {
     "id": "osse-data-reports-individual-education-programs-ieps-council-performance-oversight-attac",
     "source_id": "osse-data-reports",
-    "name": "Individual Education Programs (IEPs) — council performance-oversight attachment",
+    "name": "Individual Education Programs (IEPs) (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -57291,7 +57291,7 @@
   "osse-data-reports-special-education-exit-council-performance-oversight-attachment-unknow": {
     "id": "osse-data-reports-special-education-exit-council-performance-oversight-attachment-unknow",
     "source_id": "osse-data-reports",
-    "name": "Special Education Exit — council performance-oversight attachment",
+    "name": "Special Education Exit (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -57329,7 +57329,7 @@
   "osse-data-reports-secondary-transitions-for-students-with-disabilities-council-performan": {
     "id": "osse-data-reports-secondary-transitions-for-students-with-disabilities-council-performan",
     "source_id": "osse-data-reports",
-    "name": "Secondary Transitions for Students with Disabilities — council performance-oversight attachment",
+    "name": "Secondary Transitions for Students with Disabilities (council performance-oversight attachment)",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx",
     "kind": "xlsx",
     "year": "unknown",
@@ -57960,7 +57960,7 @@
   "osse-report-card-resource-library-dc-report-and-myschooldc-elements-busines-unknown": {
     "id": "osse-report-card-resource-library-dc-report-and-myschooldc-elements-busines-unknown",
     "source_id": "osse-report-card-resource-library",
-    "name": "DC School Report Card and MySchoolDC Data Elements - Busines",
+    "name": "DC School Report Card and MySchoolDC Data Elements — Business Rules and Definitions",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf",
     "kind": "pdf",
     "year": "unknown",
@@ -58206,7 +58206,7 @@
   "osse-sled-public-charter-historic-enrollment-audit-information-2001": {
     "id": "osse-sled-public-charter-historic-enrollment-audit-information-2001",
     "source_id": "osse-sled",
-    "name": "Public Charter School Historic Enrollment Audit Information ",
+    "name": "Public Charter Schools Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009",
     "url": "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
     "year": "2001",
@@ -58234,7 +58234,7 @@
   "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001": {
     "id": "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001",
     "source_id": "osse-sled",
-    "name": "DC Public Schools Historic Enrollment Audit Information 2001",
+    "name": "DCPS Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009",
     "url": "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
     "year": "2001",
@@ -62854,7 +62854,7 @@
     "name": "Year over Year Comparisons — 20260803 MySchoolDC Tableau Data",
     "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260803_MySchoolDC_Tableau_Data.xlsx",
     "kind": "xlsx",
-    "year": "unknown",
+    "year": "2026-08",
     "page": "https://www.myschooldc.org/resources/data",
     "topics": [
       "other"

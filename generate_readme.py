@@ -140,6 +140,36 @@ def derive_series(source_id: str, name: str, year):
         school = (m.group(1).strip() if m else name).replace(" - ", " ").strip()
         return {"series": "School Equity Reports (per charter school, 2017-18)", "label": school or name}
 
+    # EdScape chapter datasets (harvested Aug 2026): name = "<page title> — <file
+    # stem>", one file per release year. Group by page title so each dataset is
+    # one card with year chips. (The June chapter-4 rows use the section-name
+    # prefix and are handled above / by the heuristic.)
+    if source_id.startswith("edscape") and " \u2014 " in name:
+        title = name.split(" \u2014 ", 1)[0].strip()
+        if title not in ("Enrollment Patterns", "Population and Students"):
+            return {"series": title + " (EdScape)", "label": year if year and year != "unknown" else "file"}
+
+    # OSSE Data & Reports hub: council performance-oversight attachments (one
+    # xlsx per oversight question) and the mobility/re-enrollment series.
+    if source_id == "osse-data-reports":
+        if "council performance-oversight attachment" in low:
+            label = re.sub(r"\s*\(council performance-oversight attachment\)", "", name).strip()
+            return {"series": "Council Performance-Oversight Data Attachments (OSSE)", "label": label}
+        if "mobility" in low or "re-enrollment" in low:
+            lab = str(year or "")
+            if "mid-year" in low: lab += " Mid-Year"
+            if "metric" in low or "report" in low: lab += " Metric Scores"
+            return {"series": "Student Mobility & Re-enrollment Data", "label": lab.strip()}
+        if "assessment participation" in low:
+            return {"series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)", "label": "2016-17 to 2018-19 Particip."}
+        if "decp" in low:
+            return {"series": "Dual Enrollment (DECP) Data", "label": year}
+
+    # 2024 Master Facilities Plan supplement: report + numbered appendices.
+    if source_id == "mfp-2024-supplement":
+        m = re.search(r"appendix\s*(\d+)", low)
+        return {"series": "2024 Master Facilities Plan Annual Supplement", "label": f"Appendix {m.group(1)}" if m else "Report"}
+
     # DCPS renamed its statewide assessment PARCC -> DC CAPE in 2023, same as OSSE.
     # Connect them into one DCPS series so the years run 2014-15 -> present.
     if source_id.startswith("dcps") and re.search(r"parcc|\bcape\b", low):
