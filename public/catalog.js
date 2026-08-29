@@ -1,5 +1,7 @@
 window.CATALOG = {
  "last_verified": "2026-08",
+ "generated": "2026-08-29",
+ "new_since": "2026-08-15",
  "owners": [
   {
    "key": "OSSE",
@@ -79,6 +81,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 to 2018-19 Particip.",
      "tabs": [
@@ -127,6 +130,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2020",
      "tabs": [
@@ -195,6 +199,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2024-25",
      "tabs": [
@@ -273,6 +278,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2023-24",
      "tabs": [
@@ -351,6 +357,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2022-23",
      "tabs": [
@@ -429,6 +436,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2021-22",
      "tabs": [
@@ -507,6 +515,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2020-21",
      "tabs": [
@@ -585,6 +594,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2019-20",
      "tabs": [
@@ -663,6 +673,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2018-19",
      "tabs": [
@@ -742,6 +753,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Student Mobility & Re-enrollment Data",
      "label": "2020 Metric Scores",
      "tabs": [
@@ -855,6 +867,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Mid-Year Student Mobility 2016-17 School Year",
      "tabs": [
@@ -1001,6 +1014,7 @@ window.CATALOG = {
       "discipline"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Citywide Discipline Data",
      "tabs": [
@@ -1081,6 +1095,7 @@ window.CATALOG = {
       "student-movement"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Mid-Year Student Mobility 2014-15 and 2015-16 School Years",
      "tabs": [
@@ -1181,6 +1196,7 @@ window.CATALOG = {
       "discipline"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Citywide Discipline Data",
      "tabs": [
@@ -1261,6 +1277,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Students by Ward, 2012-13 through 2017-18",
      "tabs": [
@@ -1339,6 +1356,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Private School Enrollment, 2014-15 through 2017-18",
      "tabs": [
@@ -1390,6 +1408,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1447,6 +1466,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -1504,6 +1524,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Dual Enrollment (DECP) Data",
      "label": "2023",
      "tabs": [
@@ -1561,6 +1582,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Free and Reduced-Price Meals Status",
      "tabs": [
@@ -1612,6 +1634,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "At-Risk Students",
      "tabs": [
@@ -1643,6 +1666,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Foster Children",
      "tabs": [
@@ -1695,6 +1719,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Individual Education Programs (IEPs)",
      "tabs": [
@@ -1873,6 +1898,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Special Education Exit",
      "tabs": [
@@ -1904,6 +1930,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/page/data-and-reports-0",
+     "added": "2026-08-29",
      "series": "Council Performance-Oversight Data Attachments (OSSE)",
      "label": "Secondary Transitions for Students with Disabilities",
      "tabs": [
@@ -1958,6 +1985,7 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -2199,6 +2227,7 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -2448,6 +2477,7 @@ window.CATALOG = {
       "assessment",
       "advanced-coursework"
      ],
+     "added": "2026-06-15",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2025",
      "tabs": [
@@ -2557,6 +2587,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2665,6 +2696,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2773,6 +2805,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2829,6 +2862,7 @@ window.CATALOG = {
      "topics": [
       "student-movement"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2936,6 +2970,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -2998,6 +3033,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3060,6 +3096,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3122,6 +3159,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3196,6 +3234,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3275,6 +3314,7 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3383,6 +3423,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3437,6 +3478,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Directory / Profile Data",
      "label": "2025",
      "tabs": [
@@ -3492,6 +3534,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3621,6 +3664,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3659,6 +3703,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -3709,6 +3754,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -3795,6 +3841,7 @@ window.CATALOG = {
       "assessment",
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes and Business Rules",
@@ -3898,6 +3945,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3936,6 +3984,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -3974,6 +4023,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4049,6 +4099,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4179,6 +4230,7 @@ window.CATALOG = {
       "assessment",
       "advanced-coursework"
      ],
+     "added": "2026-06-15",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2024",
      "tabs": [
@@ -4246,6 +4298,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4290,6 +4343,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4398,6 +4452,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4464,6 +4519,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4572,6 +4628,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4628,6 +4685,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4706,6 +4764,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4745,6 +4804,7 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4811,6 +4871,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Directory / Profile Data",
      "label": "2024",
      "tabs": [
@@ -4867,6 +4928,7 @@ window.CATALOG = {
      "topics": [
       "student-movement"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -4974,6 +5036,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2024",
      "tabs": [
@@ -5763,6 +5826,7 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Summary",
@@ -5993,6 +6057,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2023",
      "tabs": [
@@ -6080,6 +6145,7 @@ window.CATALOG = {
       "finance",
       "methodology"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -6136,6 +6202,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6180,6 +6247,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6314,6 +6382,7 @@ window.CATALOG = {
       "assessment",
       "advanced-coursework"
      ],
+     "added": "2026-06-15",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2023",
      "tabs": [
@@ -6381,6 +6450,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6489,6 +6559,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Directory / Profile Data",
      "label": "2023",
      "tabs": [
@@ -6545,6 +6616,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6602,6 +6674,7 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6668,6 +6741,7 @@ window.CATALOG = {
      "topics": [
       "student-movement"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6775,6 +6849,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6808,6 +6883,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6886,6 +6962,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -6994,6 +7071,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7032,6 +7110,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7094,6 +7173,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7231,6 +7311,7 @@ window.CATALOG = {
       "assessment",
       "advanced-coursework"
      ],
+     "added": "2026-06-15",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2022",
      "tabs": [
@@ -7298,6 +7379,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7406,6 +7488,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7514,6 +7597,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7570,6 +7654,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7649,6 +7734,7 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7715,6 +7801,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2022",
      "tabs": [
@@ -7790,6 +7877,7 @@ window.CATALOG = {
      "topics": [
       "student-movement"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -7897,6 +7985,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2022",
      "tabs": [
@@ -7942,6 +8031,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8004,6 +8094,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8073,6 +8164,7 @@ window.CATALOG = {
       "assessment",
       "advanced-coursework"
      ],
+     "added": "2026-06-15",
      "series": "Advanced Coursework (AP, IB & SAT)",
      "label": "2021",
      "tabs": [
@@ -8140,6 +8232,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8248,6 +8341,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Directory / Profile Data",
      "label": "2021",
      "tabs": [
@@ -8294,6 +8388,7 @@ window.CATALOG = {
       "graduation",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8360,6 +8455,7 @@ window.CATALOG = {
      "topics": [
       "school-climate"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8410,6 +8506,7 @@ window.CATALOG = {
      "topics": [
       "student-movement"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8517,6 +8614,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "series": "Educators (Teachers & School Leaders)",
      "label": "2021",
      "tabs": [
@@ -8565,6 +8663,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2021",
      "tabs": [
@@ -8640,6 +8739,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8717,6 +8817,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8782,6 +8883,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2020",
      "tabs": [
@@ -8843,6 +8945,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -8979,6 +9082,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
@@ -8991,6 +9095,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2019",
      "tabs": [
@@ -9052,6 +9157,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -9271,6 +9377,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -9373,6 +9480,7 @@ window.CATALOG = {
       "methodology"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -9417,6 +9525,7 @@ window.CATALOG = {
       "methodology"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -9659,6 +9768,7 @@ window.CATALOG = {
       "methodology"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "n_pages": 70,
      "has_tabular_data": true,
      "n_table_pages": 17,
@@ -9747,6 +9857,7 @@ window.CATALOG = {
       "methodology"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "n_pages": 3,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -9790,6 +9901,7 @@ window.CATALOG = {
       "accountability"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -9841,6 +9953,7 @@ window.CATALOG = {
       "accountability"
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+     "added": "2026-08-29",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -9891,6 +10004,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "columns": [
       "LEA_Code",
       "LEA_Name",
@@ -9932,6 +10046,7 @@ window.CATALOG = {
      "topics": [
       "methodology"
      ],
+     "added": "2026-06-15",
      "n_pages": 71,
      "has_tabular_data": true,
      "n_table_pages": 18,
@@ -10031,6 +10146,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26",
      "n_pages": 60,
@@ -10060,6 +10176,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 Appendix",
      "n_pages": 17,
@@ -10147,6 +10264,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 State/Adv MS Math",
      "tabs": [
@@ -10261,6 +10379,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 State",
      "tabs": [
@@ -10375,6 +10494,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 LEA/Adv MS Math",
      "tabs": [
@@ -10489,6 +10609,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 LEA",
      "tabs": [
@@ -10603,6 +10724,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 School/Adv MS Math",
      "tabs": [
@@ -10717,6 +10839,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "added": "2026-08-29",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 School",
      "tabs": [
@@ -10847,6 +10970,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "tabs": [
@@ -10952,6 +11076,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 LEA",
      "tabs": [
@@ -11059,6 +11184,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25 School",
      "tabs": [
@@ -11173,6 +11299,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2024-25",
      "n_pages": 41,
@@ -11275,6 +11402,7 @@ window.CATALOG = {
      "topics": [
       "assessment"
      ],
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 to 2016-17",
      "columns": [
@@ -11315,6 +11443,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 State",
      "tabs": [
@@ -11448,6 +11577,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 LEA",
      "tabs": [
@@ -11581,6 +11711,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/assessmentresults2024",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2023-24 School",
      "tabs": [
@@ -11724,6 +11855,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 State",
      "tabs": [
@@ -11890,6 +12022,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 LEA",
      "tabs": [
@@ -12040,6 +12173,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1671391",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 School",
      "tabs": [
@@ -12225,6 +12359,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1671391",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2022-23 Particip.",
      "tabs": [
@@ -12284,6 +12419,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1613796",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 State",
      "tabs": [
@@ -12363,6 +12499,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1613796",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
      "tabs": [
@@ -12441,6 +12578,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1613796",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2021-22 Particip.",
      "tabs": [
@@ -12540,6 +12678,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/ELA",
      "tabs": [
@@ -12619,6 +12758,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 School/Math",
      "tabs": [
@@ -12698,6 +12838,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19",
      "tabs": [
@@ -12797,6 +12938,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1420701",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 Particip.",
      "tabs": [
@@ -12844,6 +12986,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1420701",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2018-19 Particip.",
      "tabs": [
@@ -12943,6 +13086,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/ELA",
      "tabs": [
@@ -13022,6 +13166,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 School/Math",
      "tabs": [
@@ -13101,6 +13246,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
      "tabs": [
@@ -13200,6 +13346,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 Particip.",
      "tabs": [
@@ -13247,6 +13394,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18 Particip.",
      "tabs": [
@@ -13346,6 +13494,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1348731",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2017-18",
      "tabs": [
@@ -13461,6 +13610,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/ELA",
      "tabs": [
@@ -13540,6 +13690,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 School/Math",
      "tabs": [
@@ -13619,6 +13770,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
      "tabs": [
@@ -13710,6 +13862,7 @@ window.CATALOG = {
       "special-education"
      ],
      "page": "https://osse.dc.gov/node/1267021",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17",
      "tabs": [
@@ -13809,6 +13962,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1267021",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2016-17 Particip.",
      "tabs": [
@@ -13855,6 +14009,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1185345",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/ELA",
      "tabs": [
@@ -13929,6 +14084,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1185345",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 School/Math",
      "tabs": [
@@ -14003,6 +14159,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1185345",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2015-16 Particip.",
      "tabs": [
@@ -14049,6 +14206,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -14116,6 +14274,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
      "tabs": [
@@ -14185,6 +14344,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -14254,6 +14414,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -14317,6 +14478,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15",
      "tabs": [
@@ -14367,6 +14529,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/node/1184545",
+     "added": "2026-06-15",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2014-15 Math",
      "tabs": [
@@ -14451,6 +14614,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes",
@@ -14514,6 +14678,7 @@ window.CATALOG = {
       "assessment",
       "special-education"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -14590,6 +14755,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -14667,6 +14833,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 115,
      "has_tabular_data": true,
      "n_table_pages": 79,
@@ -14757,6 +14924,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 92,
      "has_tabular_data": true,
      "n_table_pages": 67,
@@ -14848,6 +15016,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 79,
      "has_tabular_data": true,
      "n_table_pages": 56,
@@ -14940,6 +15109,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 79,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -15030,6 +15200,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -15107,6 +15278,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -15184,6 +15356,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "District of Columbia FFY21 APR",
@@ -15222,6 +15395,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 38,
      "has_tabular_data": true,
      "n_table_pages": 37,
@@ -15298,6 +15472,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 37,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -15313,6 +15488,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -15344,6 +15520,7 @@ window.CATALOG = {
      "topics": [
       "special-education"
      ],
+     "added": "2026-06-15",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -15399,6 +15576,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-15",
      "n_pages": 50,
      "has_tabular_data": true,
      "n_table_pages": 4,
@@ -15458,6 +15636,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -15505,6 +15684,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Overview",
@@ -15536,6 +15716,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -15644,6 +15825,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Overview",
@@ -15722,6 +15904,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -15769,6 +15952,7 @@ window.CATALOG = {
      "topics": [
       "attendance"
      ],
+     "added": "2026-06-16",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -15822,6 +16006,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Overview",
@@ -15933,6 +16118,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -15989,6 +16175,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -16045,6 +16232,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -16101,6 +16289,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -16157,6 +16346,7 @@ window.CATALOG = {
      "topics": [
       "graduation"
      ],
+     "added": "2026-06-16",
      "tabs": [
       {
        "name": "Data Notes",
@@ -16230,6 +16420,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 51,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -16307,6 +16498,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 43,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -16382,6 +16574,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 40,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -16461,6 +16654,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 68,
      "has_tabular_data": true,
      "n_table_pages": 28,
@@ -16548,6 +16742,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -16623,6 +16818,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 40,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -16638,6 +16834,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 106,
      "has_tabular_data": true,
      "n_table_pages": 48,
@@ -16710,6 +16907,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -16736,6 +16934,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 114,
      "has_tabular_data": true,
      "n_table_pages": 48,
@@ -16822,6 +17021,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Data Notes Tab",
@@ -16929,6 +17129,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 84,
      "has_tabular_data": true,
      "n_table_pages": 81,
@@ -16985,6 +17186,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 99,
      "has_tabular_data": true,
      "n_table_pages": 68,
@@ -17054,6 +17256,7 @@ window.CATALOG = {
      "topics": [
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 38,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -17142,6 +17345,7 @@ window.CATALOG = {
      "topics": [
       "finance"
      ],
+     "added": "2026-06-15",
      "series": "School Finance / Per-Pupil Expenditures",
      "label": "2024",
      "tabs": [
@@ -17217,6 +17421,7 @@ window.CATALOG = {
       "finance",
       "methodology"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -17320,6 +17525,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 41,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -17341,6 +17547,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 36,
      "has_tabular_data": true,
      "n_table_pages": 36,
@@ -17406,6 +17613,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 44,
      "has_tabular_data": true,
      "n_table_pages": 44,
@@ -17471,6 +17679,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -17506,6 +17715,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -17561,6 +17771,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 2,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -17617,6 +17828,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -17700,6 +17912,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -17781,6 +17994,7 @@ window.CATALOG = {
       "educators",
       "methodology"
      ],
+     "added": "2026-06-15",
      "n_pages": 1,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -17795,6 +18009,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -17990,6 +18205,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -18820,6 +19036,7 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -19287,6 +19504,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -19477,6 +19695,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -19644,6 +19863,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -19709,6 +19929,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview (C&D)",
@@ -20643,6 +20864,7 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview (C&D)",
@@ -21172,6 +21394,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview (Prep&Perf)",
@@ -21384,6 +21607,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -21548,6 +21772,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview (S&D)",
@@ -21615,6 +21840,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -22530,6 +22756,7 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -23059,6 +23286,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview (Prep+Perf)",
@@ -23264,6 +23492,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -23431,6 +23660,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -23483,6 +23713,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -24374,6 +24605,7 @@ window.CATALOG = {
       "educators",
       "demographics"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -24903,6 +25135,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -25083,6 +25316,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -25250,6 +25484,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -25303,6 +25538,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "n_pages": 11,
      "has_tabular_data": true,
      "n_table_pages": 5,
@@ -25375,6 +25611,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -25677,6 +25914,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -26025,6 +26263,7 @@ window.CATALOG = {
      "topics": [
       "educators"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Overview",
@@ -26378,6 +26617,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -26467,6 +26707,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -26557,6 +26798,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 32,
      "has_tabular_data": true,
      "n_table_pages": 21,
@@ -26637,6 +26879,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 21,
      "has_tabular_data": true,
      "n_table_pages": 5,
@@ -26721,6 +26964,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 15,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -26766,6 +27010,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 37,
      "has_tabular_data": true,
      "n_table_pages": 20,
@@ -26846,6 +27091,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 40,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -26861,6 +27107,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 39,
      "has_tabular_data": true,
      "n_table_pages": 37,
@@ -26927,6 +27174,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 33,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -26999,6 +27247,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -27067,6 +27316,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 31,
      "has_tabular_data": true,
      "n_table_pages": 21,
@@ -27157,6 +27407,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 26,
      "has_tabular_data": true,
      "n_table_pages": 26,
@@ -27234,6 +27485,7 @@ window.CATALOG = {
      "topics": [
       "early-childhood"
      ],
+     "added": "2026-06-15",
      "n_pages": 23,
      "has_tabular_data": true,
      "n_table_pages": 16,
@@ -27371,6 +27623,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "pcsb School-by-Grade Enrollment",
@@ -27391,6 +27644,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "DCPS School-by-Grade Enrollment",
@@ -27461,6 +27715,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 17,
@@ -27545,6 +27800,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 20,
      "has_tabular_data": true,
      "n_table_pages": 14,
@@ -27634,6 +27890,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 26,
      "has_tabular_data": true,
      "n_table_pages": 13,
@@ -27725,6 +27982,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 28,
      "has_tabular_data": true,
      "n_table_pages": 20,
@@ -27809,6 +28067,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 29,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -27893,6 +28152,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -27975,6 +28235,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 14,
@@ -28073,6 +28334,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 26,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -28155,6 +28417,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 9,
      "has_tabular_data": true,
      "n_table_pages": 4,
@@ -28205,6 +28468,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 8,
      "has_tabular_data": true,
      "n_table_pages": 6,
@@ -28278,6 +28542,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 9,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -28321,6 +28586,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 9,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -28364,6 +28630,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 10,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -28411,6 +28678,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 9,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -28435,6 +28703,7 @@ window.CATALOG = {
       "attendance"
      ],
      "page": "https://dcps.dc.gov/node/1185940",
+     "added": "2026-08-29",
      "n_pages": 11,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -28493,6 +28762,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY 2025-26",
@@ -28515,6 +28785,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY 2024-25",
@@ -28537,6 +28808,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY 2023-24",
@@ -28559,6 +28831,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2022-23",
@@ -28581,6 +28854,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2021-22",
@@ -28603,6 +28877,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -28625,6 +28900,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -28647,6 +28923,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -28669,6 +28946,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -28691,6 +28969,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -28711,6 +28990,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY15-16 Enrollment Audit",
@@ -28731,6 +29011,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY13-14 Enrollment Audit",
@@ -28751,6 +29032,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY13-14 Enrollment Audit",
@@ -28771,6 +29053,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY12-13 Enrollment Audit",
@@ -28791,6 +29074,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY11-12 Enrollment Audit",
@@ -28819,6 +29103,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "2025",
@@ -28840,6 +29125,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "2024_redact",
@@ -28861,6 +29147,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "2023_redact",
@@ -28882,6 +29169,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2022",
@@ -28903,6 +29191,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2021",
@@ -28924,6 +29213,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2020",
@@ -28945,6 +29235,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2019",
@@ -28966,6 +29257,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2018",
@@ -28987,6 +29279,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2017",
@@ -29008,6 +29301,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2016",
@@ -29029,6 +29323,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2015",
@@ -29050,6 +29345,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Class of 2014",
@@ -29071,6 +29367,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -29092,6 +29389,7 @@ window.CATALOG = {
       "graduation"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Sheet1",
@@ -29113,6 +29411,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29218,6 +29517,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29323,6 +29623,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29428,6 +29729,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29519,6 +29821,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29603,6 +29906,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29687,6 +29991,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29771,6 +30076,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-dc-cas",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "All Students",
@@ -29856,6 +30162,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2024-25 By School",
@@ -29884,6 +30191,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2023-24 By School",
@@ -29912,6 +30220,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2022-23 By School",
@@ -29940,6 +30249,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2021-22 By School",
@@ -29968,6 +30278,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2020-21 By School",
@@ -29996,6 +30307,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2019-20",
@@ -30017,6 +30329,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2018-19",
@@ -30038,6 +30351,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2017-18",
@@ -30059,6 +30373,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY2016-17",
@@ -30080,6 +30395,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY15-16 . Pre-March-2016 SAT",
@@ -30108,6 +30424,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY14-15 . Pre-March-2016 SAT",
@@ -30129,6 +30446,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY13-14 . Pre-March-2016 SAT",
@@ -30150,6 +30468,7 @@ window.CATALOG = {
       "advanced-coursework"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-sat",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "SY12-13 . Pre-March-2016 SAT",
@@ -30170,6 +30489,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30220,6 +30540,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30270,6 +30591,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30320,6 +30642,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30370,6 +30693,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30420,6 +30744,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "School",
@@ -30470,6 +30795,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30520,6 +30846,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30561,6 +30888,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30602,6 +30930,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30643,6 +30972,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30684,6 +31014,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30725,6 +31056,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30766,6 +31098,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dcps.dc.gov/publication/ap-score-data-sets",
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "High School",
@@ -30807,6 +31140,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2024",
      "tabs": [
@@ -31526,6 +31860,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2023",
      "tabs": [
@@ -32245,6 +32580,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2022",
      "tabs": [
@@ -32964,6 +33300,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2021",
      "tabs": [
@@ -33683,6 +34020,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2018",
      "tabs": [
@@ -34402,6 +34740,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2017",
      "tabs": [
@@ -34857,6 +35196,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2016",
      "tabs": [
@@ -34964,6 +35304,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2015",
      "tabs": [
@@ -35071,6 +35412,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2014",
      "tabs": [
@@ -35178,6 +35520,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2025",
      "n_pages": 17,
@@ -35249,6 +35592,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2024",
      "n_pages": 15,
@@ -35320,6 +35664,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2023",
      "n_pages": 14,
@@ -35391,6 +35736,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2022",
      "n_pages": 18,
@@ -35462,6 +35808,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2019",
      "n_pages": 22,
@@ -35533,6 +35880,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2018",
      "n_pages": 19,
@@ -35604,6 +35952,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2017",
      "n_pages": 27,
@@ -35663,6 +36012,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2016",
      "n_pages": 29,
@@ -35740,6 +36090,7 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-parcc",
+     "added": "2026-06-15",
      "series": "DCPS Assessment Scores (PARCC → DC CAPE)",
      "label": "2015",
      "n_pages": 17,
@@ -35897,6 +36248,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 6,
      "has_tabular_data": true,
      "n_table_pages": 4,
@@ -35968,6 +36320,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 10,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -36038,6 +36391,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 57,
      "has_tabular_data": true,
      "n_table_pages": 34,
@@ -36105,6 +36459,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 35,
      "has_tabular_data": true,
      "n_table_pages": 23,
@@ -36168,6 +36523,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 24,
      "has_tabular_data": true,
      "n_table_pages": 18,
@@ -36237,6 +36593,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 23,
      "has_tabular_data": true,
      "n_table_pages": 13,
@@ -36310,6 +36667,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 40,
      "has_tabular_data": true,
      "n_table_pages": 31,
@@ -36383,6 +36741,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 50,
      "has_tabular_data": true,
      "n_table_pages": 36,
@@ -36456,6 +36815,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 17,
@@ -36516,6 +36876,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "n_pages": 71,
      "has_tabular_data": true,
      "n_table_pages": 36,
@@ -36584,6 +36945,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "SY2018-19",
@@ -36606,6 +36968,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Sheet1",
@@ -36628,6 +36991,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Student Survey",
@@ -36709,6 +37073,7 @@ window.CATALOG = {
       "school-climate"
      ],
      "page": "https://dcps.dc.gov/surveys",
+     "added": "2026-08-29",
      "tabs": [
       {
        "name": "Student Survey",
@@ -36807,6 +37172,7 @@ window.CATALOG = {
       "finance",
       "profiles"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "FY27 Submitted Budgets",
@@ -37088,6 +37454,7 @@ window.CATALOG = {
       "accountability",
       "methodology"
      ],
+     "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2016",
      "n_pages": 137,
@@ -37178,6 +37545,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
      "n_pages": 326,
@@ -37248,6 +37616,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
      "n_pages": 116,
@@ -37338,6 +37707,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
      "n_pages": 300,
@@ -37408,6 +37778,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
      "n_pages": 102,
@@ -37517,6 +37888,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2013",
      "n_pages": 328,
@@ -37589,6 +37961,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2014",
      "n_pages": 25,
@@ -37695,6 +38068,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF (other documents)",
      "label": "2013",
      "n_pages": 304,
@@ -37776,6 +38150,7 @@ window.CATALOG = {
      "topics": [
       "accountability"
      ],
+     "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2012",
      "n_pages": 29,
@@ -37906,6 +38281,7 @@ window.CATALOG = {
       "equity",
       "methodology"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Definitions Guide",
      "n_pages": 2,
@@ -37922,6 +38298,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Academy of Hope Adult PCS",
      "n_pages": 4,
@@ -37976,6 +38353,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Briya PCS",
      "n_pages": 4,
@@ -38022,6 +38400,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Carlos Rosario International PCS",
      "n_pages": 4,
@@ -38076,6 +38455,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Community College Preparatory Academy PCS",
      "n_pages": 4,
@@ -38122,6 +38502,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "LAYC Career Academy PCS",
      "n_pages": 4,
@@ -38168,6 +38549,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Maya Angelou PCS Young Adult Learning Center",
      "n_pages": 4,
@@ -38214,6 +38596,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "The Next Step El Proximo Paso PCS",
      "n_pages": 4,
@@ -38260,6 +38643,7 @@ window.CATALOG = {
      "topics": [
       "equity"
      ],
+     "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "YouthBuild PCS",
      "n_pages": 4,
@@ -38325,6 +38709,7 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 27,
      "has_tabular_data": true,
      "n_table_pages": 8,
@@ -38422,6 +38807,7 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 11,
@@ -38497,6 +38883,7 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 22,
      "has_tabular_data": true,
      "n_table_pages": 13,
@@ -38580,6 +38967,7 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 3,
      "has_tabular_data": false,
      "n_table_pages": 0,
@@ -38596,6 +38984,7 @@ window.CATALOG = {
       "attendance",
       "discipline"
      ],
+     "added": "2026-06-15",
      "n_pages": 18,
      "has_tabular_data": true,
      "n_table_pages": 9,
@@ -38690,6 +39079,7 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
+     "added": "2026-06-15",
      "n_pages": 70,
      "has_tabular_data": true,
      "n_table_pages": 60,
@@ -38763,6 +39153,7 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
+     "added": "2026-06-15",
      "n_pages": 47,
      "has_tabular_data": true,
      "n_table_pages": 45,
@@ -38838,6 +39229,7 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
+     "added": "2026-06-15",
      "n_pages": 16,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -38950,6 +39342,7 @@ window.CATALOG = {
       "finance",
       "demographics"
      ],
+     "added": "2026-06-15",
      "n_pages": 15,
      "has_tabular_data": true,
      "n_table_pages": 12,
@@ -39122,6 +39515,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/adult-and-youth-population-trends",
+     "added": "2026-08-29",
      "series": "Adult and Youth Population Trends (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39174,6 +39568,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-number-births-and-birth-rates",
+     "added": "2026-08-29",
      "series": "Number of Births and Birth Rates (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39235,6 +39630,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-forecasted-total-population-growth",
+     "added": "2026-08-29",
      "series": "Forecasted Total Population Growth (EdScape)",
      "label": "2024",
      "tabs": [
@@ -39331,6 +39727,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-forecasted-youth-population-growth",
+     "added": "2026-08-29",
      "series": "Forecasted Youth Population Growth (EdScape)",
      "label": "2024",
      "tabs": [
@@ -39427,6 +39824,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-youth-pop-forecasts-nhood",
+     "added": "2026-08-29",
      "series": "Forecasted Youth Population Growth by Neighborhood Cluster (EdScape)",
      "label": "2024",
      "tabs": [
@@ -39523,6 +39921,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-private-school-enrollment",
+     "added": "2026-08-29",
      "series": "Private School Enrollment (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39629,6 +40028,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children",
+     "added": "2026-08-29",
      "series": "Race and Ethnicity of Adults and Children (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39682,6 +40082,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-public-school-enrollment-by-race-and-ethnicity",
+     "added": "2026-08-29",
      "series": "Public School Enrollment by Race and Ethnicity (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39735,6 +40136,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-public-school-students-special-need-categories",
+     "added": "2026-08-29",
      "series": "Public School Students by Special Need Categories (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39790,6 +40192,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-total-population-trends",
+     "added": "2026-08-29",
      "series": "Total Population Trends (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39836,6 +40239,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-where-adults-and-children-live",
+     "added": "2026-08-29",
      "series": "Where Adults and Children Live (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39890,6 +40294,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-where-public-school-students-live",
+     "added": "2026-08-29",
      "series": "Where Public School Students Live (EdScape)",
      "label": "2026",
      "tabs": [
@@ -39975,6 +40380,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live",
+     "added": "2026-08-29",
      "series": "Where English Learner Public School Students Live (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40075,6 +40481,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://edscape.dc.gov/page/schools-grade-configurations-of-public-schools",
+     "added": "2026-08-29",
      "series": "Grade Configurations of Public Schools (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40129,6 +40536,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/grade-and-ward-enrollment-trends",
+     "added": "2026-08-29",
      "series": "Grade and Ward Enrollment Trends (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40187,6 +40595,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://edscape.dc.gov/page/schools-opening-and-closing-trends",
+     "added": "2026-08-29",
      "series": "School Opening and Closing Trends (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40247,6 +40656,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/schools-race-and-ethnicity",
+     "added": "2026-08-29",
      "series": "Public School Enrollment by Race and Ethnicity (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40346,6 +40756,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/enrollment-trends-specific-public-schools",
+     "added": "2026-08-29",
      "series": "Enrollment Trends of Specific Public Schools (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40416,6 +40827,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/schools-enrollment-public-schools-ward",
+     "added": "2026-08-29",
      "series": "Enrollment of Public Schools by Ward (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40488,6 +40900,7 @@ window.CATALOG = {
       "profiles"
      ],
      "page": "https://edscape.dc.gov/page/schools-special-populations-risk",
+     "added": "2026-08-29",
      "series": "School Enrollment by Special Populations - At Risk (EdScape)",
      "label": "2025",
      "tabs": [
@@ -40619,6 +41032,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/schools-special-education-enrollment-level-need",
+     "added": "2026-08-29",
      "series": "Special Education Enrollment by Level of Need (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40750,6 +41164,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/schools-special-populations-risk",
+     "added": "2026-08-29",
      "series": "School Enrollment by Special Populations - At Risk (EdScape)",
      "label": "2026",
      "tabs": [
@@ -40881,6 +41296,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/schools-special-populations-special-education",
+     "added": "2026-08-29",
      "series": "School Enrollment by Special Populations - Special Education (EdScape)",
      "label": "2026",
      "tabs": [
@@ -41012,6 +41428,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners",
+     "added": "2026-08-29",
      "series": "School Enrollment by Special Populations - English Learners (EdScape)",
      "label": "2026",
      "tabs": [
@@ -41142,6 +41559,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://edscape.dc.gov/page/schools-specialized-programs-offered",
+     "added": "2026-08-29",
      "series": "Specialized Programs Offered by Public Schools (EdScape)",
      "label": "2026",
      "tabs": [
@@ -41203,6 +41621,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-educational-attainment",
+     "added": "2026-08-29",
      "series": "Educational Attainment for Adults (EdScape)",
      "label": "2025",
      "tabs": [
@@ -41253,6 +41672,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-vehicle-access",
+     "added": "2026-08-29",
      "series": "Vehicle Access (EdScape)",
      "label": "file",
      "tabs": [
@@ -41301,6 +41721,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-residential-development-pipeline-ward",
+     "added": "2026-08-29",
      "series": "Residential Development Pipeline by Ward (EdScape)",
      "label": "file",
      "tabs": [
@@ -41358,6 +41779,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-residential-pipeline-projects-boundaries-map",
+     "added": "2026-08-29",
      "series": "Residential Development Pipeline Projects (EdScape)",
      "label": "file",
      "tabs": [
@@ -41415,6 +41837,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline",
+     "added": "2026-08-29",
      "series": "Estimated Student Yield from Residential Development Pipeline (EdScape)",
      "label": "file",
      "tabs": [
@@ -41472,6 +41895,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-types-housing",
+     "added": "2026-08-29",
      "series": "Types of Housing (EdScape)",
      "label": "file",
      "tabs": [
@@ -41519,6 +41943,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-types-housing-ward",
+     "added": "2026-08-29",
      "series": "Types of Housing by Ward (EdScape)",
      "label": "file",
      "tabs": [
@@ -41566,6 +41991,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline",
+     "added": "2026-08-29",
      "series": "Estimated Student Yield from Residential Development Pipeline (EdScape)",
      "label": "file",
      "tabs": [
@@ -41615,6 +42041,7 @@ window.CATALOG = {
       "demographics"
      ],
      "page": "https://edscape.dc.gov/page/neighborhood-factors-public-school-students-housing-type",
+     "added": "2026-08-29",
      "series": "Public School Students by Housing Type (EdScape)",
      "label": "file",
      "tabs": [
@@ -41697,6 +42124,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "series": "Enrollment by Sector",
      "label": "2026",
      "tabs": [
@@ -41836,6 +42264,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "series": "Commute Paths",
      "label": "2024",
      "tabs": [
@@ -41912,6 +42341,7 @@ window.CATALOG = {
       "boundaries",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Introduction",
@@ -41991,6 +42421,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "series": "Distance to School",
      "label": "2026",
      "tabs": [
@@ -42104,6 +42535,7 @@ window.CATALOG = {
       "attendance",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Introduction",
@@ -42152,6 +42584,7 @@ window.CATALOG = {
       "boundaries",
       "enrollment"
      ],
+     "added": "2026-06-15",
      "series": "Feeder Patterns",
      "label": "2026",
      "tabs": [
@@ -42250,6 +42683,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "series": "Grade Progression (GPR)",
      "label": "2026",
      "tabs": [
@@ -42403,6 +42837,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Introduction",
@@ -42446,6 +42881,7 @@ window.CATALOG = {
      "topics": [
       "enrollment"
      ],
+     "added": "2026-06-15",
      "tabs": [
       {
        "name": "Introduction",
@@ -42506,6 +42942,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/trends-enrollment-sector",
+     "added": "2026-08-29",
      "series": "Enrollment by Sector",
      "label": "2026",
      "tabs": [
@@ -42628,6 +43065,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/facilities-programmatic-capacity",
+     "added": "2026-08-29",
      "series": "Public School Facility Programmatic Capacity (EdScape)",
      "label": "2026",
      "tabs": [
@@ -42729,6 +43167,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "page": "https://edscape.dc.gov/page/facilities-number",
+     "added": "2026-08-29",
      "series": "Number of Public School Facilities (EdScape)",
      "label": "2027",
      "tabs": [
@@ -42905,6 +43344,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "added": "2026-08-29",
      "series": "2024 Master Facilities Plan Annual Supplement",
      "label": "Report",
      "n_pages": 16,
@@ -42947,6 +43387,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "added": "2026-08-29",
      "series": "2024 Master Facilities Plan Annual Supplement",
      "label": "Appendix 1",
      "tabs": [
@@ -43060,6 +43501,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "added": "2026-08-29",
      "series": "2024 Master Facilities Plan Annual Supplement",
      "label": "Appendix 2",
      "tabs": [
@@ -43140,6 +43582,7 @@ window.CATALOG = {
       "other"
      ],
      "page": "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement",
+     "added": "2026-08-29",
      "series": "2024 Master Facilities Plan Annual Supplement",
      "label": "Appendix 3",
      "n_pages": 1,
@@ -43274,6 +43717,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Tableau underlying data",
      "label": "2026-06",
      "tabs": [
@@ -43330,6 +43774,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Total Applications & Results",
      "label": "2018",
      "n_pages": 1,
@@ -43403,6 +43848,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2026",
      "n_pages": 1,
@@ -43420,6 +43866,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2025",
      "n_pages": 1,
@@ -43437,6 +43884,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2024",
      "n_pages": 1,
@@ -43454,6 +43902,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2023",
      "n_pages": 1,
@@ -43471,6 +43920,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2022",
      "n_pages": 1,
@@ -43488,6 +43938,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2021",
      "n_pages": 1,
@@ -43505,6 +43956,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2020",
      "n_pages": 1,
@@ -43522,6 +43974,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2019",
      "n_pages": 1,
@@ -43539,6 +43992,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2018",
      "n_pages": 1,
@@ -43556,6 +44010,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2017",
      "n_pages": 1,
@@ -43573,6 +44028,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -43590,6 +44046,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2015",
      "n_pages": 1,
@@ -43607,6 +44064,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2014",
      "n_pages": 1,
@@ -43624,6 +44082,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2026",
      "n_pages": 1,
@@ -43647,6 +44106,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2025",
      "n_pages": 1,
@@ -43670,6 +44130,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2024",
      "n_pages": 1,
@@ -43693,6 +44154,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2023",
      "n_pages": 1,
@@ -43721,6 +44183,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2022",
      "n_pages": 1,
@@ -43749,6 +44212,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2021",
      "n_pages": 1,
@@ -43782,6 +44246,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2020",
      "n_pages": 1,
@@ -43840,6 +44305,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2019",
      "n_pages": 1,
@@ -43898,6 +44364,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2018",
      "n_pages": 1,
@@ -43924,6 +44391,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2017",
      "n_pages": 1,
@@ -43950,6 +44418,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -43976,6 +44445,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2015",
      "n_pages": 1,
@@ -44002,6 +44472,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applications & Seats Offered by Grade",
      "label": "2014",
      "n_pages": 1,
@@ -44028,6 +44499,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2026",
      "n_pages": 1,
@@ -44086,6 +44558,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2025",
      "n_pages": 1,
@@ -44144,6 +44617,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2024",
      "n_pages": 1,
@@ -44202,6 +44676,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2023",
      "n_pages": 1,
@@ -44260,6 +44735,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2022",
      "n_pages": 1,
@@ -44318,6 +44794,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2021",
      "n_pages": 1,
@@ -44376,6 +44853,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2020",
      "n_pages": 1,
@@ -44434,6 +44912,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2019",
      "n_pages": 1,
@@ -44492,6 +44971,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2018",
      "n_pages": 1,
@@ -44517,6 +44997,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2017",
      "n_pages": 1,
@@ -44542,6 +45023,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade",
      "label": "2016",
      "n_pages": 1,
@@ -44567,6 +45049,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2015",
      "n_pages": 1,
@@ -44592,6 +45075,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Unique Applicants Waitlisted",
      "label": "2014",
      "n_pages": 1,
@@ -44618,6 +45102,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2026",
      "n_pages": 1,
@@ -44645,6 +45130,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2025",
      "n_pages": 1,
@@ -44672,6 +45158,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2024",
      "n_pages": 1,
@@ -44699,6 +45186,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2023",
      "n_pages": 1,
@@ -44726,6 +45214,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2022",
      "n_pages": 1,
@@ -44754,6 +45243,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2021",
      "n_pages": 1,
@@ -44782,6 +45272,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2020",
      "n_pages": 1,
@@ -44810,6 +45301,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2019",
      "n_pages": 1,
@@ -44838,6 +45330,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2018",
      "n_pages": 1,
@@ -44866,6 +45359,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2017",
      "n_pages": 1,
@@ -44894,6 +45388,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2016",
      "n_pages": 1,
@@ -44922,6 +45417,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2015",
      "n_pages": 1,
@@ -44950,6 +45446,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "2014",
      "n_pages": 1,
@@ -44977,6 +45474,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2026",
      "n_pages": 1,
@@ -45004,6 +45502,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2025",
      "n_pages": 1,
@@ -45031,6 +45530,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2024",
      "n_pages": 1,
@@ -45058,6 +45558,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2023",
      "n_pages": 1,
@@ -45084,6 +45585,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2022",
      "n_pages": 1,
@@ -45110,6 +45612,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2021",
      "n_pages": 1,
@@ -45136,6 +45639,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2020",
      "n_pages": 1,
@@ -45162,6 +45666,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2019",
      "n_pages": 1,
@@ -45188,6 +45693,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2018",
      "n_pages": 1,
@@ -45214,6 +45720,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2017",
      "n_pages": 1,
@@ -45240,6 +45747,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Distribution of Applications by Ward",
      "label": "2016",
      "n_pages": 1,
@@ -45266,6 +45774,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2015",
      "n_pages": 1,
@@ -45292,6 +45801,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Ward",
      "label": "2014",
      "n_pages": 1,
@@ -45318,6 +45828,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2026",
      "n_pages": 1,
@@ -45343,6 +45854,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2025",
      "n_pages": 1,
@@ -45368,6 +45880,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2024",
      "n_pages": 1,
@@ -45393,6 +45906,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2023",
      "n_pages": 1,
@@ -45419,6 +45933,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2022",
      "n_pages": 1,
@@ -45445,6 +45960,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2021",
      "n_pages": 1,
@@ -45471,6 +45987,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2020",
      "n_pages": 1,
@@ -45497,6 +46014,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2019",
      "n_pages": 1,
@@ -45523,6 +46041,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2018",
      "n_pages": 1,
@@ -45549,6 +46068,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2017",
      "n_pages": 1,
@@ -45575,6 +46095,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2016",
      "n_pages": 1,
@@ -45601,6 +46122,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2015",
      "n_pages": 1,
@@ -45627,6 +46149,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Grade and Ward",
      "label": "2014",
      "n_pages": 1,
@@ -45653,6 +46176,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2026",
      "n_pages": 1,
@@ -45676,6 +46200,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2025",
      "n_pages": 1,
@@ -45699,6 +46224,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2024",
      "n_pages": 1,
@@ -45716,6 +46242,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2023",
      "n_pages": 1,
@@ -45739,6 +46266,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2022",
      "n_pages": 1,
@@ -45762,6 +46290,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2021",
      "n_pages": 1,
@@ -45785,6 +46314,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2020",
      "n_pages": 1,
@@ -45808,6 +46338,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2019",
      "n_pages": 1,
@@ -45831,6 +46362,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2018",
      "n_pages": 1,
@@ -45848,6 +46380,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2017",
      "n_pages": 1,
@@ -45865,6 +46398,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2016",
      "n_pages": 1,
@@ -45882,6 +46416,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2015",
      "n_pages": 1,
@@ -45899,6 +46434,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Ward of Residence",
      "label": "2014",
      "n_pages": 1,
@@ -45916,6 +46452,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2026",
      "n_pages": 1,
@@ -45939,6 +46476,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2025",
      "n_pages": 1,
@@ -45962,6 +46500,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2024",
      "n_pages": 1,
@@ -45985,6 +46524,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2023",
      "n_pages": 1,
@@ -46008,6 +46548,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2022",
      "n_pages": 1,
@@ -46031,6 +46572,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2021",
      "n_pages": 1,
@@ -46054,6 +46596,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2020",
      "n_pages": 1,
@@ -46077,6 +46620,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2019",
      "n_pages": 1,
@@ -46100,6 +46644,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2018",
      "n_pages": 1,
@@ -46123,6 +46668,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2017",
      "n_pages": 1,
@@ -46146,6 +46692,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2016",
      "n_pages": 1,
@@ -46169,6 +46716,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2015",
      "n_pages": 1,
@@ -46192,6 +46740,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Median # of School Selections",
      "label": "2014",
      "n_pages": 1,
@@ -46215,6 +46764,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2026",
      "n_pages": 1,
@@ -46241,6 +46791,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2025",
      "n_pages": 1,
@@ -46267,6 +46818,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2024",
      "n_pages": 1,
@@ -46293,6 +46845,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2023",
      "n_pages": 1,
@@ -46319,6 +46872,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2022",
      "n_pages": 1,
@@ -46345,6 +46899,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2021",
      "n_pages": 1,
@@ -46371,6 +46926,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2020",
      "n_pages": 1,
@@ -46397,6 +46953,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2019",
      "n_pages": 1,
@@ -46423,6 +46980,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2018",
      "n_pages": 1,
@@ -46449,6 +47007,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2017",
      "n_pages": 1,
@@ -46475,6 +47034,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2016",
      "n_pages": 1,
@@ -46501,6 +47061,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2015",
      "n_pages": 1,
@@ -46527,6 +47088,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Match Rate by Grade & # of Selections",
      "label": "2014",
      "n_pages": 1,
@@ -46553,6 +47115,7 @@ window.CATALOG = {
      "topics": [
       "lottery"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Other / research",
      "label": "unknown",
      "n_pages": 6,
@@ -46571,6 +47134,7 @@ window.CATALOG = {
       "lottery",
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Other / research",
      "label": "2018",
      "n_pages": 27,
@@ -46664,6 +47228,7 @@ window.CATALOG = {
      "topics": [
       "demographics"
      ],
+     "added": "2026-06-15",
      "series": "Lottery: Applicants by Preferred Language",
      "label": "unknown",
      "n_pages": 19,
@@ -46728,6 +47293,7 @@ window.CATALOG = {
       "lottery"
      ],
      "page": "https://www.myschooldc.org/resources/data",
+     "added": "2026-08-29",
      "series": "Lottery: Tableau underlying data",
      "label": "2026-08",
      "tabs": [
@@ -46802,6 +47368,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Locations (DCPS + charter)",
      "label": "DCPS",
      "columns": [
@@ -46871,6 +47438,7 @@ window.CATALOG = {
      "topics": [
       "profiles"
      ],
+     "added": "2026-06-15",
      "series": "School Locations (DCPS + charter)",
      "label": "Charter",
      "columns": [

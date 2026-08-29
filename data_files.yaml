@@ -31,6 +31,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Finance%20Data%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-financial-standards-2024
@@ -39,6 +40,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Common%20Financial%20Reporting%20Standards%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [finance, methodology]
 
   - id: osse-aggregate-enrollment-2025
@@ -47,6 +49,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [demographics, enrollment]
 
   - id: osse-attendance-report-2024-25
@@ -55,6 +58,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Attendance%20Report.pdf"
     kind: pdf
     year: "2024-25"
+    added: "2026-06-15"
     topics: [attendance]
 
   # ---- OSSE: DC CAPE + MSAA statewide assessment results 2024-25 ----
@@ -67,6 +71,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=l1fz6ucfcut7q7pg8qzbo3l9ffb19pmm&file_id=f_1962534999838"
     kind: xlsx
     year: "2024-25"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-cape-2025-lea
@@ -75,6 +80,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=a1bx09uvrx0i066n2alof3onbfivboen&file_id=f_1962545899005"
     kind: xlsx
     year: "2024-25"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-cape-2025-school
@@ -83,6 +89,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=h1bdtjr77dgxsllrsrmv9p358f6j9ket&file_id=f_1962543801303"
     kind: xlsx
     year: "2024-25"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-cape-2025-deck
@@ -91,6 +98,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Assessment%202025_PublicDeck%20_FINAL.pdf"
     kind: pdf
     year: "2024-25"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-star-tech-guide-2025
@@ -99,6 +107,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2025%20Report%20Card%20Technical%20Guide%20%28September%202025%20Update%29.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [accountability, methodology]
 
   # ---- Open Data DC (ArcGIS direct CSV export endpoints) ----
@@ -108,6 +117,7 @@ data_files:
     url: "https://opendata.dc.gov/api/download/v1/items/90b2efbd069842f29817615611619c9b/csv?layers=0"
     kind: csv
     year: "2017-18"
+    added: "2026-06-15"
     topics: [accountability, gis]
 
   - id: opendata-dcps-locations-csv
@@ -116,6 +126,7 @@ data_files:
     url: "https://opendata.dc.gov/api/download/v1/items/4ac321b2d409438ebd76a6569ad94034/csv?layers=5"
     kind: csv
     year: "current"
+    added: "2026-06-15"
     topics: [profiles, gis]
 
   - id: opendata-charter-locations-csv
@@ -124,6 +135,7 @@ data_files:
     url: "https://opendata.dc.gov/api/download/v1/items/a3832935b1d644e48c887e6ec5a65fcd/csv?layers=1"
     kind: csv
     year: "current"
+    added: "2026-06-15"
     topics: [profiles, gis]
 
   - id: opendata-assessment-csv
@@ -132,6 +144,7 @@ data_files:
     url: "https://opendata.dc.gov/api/download/v1/items/85fce54dea6946dea827c02a6bda88bb/csv?layers=23"
     kind: csv
     year: "2014-15 to 2016-17"
+    added: "2026-06-15"
     topics: [assessment, gis]
 
   # ---- Harvested from osse-report-card-resource-library (80 files) ----
@@ -141,6 +154,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [methodology]
 
   - id: osse-rl-2025-calculation-confirmation-mcc-dictionary-2025
@@ -149,6 +163,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary%20%289.30.25%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [methodology]
 
   - id: osse-rl-dc-report-advanced-coursework-and-sat-scores-2025-2025
@@ -157,6 +172,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Advanced%20Coursework%20and%20SAT%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [advanced-coursework]
 
   - id: osse-rl-dc-report-assessment-scores-2025-2025
@@ -165,6 +181,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-attendance-scores-2025-2025
@@ -173,6 +190,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [attendance]
 
   - id: osse-rl-dc-report-class-scores-2025-2025
@@ -181,6 +199,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-student-movement-scores-2025-2025
@@ -189,6 +208,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [student-movement]
 
   - id: osse-rl-dc-report-dc-says-grades-3-12-student-scores-2025-2025
@@ -197,6 +217,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%203-12%20Student%20Metric%20Scores%20%282025%29v3.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-dc-says-grades-pk-12-family-scores-2025-2025
@@ -205,6 +226,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%20PK-12%20Family%20Metric%20Scores%20%282025%29v3.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-dc-says-grades-pk-12-staff-scores-2025-2025
@@ -213,6 +235,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Grades%20PK-12%20Staff%20Metric%20Scores%20%282025%29v3.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-dc-says-adult-student-and-staff-scores-2025-2025
@@ -221,6 +244,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20%E2%80%93%20DC%20SAYS%20Adult%20Student%20and%20Staff%20Metric%20Scores%20%282025%29v3.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-discipline-scores-2025-2025
@@ -229,6 +253,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: osse-rl-dc-report-graduation-and-college-enrollment-scores-2025-2025
@@ -237,6 +262,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [graduation]
 
   - id: osse-rl-dc-report-lea-course-catalog-2025-2025
@@ -245,6 +271,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20LEA%20Course%20Catalog%20%282025%29_v2%20%281%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [profiles]
 
   - id: osse-rl-dc-report-school-directory-information-2025-2025
@@ -253,6 +280,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20Information%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [profiles]
 
   - id: osse-rl-dc-report-accountability-2025-2025
@@ -261,6 +289,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Accountability%20Scores%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-floors-and-targets-2025-2025
@@ -269,6 +298,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Floors%20and%20Targets%20%282025%29_0.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-state-level-msaa-participation-2025-2025
@@ -277,6 +307,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20MSAA%20Participation%20Data%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-state-level-cape-science-and-dlm-cross-tabulated-2025-2025
@@ -285,6 +316,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20DC%20CAPE%20Science%20and%20DLM%20Cross%20Tabulated%20Data%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-state-level-cape-and-msaa-cross-tabulated-2025-2025
@@ -293,6 +325,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State-Level%20DC%20CAPE%20and%20MSAA%20Cross-Tabulated%20Data%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-state-overall-assessment-growth-scores-cross-tabulated-2025
@@ -301,6 +334,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State%20Overall%20Assessment%20Growth%20Metric%20Scores%20Cross%20Tabulated%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-state-overall-acgr-scores-cross-tabulated-2025-2025
@@ -309,6 +343,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20State%20Overall%20ACGR%20Metric%20Scores%20Cross%20Tabulated%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [graduation]
 
   - id: osse-rl-dc-report-progress-toward-long-term-goals-2025
@@ -317,6 +352,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20-%202024-25%20Progress%20Toward%20Long%20Term%20Goals%20%282025%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-accountability-2024-2024
@@ -325,6 +361,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Accountability%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-advanced-coursework-and-sat-scores-2024-2024
@@ -333,6 +370,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Advanced%20Coursework%20and%20SAT%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [advanced-coursework]
 
   - id: osse-rl-dc-report-aggregate-enrollment-2024-2024
@@ -341,6 +379,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data%20%282%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [enrollment, demographics]
 
   - id: osse-rl-dc-report-assessment-scores-2024-2024
@@ -349,6 +388,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-assessment-science-scores-2024-2024
@@ -357,6 +397,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Assessment%20Science%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-attendance-scores-2024-2024
@@ -365,6 +406,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [attendance]
 
   - id: osse-rl-dc-report-class-scores-2024-2024
@@ -373,6 +415,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-discipline-scores-2024-2024
@@ -381,6 +424,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: osse-rl-dc-report-floors-and-targets-2024-2024
@@ -389,6 +433,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Floors%20and%20Targets%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-graduation-and-college-enrollment-scores-2024-2024
@@ -397,6 +442,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores%20%282024%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [graduation]
 
   - id: osse-rl-dc-report-school-directory-information-2024-2024
@@ -405,6 +451,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20Information%20%282024%29%20update.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [profiles]
 
   - id: osse-rl-dc-report-student-movement-scores-2024-2024
@@ -413,6 +460,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores%20%282024%29_0.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [student-movement]
 
   - id: osse-rl-dc-report-educator-2024-2024
@@ -421,6 +469,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Data%20Files%20%28Oct%2028%29_0.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: osse-rl-metric-calculation-confirmation-dictionary-2024
@@ -429,6 +478,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20MCC%20Data%20Dictionary%20for%20LEAs%20-%20August%20Update.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [methodology]
 
   - id: osse-rl-dc-report-school-finance-data-2023
@@ -437,6 +487,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Finance%20Data%20%282023%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-dc-report-common-financial-reporting-standards-2023
@@ -445,6 +496,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Common%20Financial%20Reporting%20Standards%20%282023%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-dc-report-aggregate-enrollment-data-2023
@@ -453,6 +505,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [enrollment, demographics]
 
   - id: osse-rl-dc-report-aggregate-public-data-2023
@@ -461,6 +514,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data_1.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [other]
 
   - id: osse-rl-dc-report-ap-ib-and-sat-scores-2023
@@ -469,6 +523,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20-%20Metric%20Scores_0.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [advanced-coursework]
 
   - id: osse-rl-dc-report-card-attendance-scores-2023
@@ -477,6 +532,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [attendance]
 
   - id: osse-rl-dc-report-directory-data-2023
@@ -485,6 +541,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20School%20Directory%20-%20Data%20%282023%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [profiles]
 
   - id: osse-rl-dc-report-class-scores-2023
@@ -493,6 +550,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-graduation-and-college-enrollment-scores-2023
@@ -501,6 +559,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores_0.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [graduation]
 
   - id: osse-rl-dc-report-student-movement-scores-2023
@@ -509,6 +568,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2223%20DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [student-movement]
 
   - id: osse-rl-dc-report-school-summative-scores-2023
@@ -517,6 +577,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20-%20Summative%20Score%20Data%20%282023%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-discipline-data-2023
@@ -525,6 +586,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20Discipline%20Data%20%282023%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: osse-rl-dc-report-assessment-data-2023
@@ -533,6 +595,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023%20DC%20School%20Report%20Card%20Assessment-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-floors-and-targets-data-2023
@@ -541,6 +604,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023%20DC%20School%20Report%20Card%20Floors%20and%20Targets%20Public%20Data.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-aggregate-enrollment-data-2022
@@ -549,6 +613,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Data.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [enrollment, demographics]
 
   - id: osse-rl-dc-report-school-accountability-data-2022
@@ -557,6 +622,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-dc-report-ap-ib-and-sat-scores-2022
@@ -565,6 +631,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [advanced-coursework]
 
   - id: osse-rl-dc-report-assessment-scores-2022
@@ -573,6 +640,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=xbjixab1cegi868y205be1duiahwb20t&file_id=f_1267017259127"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [assessment]
 
   - id: osse-rl-dc-report-attendance-scores-2022
@@ -581,6 +649,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Attendance%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [attendance]
 
   - id: osse-rl-dc-report-class-scores-2022
@@ -589,6 +658,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20CLASS%20-%20Metric%20Scores%20%284.3.23%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-dc-report-discipline-scores-2022
@@ -597,6 +667,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Discipline%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: osse-rl-dc-report-graduation-and-college-enrollment-scores-2022
@@ -605,6 +676,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [graduation]
 
   - id: osse-rl-dc-report-finance-data-2022
@@ -613,6 +685,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20School%20Finance%20Data%20%282%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-dc-report-student-movement-scores-2022
@@ -621,6 +694,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Student%20Movement%20-%20Metric%20Scores_0.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [student-movement]
 
   - id: osse-rl-dc-report-teachers-and-leaders-2022
@@ -629,6 +703,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2122%20DC%20School%20Report%20Card%20Teachers%20and%20School%20Leaders%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: osse-rl-2021-school-card-aggregate-enrollment-metrics-2021
@@ -637,6 +712,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Aggregate%20Enrollment%20Metrics_1.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [enrollment, demographics]
 
   - id: osse-rl-2021-school-card-alternative-metrics-2021
@@ -645,6 +721,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Alternative%20Schools%20Metrics.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-2021-school-card-ap-ib-and-sat-metrics-2021
@@ -653,6 +730,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20AP%20IB%20and%20SAT%20Metrics.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [advanced-coursework]
 
   - id: osse-rl-2021-school-card-attendance-metrics-2021
@@ -661,6 +739,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Attendance%20Metrics%20%281%29.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [attendance]
 
   - id: osse-rl-2021-school-card-directory-data-2021
@@ -669,6 +748,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Directory%20Data.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [profiles]
 
   - id: osse-rl-2021-school-card-graduation-and-college-enrollment-metrics-2021
@@ -677,6 +757,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Graduation%20and%20College%20Enrollment%20Metrics.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [enrollment, graduation]
 
   - id: osse-rl-2021-school-card-learning-environment-metrics-2021
@@ -685,6 +766,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Learning%20Environment%20Data_0.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [school-climate]
 
   - id: osse-rl-2021-school-card-student-movement-metrics-2021
@@ -693,6 +775,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Student%20Movement%20Metrics.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [student-movement]
 
   - id: osse-rl-2021-school-card-teacher-and-leader-metrics-2021
@@ -701,6 +784,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20Teacher%20and%20School%20Leader%20Metrics.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: osse-rl-2021-school-card-per-pupil-expenditures-file-2021
@@ -709,6 +793,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20DC%20School%20Report%20Card%20School%20Finance.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-2020-school-card-aggregate-file-2020
@@ -717,6 +802,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     topics: [other]
 
   - id: osse-rl-2020-school-card-cross-tabulated-file-2020
@@ -725,6 +811,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Public%20Data%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     topics: [other]
 
   - id: osse-rl-2020-school-card-per-pupil-expenditures-file-2020
@@ -733,6 +820,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20DC%20School%20Report%20Card%20Per-Pupil%20Expenditures%20File.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-2019-school-card-and-star-framework-file-2019
@@ -741,6 +829,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019%20DC%20School%20Report%20Card%20Aggregate%20Public%20Data_.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-2019-school-card-and-star-framework-cross-tabulated-file-2019
@@ -749,6 +838,7 @@ data_files:
     url: "https://app.box.com/s/tb3ipg32wo48di3ph58llnpim5632fn9"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-2019-school-card-per-pupil-expenditures-file-2019
@@ -757,6 +847,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Report%20Card_School%20Finance%20Public%20File.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     topics: [finance]
 
   - id: osse-rl-2018-school-card-and-star-framework-files-2018
@@ -765,6 +856,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20DC%20School%20Report%20Card%20and%20STAR%20Framework%20Public%20Data_2.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     topics: [accountability]
 
   - id: osse-rl-2018-star-framework-cross-tabulated-student-group-file-2018
@@ -773,6 +865,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=bzcnvfcfptfgn1937tphy4x8tzvrl27d&file_id=f_2115750109619"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     topics: [accountability]
 
   # ---- Harvested from myschooldc-lottery (122 files) ----
@@ -782,6 +875,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260602_MySchoolDC_Tableau_Data.xlsx"
     kind: xlsx
     year: "2026-06"
+    added: "2026-06-15"
     topics: [other]
 
   - id: msdc-total-applications-and-results-from-2018-to-2026-lotteries-2018
@@ -790,6 +884,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Total_Applications.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-by-grade-2026
@@ -798,6 +893,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_by_Grade.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applications-by-grade-2025
@@ -806,6 +902,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_by_Grade.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applications-by-grade-2024
@@ -814,6 +911,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_by_Grade.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applicants-by-grade-2023
@@ -822,6 +920,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_by_Grade.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applicants-grade-2022
@@ -830,6 +929,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bygrade-2021
@@ -838,6 +938,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_bygrade.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bygrade-2020
@@ -846,6 +947,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_bygrade.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bygrade-2019
@@ -854,6 +956,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_bygrade.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bygrade-2018
@@ -862,6 +965,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_bygrade.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bygrade-2017
@@ -870,6 +974,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_bygrade.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-number-of-applications-by-grade-2016
@@ -878,6 +983,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-number-of-applications-by-grade.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-r1-applications-bygrade-2015
@@ -886,6 +992,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_bygrade.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applications-bygrade-2014
@@ -894,6 +1001,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_bygrade.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-available-2026
@@ -902,6 +1010,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Seats_Available.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-and-seats-by-grade-2025
@@ -910,6 +1019,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applications_and_Seats_by_Grade.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applications-and-seats-by-grade-2024
@@ -918,6 +1028,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applications_and_Seats_by_Grade.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applicants-and-seats-offered-by-grade-2023
@@ -926,6 +1037,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_and_Seats_Offered_by_Grade.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applications-seats-offered-2022
@@ -934,6 +1046,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY22_23_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-offered-2021
@@ -942,6 +1055,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-offered-2020
@@ -950,6 +1064,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-offered-2019
@@ -958,6 +1073,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-offered-2018
@@ -966,6 +1082,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-seats-offered-2017
@@ -974,6 +1091,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_seats_offered.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-applications-and-seats-offered-2016
@@ -982,6 +1100,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applications-and-seats-offered.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applications-seats-offered-2015
@@ -990,6 +1109,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applications_seats_offered.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applications-seats-offered-2014
@@ -998,6 +1118,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applications_seats_offered.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlists-2026
@@ -1006,6 +1127,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Unique_Applicants_Waitlists.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlisted-2025
@@ -1014,6 +1136,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Unique_Applicants_Waitlisted.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlisted-2024
@@ -1022,6 +1145,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Unique_Applicants_Waitlisted.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlisted-2023
@@ -1030,6 +1154,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Unique_Applicants_Waitlisted.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-waitlisted-2022
@@ -1038,6 +1163,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_waitlisted.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlist-2021
@@ -1046,6 +1172,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_unique_applicants_waitlist.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlist-2020
@@ -1054,6 +1181,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_unique_applicants_waitlist.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-unique-applicants-waitlist-2019
@@ -1062,6 +1190,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_unique_applicants_waitlist.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-waitlist-2018
@@ -1070,6 +1199,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_waitlist.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-waitlist-2017
@@ -1078,6 +1208,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_waitlist.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-unique-applicants-on-wls-by-grade-2016
@@ -1086,6 +1217,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-unique-applicants-on-wls-by-grade.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-r1-applicants-waitlist-2015
@@ -1094,6 +1226,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_waitlist.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applicants-waitlist-2014
@@ -1102,6 +1235,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_waitlist.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-preferred-language-2026
@@ -1110,6 +1244,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applications_Preferred_Language.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-language-percent-2025
@@ -1118,6 +1253,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Language_Percent.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-language-2024
@@ -1126,6 +1262,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Language.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-language-2023
@@ -1134,6 +1271,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Language.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-language-2022
@@ -1142,6 +1280,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_language.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-preferred-language-2021
@@ -1150,6 +1289,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_preferred_language.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-preferred-language-2020
@@ -1158,6 +1298,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_preferred_language.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-preferred-language-2019
@@ -1166,6 +1307,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applicants_preferred_language.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-preferred-language-2018
@@ -1174,6 +1316,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_preferred_language.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-applicants-preferred-language-2017
@@ -1182,6 +1325,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_preferred_language.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-lottery-applicants-by-preferred-language-2016
@@ -1190,6 +1334,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-applicants-by-preferred-language.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-r1-applicants-preferred-language-2015
@@ -1198,6 +1343,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_preferred_language.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-r1-applicants-preferred-language-2014
@@ -1206,6 +1352,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_preferred_language.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery, demographics]
 
   - id: msdc-lottery-distribution-applications-ward-2026
@@ -1214,6 +1361,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Distribution_Applications_Ward.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-ward-2025
@@ -1222,6 +1370,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Ward.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-ward-2024
@@ -1230,6 +1379,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Ward.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-ward-2023
@@ -1238,6 +1388,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/u396/SY23_24_Applicants_Ward.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-ward-2022
@@ -1246,6 +1397,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_Ward.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-byward-2021
@@ -1254,6 +1406,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applicants_byward.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-byward-2020
@@ -1262,6 +1415,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_applicants_byward.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-2019
@@ -1270,6 +1424,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-byward-2018
@@ -1278,6 +1433,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applicants_byward.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-byward-2017
@@ -1286,6 +1442,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applicants_byward.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-distribution-of-applications-by-war-2016
@@ -1294,6 +1451,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-distribution-of-applications-by-war.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applicants-byward-2015
@@ -1302,6 +1460,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_applicants_byward.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-applicants-byward-2014
@@ -1310,6 +1469,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_applicants_byward.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-grade-ward-2026
@@ -1318,6 +1478,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Applicants_Grade_Ward.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-grade-ward-2025
@@ -1326,6 +1487,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Applicants_Grade_Ward.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-grade-ward-2024
@@ -1334,6 +1496,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Applicants_Grade_Ward.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-grade-ward-2023
@@ -1342,6 +1505,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Applicants_Grade_Ward.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-grade-ward-2022
@@ -1350,6 +1514,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_grade_ward.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-grade-2021
@@ -1358,6 +1523,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_applications_byward_grade.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-grade-2020
@@ -1366,6 +1532,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_applications_byward_grade.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-grade-2019
@@ -1374,6 +1541,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_applications_byward_grade.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-grade-2018
@@ -1382,6 +1550,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_applications_byward_grade.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-byward-grade-2017
@@ -1390,6 +1559,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY17_18_L_applications_byward_grade.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-applications-bywardandgrade-2016
@@ -1398,6 +1568,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2016_Lottery_Applications_byWardandGrade.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bywardandgrade-2015
@@ -1406,6 +1577,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2015_R1_Applications_byWardandGrade.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applications-bywardandgrade-2014
@@ -1414,6 +1586,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/2014_R1_Applications_byWardandGrade.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-residence-2026
@@ -1422,6 +1595,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Ward_Residence.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2025
@@ -1430,6 +1604,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Rate_Ward.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2024
@@ -1438,6 +1613,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Rate_Ward.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2023
@@ -1446,6 +1622,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Rate_Ward.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-applicants-match-ward-2022
@@ -1454,6 +1631,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicants_match_ward.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2021
@@ -1462,6 +1640,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_ward.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2020
@@ -1470,6 +1649,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_L_match_rate_ward.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2019
@@ -1478,6 +1658,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_ward.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-ward-2018
@@ -1486,6 +1667,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_ward.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-2017-data-slides-match-rate-by-ward-of-residence-2017
@@ -1494,6 +1676,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Ward%20of%20Residence.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-match-rate-by-ward-of-residence-2016
@@ -1502,6 +1685,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-ward-of-residence.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-match-rate-ward-2015
@@ -1510,6 +1694,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_ward.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-match-rate-ward-2014
@@ -1518,6 +1703,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_ward.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-selection-2026
@@ -1526,6 +1712,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Median_School_Selection.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-choices-by-grade-2025
@@ -1534,6 +1721,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Median_School_Choices_by_Grade.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-median-choices-by-grade-2024
@@ -1542,6 +1730,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Median_School_Choices_by_Grade.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-median-choices-by-grade-2023
@@ -1550,6 +1739,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Median_School_Choices_by_Grade.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-applicant-median-selection-2022
@@ -1558,6 +1748,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_applicant_median_school_selection.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-number-selections-2021
@@ -1566,6 +1757,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_median_number_selections.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-number-selections-2020
@@ -1574,6 +1766,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_median_number_selections.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-number-selections-2019
@@ -1582,6 +1775,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_median_number_selections.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-median-number-selections-2018
@@ -1590,6 +1784,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_median_number_selections.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-2017-data-slides-median-number-of-selections-2017
@@ -1598,6 +1793,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Median%20Number%20of%20School%20Selections.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-lottery-median-number-of-selections-2016
@@ -1606,6 +1802,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-median-number-of-school-selections.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-median-number-selections-2015
@@ -1614,6 +1811,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_median_number_selections.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-median-number-selections-2014
@@ -1622,6 +1820,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_median_number_selections.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-grade-selections-2026
@@ -1630,6 +1829,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY26_27_Match_Rate_Grade_School_Selections.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-grade-selections-2025
@@ -1638,6 +1838,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY25_26_Match_Grade_School_Selections.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-grade-selection-2024
@@ -1646,6 +1847,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY24_25_Match_Grade_School_Selection.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-grade-selections-2023
@@ -1654,6 +1856,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY23_24_Match_Grade_School_Selections.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-grade-selection-2022
@@ -1662,6 +1865,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/SY22_23_L_match_grade_school_selection.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-grade-selections-2021
@@ -1670,6 +1874,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY21_22_L_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-grade-selections-2020
@@ -1678,6 +1883,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/SY20_21_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-grade-selections-2019
@@ -1686,6 +1892,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY19_20_L_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-match-rate-grade-selections-2018
@@ -1694,6 +1901,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/SY18_19_L_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-2017-data-slides-match-rate-by-grade-and-number-of-selections
@@ -1702,6 +1910,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/2017%20Lottery%20Data%20Slides%20-%20Match%20Rate%20by%20Grade%20and%20Number%20of%20School%20Selections.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-lottery-match-rate-by-grade-and-number-of-s-2016
@@ -1710,6 +1919,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2016-lottery-match-rate-by-grade-and-number-of-s.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [lottery, enrollment]
 
   - id: msdc-lottery-r1-match-rate-grade-selections-2015
@@ -1718,6 +1928,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2015_r1_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-lottery-r1-match-rate-grade-selections-2014
@@ -1726,6 +1937,7 @@ data_files:
     url: "http://myschooldc.org/sites/default/files/dc/sites/myschooldc/page/2014_r1_match_rate_grade_selections.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-my-dc-process-and-requirements-to-conduct-research-unknown
@@ -1734,6 +1946,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/u21/MSDC_Data_Request_Process.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-06-15"
     topics: [other]
 
   - id: msdc-giving-at-risk-students-preference-in-a-unified-for-public-schools-unk
@@ -1742,6 +1955,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/MSDC%20At-Risk%20Preference%20in%20a%20Unified%20Lottery%204.26.2018_Final.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [lottery]
 
   - id: msdc-dual-language-immersion-demand-unknown
@@ -1750,6 +1964,7 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/Dual%20Language%20Immersion%20Demand%20Research%20FINAL.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-06-15"
     topics: [demographics]
 
   # ---- Harvested from edscape-enrollment-patterns (9 files) ----
@@ -1759,6 +1974,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-commute-path
@@ -1767,6 +1983,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2024.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-enrollments
@@ -1775,6 +1992,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Enrollments%20per%20DCPS%20Boundary_2025.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [boundaries]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-distance-202
@@ -1783,6 +2001,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Distance_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-1-population-and-students-where-st
@@ -1791,6 +2010,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Students%20Miss%20School_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-feeders-2026
@@ -1799,6 +2019,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Feeders_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [boundaries]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-gpr-2026-unk
@@ -1807,6 +2028,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_GPR_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-population-and-students-edscape-chapter-4-enrollment-patterns-total-pu
@@ -1815,6 +2037,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Total%20Public%20School%20Enrollment_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [other]
 
   - id: edscape-population-and-students-edscape-chapter-4-enrollment-patterns-public-e
@@ -1823,6 +2046,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Public%20School%20Enrollment%20by%20Grade_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [enrollment]
 
   # ---- Harvested from pcsb-discipline-attendance (5 files) ----
@@ -1832,6 +2056,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf"
     kind: pdf
     year: "2022-23"
+    added: "2026-06-15"
     topics: [attendance, discipline]
 
   - id: pcsb-disc-discipline-attendance-sy-17-18-attendance-and-discipline-report-unknow
@@ -1840,6 +2065,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [attendance, discipline]
 
   - id: pcsb-disc-discipline-attendance-pcsb-sy-2015-16-truancy-report-2015
@@ -1848,6 +2074,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [attendance, discipline]
 
   - id: pcsb-disc-discipline-attendance-15-pcsb-discipline-and-truancy-report-2020-14
@@ -1856,6 +2083,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf"
     kind: pdf
     year: "2020-14"
+    added: "2026-06-15"
     topics: [attendance, discipline]
 
   - id: pcsb-disc-discipline-attendance-2015-discipline-attendance-briefing-full-report
@@ -1864,6 +2092,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [attendance, discipline]
 
   # ---- Harvested from pcsb-school-finances (4 files) ----
@@ -1873,6 +2102,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-fin-at-risk-funding-sy-17-18-at-risk-funding-report-2017
@@ -1881,6 +2111,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-fin-at-risk-funding-pcsb-at-risk-funding-revised-102716-2016
@@ -1889,6 +2120,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-fin-at-risk-funding-at-risk-2015-final-10-01-2015-1-2010
@@ -1897,6 +2129,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf"
     kind: pdf
     year: "2010"
+    added: "2026-06-15"
     topics: [other]
 
   # ---- Harvested from pcsb-pmf-archive (9 files) ----
@@ -1906,6 +2139,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-12-12-final-2015-16-pmf-book-2016
@@ -1914,6 +2148,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-vote-2015-16-pmf-policy-tech-march-meeting-final-clean-cop
@@ -1922,6 +2157,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-final-pmf-book-2015-2-29-2016-2029
@@ -1930,6 +2166,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-revised-2014-15-pmf-policy-tech-guide-approved-8-17-15-fin
@@ -1938,6 +2175,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-14-book-12-11-2014-2013
@@ -1946,6 +2184,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-2014technicalguide-01-10-14-final-2001
@@ -1954,6 +2193,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-2013-pmf-reduced-2-2013
@@ -1962,6 +2202,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-release-2012-2013-pmf-guidelines-revised-9-12-2012
@@ -1970,6 +2211,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf"
     kind: pdf
     year: "2012"
+    added: "2026-06-15"
     topics: [other]
 
   # ---- Harvested from pcsb-equity-reports (9 files) ----
@@ -1979,6 +2221,7 @@ data_files:
     url: "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-academy-of-hope-adult-pcs
@@ -1987,6 +2230,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-briya-pcs-unknown
@@ -1995,6 +2239,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-carlos-rosario-internation
@@ -2003,6 +2248,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-community-college-preparat
@@ -2011,6 +2257,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-layc-career-academy-pcs-un
@@ -2019,6 +2266,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-maya-angelou-pcs-young-adu
@@ -2027,6 +2275,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-the-next-step-el-proximo-p
@@ -2035,6 +2284,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-eq-school-equity-reports-equity-public-charter-youthbuild-pcs-unknown
@@ -2043,6 +2293,7 @@ data_files:
     url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   # ---- Harvested from osse-assessment-archive (35 files) ----
@@ -2052,6 +2303,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5nvo8y8p0zmfef6hrb0ivrbfn3xz2f54&file_id=f_1627757245452"
     kind: xlsx
     year: "2023-24"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/assessmentresults2024"
     topics: [assessment]
 
@@ -2061,6 +2313,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=x3026w17o4pmrbxjut2io5t51168b5y2&file_id=f_1760741060635"
     kind: xlsx
     year: "2023-24"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/assessmentresults2024"
     topics: [assessment]
 
@@ -2070,6 +2323,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5gs5mber6fgumxraljpx0a3se21295in&file_id=f_1760740978845"
     kind: xlsx
     year: "2023-24"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/assessmentresults2024"
     topics: [assessment]
 
@@ -2079,6 +2333,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=br596zlfnrfltvw2yoxvaecm2jkhw51e&file_id=f_1300115605451"
     kind: xlsx
     year: "2022-23"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1671391"
     topics: [assessment]
 
@@ -2088,6 +2343,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=w3dz0osavcf1x4qenwk9yr4n709go41g&file_id=f_1300113448491"
     kind: xlsx
     year: "2022-23"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1671391"
     topics: [assessment]
 
@@ -2097,6 +2353,7 @@ data_files:
     url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sqqkkz8jrwrqqqxxsij3p65t3xco47u2&file_id=f_1299960704677"
     kind: xlsx
     year: "2022-23"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1671391"
     topics: [assessment]
 
@@ -2106,6 +2363,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20Participation%20with%20Accommodations%20SY2223.xlsx"
     kind: xlsx
     year: "2022-23"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1671391"
     topics: [assessment]
 
@@ -2115,6 +2373,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20State%20Level%20PARCC%20and%20MSAA%20Data.xlsx"
     kind: xlsx
     year: "2021-22"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1613796"
     topics: [assessment]
 
@@ -2124,6 +2383,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20School%2C%20LEA%2C%20and%20State%20Participation.xlsx.xlsx"
     kind: xlsx
     year: "2021-22"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1613796"
     topics: [other]
 
@@ -2133,6 +2393,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx"
     kind: xlsx
     year: "2021-22"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1613796"
     topics: [assessment]
 
@@ -2142,6 +2403,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20ELA%201.15.20.Xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1420701"
     topics: [assessment]
 
@@ -2151,6 +2413,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20School%20Level%20Math%201.15.20.Xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1420701"
     topics: [other]
 
@@ -2160,6 +2423,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018-19%20PARCC%20And%20MSAA%20Performance%202.19.20.Xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1420701"
     topics: [assessment]
 
@@ -2169,6 +2433,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation%201.15.20.Xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1420701"
     topics: [other]
 
@@ -2178,6 +2443,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities%201.15.20.xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1420701"
     topics: [assessment]
 
@@ -2187,6 +2453,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20ELA.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [assessment]
 
@@ -2196,6 +2463,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20School%20Level%20Math.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [other]
 
@@ -2205,6 +2473,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202018%20PARCC%20and%20MSAA%20Performance.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [assessment]
 
@@ -2214,6 +2483,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202017-18.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [other]
 
@@ -2223,6 +2493,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20PARCC%20and%20MSAA%20Participation%20and%20Performance%20Results%20for%20Students%20with%20Disabilities.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [assessment]
 
@@ -2232,6 +2503,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Detailed%202014-15%20PARCC%20and%20MSAA%20Performance.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1348731"
     topics: [assessment]
 
@@ -2241,6 +2513,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20ELA_0.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1267021"
     topics: [assessment]
 
@@ -2250,6 +2523,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20School%20Level%20Math_0.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1267021"
     topics: [other]
 
@@ -2259,6 +2533,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Detailed%202017%20PARCC%20and%20MSAA%20Performance_0.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1267021"
     topics: [assessment]
 
@@ -2268,6 +2543,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20PARCC%20-%202016-2017.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1267021"
     topics: [assessment]
 
@@ -2277,6 +2553,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202016-17_0.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1267021"
     topics: [other]
 
@@ -2286,6 +2563,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20ELA%20school%20level%202015-16_0.xlsx"
     kind: xlsx
     year: "2015-16"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1185345"
     topics: [assessment]
 
@@ -2295,6 +2573,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%20Math%20school%20level%202015-16.xlsx"
     kind: xlsx
     year: "2015-16"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1185345"
     topics: [assessment]
 
@@ -2304,6 +2583,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%2C%20LEA%2C%20and%20State%20Participation%202015-16.xlsx"
     kind: xlsx
     year: "2015-16"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1185345"
     topics: [other]
 
@@ -2313,6 +2593,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results_0.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [other]
 
@@ -2322,6 +2603,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20Math%20School%20Results_0.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [assessment]
 
@@ -2331,6 +2613,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20Grades%203-8%20English%20Language%20Arts%20School%20Results_1.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [demographics]
 
@@ -2340,6 +2623,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Aggregate%20State%2C%20Sector%2C%20and%20School%20Results.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [other]
 
@@ -2349,6 +2633,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20English%20II%20School%20Results_0.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [other]
 
@@ -2358,6 +2643,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC%202015%20DC%20HS%20Math%20School%20Results_0.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://osse.dc.gov/node/1184545"
     topics: [assessment]
 
@@ -2368,6 +2654,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY25-26%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2377,6 +2664,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY24-25%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2024-25"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2386,6 +2674,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY23-24%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2023-24"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2395,6 +2684,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY22-23%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2022-23"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2404,6 +2694,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY21-22-Enrollment-Audit.xlsx"
     kind: xlsx
     year: "2021-22"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2413,6 +2704,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY20-21-Enrollment-Audit.xlsx"
     kind: xlsx
     year: "2020-21"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2422,6 +2714,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-SY19-20-Enrollment-Audit.xlsx"
     kind: xlsx
     year: "2019-20"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2431,6 +2724,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY18-19%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2440,6 +2734,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY17-18%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2017-18"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2449,6 +2744,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY16-17%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2016-17"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2458,6 +2754,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY15-16%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2015-16"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2467,6 +2764,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY14-15%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2014-15"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2476,6 +2774,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY13-14%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2013-14"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2485,6 +2784,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY12-13%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2012-13"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2494,6 +2794,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY11-12%20Enrollment%20Audit.xlsx"
     kind: xlsx
     year: "2011-12"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -2503,6 +2804,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202025%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2512,6 +2814,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2521,6 +2824,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20ACGR%20Overall%20and%20Subgroup_for%20DCPS%20website.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2530,6 +2834,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202022%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2539,6 +2844,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2021-Graduation-Data-Overall-Subgroup.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2548,6 +2854,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2020-Graduation-Data-Overall-Subgroup.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2557,6 +2864,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-2019-Graduation-Data-Overall-Subgroup.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2566,6 +2874,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202018%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2575,6 +2884,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202017%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2584,6 +2894,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202016%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2593,6 +2904,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202015%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2015"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2602,6 +2914,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202014%20Graduation%20Data%20Overall%20Subgroup.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2611,6 +2924,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202013%20Graduation%20Data%20Overall%20Subgroup_0.xlsx"
     kind: xlsx
     year: "2013"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2620,6 +2934,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%202012%20Graduation%20Data%20Overall%20Subgroup_0.xlsx"
     kind: xlsx
     year: "2012"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-graduation-rates"
     topics: [graduation]
 
@@ -2629,6 +2944,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2013-2014.xlsx"
     kind: xlsx
     year: "2013"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2638,6 +2954,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2012-2013.xlsx"
     kind: xlsx
     year: "2012"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2647,6 +2964,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2011-2012.xlsx"
     kind: xlsx
     year: "2011"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2656,6 +2974,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2010-2011.xlsx"
     kind: xlsx
     year: "2010"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2665,6 +2984,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2009-2010.xlsx"
     kind: xlsx
     year: "2009"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2674,6 +2994,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2008-2009.xlsx"
     kind: xlsx
     year: "2008"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2683,6 +3004,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2007-2008.xlsx"
     kind: xlsx
     year: "2007"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2692,6 +3014,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20DC%20CAS%20SY2006-2007.xlsx"
     kind: xlsx
     year: "2006"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
     topics: [other]
 
@@ -2701,6 +3024,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2710,6 +3034,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20SAT%20Scores_0.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2719,6 +3044,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2728,6 +3054,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2737,6 +3064,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-SATScores.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2746,6 +3074,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-SAT-Scores.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2755,6 +3084,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2764,6 +3094,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2773,6 +3104,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2782,6 +3114,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2015"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2791,6 +3124,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2800,6 +3134,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2013"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2809,6 +3144,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20SAT%20Scores.xlsx"
     kind: xlsx
     year: "2012"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-sat"
     topics: [advanced-coursework]
 
@@ -2818,6 +3154,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202024-2025%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2827,6 +3164,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202023-2024%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2836,6 +3174,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202022-2023%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2845,6 +3184,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202021-2022%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2854,6 +3194,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SchoolYear2020-2021-APScores.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2863,6 +3204,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School-Year-2019-2020-AP-Scores.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2872,6 +3214,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202018-2019%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2881,6 +3224,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202017-2018%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2890,6 +3234,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202016-2017%20AP%20Scores.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2899,6 +3244,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202015-2016%20AP%20Scores_1.xlsx"
     kind: xlsx
     year: "2015"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2908,6 +3254,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202014-2015%20AP%20Scores_0.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2917,6 +3264,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202013-2014%20AP%20Scores_1.xlsx"
     kind: xlsx
     year: "2013"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2926,6 +3274,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202012-2013%20AP%20Scores_1.xlsx"
     kind: xlsx
     year: "2012"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2935,6 +3284,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/School%20Year%202011-2012%20AP%20Scores_1.xlsx"
     kind: xlsx
     year: "2011"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/ap-score-data-sets"
     topics: [other]
 
@@ -2944,6 +3294,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20CAPE%20Scores%20%E2%80%93%20School%20Year%202024-25.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -2953,6 +3304,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20Overall%20and%20Subgroups_public_formatted_Read%20Only.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -2962,6 +3314,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202022-23.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -2971,6 +3324,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20Overall%20and%20Subgroups_public_formatted_protected.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -2980,6 +3334,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-Overall-and-Subgroups_public_formatted.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -2989,6 +3344,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202017-18.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -2998,6 +3354,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20-%20School%20Year%202016-17.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -3007,6 +3364,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DC%20PARCC%20Scores%20%E2%80%93%20School%20Year%202015-16.xlsx"
     kind: xlsx
     year: "2015"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -3016,6 +3374,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015%20Overall%20Subgroup%20Proficiency%20Public.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [other]
 
@@ -3026,6 +3385,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2025%20DC%20CAPE%20Presentation.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3035,6 +3395,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2024%20DC%20CAPE%20Results%20Deck_Public%20Release.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3044,6 +3405,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2023%20DC%20PARCC%20Presentation.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3053,6 +3415,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2022%20PARCC%20Results%20Deck_Public%20Release.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3062,6 +3425,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2019-PARCC-Results-Deck-for-Press.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3071,6 +3435,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2018%20DCPS%20PARCC%20Results%20Deck.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3080,6 +3445,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2017%20DC%20PARCC%20Presentation.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3089,6 +3455,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2016%20DC%20PARCC%20Presentation.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3098,6 +3465,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2015DCPARCCPresentation.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     page: "https://dcps.dc.gov/publication/dcps-data-set-parcc"
     topics: [assessment]
 
@@ -3108,6 +3476,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Educator%20Workforce%20Report%2010.2019.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-report-2021
@@ -3116,6 +3485,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022%20DC%20Educator%20Workforce%20Report_FINAL.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-report-2023
@@ -3124,6 +3494,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Report%20%28Oct%2028%29.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-2021
@@ -3132,6 +3503,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Retention%20One-Pager.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-2022
@@ -3140,6 +3512,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EduRetention_1pager_022423.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-2023
@@ -3148,6 +3521,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20ERB.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-2024
@@ -3156,6 +3530,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Education%20Retention%20Brief%202024-2025.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-2025
@@ -3164,6 +3539,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Retention%20Brief.pdf"
     kind: pdf
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-retention-brief-definitions-and-methodology-2024
@@ -3172,6 +3548,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Educator%20Retention%20Brief%20-%20Definitions%20and%20Methodology.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [educators, methodology]
 
   - id: edu-educator-workforce-file-all-files-2021
@@ -3180,6 +3557,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator_Data_May_2022.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-files-all-files-2022
@@ -3188,6 +3566,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20SY%202022-23%20%283%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-counts-and-demographics-2022
@@ -3196,6 +3575,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Counts%20and%20Demographics%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [demographics, educators]
 
   - id: edu-educator-workforce-preparation-and-performance-2022
@@ -3204,6 +3584,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File%20Prep%20and%20Perf%20Oct%2023%20Update.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-retention-2022
@@ -3212,6 +3593,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Retention%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-supply-and-demand-2022
@@ -3220,6 +3602,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20DC%20Educator%20Workforce%20Data%20File%20%28Supply%20and%20Demand%29.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-files-all-files-2023
@@ -3228,6 +3611,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024%20Educator%20Workforce%20Data%20Files%20%28Oct%2028%29_1.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-counts-and-demographics-2023
@@ -3236,6 +3620,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics%20%28Oct%2028%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [demographics, educators]
 
   - id: edu-educator-workforce-preparation-and-performance-2023
@@ -3244,6 +3629,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance%20%28Oct%2028%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-retention-2023
@@ -3252,6 +3638,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention%20%28Oct%2028%29%20.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-supply-and-demand-2023
@@ -3260,6 +3647,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Supply%20and%20Demand%20%28Oct%2028%29.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-files-all-files-2024
@@ -3268,6 +3656,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025%20Educator%20Data%20Flat%20File%20%28All%20Files%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-counts-and-demographics-2024
@@ -3276,6 +3665,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Counts%20and%20Demographics.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [demographics, educators]
 
   - id: edu-educator-workforce-preparation-and-performance-2024
@@ -3284,6 +3674,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Preparation%20and%20Performance_0.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-retention-2024
@@ -3292,6 +3683,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Retention.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-supply-and-demand-2024
@@ -3300,6 +3692,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Data%20Flat%20File_Vacancies.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-files-all-files-2025
@@ -3308,6 +3701,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Educator%20Workforce%20Data%20Files.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-counts-and-demographics-2025
@@ -3316,6 +3710,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Counts%20and%20Demographics.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [demographics, educators]
 
   - id: edu-educator-workforce-preparation-and-performance-2025
@@ -3324,6 +3719,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-retention-2025
@@ -3332,6 +3728,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Retention.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-workforce-supply-and-demand-2025
@@ -3340,6 +3737,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026%20DC%20Educator%20Data_Vacancies.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-preparation-provider-epp-landscape-brief-2024
@@ -3348,6 +3746,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP_Brief_May2025.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-preparation-provider-epp-files-2024
@@ -3356,6 +3755,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Public%20Flat%20Files%20%28Oct%2028%29.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-preparation-provider-epp-files-2025
@@ -3364,6 +3764,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20Files%20Spring%202025%20%281%29.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-06-15"
     topics: [educators]
 
   - id: edu-educator-preparation-provider-epp-files-2026
@@ -3372,6 +3773,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/EPP%20Public%20Flat%20File%20Spring%202026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [educators]
 
   # ---- Harvested from osse-special-ed (13 files) ----
@@ -3381,6 +3783,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FY%202018%20Performance%20on%20PARCC%20by%20Disability%20Type%20and%20Hours%20of%20Service.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-ffy-2024-special-education-annual-performance-part-b-2024
@@ -3389,6 +3792,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY24%20APR%20Part%20B%20LEA%20Reporting.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-ffy-2023-special-education-annual-performance-part-b-2023
@@ -3397,6 +3801,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC-01%20SPP%20PART%20B%20FFY%202023-24%20%203339%2020250623074712.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-ffy-2022-special-education-annual-performance-part-b-2022
@@ -3405,6 +3810,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20Annual%20Performance%20Report%20Part%20B.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-ffy-2021-special-education-annual-performance-part-b-2021
@@ -3413,6 +3819,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY21%20APR%20Final.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-ffy-2020-special-education-annual-performance-part-b-2020
@@ -3421,6 +3828,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/District%20of%20Columbia%20IDEA%20Part%20B%20SPP-APR%20FFY%202020.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-to-the-public-part-b-ffy-2023-2023
@@ -3429,6 +3837,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY23%20APR%20Part%20B%20LEA%20Reporting.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-to-the-public-part-b-ffy-2022-2022
@@ -3437,6 +3846,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY22%20APR%20Part%20B%20LEA%20Reporting%20.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-to-the-public-part-b-ffy-2021-2021
@@ -3445,6 +3855,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Copy%20of%20APR%20Public%20Reporting%20FFY%2021.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-to-the-public-part-b-ffy-2020-2020
@@ -3453,6 +3864,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/FFY%202020%20APR%20Public%20Reporting_0.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-state-performance-plan-indicator-guide-unknown
@@ -3461,6 +3873,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/State%20Performance%20Plan%20Indicator%20Guide_0.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-ssip-theory-of-action-ffy20-25-unknown
@@ -3469,6 +3882,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Theory%20of%20Action%20-%20FFY20-25.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-06-15"
     topics: [other]
 
   - id: sped-special-education-ssip-evaluation-plan-ffy20-25-unknown
@@ -3477,6 +3891,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Evaluation%20Plan%20-%20FFY20-25.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-06-15"
     topics: [other]
 
   # ---- Harvested from osse-prek (13 files) ----
@@ -3486,6 +3901,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202024.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2023-2023
@@ -3494,6 +3910,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202023.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2022-2022
@@ -3502,6 +3919,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202022.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2021-2021
@@ -3510,6 +3928,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FISCAL%20YEAR%202021%20Pre%20K%20Report%20MMB.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2020-2020
@@ -3518,6 +3937,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202020.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2019-2019
@@ -3526,6 +3946,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202019.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2018-2018
@@ -3534,6 +3955,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202018.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2017-2017
@@ -3542,6 +3964,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202017.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2016-2016
@@ -3550,6 +3973,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202016%20Feb%202%201017_0.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2015-2015
@@ -3558,6 +3982,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202015.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2014-2014
@@ -3566,6 +3991,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202014.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2013-2013
@@ -3574,6 +4000,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202013.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-06-15"
     topics: [other]
 
   - id: prek-osse-annual-pre-k-2012-2012
@@ -3582,6 +4009,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Annual%20Pre-K%20Report%202012.pdf"
     kind: pdf
     year: "2012"
+    added: "2026-06-15"
     topics: [other]
 
   # ---- Harvested from osse-discipline (13 files) ----
@@ -3591,6 +4019,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY24-25%20Discipline%20Report%2012.30.25.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2023-24-year-discipline-report-2023
@@ -3599,6 +4028,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY23-24%20Discipline%20Report%20as%20of%20March%202025.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2022-23-year-discipline-report-2022
@@ -3607,6 +4037,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20SY2022-23.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2021-22-year-discipline-report-2021
@@ -3615,6 +4046,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Discipline%20Report%20FINAL_updated2025.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2020-21-year-discipline-report-2020
@@ -3623,6 +4055,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Discipline%20Report_FINAL_0.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2019-20-year-discipline-report-2019
@@ -3631,6 +4064,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20School%20Year%20Discipline%20Report.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2018-19-year-discipline-report-2018
@@ -3639,6 +4073,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Discipline%20Report%20OSSE%202018-19%20School%20Year.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2018-19-year-discipline-at-a-glance-2018
@@ -3647,6 +4082,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20School%20Year%20Discipline%20Report%20At%20A%20Glance%207.14.20.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2017-18-year-discipline-report-2017
@@ -3655,6 +4091,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20School%20Year%20Discipline%20Report.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2017-18-discipline-appendices-and-tables-2017
@@ -3663,6 +4100,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017-18%20Discipline%20Report%20Appendices%20and%20Tables.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2016-17-year-discipline-report-2016
@@ -3671,6 +4109,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20Discipline%20Report.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2015-16-year-discipline-report-2015
@@ -3679,6 +4118,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2015-16%20OSSE%20Discipline%20Report%20Updated%20Jan%206%202017.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-06-15"
     topics: [discipline]
 
   - id: disc-2013-14-year-discipline-report-2013
@@ -3687,6 +4127,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2013-14%20School%20Year%20OSSE%20Discipline%20Report.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-06-15"
     topics: [discipline]
 
   # ---- Harvested from dcps-budget-portal (1 files) ----
@@ -3696,6 +4137,7 @@ data_files:
     url: "https://dcpsbudget.com/wp-content/uploads/2026/04/FY27-Initial-and-Submitted-Budgets.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-06-15"
     topics: [finance]
 
   # ---- Harvested from osse-attendance (6 files) ----
@@ -3705,6 +4147,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AttendanceBrief_1Pager_2025.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   - id: att-2024-25-truancy-data-2024
@@ -3713,6 +4156,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Truancy%20Data.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   - id: att-2024-25-chronic-absenteeism-scores-2024
@@ -3721,6 +4165,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Chronic%20Absenteeism%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   - id: att-2024-25-attendance-public-reporting-july-2025-2024
@@ -3729,6 +4174,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20April%202025%20v1.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   - id: att-2024-25-mid-year-attendance-brief-1-nov-2024-2024
@@ -3737,6 +4183,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Midyear%20Attendance%20Brief.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   - id: att-2024-25-mid-year-attendance-brief-2-feb-2025-2024
@@ -3745,6 +4192,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DAR_Mid_Year_Attendance_2.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-06-16"
     topics: [attendance]
 
   # ---- Harvested from osse-graduation (5 files) ----
@@ -3754,6 +4202,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2425%20ACGR%20Rates.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-06-16"
     topics: [graduation]
 
   - id: grad-adjusted-cohort-graduation-rate-acgr-public-2023
@@ -3762,6 +4211,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2324%20ACGR%20Rates.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-06-16"
     topics: [graduation]
 
   - id: grad-adjusted-cohort-graduation-rate-acgr-public-2022
@@ -3770,6 +4220,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2223%20ACGR%20Rates.xlsx"
     kind: xlsx
     year: "2022"
+    added: "2026-06-16"
     topics: [graduation]
 
   - id: grad-adjusted-cohort-graduation-rate-acgr-public-2021
@@ -3778,6 +4229,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2122%20ACGR%20Rates.xlsx"
     kind: xlsx
     year: "2021"
+    added: "2026-06-16"
     topics: [graduation]
 
   - id: grad-adjusted-cohort-graduation-rate-acgr-public-2020
@@ -3786,6 +4238,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public%20SY2021%20ACGR%20Rates.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-06-16"
     topics: [graduation]
 
   # ---- Harvested from osse-assessment-2026 (8 files) ----
@@ -3795,6 +4248,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20Statewide%20Assessment%20Results%208.20.26.pdf"
     kind: pdf
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3804,6 +4258,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Statewide%20Assessment_Appendix.pdf"
     kind: pdf
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3813,6 +4268,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20State%20Level%20DCCAPE%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3822,6 +4278,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20State%20Level%20DCCAPE%20and%20MSAA%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3831,6 +4288,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20LEA%20Level%20DCCAPE%20Data_0.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3840,6 +4298,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20LEA%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3849,6 +4308,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Middle%20School%20Advanced%20Math%20Public%20File%20School%20Level%20DCCAPE%20Data.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3858,6 +4318,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025-26%20Public%20File%20School%20Level%20DCCAPE%20and%20MSAA%20Data.xlsx"
     kind: xlsx
     year: "2025-26"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -3868,6 +4329,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Adult%20and%20Youth%20Population%20Trends_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/adult-and-youth-population-trends"
     topics: [demographics]
 
@@ -3877,6 +4339,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Births_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-number-births-and-birth-rates"
     topics: [demographics]
 
@@ -3886,6 +4349,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-forecasted-total-population-growth"
     topics: [demographics]
 
@@ -3895,6 +4359,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_0.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-forecasted-youth-population-growth"
     topics: [demographics]
 
@@ -3904,6 +4369,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Forecasted%20Population%20Growth%202024_1.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-youth-pop-forecasts-nhood"
     topics: [demographics]
 
@@ -3913,6 +4379,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Private%20School%20Enrollment_2026_0.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-private-school-enrollment"
     topics: [demographics]
 
@@ -3922,6 +4389,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Adults%20and%20Children_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children"
     topics: [demographics]
 
@@ -3931,6 +4399,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Race%20and%20Ethnicity%20of%20Students_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-public-school-enrollment-by-race-and-ethnicity"
     topics: [enrollment, demographics]
 
@@ -3940,6 +4409,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Special%20Population%20Shares%20Over%20Time_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-public-school-students-special-need-categories"
     topics: [demographics]
 
@@ -3949,6 +4419,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Total%20Population%20Trends_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-total-population-trends"
     topics: [demographics]
 
@@ -3958,6 +4429,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Adults%20and%20Children%20Live_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-where-adults-and-children-live"
     topics: [demographics]
 
@@ -3967,6 +4439,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Public%20School%20Students%20Live_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-where-public-school-students-live"
     topics: [demographics]
 
@@ -3976,6 +4449,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%201%20Population%20and%20Students_Where%20Special%20Pop%20Public%20School%20Students%20Live_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live"
     topics: [demographics]
 
@@ -3985,6 +4459,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20Configurations_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-grade-configurations-of-public-schools"
     topics: [other]
 
@@ -3994,6 +4469,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Grade%20and%20Ward%20Enrollment%20Trends_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/grade-and-ward-enrollment-trends"
     topics: [other]
 
@@ -4003,6 +4479,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Openings%20and%20Closings_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-opening-and-closing-trends"
     topics: [other]
 
@@ -4012,6 +4489,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Race%20Ethnicity%20Enrollment_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-race-and-ethnicity"
     topics: [enrollment, demographics]
 
@@ -4021,6 +4499,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/enrollment-trends-specific-public-schools"
     topics: [other]
 
@@ -4030,6 +4509,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_School%20Enrollment_2026_0.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-enrollment-public-schools-ward"
     topics: [other]
 
@@ -4039,6 +4519,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students%20Public%20School%20Locations_2025.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-special-populations-risk"
     topics: [enrollment, demographics]
 
@@ -4048,6 +4529,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-special-education-enrollment-level-need"
     topics: [enrollment]
 
@@ -4057,6 +4539,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_0.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-special-populations-risk"
     topics: [enrollment, demographics]
 
@@ -4066,6 +4549,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_1.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-special-populations-special-education"
     topics: [enrollment, demographics]
 
@@ -4075,6 +4559,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Special%20Pop%20Students_2026_2.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners"
     topics: [enrollment, demographics]
 
@@ -4084,6 +4569,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%202%20Schools_Specialized%20Programs_2026.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/schools-specialized-programs-offered"
     topics: [other]
 
@@ -4093,6 +4579,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Educational%20Attainment%20for%20Adults_2025.xlsx"
     kind: xlsx
     year: "2025"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-educational-attainment"
     topics: [demographics]
 
@@ -4102,6 +4589,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%205%20Neighborhood%20Factors_Vehicle%20Access.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-vehicle-access"
     topics: [demographics]
 
@@ -4111,6 +4599,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-residential-development-pipeline-ward"
     topics: [demographics]
 
@@ -4120,6 +4609,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_0.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-residential-pipeline-projects-boundaries-map"
     topics: [demographics]
 
@@ -4129,6 +4619,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Residential%20Pipeline_2.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline"
     topics: [demographics]
 
@@ -4138,6 +4629,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-types-housing"
     topics: [demographics]
 
@@ -4147,6 +4639,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_0.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-types-housing-ward"
     topics: [demographics]
 
@@ -4156,6 +4649,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_0.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-student-yield-from-pipeline"
     topics: [demographics]
 
@@ -4165,6 +4659,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/Edscape_Chapter%205%20Neighborhood%20Factors_Types%20of%20Housing_Student%20Yield_1.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/neighborhood-factors-public-school-students-housing-type"
     topics: [demographics]
 
@@ -4175,6 +4670,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%204%20Enrollment%20Patterns_Sector_2026_0.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/trends-enrollment-sector"
     topics: [enrollment]
 
@@ -4185,6 +4681,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2026_3.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/facilities-programmatic-capacity"
     topics: [facilities]
 
@@ -4194,6 +4691,7 @@ data_files:
     url: "https://edscape.dc.gov/sites/default/files/dc/sites/edscape/page_content/attachments/EdScape_Chapter%203%20Facilities_Facility%20Enrollment%20and%20Utilization_2027_1.xlsx"
     kind: xlsx
     year: "2027"
+    added: "2026-08-29"
     page: "https://edscape.dc.gov/page/facilities-number"
     topics: [facilities]
 
@@ -4204,6 +4702,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [assessment]
 
@@ -4213,6 +4712,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [advanced-coursework]
 
@@ -4222,6 +4722,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Mobility%20Brief%20Data.xlsx"
     kind: xlsx
     year: "2024-25"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4231,6 +4732,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Mobility%20Brief%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2023-24"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4240,6 +4742,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20Mobility%20Brief%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2022-23"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4249,6 +4752,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Mobility%20Brief%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2021-22"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4258,6 +4762,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Mobility%20Brief%20Data.xlsx"
     kind: xlsx
     year: "2020-21"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4267,6 +4772,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20Mobility%20Brief%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2019-20"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4276,6 +4782,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Mobility%20Brief%20Data%20%281%29.xlsx"
     kind: xlsx
     year: "2018-19"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4285,6 +4792,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20Student%20Movement%20-%20Metric%20Scores.xlsx"
     kind: xlsx
     year: "2020"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [enrollment, student-movement]
 
@@ -4294,6 +4802,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q8 Attachment - Mid-year Student Mobility SY16-17.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4303,6 +4812,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [discipline]
 
@@ -4312,6 +4822,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q7%20Attachment%20-%20Mid-year%20Student%20Mobility%20SY14-15%20and%20SY15-16.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [student-movement]
 
@@ -4321,6 +4832,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [discipline]
 
@@ -4330,6 +4842,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx"
     kind: xlsx
     year: "2012"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4339,6 +4852,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx"
     kind: xlsx
     year: "2014"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4348,6 +4862,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx"
     kind: xlsx
     year: "2024-25"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [graduation]
 
@@ -4357,6 +4872,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx"
     kind: xlsx
     year: "2023-24"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [graduation]
 
@@ -4366,6 +4882,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2023-24%20DECP%20Reporting.xlsx"
     kind: xlsx
     year: "2023"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4375,6 +4892,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4384,6 +4902,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4393,6 +4912,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4402,6 +4922,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4411,6 +4932,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4420,6 +4942,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx"
     kind: xlsx
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/data-and-reports-0"
     topics: [other]
 
@@ -4430,6 +4953,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Policy.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [methodology]
 
@@ -4439,6 +4963,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20Metric%20Calculation%20Confirmation%20%28MCC%29%20Data%20Dictionary_Website%20%28Aug%202026%29.xlsx"
     kind: xlsx
     year: "2026"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [methodology]
 
@@ -4448,6 +4973,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2026%20DC%20School%20Report%20Card%20Technical%20Guide.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [other]
 
@@ -4457,6 +4983,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf"
     kind: pdf
     year: "unknown"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [other]
 
@@ -4466,6 +4993,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20%20-%20At%20a%20Glance%20%282026%29.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [accountability]
 
@@ -4475,6 +5003,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20-%20FAQ%20%282026%29.pdf"
     kind: pdf
     year: "2026"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [accountability]
 
@@ -4485,6 +5014,7 @@ data_files:
     url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance%20Data%20Public%20Reporting%20March%202025.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://osse.dc.gov/page/2024-25-school-year-attendance-reporting"
     topics: [attendance]
 
@@ -4495,6 +5025,7 @@ data_files:
     url: "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls"
     kind: xls
     year: "2001-09"
+    added: "2026-08-29"
     page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
     topics: [other]
 
@@ -4504,6 +5035,7 @@ data_files:
     url: "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls"
     kind: xls
     year: "2001-09"
+    added: "2026-08-29"
     page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
     topics: [other]
 
@@ -4514,6 +5046,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20SY%202024-2025%20Annual%20Attendance%20Report.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4523,6 +5056,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202023-2024.pdf"
     kind: pdf
     year: "2023"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4532,6 +5066,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202022-2023.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4541,6 +5076,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Annual%20Attendance%20Report%20final_1.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4550,6 +5086,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS-Annual-Attendance-Report-SY-2020-2021.pdf"
     kind: pdf
     year: "2020"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4559,6 +5096,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202019-2020.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4568,6 +5106,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Final-Attendance-Report-SY18-19.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4577,6 +5116,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY%202017-2018.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4586,6 +5126,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report%20SY1617_FINAL.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4595,6 +5136,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/Supplement%20to%20DCPS%202015%20Annual%20Attendance%20Report_FINAL.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4604,6 +5146,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20Annual%20Attendance%20Report_SY1516_FINAL.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4613,6 +5156,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY1415_FINAL.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4622,6 +5166,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance%20Report_SY1314_FINAL.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4631,6 +5176,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY12-13_FINAL.PDF"
     kind: pdf
     year: "2012"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4640,6 +5186,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY11-12%20FINAL.pdf"
     kind: pdf
     year: "2011"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/node/1185940"
     topics: [attendance]
 
@@ -4650,6 +5197,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf"
     kind: pdf
     year: "2022"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4659,6 +5207,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Spring-2021-Panorama-Report.pdf"
     kind: pdf
     year: "2021"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4668,6 +5217,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2019-Panorama-Survey-Report-FINAL.pdf"
     kind: pdf
     year: "2019"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4677,6 +5227,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018PanoramaSurveyReport_0.pdf"
     kind: pdf
     year: "2018"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4686,6 +5237,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017StakeholderSurveyReportFinal.pdf"
     kind: pdf
     year: "2017"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4695,6 +5247,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016StakeholderSurveyReport.pdf"
     kind: pdf
     year: "2016"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4704,6 +5257,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2015StakeholderSurveyReportFINAL.pdf"
     kind: pdf
     year: "2015"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4713,6 +5267,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2014StakeholderSurveyReportFINAL.pdf"
     kind: pdf
     year: "2014"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4722,6 +5277,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2013StudentSurveyReportFINAL.pdf"
     kind: pdf
     year: "2013"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4731,6 +5287,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/DCPS%20District%20Level%20Report%20FINAL%20102011.pdf"
     kind: pdf
     year: "2011"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4740,6 +5297,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Website-Data-for-Panorama-SY18-19.xlsx"
     kind: xlsx
     year: "2019"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4749,6 +5307,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2018%20Aggregate%20Data.xlsx"
     kind: xlsx
     year: "2018"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4758,6 +5317,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2017%20Aggregate%20Survey%20Results.xlsx"
     kind: xlsx
     year: "2017"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4767,6 +5327,7 @@ data_files:
     url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2016%20Aggregate%20Survey%20Results.xlsx"
     kind: xlsx
     year: "2016"
+    added: "2026-08-29"
     page: "https://dcps.dc.gov/surveys"
     topics: [school-climate]
 
@@ -4777,6 +5338,7 @@ data_files:
     url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20FINAL.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-08-29"
     page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
     topics: [other]
 
@@ -4786,6 +5348,7 @@ data_files:
     url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%201.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
     topics: [other]
 
@@ -4795,6 +5358,7 @@ data_files:
     url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%202.xlsx"
     kind: xlsx
     year: "2024"
+    added: "2026-08-29"
     page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
     topics: [other]
 
@@ -4804,6 +5368,7 @@ data_files:
     url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2024%20MFP%20Annual%20Supplement%20Appendix%203.pdf"
     kind: pdf
     year: "2024"
+    added: "2026-08-29"
     page: "https://dme.dc.gov/publication/2024-master-facilities-plan-supplement"
     topics: [other]
 
@@ -4814,5 +5379,6 @@ data_files:
     url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20260803_MySchoolDC_Tableau_Data.xlsx"
     kind: xlsx
     year: "2026-08"
+    added: "2026-08-29"
     page: "https://www.myschooldc.org/resources/data"
     topics: [other]

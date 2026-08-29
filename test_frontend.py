@@ -89,6 +89,17 @@ def main() -> int:
         errors.append(f"osse-assessment-* files span {len(assess)} series {sorted(map(str, assess))} — "
                       "expected exactly one (check derive_series in generate_readme.py)")
 
+    # 1c. every indexed file carries an ISO `added` date (the "New" toggle keys on it)
+    #     and the catalog publishes the window start; a file without a date can
+    #     never be "new" and silently drops out of that filter.
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(cat.get("new_since", ""))):
+        errors.append(f"catalog.new_since missing/malformed: {cat.get('new_since')!r}")
+    undated = [f["name"] for s in cat["sources"] for f in s.get("files", [])
+               if f.get("status") not in ("needs_browser", "error")
+               and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(f.get("added", "")))]
+    if undated:
+        errors.append(f"{len(undated)} file(s) have no ISO `added` date, e.g. {undated[:3]}")
+
     # 2. every year offered has at least one available chip
     for y in years:
         if not any(available(tag, year=y) for tag in tags):

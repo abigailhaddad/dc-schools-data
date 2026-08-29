@@ -23,6 +23,10 @@
   .filepair .pg { border-radius:0 .35rem .35rem 0; border-left:none; padding:.12rem .45rem; background:#eef3ea; border-color:#cdddb9; color:#2f5524; }
   .filepair .pg:hover { background:#2f5524; color:#fff; }
   .year-chip.hit { outline:2px solid #d97706; outline-offset:1px; font-weight:600; }
+  .year-chip.isnew { outline:2px solid #2f8f4e; outline-offset:1px; font-weight:600; }
+  .newbtn { border-color:#2f8f4e; color:#2f5524; background:#eef3ea; font-weight:600; }
+  .newbtn:hover { border-color:#2f8f4e; }
+  .newbtn.active { background:#2f8f4e; color:#fff; border-color:#2f8f4e; }
   .file-line { font-size:.85rem; padding:.15rem 0; border-bottom:1px dashed #eee; }
   .file-cols { color:#566; font-size:.8rem; }
   .colhit { display:inline-block; background:#fff7ed; border:1px solid #fed7aa; color:#7c2d12; border-radius:.3rem; padding:.02rem .4rem; margin:.1rem .25rem .1rem 0; font-size:.78rem; }
@@ -69,7 +73,8 @@
       <div class="col-2 col-lg-1 d-grid"><button id="clear" class="btn btn-outline-secondary">Clear</button></div>
     </div>
 
-    <div id="topicchips" class="mt-2"></div>
+    <div class="mt-2"><span id="newbtn" class="topic-btn newbtn" role="button" tabindex="0"
+         title="Only datasets with files added to this catalog recently">🆕 New</span><span id="topicchips"></span></div>
 
     <ul class="nav nav-tabs mt-2 mb-0">
       <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
@@ -109,7 +114,12 @@ if (!window.CATALOG) {
 
 const CAT = window.CATALOG;
 // single home for filter state — nothing else writes these
-const state = { q: "", owner: "", topic: "", year: "", view: "files" };
+const state = { q: "", owner: "", topic: "", year: "", view: "files", newOnly: false };
+// "New" = the latest harvest batch: files whose `added` date is on/after
+// CATALOG.new_since (generator sets it from the newest `added` date minus a grace
+// period; see NEW_BATCH_GRACE_DAYS in generate_readme.py).
+const NEW_SINCE = window.CATALOG.new_since || "";
+function isNew(f) { return !!(NEW_SINCE && f.added && f.added >= NEW_SINCE); }
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -436,6 +446,8 @@ function renderFiles() {
     list = list.filter(g => g.files.some(x => (x.file.topics || []).includes(state.topic)));
   if (state.year)
     list = list.filter(g => g.files.some(x => yearNum(chipLabel(x)) === +state.year));
+  if (state.newOnly)
+    list = list.filter(g => g.files.some(x => isNew(x.file)));
 
   const shownFiles = list.reduce((n, g) => n + g.files.length, 0);
   document.getElementById("count").textContent =
@@ -454,8 +466,10 @@ function renderFiles() {
         const chips = items.map(x =>
           '<span class="filepair">'
           + '<a class="year-chip dl' + (state.year && yearNum(chipLabel(x)) === +state.year ? " hit" : "")
+          + (state.newOnly && isNew(x.file) ? " isnew" : "")
           + '" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Downloads this file: '
-          + esc(x.file.name) + " (" + esc(x.file.kind) + ") — " + esc(fileSummary(x.file)) + '">⬇ '
+          + esc(x.file.name) + " (" + esc(x.file.kind) + ") — " + esc(fileSummary(x.file))
+          + (x.file.added ? " — added to catalog " + esc(x.file.added) : "") + '">⬇ '
           + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>"
           + '<a class="year-chip pg" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" '
           + 'title="Source page for context: ' + esc(x.sourceName)
@@ -645,6 +659,7 @@ function render() {
   renderChips();
   document.getElementById("owner").value = state.owner;
   document.getElementById("year").value = state.year;
+  document.getElementById("newbtn").classList.toggle("active", state.newOnly);
   VIEWS[state.view].render();
   writeHash();
 }
@@ -656,6 +671,7 @@ function writeHash() {
   if (state.owner) p.set("owner", state.owner);
   if (state.topic) p.set("topic", state.topic);
   if (state.year) p.set("year", state.year);
+  if (state.newOnly) p.set("new", "1");
   if (state.view !== "files") p.set("view", state.view);
   const s = p.toString();
   history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
@@ -724,13 +740,25 @@ document.getElementById("subtitle").textContent =
   CAT.sources.length + " sources · " + ALL_FILES.length
   + " downloadable files · verified " + CAT.last_verified;
 document.getElementById("verified").textContent = "Last verified " + CAT.last_verified + ".";
+(function labelNewButton() {
+  const n = ALL_FILES.filter(e => isNew(e.file)).length;
+  const btn = document.getElementById("newbtn");
+  if (!n) { btn.style.display = "none"; return; }
+  btn.textContent = "🆕 New (" + n + ")";
+  btn.title = n + " files added to this catalog since " + NEW_SINCE + " — click to show only those datasets";
+})();
 
 // ----- bind events once (elements are long-lived; no re-binding) -----
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("owner").addEventListener("change", e => { state.owner = e.target.value; render(); });
 document.getElementById("year").addEventListener("change", e => { state.year = e.target.value; render(); });
+document.getElementById("newbtn").addEventListener("click", () => { state.newOnly = !state.newOnly; render(); });
+document.getElementById("newbtn").addEventListener("keydown", e => {
+  if (e.key === "Enter" || e.key === " ") { e.preventDefault(); state.newOnly = !state.newOnly; render(); }
+});
 document.getElementById("clear").addEventListener("click", () => {
   state.q = state.owner = state.topic = state.year = "";
+  state.newOnly = false;
   document.getElementById("q").value = "";
   document.getElementById("owner").value = "";
   document.getElementById("year").value = "";
@@ -760,6 +788,7 @@ document.getElementById("coverage").addEventListener("click", e => {
   if (hp.get("owner")) state.owner = hp.get("owner");
   if (hp.get("topic")) state.topic = hp.get("topic");
   if (hp.get("year")) state.year = hp.get("year");
+  if (hp.get("new") === "1") state.newOnly = true;
   if (hp.get("view") && VIEWS[hp.get("view")]) state.view = hp.get("view");
 })();
 

@@ -17,6 +17,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+from datetime import date
 import json
 import re
 import os
@@ -130,6 +131,7 @@ def main() -> int:
     raw = json.loads(Path(args.harvest_json).read_text())
     links = raw["links"] if isinstance(raw, dict) else raw
     existing = DATA_FILES.read_text()
+    today = date.today().isoformat()   # powers the site's "New" filter
 
     rows, seen_ids, added, skipped, nonfile = [], set(), 0, 0, 0
     for link in links:
@@ -159,6 +161,7 @@ def main() -> int:
             f"    url: {json.dumps(href)}\n"
             f"    kind: {infer_kind(href)}\n"
             f"    year: {json.dumps(year)}\n"
+            f"    added: {json.dumps(today)}\n"
             f"{page_line}"
             f"    topics: {topics}\n"
         )

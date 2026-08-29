@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+from datetime import date, timedelta
 from collections import defaultdict
 from pathlib import Path
 
@@ -22,6 +23,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent
 SOURCES = ROOT / "sources.yaml"
 PROFILES = ROOT / "file_profiles.json"
+DATA_FILES = ROOT / "data_files.yaml"
 OUT = ROOT / "README.md"
 # `public/` is the PUBLISH DIRECTORY — the only thing that ever gets uploaded to
 # the host. It must contain the site and nothing else (no build inputs, no
@@ -256,6 +258,17 @@ def infer_file_topics(name: str, fallback: list[str]) -> list[str]:
     return out or fallback
 
 
+# `added` (date a row entered data_files.yaml) lives in the YAML, not in the
+# profiles, so read it straight from the source of truth, keyed by URL.
+ADDED_BY_URL = {f["url"]: str(f["added"]) for f in yaml.safe_load(DATA_FILES.read_text())["data_files"]
+                if f.get("added")}
+# The site's "New" toggle = the most recent harvest batch: everything added on or
+# after (latest `added` date − grace). Not "last N days of today": the whole catalog
+# was built in June 2026, so a calendar window would first flag all 566 files as new
+# and later flag nothing at all between harvests.
+NEW_BATCH_GRACE_DAYS = 14
+
+
 def file_for_js(rec: dict, src: dict | None) -> dict:
     """Trim a profiled-file record down to what the front end needs to show + search.
     `src` is the file's OWN source (for authority + topics — may differ across a
@@ -268,6 +281,8 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
            "topics": infer_file_topics(rec["name"], rec.get("topics") or (src or {}).get("topics", []))}
     if rec.get("page"):
         out["page"] = rec["page"]
+    if ADDED_BY_URL.get(rec["url"]):
+        out["added"] = ADDED_BY_URL[rec["url"]]     # drives the "New" filter
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}
@@ -390,7 +405,11 @@ def write_catalog_js(doc, profiles) -> int:
                     for i in ov.get("sources", []) if i in src_by_id],
     } for ov in doc.get("overlaps", [])]
 
+    latest_added = max(ADDED_BY_URL.values())
+    new_since = (date.fromisoformat(latest_added) - timedelta(days=NEW_BATCH_GRACE_DAYS)).isoformat()
     catalog = {"last_verified": doc.get("last_verified", "?"),
+               "generated": date.today().isoformat(),
+               "new_since": new_since,
                "owners": doc["owners"], "sources": sources_js, "overlaps": overlaps_js,
                "synonyms": SYNONYM_GROUPS}
     PUBLIC.mkdir(exist_ok=True)

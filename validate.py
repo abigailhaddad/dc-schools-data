@@ -31,7 +31,7 @@ SOURCES = ROOT / "sources.yaml"
 DATA_FILES = ROOT / "data_files.yaml"
 
 SOURCE_REQUIRED = ("id", "name", "owner", "url", "format", "cadence", "years")
-FILE_REQUIRED = ("id", "source_id", "name", "url", "kind", "year")
+FILE_REQUIRED = ("id", "source_id", "name", "url", "kind", "year", "added")
 KNOWN_KINDS = {"xlsx", "xls", "csv", "pdf"}
 KNOWN_STATUS = {"ok", "js-rendered", "login-required", "stale", "unstable", "unverified"}
 
@@ -94,6 +94,8 @@ def main() -> int:
         # A filename like ..._2026_0.xlsx carries a year; year="unknown" means the
         # harvester failed to parse it (its \b regex once missed every EdScape file)
         # and the file would vanish from the Coverage grid and year filters.
+        if f.get("added") and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(f["added"])):
+            errors.append(f"{where}: `added` must be YYYY-MM-DD, got `{f['added']}`")
         fname = unquote(urlsplit(str(f.get("url", ""))).path.rsplit("/", 1)[-1])
         if str(f.get("year")) == "unknown" and re.search(r"(?<!\d)20\d{2}(?!\d)", fname):
             errors.append(f"{where}: year is `unknown` but the filename `{fname}` contains a year")
