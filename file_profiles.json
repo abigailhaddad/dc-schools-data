@@ -57960,7 +57960,7 @@
   "osse-report-card-resource-library-dc-report-and-myschooldc-elements-busines-unknown": {
     "id": "osse-report-card-resource-library-dc-report-and-myschooldc-elements-busines-unknown",
     "source_id": "osse-report-card-resource-library",
-    "name": "DC School Report Card and MySchoolDC Data Elements — Business Rules and Definitions",
+    "name": "Business Rules and Definitions — DC School Report Card and MySchoolDC Data Elements",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf",
     "kind": "pdf",
     "year": "unknown",
@@ -58206,7 +58206,7 @@
   "osse-sled-public-charter-historic-enrollment-audit-information-2001": {
     "id": "osse-sled-public-charter-historic-enrollment-audit-information-2001",
     "source_id": "osse-sled",
-    "name": "Public Charter Schools Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009",
+    "name": "Public Charter Schools Historic Enrollment Audit by School and Grade, 2001–2009",
     "url": "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
     "year": "2001",
@@ -58234,7 +58234,7 @@
   "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001": {
     "id": "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001",
     "source_id": "osse-sled",
-    "name": "DCPS Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009",
+    "name": "DCPS Historic Enrollment Audit by School and Grade, 2001–2009",
     "url": "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
     "year": "2001",
@@ -60446,7 +60446,7 @@
   "dcps-surveys-spring-2022-panorama-survey-report-2022": {
     "id": "dcps-surveys-spring-2022-panorama-survey-report-2022",
     "source_id": "dcps-surveys",
-    "name": "Spring 2022 Panorama Survey Report",
+    "name": "2022 Panorama Survey Report",
     "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf",
     "kind": "pdf",
     "year": "2022",

@@ -938,7 +938,7 @@ _topics: assessment, attendance, graduation, discipline, enrollment, demographic
     - p6 table (7 rows): `Current Grade Level`, `Prior Year’s Proficiency Level`
     - p15 table (4 rows): `Test Subject Area`, `Corresponding College Courses`, `Benchmark`
     - p16 table (11 rows): `Test Subject Area`, `SAT Score 1`, `SAT Score 2`, `Highest`, `Meet /`, `College`
-  - [`DC School Report Card and MySchoolDC Data Elements — Business Rules and Definitions`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+  - [`Business Rules and Definitions — DC School Report Card and MySchoolDC Data Elements`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20-%20Business%20Rules%20and%20Definitions.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
     - p1 table (6 rows): `Data Source`, `Data Element`, `Definition`, `Business Rules`
     - p2 table (8 rows): `course on the OSSE State C ourse Catalog.`
     - p3 table (5 rows): `eSchoolPLUS`, `Single-Gender Campus`, `The school’s enrollment targets a single gender.`, `On eSchoolPLUS, the LEA/school selected "Single-Gender Campus" as one of the School Characteristics for this school.`
@@ -2191,9 +2191,9 @@ _topics: accountability, methodology_
 - **Years on page:** Includes historical enrollment-audit Excel SY2001–2009
 - **Notes:** Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.
 - **Data files (profiled):**
-  - [`Public Charter Schools Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009`](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`Public Charter Schools Historic Enrollment Audit by School and Grade, 2001–2009`](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **pcsb School-by-Grade Enrollment** (1,679 rows × 1 cols) — cols: `PCS Enrollment, by School and Grade, 2001-2009`
-  - [`DCPS Historic Enrollment Audit, school-by-grade (audited + Oct. certified), 2001–2009`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`DCPS Historic Enrollment Audit by School and Grade, 2001–2009`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **DCPS School-by-Grade Enrollment** (2,641 rows × 1 cols) — cols: `DCPS Enrollment, by School and Grade, 2001-2009`
 
 ## DCPS — DC Public Schools
@@ -2761,7 +2761,7 @@ _topics: surveys, school-climate_
 - **Years on page:** Panorama 2018, 2019, 2021, 2022; legacy reports 2011, 2013–2017
 - **Notes:** Student/family/staff experience surveys. District results at bit.ly/dcpsresults; school-level/raw data requires staff Panorama login.
 - **Data files (profiled):**
-  - [`Spring 2022 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf) — **pdf** — 6 pages, **extractable tables** on ~4 page(s)
+  - [`2022 Panorama Survey Report`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Panorama%20Spring%202022%20Public%20Report.pdf) — **pdf** — 6 pages, **extractable tables** on ~4 page(s)
     - p1 table (3 rows): `2022 Panorama Survey Highlights`
     - p1 table (2 rows): `DCPS Vision`
     - p4 table (6 rows): `Five Takeaways from the`
