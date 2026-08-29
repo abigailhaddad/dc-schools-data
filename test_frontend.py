@@ -80,6 +80,15 @@ def main() -> int:
                           f"parseable year — would show a chip that is empty in the "
                           f"Coverage grid and every year filter")
 
+    # 1b. every OSSE statewide-assessment file (any osse-assessment-* source, one
+    #     per release year) sits in ONE series. A new year's source id once fell
+    #     outside an exact-id list in derive_series() and got its own card.
+    assess = {f.get("series") for s in cat["sources"] if s["id"].startswith("osse-assessment")
+              for f in s.get("files", []) if f.get("status") not in ("needs_browser", "error")}
+    if len(assess) != 1:
+        errors.append(f"osse-assessment-* files span {len(assess)} series {sorted(map(str, assess))} — "
+                      "expected exactly one (check derive_series in generate_readme.py)")
+
     # 2. every year offered has at least one available chip
     for y in years:
         if not any(available(tag, year=y) for tag in tags):

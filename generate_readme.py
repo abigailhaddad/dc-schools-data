@@ -158,13 +158,19 @@ def derive_series(source_id: str, name: str, year):
     # Finance Data; Teacher & School Leader -> Educator Data). Reconnect them.
     # Statewide assessment results (DC CAPE, formerly PARCC) + MSAA, published per
     # year on separate OSSE pages, at State/LEA/School levels. Connect across years.
-    if source_id in ("osse-assessment-2025", "osse-assessment-archive"):
+    # Matched by PREFIX: OSSE gets a new per-year source id each release
+    # (osse-assessment-2025, -2026, ...) and an exact-id list silently dropped
+    # 2025-26 into its own card. test_frontend.py guards this now.
+    if source_id.startswith("osse-assessment"):
         tags = []
         for kw, tag in [("school level", "School"), ("lea level", "LEA"), ("sea level", "State"),
                         ("state level", "State"), ("participation", "Particip."),
-                        ("\\bela\\b", "ELA"), ("\\bmath", "Math"), ("science", "Sci"),
-                        ("advanced middle", "Adv MS Math")]:
+                        ("appendix", "Appendix"),
+                        ("advanced middle|middle school advanced", "Adv MS Math"),
+                        ("\\bela\\b", "ELA"), ("\\bmath", "Math"), ("science", "Sci")]:
             if re.search(kw, low) and tag not in tags:
+                if tag == "Math" and "Adv MS Math" in tags:
+                    continue
                 tags.append(tag)
         label = (str(year or "") + (" " + "/".join(tags) if tags else "")).strip()
         return {"series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)", "label": label or year}

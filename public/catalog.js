@@ -9986,6 +9986,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26",
      "n_pages": 60,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -10013,6 +10015,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 Appendix",
      "n_pages": 17,
      "has_tabular_data": true,
      "n_table_pages": 14,
@@ -10098,6 +10102,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 State/Adv MS Math",
      "tabs": [
       {
        "name": "File Notes",
@@ -10210,6 +10216,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 State",
      "tabs": [
       {
        "name": "File Notes",
@@ -10322,6 +10330,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 LEA/Adv MS Math",
      "tabs": [
       {
        "name": "File Notes",
@@ -10434,6 +10444,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 LEA",
      "tabs": [
       {
        "name": "File Notes",
@@ -10546,6 +10558,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 School/Adv MS Math",
      "tabs": [
       {
        "name": "File Notes",
@@ -10658,6 +10672,8 @@ window.CATALOG = {
       "assessment"
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
+     "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
+     "label": "2025-26 School",
      "tabs": [
       {
        "name": "File Notes",
