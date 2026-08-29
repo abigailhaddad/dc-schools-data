@@ -2191,9 +2191,9 @@ _topics: accountability, methodology_
 - **Years on page:** Includes historical enrollment-audit Excel SY2001–2009
 - **Notes:** Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.
 - **Data files (profiled):**
-  - [`Public Charter Schools Historic Enrollment Audit by School and Grade, 2001–2009`](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`Public Charter Schools Historic Enrollment Audit by School and Grade`](https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **pcsb School-by-Grade Enrollment** (1,679 rows × 1 cols) — cols: `PCS Enrollment, by School and Grade, 2001-2009`
-  - [`DCPS Historic Enrollment Audit by School and Grade, 2001–2009`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
+  - [`DCPS Historic Enrollment Audit by School and Grade`](https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls) — **xls** — 1 tab(s)
     - tab **DCPS School-by-Grade Enrollment** (2,641 rows × 1 cols) — cols: `DCPS Enrollment, by School and Grade, 2001-2009`
 
 ## DCPS — DC Public Schools

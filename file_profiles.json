@@ -58206,10 +58206,10 @@
   "osse-sled-public-charter-historic-enrollment-audit-information-2001": {
     "id": "osse-sled-public-charter-historic-enrollment-audit-information-2001",
     "source_id": "osse-sled",
-    "name": "Public Charter Schools Historic Enrollment Audit by School and Grade, 2001–2009",
+    "name": "Public Charter Schools Historic Enrollment Audit by School and Grade",
     "url": "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
-    "year": "2001",
+    "year": "2001-09",
     "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
     "topics": [
       "other"
@@ -58234,10 +58234,10 @@
   "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001": {
     "id": "osse-sled-dc-public-schools-historic-enrollment-audit-information-2001-2001",
     "source_id": "osse-sled",
-    "name": "DCPS Historic Enrollment Audit by School and Grade, 2001–2009",
+    "name": "DCPS Historic Enrollment Audit by School and Grade",
     "url": "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
     "kind": "xls",
-    "year": "2001",
+    "year": "2001-09",
     "page": "https://sled.osse.dc.gov/info/OSSE-Reports/",
     "topics": [
       "other"

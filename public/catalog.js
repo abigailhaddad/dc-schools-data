@@ -27362,10 +27362,10 @@ window.CATALOG = {
    "notes": "Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal.",
    "files": [
     {
-     "name": "Public Charter Schools Historic Enrollment Audit by School and Grade, 2001–2009",
+     "name": "Public Charter Schools Historic Enrollment Audit by School and Grade",
      "url": "https://sled.osse.dc.gov/DOCS/PCS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
      "kind": "xls",
-     "year": "2001",
+     "year": "2001-09",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -27382,10 +27382,10 @@ window.CATALOG = {
      ]
     },
     {
-     "name": "DCPS Historic Enrollment Audit by School and Grade, 2001–2009",
+     "name": "DCPS Historic Enrollment Audit by School and Grade",
      "url": "https://sled.osse.dc.gov/DOCS/DCPS_School-by-Grade-Enrollment-Audited_and_Oct_Cert_2001-2009.xls",
      "kind": "xls",
-     "year": "2001",
+     "year": "2001-09",
      "status": "ok",
      "topics": [
       "enrollment"
@@ -27402,7 +27402,7 @@ window.CATALOG = {
      ]
     }
    ],
-   "search": "sled — statewide longitudinal education data (osse reports) osse two-tier: public direct links vs. credentialed access (sled login + user agreement) for the main reports portal. public pdf/excel/tableau links + login-gated qlik sense reports enrollment assessment graduation landing public charter schools historic enrollment audit by school and grade, 2001–2009 pcsb school-by-grade enrollment pcs enrollment, by school and grade, 2001-2009 dcps historic enrollment audit by school and grade, 2001–2009 dcps school-by-grade enrollment dcps enrollment, by school and grade, 2001-2009 assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas graduation acgr graduation rate cohort graduation dropout"
+   "search": "sled — statewide longitudinal education data (osse reports) osse two-tier: public direct links vs. credentialed access (sled login + user agreement) for the main reports portal. public pdf/excel/tableau links + login-gated qlik sense reports enrollment assessment graduation landing public charter schools historic enrollment audit by school and grade pcsb school-by-grade enrollment pcs enrollment, by school and grade, 2001-2009 dcps historic enrollment audit by school and grade dcps school-by-grade enrollment dcps enrollment, by school and grade, 2001-2009 assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas graduation acgr graduation rate cohort graduation dropout"
   },
   {
    "id": "dcps-school-data-hub",
