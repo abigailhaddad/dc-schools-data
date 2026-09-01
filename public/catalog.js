@@ -1,6 +1,6 @@
 window.CATALOG = {
  "last_verified": "2026-08",
- "generated": "2026-08-29",
+ "generated": "2026-09-01",
  "new_since": "2026-08-15",
  "owners": [
   {
