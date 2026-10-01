@@ -1,6 +1,6 @@
 window.CATALOG = {
  "last_verified": "2026-08",
- "generated": "2026-09-01",
+ "generated": "2026-10-01",
  "new_since": "2026-08-15",
  "owners": [
   {
@@ -47451,7 +47451,6 @@ window.CATALOG = {
       "AUTHORIZER",
       "GRADES",
       "ENROLLMENT",
-      "GIS_ID",
       "WEB_URL",
       "AUTHORIZAT",
       "MYSCHOOL",
@@ -47477,10 +47476,10 @@ window.CATALOG = {
       "EDITED",
       "OBJECTID"
      ],
-     "n_rows": 150
+     "n_rows": 151
     }
    ],
-   "search": "open data dc — dc charter schools (point locations) open data dc point locations of every charter campus. same mapserver (layer 1) as dcps schools. gis — shapefile / geojson / csv / kml + arcgis rest api profiles gis dc charter schools locations (csv export) x y name address director phone authorizer grades enrollment gis_id web_url authorizat myschool school_yea lea_name lea_id school_nam school_id schoolcode grades_1 latitude longitude facility_id cluster_ ward zipcode mar_id xcoord ycoord se_anno_cad_data globalid created edited objectid"
+   "search": "open data dc — dc charter schools (point locations) open data dc point locations of every charter campus. same mapserver (layer 1) as dcps schools. gis — shapefile / geojson / csv / kml + arcgis rest api profiles gis dc charter schools locations (csv export) x y name address director phone authorizer grades enrollment web_url authorizat myschool school_yea lea_name lea_id school_nam school_id schoolcode grades_1 latitude longitude facility_id cluster_ ward zipcode mar_id xcoord ycoord se_anno_cad_data globalid created edited objectid"
   },
   {
    "id": "opendata-attendance-zones",

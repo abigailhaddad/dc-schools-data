@@ -1156,8 +1156,8 @@
     ],
     "profile": {
       "kind": "csv",
-      "n_rows": 150,
-      "n_columns": 34,
+      "n_rows": 151,
+      "n_columns": 33,
       "columns": [
         "X",
         "Y",
@@ -1168,7 +1168,6 @@
         "AUTHORIZER",
         "GRADES",
         "ENROLLMENT",
-        "GIS_ID",
         "WEB_URL",
         "AUTHORIZAT",
         "MYSCHOOL",

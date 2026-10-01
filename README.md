@@ -3879,8 +3879,8 @@ _The city's open-data and GIS portal. Machine-readable school locations and atte
 - **Years on page:** Current/live snapshot
 - **Notes:** Point locations of every charter campus. Same MapServer (layer 1) as DCPS schools.
 - **Data files (profiled):**
-  - [`DC Charter Schools locations (CSV export)`](https://opendata.dc.gov/api/download/v1/items/a3832935b1d644e48c887e6ec5a65fcd/csv?layers=1) — **csv** — 150 rows × 34 cols
-    - cols: `X`, `Y`, `NAME`, `ADDRESS`, `DIRECTOR`, `PHONE`, `AUTHORIZER`, `GRADES`, `ENROLLMENT`, `GIS_ID`, `WEB_URL`, `AUTHORIZAT`
+  - [`DC Charter Schools locations (CSV export)`](https://opendata.dc.gov/api/download/v1/items/a3832935b1d644e48c887e6ec5a65fcd/csv?layers=1) — **csv** — 151 rows × 33 cols
+    - cols: `X`, `Y`, `NAME`, `ADDRESS`, `DIRECTOR`, `PHONE`, `AUTHORIZER`, `GRADES`, `ENROLLMENT`, `WEB_URL`, `AUTHORIZAT`, `MYSCHOOL`
 
 ### [Open Data DC — School Attendance Zones (ES/MS/HS boundaries)](https://opendata.dc.gov/datasets/DCGIS::school-attendance-zones-elementary/about)
 
