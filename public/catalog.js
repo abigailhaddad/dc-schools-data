@@ -1,6 +1,6 @@
 window.CATALOG = {
  "last_verified": "2026-08",
- "generated": "2026-10-01",
+ "generated": "2026-11-01",
  "new_since": "2026-08-15",
  "owners": [
   {
@@ -37449,7 +37449,7 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf",
      "kind": "pdf",
      "year": "2016",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability",
       "methodology"
@@ -37457,83 +37457,10 @@ window.CATALOG = {
      "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2016",
-     "n_pages": 137,
-     "has_tabular_data": true,
-     "n_table_pages": 94,
-     "tables": [
-      {
-       "page": 11,
-       "header": [
-        "the data it receives until final results are presented. Data are stored to the number of digits"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 14,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 15,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 16,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target Business Rule",
-        "Calculated Target"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 17,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target",
-        "Calculated Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 18,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 4
-      },
-      {
-       "page": 18,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 19,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 2
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -37541,70 +37468,17 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf",
      "kind": "pdf",
      "year": "2016",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
-     "n_pages": 326,
-     "has_tabular_data": true,
-     "n_table_pages": 117,
-     "tables": [
-      {
-       "page": 1,
-       "header": [],
-       "n_rows": 4
-      },
-      {
-       "page": 2,
-       "header": [],
-       "n_rows": 4
-      },
-      {
-       "page": 5,
-       "header": [
-        "2015—16 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 23
-      },
-      {
-       "page": 6,
-       "header": [
-        "2015—16 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 21
-      },
-      {
-       "page": 7,
-       "header": [
-        "2015—16 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 26
-      },
-      {
-       "page": 8,
-       "header": [
-        "2015—16 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 26
-      },
-      {
-       "page": 9,
-       "header": [
-        "2015—16 Overall Tier 3 (0.0 — 34.9%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 10,
-       "header": [
-        "PK—8 Schools"
-       ],
-       "n_rows": 25
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -37612,90 +37486,17 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf",
      "kind": "pdf",
      "year": "2015",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
-     "n_pages": 116,
-     "has_tabular_data": true,
-     "n_table_pages": 83,
-     "tables": [
-      {
-       "page": 11,
-       "header": [
-        "the data it receives until final results are presented. Data are stored to the number of digits"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 14,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 15,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 16,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target Business Rule",
-        "Calculated Target"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 17,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target",
-        "Calculated Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 18,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 4
-      },
-      {
-       "page": 18,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 19,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 2
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -37703,180 +37504,35 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf",
      "kind": "pdf",
      "year": "2016",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2016",
-     "n_pages": 300,
-     "has_tabular_data": true,
-     "n_table_pages": 116,
-     "tables": [
-      {
-       "page": 1,
-       "header": [],
-       "n_rows": 4
-      },
-      {
-       "page": 3,
-       "header": [],
-       "n_rows": 2
-      },
-      {
-       "page": 6,
-       "header": [
-        "Early Childhood/Elementary/Middle Schools"
-       ],
-       "n_rows": 27
-      },
-      {
-       "page": 7,
-       "header": [
-        "Early Childhood/Elementary/Middle Schools"
-       ],
-       "n_rows": 27
-      },
-      {
-       "page": 8,
-       "header": [
-        "Early Childhood/Elementary/Middle Schools"
-       ],
-       "n_rows": 27
-      },
-      {
-       "page": 9,
-       "header": [
-        "Early Childhood/Elementary/Middle Schools"
-       ],
-       "n_rows": 20
-      },
-      {
-       "page": 10,
-       "header": [
-        "High Schools"
-       ],
-       "n_rows": 25
-      },
-      {
-       "page": 11,
-       "header": [
-        "2014—15 Tier 1 (65.0 — 100.0%) Ward Ages Served"
-       ],
-       "n_rows": 16
-      }
-     ],
-     "syn": "accountability aspire early childhood early learning head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1",
      "url": "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf",
      "kind": "pdf",
      "year": "2015",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2015",
-     "n_pages": 102,
-     "has_tabular_data": true,
-     "n_table_pages": 69,
-     "tables": [
-      {
-       "page": 8,
-       "header": [
-        "PCSB makes every effort to retain the"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 15,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 16,
-       "header": [
-        "Measure",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 17,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Measure",
-        "Weight",
-        "Floor6",
-        "Target7"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 17,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Measure",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 4
-      },
-      {
-       "page": 18,
-       "header": [
-        "Weigh",
-        "t",
-        "Indicator",
-        "Measure",
-        "Weigh",
-        "t",
-        "Floo",
-        "r",
-        "Target"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 18,
-       "header": [
-        "Weigh",
-        "t",
-        "Indicator",
-        "Measure",
-        "Weigh",
-        "t",
-        "Floo",
-        "r",
-        "Target"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 18,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Measure",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 4
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -37884,261 +37540,53 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf",
      "kind": "pdf",
      "year": "2013",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Books (annual charter results)",
      "label": "2013",
-     "n_pages": 328,
-     "has_tabular_data": true,
-     "n_table_pages": 115,
-     "tables": [
-      {
-       "page": 1,
-       "header": [],
-       "n_rows": 2
-      },
-      {
-       "page": 6,
-       "header": [
-        "2013—14 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 25
-      },
-      {
-       "page": 7,
-       "header": [
-        "2013—14 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 26
-      },
-      {
-       "page": 8,
-       "header": [
-        "2013—14 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
-       ],
-       "n_rows": 24
-      },
-      {
-       "page": 9,
-       "header": [
-        "Early Childhood Programs"
-       ],
-       "n_rows": 27
-      },
-      {
-       "page": 10,
-       "header": [
-        "Early Childhood Programs"
-       ],
-       "n_rows": 25
-      },
-      {
-       "page": 11,
-       "header": [
-        "Early Childhood Programs"
-       ],
-       "n_rows": 23
-      },
-      {
-       "page": 12,
-       "header": [
-        "Elementary/Middle Schools"
-       ],
-       "n_rows": 22
-      }
-     ],
-     "syn": "accountability aspire early childhood early learning head start pmf pre-k pre-kindergarten prek preschool rating school quality sqr star"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — 2014TechnicalGuide 01 10 14 FINAL",
      "url": "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf",
      "kind": "pdf",
      "year": "2014",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2014",
-     "n_pages": 25,
-     "has_tabular_data": true,
-     "n_table_pages": 11,
-     "tables": [
-      {
-       "page": 8,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor5",
-        "Target6"
-       ],
-       "n_rows": 10
-      },
-      {
-       "page": 8,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 9,
-       "header": [
-        "20%",
-        "Leading Indicators",
-        "Attendance",
-        "10%",
-        "82.0"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 9,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 15
-      },
-      {
-       "page": 9,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 15
-      },
-      {
-       "page": 9,
-       "header": [
-        "PMF, not counting it towards a school’s overall score. Once the baseline is established, the floors and targets will be"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 14,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 15,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 4
-      }
-     ],
-     "syn": "absenteeism accountability aspire attendance chronic absence chronic absenteeism pmf rating school quality sqr star truancy"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
+     "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
      "name": "PMF Archive — 2013 PMF REDUCED 2",
      "url": "http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf",
      "kind": "pdf",
      "year": "2013",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF (other documents)",
      "label": "2013",
-     "n_pages": 304,
-     "has_tabular_data": true,
-     "n_table_pages": 60,
-     "tables": [
-      {
-       "page": 1,
-       "header": [],
-       "n_rows": 3
-      },
-      {
-       "page": 6,
-       "header": [
-        "ELEMENTARY/MIDDLE SCHOOLS"
-       ],
-       "n_rows": 25
-      },
-      {
-       "page": 7,
-       "header": [
-        "ELEMENTARY/MIDDLE SCHOOLS"
-       ],
-       "n_rows": 27
-      },
-      {
-       "page": 8,
-       "header": [
-        "HIGH SCHOOLS"
-       ],
-       "n_rows": 10
-      },
-      {
-       "page": 8,
-       "header": [
-        "ELEMENTARY/MIDDLE SCHOOLS"
-       ],
-       "n_rows": 9
-      },
-      {
-       "page": 9,
-       "header": [
-        "Public Charter School",
-        "2012–13 Grade Levels",
-        "Targets Met",
-        "Total Targets"
-       ],
-       "n_rows": 31
-      },
-      {
-       "page": 10,
-       "header": [
-        "Public Charter School",
-        "2012–13 Grade Levels",
-        "Targets Met",
-        "Total Targets"
-       ],
-       "n_rows": 30
-      },
-      {
-       "page": 11,
-       "header": [
-        "Public Charter School",
-        "2012–13 Grade Levels",
-        "Targets Met",
-        "Total Targets"
-       ],
-       "n_rows": 9
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -38146,114 +37594,21 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf",
      "kind": "pdf",
      "year": "2012",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "accountability"
      ],
      "added": "2026-06-15",
      "series": "PMF Policy & Technical Guides",
      "label": "2012",
-     "n_pages": 29,
-     "has_tabular_data": true,
-     "n_table_pages": 14,
-     "tables": [
-      {
-       "page": 8,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor5",
-        "Target6"
-       ],
-       "n_rows": 10
-      },
-      {
-       "page": 8,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 10
-      },
-      {
-       "page": 9,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 15
-      },
-      {
-       "page": 9,
-       "header": [
-        "Weight",
-        "Indicator",
-        "Metric",
-        "Weight",
-        "Floor",
-        "Target"
-       ],
-       "n_rows": 14
-      },
-      {
-       "page": 14,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 15,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 16,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 17,
-       "header": [
-        "Indicator",
-        "Measure",
-        "Description",
-        "Components, method, additional notes",
-        "Rationale"
-       ],
-       "n_rows": 4
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
-   "search": "performance management framework (pmf) — archive dc pcsb legacy charter accountability with per-school scores/tiers. superseded by aspire/sqr. confirm which framework a given year's 'tier' refers to before combining. harvest gap: 9 pmf books/guides are direct pdfs (profiled); the ~13 machine-readable pmf excel score files are on egnyte (browser-only download — not script-fetchable, not profiled). pdf books/guides + excel data files (via egnyte) accountability methodology pmf archive — 11 21 2016 17 pmf policy & technical guide v2 the data it receives until final results are presented. data are stored to the number of digits measure floor target measure floor target measure floor target business rule calculated target measure floor target calculated target measure floor target measure floor target measure floor target pmf archive — 12 12 final 2015 16 pmf book 2015—16 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2015—16 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2015—16 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2015—16 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2015—16 overall tier 3 (0.0 — 34.9%) ward grade levels percentage pk—8 schools pmf archive — vote 2015 16 pmf policy tech march meeting final clean copy the data it receives until final results are presented. data are stored to the number of digits measure floor target measure floor target measure floor target business rule calculated target measure floor target calculated target measure floor target measure floor target measure floor target pmf archive — final pmf book 2015 2 29 2016 early childhood/elementary/middle schools early childhood/elementary/middle schools early childhood/elementary/middle schools early childhood/elementary/middle schools high schools 2014—15 tier 1 (65.0 — 100.0%) ward ages served pmf archive — revised 2014 15 pmf policy tech guide approved 8 17 15 final1 pcsb makes every effort to retain the measure floor target measure floor target weight indicator measure weight floor6 target7 weight indicator measure weight floor target weigh t indicator measure weigh t floo r target weigh t indicator measure weigh t floo r target weight indicator measure weight floor target pmf archive — 14 book (12 11 2014) 2013—14 overall tier 1 (65.0 — 100.0%) ward grade levels percentage 2013—14 overall tier 2 (35.0 — 64.9%) ward grade levels percentage 2013—14 overall tier 2 (35.0 — 64.9%) ward grade levels percentage early childhood programs early childhood programs early childhood programs elementary/middle schools pmf archive — 2014technicalguide 01 10 14 final weight indicator metric weight floor5 target6 weight indicator metric weight floor target 20% leading indicators attendance 10% 82.0 weight indicator metric weight floor target weight indicator metric weight floor target pmf, not counting it towards a school’s overall score. once the baseline is established, the floors and targets will be indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale pmf archive — 2013 pmf reduced 2 elementary/middle schools elementary/middle schools high schools elementary/middle schools public charter school 2012–13 grade levels targets met total targets public charter school 2012–13 grade levels targets met total targets public charter school 2012–13 grade levels targets met total targets pmf archive — release 2012 2013 pmf guidelines revised 9 12 weight indicator metric weight floor5 target6 weight indicator metric weight floor target weight indicator metric weight floor target weight indicator metric weight floor target indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale indicator measure description components, method, additional notes rationale attendance absenteeism chronic absenteeism chronic absence truancy pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating"
+   "search": "performance management framework (pmf) — archive dc pcsb legacy charter accountability with per-school scores/tiers. superseded by aspire/sqr. confirm which framework a given year's 'tier' refers to before combining. harvest gap: 9 pmf books/guides are direct pdfs (profiled); the ~13 machine-readable pmf excel score files are on egnyte (browser-only download — not script-fetchable, not profiled). pdf books/guides + excel data files (via egnyte) accountability methodology pmf archive — 11 21 2016 17 pmf policy & technical guide v2 pmf archive — 12 12 final 2015 16 pmf book pmf archive — vote 2015 16 pmf policy tech march meeting final clean copy pmf archive — final pmf book 2015 2 29 2016 pmf archive — revised 2014 15 pmf policy tech guide approved 8 17 15 final1 pmf archive — 14 book (12 11 2014) pmf archive — 2014technicalguide 01 10 14 final pmf archive — 2013 pmf reduced 2 pmf archive — release 2012 2013 pmf guidelines revised 9 12 accountability star school quality sqr pmf aspire rating"
   },
   {
    "id": "pcsb-equity-reports",
@@ -38276,7 +37631,7 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity",
       "methodology"
@@ -38284,7 +37639,7 @@ window.CATALOG = {
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Definitions Guide",
-     "n_pages": 2,
+     "n_pages": null,
      "has_tabular_data": false,
      "n_table_pages": 0,
      "tables": []
@@ -38294,395 +37649,140 @@ window.CATALOG = {
      "url": "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Academy of Hope Adult PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "Academy of Hope Adult PCS 2016-2017 Equity Report 233Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Adult Equity Reports give our schools, families and communities transparent Ward 5 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 2315 18th Pl NE Washington, DC 20018 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-269-6623 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://www.aohdc.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 16
-      },
-      {
-       "page": 1,
-       "header": [
-        "Male 33",
-        "32.5"
-       ],
-       "n_rows": 32
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE Academy of Hope Adult PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 88
-      },
-      {
-       "page": 3,
-       "header": [
-        "Academy of Hope Adult PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "Academy of Hope Adult PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Briya PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Briya PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "Briya PCS 2016-2017 Equity Report 126Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades PK3, PK4, Adult Equity Reports give our schools, families and communities transparent Ward 5 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 100 Gallatin St NE Washington, DC 20011 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-797-7337 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://briya.org/ Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 48
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE Briya PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 86
-      },
-      {
-       "page": 3,
-       "header": [
-        "Briya PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "Briya PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Carlos Rosario International PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "Carlos Rosario International PCS 2016-2017 Equity Report 1119Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Adult Equity Reports give our schools, families and communities transparent Ward 1 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 1100 Harvard St NW Washington, DC 20009 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-797-4700 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://www.carlosrosario.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 20
-      },
-      {
-       "page": 1,
-       "header": [
-        "Male 41",
-        "41.2"
-       ],
-       "n_rows": 14
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE Carlos Rosario International PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 85
-      },
-      {
-       "page": 3,
-       "header": [
-        "Carlos Rosario International PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "Carlos Rosario International PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Community College Preparatory Academy PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "Community College Preparatory Academy PCS 2016-2017 Equity Report 216Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Adult Equity Reports give our schools, families and communities transparent Ward 8 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 2405 Martin Luther King Jr Ave SE Washington, DC 20020 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-610-5780 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://www.ccprep-academy.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 52
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE Community College Preparatory Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 89
-      },
-      {
-       "page": 3,
-       "header": [
-        "Community College Preparatory Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "Community College Preparatory Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "LAYC Career Academy PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "LAYC Career Academy PCS 2016-2017 Equity Report 104Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Ungraded Equity Reports give our schools, families and communities transparent Ward 1 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 3224 16th St NW Washington, DC 20010 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-319-2228 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://www.laycca.org/ Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 47
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE LAYC Career Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 86
-      },
-      {
-       "page": 3,
-       "header": [
-        "LAYC Career Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "LAYC Career Academy PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "Maya Angelou PCS Young Adult Learning Center",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "Maya Angelou PCS - Young Adult Learning Center 2016-2017 Equity Report 137Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Adult Equity Reports give our schools, families and communities transparent Ward 7 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 5600 E Capitol St NE Washington, DC 20019 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-289-8898 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://seeforever.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 54
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE Maya Angelou PCS - Young Adult Learning Center 2016-2017 Equity Report"
-       ],
-       "n_rows": 89
-      },
-      {
-       "page": 3,
-       "header": [
-        "Maya Angelou PCS - Young Adult Learning Center 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "Maya Angelou PCS - Young Adult Learning Center 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "The Next Step El Proximo Paso PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "The Next Step/El Proximo Paso PCS 2016-2017 Equity Report 168Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Ungraded Equity Reports give our schools, families and communities transparent Ward 1 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 3047 15th St NW Washington, DC 20009 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-319-2249 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://nextsteppcs.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 48
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE The Next Step/El Proximo Paso PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 87
-      },
-      {
-       "page": 3,
-       "header": [
-        "The Next Step/El Proximo Paso PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "The Next Step/El Proximo Paso PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability el ell english language learner english learner esl iep limited english multilingual special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
+     "syn": "el ell english language learner english learner esl limited english multilingual"
     },
     {
      "name": "School Equity Reports — Equity Report Public Charter School YouthBuild PCS",
      "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "equity"
      ],
      "added": "2026-06-15",
      "series": "School Equity Reports (per charter school, 2017-18)",
      "label": "YouthBuild PCS",
-     "n_pages": 4,
-     "has_tabular_data": true,
-     "n_table_pages": 4,
-     "tables": [
-      {
-       "page": 1,
-       "header": [
-        "YouthBuild PCS 2016-2017 Equity Report 128Public Charter School SCHOOLCHARACTERISTICS (SY 2017-18) What is an Equity Report? Equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. Grades Ungraded Equity Reports give our schools, families and communities transparent Ward 1 and comparable information relatedto equity across all DC schools. Equity Reports are available online so that information is easy to access, understand and use. Address 3220 16th St NW Washington, DC 20009 The Office of the State Superintendent of Education (OSSE), DC Public Schools (DCPS), the DC Public Charter SchoolBoard (DC PCSB) in Contact 202-319-0141 consultation with charter schools, the Deputy Mayor for Education and NewSchools Venture Fund partnered to create these Equity Reports. http://www.youthbuildpcs.org Equity Reports are a complement to OSSE’s LearnDCSchool Profiles, DCPS’ School Scorecards and DCPCSB’s Performance Management Framework. Type 1 Public Charter School"
-       ],
-       "n_rows": 50
-      },
-      {
-       "page": 2,
-       "header": [
-        "ASTTUTEDNENDAT NCHCEA R &A CDTIESRCIISPTLIICNSE YouthBuild PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 87
-      },
-      {
-       "page": 3,
-       "header": [
-        "YouthBuild PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 4,
-       "header": [
-        "YouthBuild PCS 2016-2017 Equity Report"
-       ],
-       "n_rows": 3
-      }
-     ],
-     "syn": "disabilities disability iep special education special needs students with disabilities swd"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": []
     }
    ],
-   "search": "school equity reports (charter) dc pcsb per-school attendance, discipline, mobility/withdrawal, growth. pcsb now redirects this detail to osse's dc school report card; its own reports stop at 2017-18. harvest gap: the 2017 per-school equity pdfs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity pdfs are on egnyte (browser-only, not profiled). pdf (via egnyte) equity discipline attendance school equity reports — sy 2017 18 dc pcsb equity report definitions guide school equity reports — equity report public charter school academy of hope adult pcs academy of hope adult pcs 2016-2017 equity report 233public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 5 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 2315 18th pl ne washington, dc 20018 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-269-6623 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.aohdc.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school male 33 32.5 asttutednendat nchcea r &a cdtiesrciisptliicnse academy of hope adult pcs 2016-2017 equity report academy of hope adult pcs 2016-2017 equity report academy of hope adult pcs 2016-2017 equity report school equity reports — equity report public charter school briya pcs briya pcs 2016-2017 equity report 126public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades pk3, pk4, adult equity reports give our schools, families and communities transparent ward 5 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 100 gallatin st ne washington, dc 20011 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-797-7337 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://briya.org/ equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse briya pcs 2016-2017 equity report briya pcs 2016-2017 equity report briya pcs 2016-2017 equity report school equity reports — equity report public charter school carlos rosario international pcs carlos rosario international pcs 2016-2017 equity report 1119public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 1100 harvard st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-797-4700 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.carlosrosario.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school male 41 41.2 asttutednendat nchcea r &a cdtiesrciisptliicnse carlos rosario international pcs 2016-2017 equity report carlos rosario international pcs 2016-2017 equity report carlos rosario international pcs 2016-2017 equity report school equity reports — equity report public charter school community college preparatory academy pcs community college preparatory academy pcs 2016-2017 equity report 216public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 8 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 2405 martin luther king jr ave se washington, dc 20020 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-610-5780 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.ccprep-academy.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse community college preparatory academy pcs 2016-2017 equity report community college preparatory academy pcs 2016-2017 equity report community college preparatory academy pcs 2016-2017 equity report school equity reports — equity report public charter school layc career academy pcs layc career academy pcs 2016-2017 equity report 104public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3224 16th st nw washington, dc 20010 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-2228 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.laycca.org/ equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse layc career academy pcs 2016-2017 equity report layc career academy pcs 2016-2017 equity report layc career academy pcs 2016-2017 equity report school equity reports — equity report public charter school maya angelou pcs young adult learning center maya angelou pcs - young adult learning center 2016-2017 equity report 137public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades adult equity reports give our schools, families and communities transparent ward 7 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 5600 e capitol st ne washington, dc 20019 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-289-8898 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://seeforever.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse maya angelou pcs - young adult learning center 2016-2017 equity report maya angelou pcs - young adult learning center 2016-2017 equity report maya angelou pcs - young adult learning center 2016-2017 equity report school equity reports — equity report public charter school the next step el proximo paso pcs the next step/el proximo paso pcs 2016-2017 equity report 168public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3047 15th st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-2249 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://nextsteppcs.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse the next step/el proximo paso pcs 2016-2017 equity report the next step/el proximo paso pcs 2016-2017 equity report the next step/el proximo paso pcs 2016-2017 equity report school equity reports — equity report public charter school youthbuild pcs youthbuild pcs 2016-2017 equity report 128public charter school schoolcharacteristics (sy 2017-18) what is an equity report? equity in education refers to all students receiving the same caliber of education regardless of their race, ethnicity, economic status, special education status orother factors. grades ungraded equity reports give our schools, families and communities transparent ward 1 and comparable information relatedto equity across all dc schools. equity reports are available online so that information is easy to access, understand and use. address 3220 16th st nw washington, dc 20009 the office of the state superintendent of education (osse), dc public schools (dcps), the dc public charter schoolboard (dc pcsb) in contact 202-319-0141 consultation with charter schools, the deputy mayor for education and newschools venture fund partnered to create these equity reports. http://www.youthbuildpcs.org equity reports are a complement to osse’s learndcschool profiles, dcps’ school scorecards and dcpcsb’s performance management framework. type 1 public charter school asttutednendat nchcea r &a cdtiesrciisptliicnse youthbuild pcs 2016-2017 equity report youthbuild pcs 2016-2017 equity report youthbuild pcs 2016-2017 equity report english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
+   "search": "school equity reports (charter) dc pcsb per-school attendance, discipline, mobility/withdrawal, growth. pcsb now redirects this detail to osse's dc school report card; its own reports stop at 2017-18. harvest gap: the 2017 per-school equity pdfs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity pdfs are on egnyte (browser-only, not profiled). pdf (via egnyte) equity discipline attendance school equity reports — sy 2017 18 dc pcsb equity report definitions guide school equity reports — equity report public charter school academy of hope adult pcs school equity reports — equity report public charter school briya pcs school equity reports — equity report public charter school carlos rosario international pcs school equity reports — equity report public charter school community college preparatory academy pcs school equity reports — equity report public charter school layc career academy pcs school equity reports — equity report public charter school maya angelou pcs young adult learning center school equity reports — equity report public charter school the next step el proximo paso pcs school equity reports — equity report public charter school youthbuild pcs english learner english language learner el ell esl multilingual limited english attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "pcsb-discipline-attendance",
@@ -38704,97 +37804,16 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf",
      "kind": "pdf",
      "year": "2022-23",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "attendance",
       "discipline"
      ],
      "added": "2026-06-15",
-     "n_pages": 27,
-     "has_tabular_data": true,
-     "n_table_pages": 8,
-     "tables": [
-      {
-       "page": 5,
-       "header": [
-        "Percent of Students Suspended (Suspension Rate)",
-        "8.4%"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 10,
-       "header": [
-        "Campus",
-        "Grades Served",
-        "Ward",
-        "SY 2022-23",
-        "SY 2021-22"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 11,
-       "header": [
-        "Campus",
-        "Grades Served",
-        "Ward",
-        "% of Students",
-        "# of Students"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 12,
-       "header": [
-        "Campus",
-        "SY 2022-23 ISA",
-        "SY2021-22 ISA",
-        "SY 2020-21 ISA"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 13,
-       "header": [
-        "In-Seat Attendance: Highest Rates"
-       ],
-       "n_rows": 13
-      },
-      {
-       "page": 14,
-       "header": [
-        "Campus",
-        "Grades Served",
-        "Ward",
-        "ISA"
-       ],
-       "n_rows": 11
-      },
-      {
-       "page": 15,
-       "header": [
-        "Campus",
-        "Grades Served",
-        "Ward",
-        "SY 2022-23 ISA",
-        "SY 2021-22 ISA"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 16,
-       "header": [
-        "Campus",
-        "Grades Served",
-        "War d",
-        "# Truant Students",
-        "Truancy Rate",
-        "ISA"
-       ],
-       "n_rows": 11
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
@@ -38802,75 +37821,16 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "attendance",
       "discipline"
      ],
      "added": "2026-06-15",
-     "n_pages": 25,
-     "has_tabular_data": true,
-     "n_table_pages": 11,
-     "tables": [
-      {
-       "page": 6,
-       "header": [],
-       "n_rows": 11
-      },
-      {
-       "page": 7,
-       "header": [
-        "Grades 2016-17 2017-18 School Ward Served Rate Rate"
-       ],
-       "n_rows": 10
-      },
-      {
-       "page": 8,
-       "header": [
-        "Grades 2016-17 2017-18 School Ward Served Rate Rate"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 11,
-       "header": [
-        "# of Audited Grades School Ward Students Served Suspended"
-       ],
-       "n_rows": 11
-      },
-      {
-       "page": 12,
-       "header": [
-        "SY 2016-2017 SY 2017-2018"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 13,
-       "header": [
-        "Campus Highest Long T",
-        "Grades erm Susp Served",
-        "Ward ension Rat",
-        "% of es in 2015-16 students",
-        "# of students"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 16,
-       "header": [
-        "Grades Highest ISA Rates SY 2017-18 Ward ISA Rate Served"
-       ],
-       "n_rows": 12
-      },
-      {
-       "page": 17,
-       "header": [
-        "Grades Lowest ISA Rates SY 2017-18 Ward ISA Rate Served"
-       ],
-       "n_rows": 10
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
@@ -38878,83 +37838,16 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf",
      "kind": "pdf",
      "year": "2015",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "attendance",
       "discipline"
      ],
      "added": "2026-06-15",
-     "n_pages": 22,
-     "has_tabular_data": true,
-     "n_table_pages": 13,
-     "tables": [
-      {
-       "page": 5,
-       "header": [
-        "395"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 5,
-       "header": [],
-       "n_rows": 2
-      },
-      {
-       "page": 6,
-       "header": [
-        "School",
-        "Ward",
-        "2014-15 Rate*",
-        "2015-16 Rate*"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 7,
-       "header": [
-        "School",
-        "Ward",
-        "2014-15 Rate*",
-        "2015-16 Rate*"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 9,
-       "header": [
-        "Notable improvements",
-        "Ward",
-        "# of students"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 10,
-       "header": [
-        "SY 2014-2015",
-        "SY 2015-2016"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 11,
-       "header": [
-        "Ward",
-        "% of students",
-        "# of students"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 13,
-       "header": [
-        "Top Schools - Highest Rates SY 2015-16",
-        "Rate"
-       ],
-       "n_rows": 10
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     },
     {
@@ -38962,13 +37855,13 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf",
      "kind": "pdf",
      "year": "2020-14",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "attendance",
       "discipline"
      ],
      "added": "2026-06-15",
-     "n_pages": 3,
+     "n_pages": null,
      "has_tabular_data": false,
      "n_table_pages": 0,
      "tables": [],
@@ -38979,81 +37872,20 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf",
      "kind": "pdf",
      "year": "2015",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "attendance",
       "discipline"
      ],
      "added": "2026-06-15",
-     "n_pages": 18,
-     "has_tabular_data": true,
-     "n_table_pages": 9,
-     "tables": [
-      {
-       "page": 3,
-       "header": [],
-       "n_rows": 2
-      },
-      {
-       "page": 3,
-       "header": [
-        "237 186"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 3,
-       "header": [
-        "186"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 3,
-       "header": [
-        "139"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 3,
-       "header": [],
-       "n_rows": 2
-      },
-      {
-       "page": 4,
-       "header": [
-        "School",
-        "Ward",
-        "SY2013-­‐14 Rate",
-        "SY2014-­‐15 Rate"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 5,
-       "header": [
-        "School",
-        "Ward",
-        "SY2013-­‐ 14 Rate",
-        "SY2014-­‐ 15 Rate"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 7,
-       "header": [
-        "Notable improvements",
-        "Ward",
-        "# of students"
-       ],
-       "n_rows": 5
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "absenteeism attendance chronic absence chronic absenteeism discipline expulsion expulsions suspension suspensions truancy"
     }
    ],
-   "search": "annual discipline & attendance report (charter) dc pcsb charter suspensions/expulsions/attendance. overlaps osse citywide discipline data and the report card (the cross-sector authority). web page / pdf discipline attendance discipline & attendance — [corrected 9 5 23 council submission] sy22 23 dc pcsb south capital street truan percent of students suspended (suspension rate) 8.4% campus grades served ward sy 2022-23 sy 2021-22 campus grades served ward % of students # of students campus sy 2022-23 isa sy2021-22 isa sy 2020-21 isa in-seat attendance: highest rates campus grades served ward isa campus grades served ward sy 2022-23 isa sy 2021-22 isa campus grades served war d # truant students truancy rate isa discipline & attendance — sy 17 18 attendance and discipline report grades 2016-17 2017-18 school ward served rate rate grades 2016-17 2017-18 school ward served rate rate # of audited grades school ward students served suspended sy 2016-2017 sy 2017-2018 campus highest long t grades erm susp served ward ension rat % of es in 2015-16 students # of students grades highest isa rates sy 2017-18 ward isa rate served grades lowest isa rates sy 2017-18 ward isa rate served discipline & attendance — dc pcsb sy 2015 16 truancy report 395 school ward 2014-15 rate* 2015-16 rate* school ward 2014-15 rate* 2015-16 rate* notable improvements ward # of students sy 2014-2015 sy 2015-2016 ward % of students # of students top schools - highest rates sy 2015-16 rate discipline & attendance — 15 pcsb discipline and truancy report discipline & attendance — 2015 discipline & attendance briefing full report 237 186 186 139 school ward sy2013-­‐14 rate sy2014-­‐15 rate school ward sy2013-­‐ 14 rate sy2014-­‐ 15 rate notable improvements ward # of students attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
+   "search": "annual discipline & attendance report (charter) dc pcsb charter suspensions/expulsions/attendance. overlaps osse citywide discipline data and the report card (the cross-sector authority). web page / pdf discipline attendance discipline & attendance — [corrected 9 5 23 council submission] sy22 23 dc pcsb south capital street truan discipline & attendance — sy 17 18 attendance and discipline report discipline & attendance — dc pcsb sy 2015 16 truancy report discipline & attendance — 15 pcsb discipline and truancy report discipline & attendance — 2015 discipline & attendance briefing full report attendance absenteeism chronic absenteeism chronic absence truancy discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "pcsb-school-finances",
@@ -39074,73 +37906,16 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf",
      "kind": "pdf",
      "year": "2018",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "finance",
       "demographics"
      ],
      "added": "2026-06-15",
-     "n_pages": 70,
-     "has_tabular_data": true,
-     "n_table_pages": 60,
-     "tables": [
-      {
-       "page": 3,
-       "header": [
-        "AT RISK FUNDING AND ENROLLMENT FOR CHARTER SCHOOLS FY2018 through FY2019"
-       ],
-       "n_rows": 53
-      },
-      {
-       "page": 4,
-       "header": [
-        "AT RISK FUNDING AND ENROLLMENT FOR CHARTER SCHOOLS FY2018 through FY2019"
-       ],
-       "n_rows": 13
-      },
-      {
-       "page": 6,
-       "header": [
-        "Achievement Prep"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 7,
-       "header": [
-        "CHARTER NAME"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 8,
-       "header": [
-        "CHARTER NAME"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 9,
-       "header": [
-        "Breakthrough Montessori"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 10,
-       "header": [
-        "CHARTER NAME"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 11,
-       "header": [
-        "Capital City Public Charter School (LS, MS, HS)"
-       ],
-       "n_rows": 8
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     },
     {
@@ -39148,188 +37923,33 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf",
      "kind": "pdf",
      "year": "2017",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "finance",
       "demographics"
      ],
      "added": "2026-06-15",
-     "n_pages": 47,
-     "has_tabular_data": true,
-     "n_table_pages": 45,
-     "tables": [
-      {
-       "page": 3,
-       "header": [],
-       "n_rows": 45
-      },
-      {
-       "page": 4,
-       "header": [
-        "National Collegiate Preparatory PCHS",
-        "181",
-        "$ 391,832",
-        "178",
-        "$ 399,838"
-       ],
-       "n_rows": 22
-      },
-      {
-       "page": 5,
-       "header": [
-        "AppleTree Early Learning"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 6,
-       "header": [
-        "BASIS DC"
-       ],
-       "n_rows": 8
-      },
-      {
-       "page": 7,
-       "header": [
-        "Bridges PCS"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 8,
-       "header": [
-        "Cedar Tree Academy PCS"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 9,
-       "header": [
-        "Center City PCS"
-       ],
-       "n_rows": 7
-      },
-      {
-       "page": 10,
-       "header": [
-        "Cesar Chavez Public Charter School"
-       ],
-       "n_rows": 7
-      }
-     ],
-     "syn": "at-risk budget cost disadvantaged early childhood early learning economically disadvantaged expenditure farms finance free lunch frpl funding head start low income low-income per pupil per-pupil poverty pre-k pre-kindergarten prek preschool spending title i"
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
+     "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     },
     {
      "name": "At-Risk Funding — DC PCSB At Risk Funding Report (revised 102716)",
      "url": "https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf",
      "kind": "pdf",
      "year": "2016",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "finance",
       "demographics"
      ],
      "added": "2026-06-15",
-     "n_pages": 16,
-     "has_tabular_data": true,
-     "n_table_pages": 12,
-     "tables": [
-      {
-       "page": 3,
-       "header": [
-        "DC Public Charter Schools FY 2016 At Risk Funding Per School & FY 2017 Proposed Funding"
-       ],
-       "n_rows": 45
-      },
-      {
-       "page": 4,
-       "header": [
-        "School Name",
-        "FY16 At Risk FY16 At Risk Proposed Proposed Enrollment Funding",
-        "FY2016 FY16 Audit ACTUAL Actual Count AT RISK",
-        "FY17 At Risk FY17 At Risk Proposed Proposed Enrollment Funding"
-       ],
-       "n_rows": 20
-      },
-      {
-       "page": 7,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 8,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 9,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 10,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 11,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 6
-      },
-      {
-       "page": 12,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-risk funds for SY15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support.",
-        "Did your school use at-risk funding to offer summer school programming in 2016?",
-        "If yes, what challenges did you face in the use of funds and what improvements would you like to see?",
-        "If no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics)"
-       ],
-       "n_rows": 8
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     },
     {
@@ -39337,121 +37957,20 @@ window.CATALOG = {
      "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf",
      "kind": "pdf",
      "year": "2010",
-     "status": "ok",
+     "status": "error",
      "topics": [
       "finance",
       "demographics"
      ],
      "added": "2026-06-15",
-     "n_pages": 15,
-     "has_tabular_data": true,
-     "n_table_pages": 12,
-     "tables": [
-      {
-       "page": 3,
-       "header": [
-        "Category",
-        "Number of Schools",
-        "Percentage"
-       ],
-       "n_rows": 12
-      },
-      {
-       "page": 5,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 5
-      },
-      {
-       "page": 6,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 7,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 4
-      },
-      {
-       "page": 8,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 2
-      },
-      {
-       "page": 9,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 3
-      },
-      {
-       "page": 10,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 4
-      },
-      {
-       "page": 11,
-       "header": [
-        "Name:",
-        "Position:",
-        "LEA Name:",
-        "Please include a description of how your LEA has spent or plans to spend per pupil at-­risk funds for SY15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support.",
-        "Did your school offer summer school programming in 2015?",
-        "If your school did offer summer school programming in 2015, was there a cost to families for the program?",
-        "If your school did not offer free summer school programming in 2015, was this a change from previous years?"
-       ],
-       "n_rows": 6
-      }
-     ],
+     "n_pages": null,
+     "has_tabular_data": false,
+     "n_table_pages": 0,
+     "tables": [],
      "syn": "at-risk budget cost disadvantaged economically disadvantaged expenditure farms finance free lunch frpl funding low income low-income per pupil per-pupil poverty spending title i"
     }
    ],
-   "search": "charter school finances (spending, budgets, audits, 990s) dc pcsb per-school spending breakdowns. cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. charter actuals — distinct from osse ppe methodology. harvest gap: the 4 citywide at-risk funding reports are profiled; the bulk is per-school documents not catalogued individually — ~249 fiscal-audit pdfs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on egnyte (browser-only). open the page to browse a specific school. web page / pdf / excel (much via egnyte) finance at-risk funding — at risk funding report 18 19 1 22 2019 nw at risk funding and enrollment for charter schools fy2018 through fy2019 at risk funding and enrollment for charter schools fy2018 through fy2019 achievement prep charter name charter name breakthrough montessori charter name capital city public charter school (ls, ms, hs) at-risk funding — sy 17 18 at risk funding report national collegiate preparatory pchs 181 $ 391,832 178 $ 399,838 appletree early learning basis dc bridges pcs cedar tree academy pcs center city pcs cesar chavez public charter school at-risk funding — dc pcsb at risk funding report (revised 102716) dc public charter schools fy 2016 at risk funding per school & fy 2017 proposed funding school name fy16 at risk fy16 at risk proposed proposed enrollment funding fy2016 fy16 audit actual actual count at risk fy17 at risk fy17 at risk proposed proposed enrollment funding name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-risk funds for sy15-16, particularly any programs, initiatives or enrichment activities the at-risk funds have supported or will support. did your school use at-risk funding to offer summer school programming in 2016? if yes, what challenges did you face in the use of funds and what improvements would you like to see? if no, did you use the at-risk funds for other purposes? (e.g. tutors, after school programs, athletics) at-risk funding — at risk report 2015 final 10 01 2015[1] category number of schools percentage name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? name: position: lea name: please include a description of how your lea has spent or plans to spend per pupil at-­risk funds for sy15-­16, particularly any programs, initiatives or enrichment activities the at-­risk funds have supported or will support. did your school offer summer school programming in 2015? if your school did offer summer school programming in 2015, was there a cost to families for the program? if your school did not offer free summer school programming in 2015, was this a change from previous years? at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i finance per-pupil per pupil expenditure spending budget cost funding pre-k pre-kindergarten prek preschool early childhood early learning head start"
+   "search": "charter school finances (spending, budgets, audits, 990s) dc pcsb per-school spending breakdowns. cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. charter actuals — distinct from osse ppe methodology. harvest gap: the 4 citywide at-risk funding reports are profiled; the bulk is per-school documents not catalogued individually — ~249 fiscal-audit pdfs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on egnyte (browser-only). open the page to browse a specific school. web page / pdf / excel (much via egnyte) finance at-risk funding — at risk funding report 18 19 1 22 2019 nw at-risk funding — sy 17 18 at risk funding report at-risk funding — dc pcsb at risk funding report (revised 102716) at-risk funding — at risk report 2015 final 10 01 2015[1] at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i finance per-pupil per pupil expenditure spending budget cost funding"
   },
   {
    "id": "pcsb-growth-closures",
