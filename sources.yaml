@@ -21,7 +21,7 @@
 #   notes        gotchas, fragmentation, where older years live, overlaps
 #
 # `last_verified` is the month the research sweep confirmed these URLs.
-last_verified: "2026-08"
+last_verified: "2026-11"
 
 owners:
   - key: OSSE
@@ -64,14 +64,14 @@ sources:
   - id: osse-data-reports
     name: "OSSE Data and Reports (main landing)"
     owner: OSSE
-    url: "https://osse.dc.gov/page/data-and-reports-0"
+    url: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [landing, enrollment, assessment, attendance, graduation, discipline, finance, demographics]
     authority: authoritative
     status: ok
     format: "Web portal of links to files & dashboards"
     cadence: "Rolling; underlying datasets annual"
     years: "Links span SY2014-15 to SY2024-25 by dataset"
-    notes: "Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes."
+    notes: "Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes. Moved from /page/data-and-reports-0 (404 as of 2026-11-01) to /page/osse-data-and-reports; the OSSE homepage's 'Data & Reports' link points to the new URL. The page's own jump links still use the old address."
 
   - id: osse-report-card-resource-library
     name: "DC School Report Card Resource Library (downloads)"
@@ -100,7 +100,7 @@ sources:
   - id: osse-star-technical-guide
     name: "DC School Report Card & STAR Framework Technical Guide"
     owner: OSSE
-    url: "https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide"
+    url: "https://osse.dc.gov/publication/dc-school-report-card-technical-guide"
     topics: [accountability, methodology]
     authority: authoritative
     status: ok
@@ -380,11 +380,11 @@ sources:
     url: "https://dcps.dc.gov/featured-content/dcps-fast-facts-2025"
     topics: [enrollment, demographics, landing]
     authority: derived
-    status: ok
+    status: stale
     format: "PDF (2-page fact sheet)"
     cadence: "Annual (2025 ed. published Mar 2025)"
     years: "Latest year; older editions only via direct PDF URLs"
-    notes: "District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation."
+    notes: "District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation. As of 2026-11-01 the 2025 page returns 'Access denied' (HTTP 403) in a browser as well as to scripts, which is how dc.gov serves unpublished pages. No 2026 edition was found (/featured-content/dcps-fast-facts-2026 is 404) and the DCPS homepage no longer links Fast Facts."
 
   - id: dcps-school-profiles
     name: "DCPS School Profiles ('Find a School')"
@@ -498,110 +498,110 @@ sources:
   - id: pcsb-transparency-hub
     name: "DC PCSB Transparency Hub"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/transparency-hub"
+    url: "https://dcpcsb.org/transparency-hub/"
     topics: [landing, finance, discipline, equity, profiles]
     authority: authoritative
-    status: ok
+    status: unstable
     format: "Web portal (links to PDF / Excel / Egnyte / Google Sheets)"
     cadence: "Continuously updated; docs annual"
     years: "Multiple; varies by document"
-    notes: "The single most comprehensive index of PCSB charter data: budgets, audits, 990s, financials, at-risk spending, equity reports, discipline/attendance, charter agreements, site reviews, school profiles, openings/closures. Many financial docs hosted off-site on Egnyte."
+    notes: "An index of PCSB's own governance documents (finance committee memos, salaries, nurse schedule; mostly Egnyte). PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-15) but visiting it redirects to the 'Find a Public Charter School' page, so it is not currently reachable in a browser. The charter-school data this source used to index (budgets, audits, at-risk, equity, discipline) now sits on /data/ and /school-finances-funding/."
 
   - id: pcsb-charter-data
     name: "Public Charter School Data (sector overview)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/about-us/public-charter-school-data"
+    url: "https://dcpcsb.org/data/"
     topics: [landing, enrollment, assessment, graduation]
     authority: authoritative
     status: ok
-    format: "Web page (links to sub-dashboards)"
+    format: "Web page (links to Egnyte / OSSE)"
     cadence: "Annual"
     years: "Current"
-    notes: "Citywide charter rollups (enrollment, assessment, growth/closures, graduation, profiles). Cites 133 schools / 66 LEAs / ~47,525 students."
+    notes: "Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript."
 
   - id: pcsb-student-enrollment
     name: "Charter Student Enrollment"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/student-enrollment"
+    url: "https://dcpcsb.org/data/"
     topics: [enrollment, demographics]
     authority: republished
     status: ok
-    format: "Static tables + spreadsheet download + link to OSSE"
+    format: "Spreadsheet (via Egnyte)"
     cadence: "Annual"
     years: "SY22-23, 23-24, 24-25 shown; historical spreadsheet 1967–present"
-    notes: "Charter-only enrollment by grade/tier/demographics/ward + market share. Audited counts sourced from OSSE; PCSB republishes/analyzes the charter slice. Static tables, NOT Tableau."
+    notes: "Charter-only enrollment. Audited counts come from OSSE; PCSB republishes and analyzes the charter slice. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /student-enrollment page and its static tables are gone (the URL redirects to /data/). The 'Student Enrollment' section of /data/ links a 'View Historical Enrollment' file on Egnyte (browser-only)."
 
   - id: pcsb-assessment
     name: "Statewide Assessment Results (charter)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/test-results-parcc"
+    url: "https://dcpcsb.org/data/"
     topics: [assessment]
     authority: republished
-    status: unstable
-    format: "Web page / dashboard"
+    status: ok
+    format: "Links to OSSE PDFs"
     cadence: "Annual"
     years: "Multiple"
-    notes: "Charter ELA/math on the DC statewide test. URL still says 'parcc' though DC moved to DC CAPE. Overlaps OSSE/Report Card (the authority). Site occasionally returns HTTP 520."
+    notes: "Charter ELA/math on the DC statewide test. Overlaps OSSE/Report Card. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /test-results-parcc page returns 404. The 'Statewide Assessment Results' section of /data/ now just links OSSE's DC CAPE results decks for 2022-2025; PCSB no longer publishes its own charter-only results page."
 
   - id: pcsb-school-profiles
     name: "School Profiles / Find a DC Public Charter School"
     owner: "DC PCSB"
-    url: "https://www.dcpcsb.org/school-profiles"
+    url: "https://dcpcsb.org/school-profiles/"
     topics: [profiles, accountability]
     authority: authoritative
     status: ok
     format: "Interactive searchable directory"
     cadence: "Updated yearly / as schools open/close"
     years: "Current roster"
-    notes: "Canonical 'find a charter school' tool. Filter by feature/ward/grade/status; each entry links to its School Quality Report. No bulk export."
+    notes: "Interactive 'find a charter school' tool, plus high school course and graduation-policy documents. No bulk export. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. Whether each school entry still links to a School Quality Report was not checked."
 
   - id: pcsb-directory-pdf
     name: "Public Charter School Directory (annual PDF)"
     owner: "DC PCSB"
-    url: "https://www.dcpcsb.org/2025-26-public-charter-school-directory"
+    url: "https://dcpcsb.egnyte.com/dl/4JmpCtX9bt48"
     topics: [profiles]
     authority: authoritative
     status: ok
-    format: "PDF"
+    format: "PDF (via Egnyte)"
     cadence: "Annual (school year)"
     years: "2025-26 latest; prior years at /YYYY-YY-... URLs"
-    notes: "Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact."
+    notes: "Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /2025-26-public-charter-school-directory page redirects to the newsroom; the directory is now the 'School Directory' Egnyte link in the site header (browser-only). Which school year it covers was not checked."
 
   - id: pcsb-sqr
     name: "School Quality Report (SQR)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/families/school-quality-report"
+    url: "https://dcpcsb.org/performance-management-framework-pmf/"
     topics: [accountability]
     authority: authoritative
-    status: unstable
+    status: stale
     format: "Web page / per-school report"
     cadence: "Annual (released fall)"
     years: "Current; history via PMF archive"
-    notes: "Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. Aggregated at /schoolquality (sometimes bot-blocked)."
+    notes: "Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /families/school-quality-report page returns 404, and the new site has no SQR page (site search for 'school quality report' and 'SQR' finds none). The only SQR file found is the 2018-19 PK-8 report, linked from the PMF page."
 
   - id: pcsb-aspire
     name: "ASPIRE System (current charter accountability framework)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/aspire-system"
+    url: "https://dcpcsb.org/aspire-system/"
     topics: [accountability, methodology]
     authority: authoritative
-    status: ok
+    status: unstable
     format: "Web page (framework docs / PDF)"
     cadence: "Annual"
     years: "Current"
-    notes: "The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19. The ASPIRE framework/result files (~14) are on Egnyte (/dl/ links that return an HTML landing page to scripts) — browser-only, not catalogued here."
+    notes: "The board-approved system that replaced the PMF and underlies the SQR. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-29) but visiting it, with or without the trailing slash, redirects to the 'Find a Public Charter School' page. Its content (read via the WordPress API) links the SY25-26 and SY26-27 ASPIRE Policy & Technical Guides, an Egnyte folder of historical guides, per-framework folders (PK-only, PK-8, high school, adult ed), and an ASPIRE packet, almost all on Egnyte (browser-only, not catalogued)."
 
   - id: pcsb-pmf-archive
     name: "Performance Management Framework (PMF) — archive"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/performance-management-framework-pmf"
+    url: "https://dcpcsb.org/performance-management-framework-pmf/"
     topics: [accountability, methodology]
     authority: republished
     status: stale
     format: "PDF books/guides + Excel data files (via Egnyte)"
     cadence: "Was annual"
     years: "SY2011-12 through 2018-19 (ARCHIVED)"
-    notes: "Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. HARVEST GAP: 9 PMF books/guides are direct PDFs (profiled); the ~13 machine-readable PMF Excel score files are on Egnyte (browser-only download — not script-fetchable, not profiled)."
+    notes: "Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. PCSB moved its site to WordPress in Oct 2026 and the old /sites/default/files/ links stopped resolving. Four PMF books (2012-13 through 2015-16) moved to /wp-content/uploads/ and are profiled. The 2016-17, 2017-18 and 2011-12 books are on Egnyte. Five older PMF policy/technical guides (2012-13 through 2016-17) were not found anywhere on the new site as of 2026-11-01. The ~13 machine-readable PMF Excel score files are on Egnyte (browser-only, not profiled)."
 
   - id: pcsb-equity-reports
     name: "School Equity Reports (charter)"
@@ -613,55 +613,55 @@ sources:
     format: "PDF (via Egnyte)"
     cadence: "Was annual"
     years: "SY2012-13 through 2017-18 (ARCHIVED)"
-    notes: "Per-school attendance, discipline, mobility/withdrawal, growth. PCSB now redirects this detail to OSSE's DC School Report Card; its own reports stop at 2017-18. HARVEST GAP: the 2017 per-school equity PDFs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity PDFs are on Egnyte (browser-only, not profiled)."
+    notes: "Per-school attendance, discipline, mobility/withdrawal, growth. PCSB now redirects this detail to OSSE's DC School Report Card; its own reports stop at 2017-18. As of 2026-11-01 this page no longer exists: since PCSB's Oct 2026 move to WordPress the URL redirects to the general /data/ page, which does not mention equity reports. The 9 per-school 2017 equity PDFs and the SY2017-18 definitions guide that this catalog used to profile now 404 and are not in the new site's media library. Whether the ~111 per-school equity PDFs previously on Egnyte are still linked anywhere has not been checked."
 
   - id: pcsb-discipline-attendance
     name: "Annual Discipline & Attendance Report (charter)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/attendance-and-discipline-report"
+    url: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
     topics: [discipline, attendance]
     authority: republished
     status: ok
-    format: "Web page / PDF"
+    format: "PDF (via Egnyte folder)"
     cadence: "Annual"
-    years: "Multiple"
-    notes: "Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (the cross-sector authority)."
+    years: "SY2014-15 through 2025-26"
+    notes: "Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (cross-sector). Since PCSB's Oct 2026 site migration the old /attendance-and-discipline-report page redirects to an unrelated page; the reports are now in an Egnyte folder (linked from dcpcsb.org/data/ as 'View Attendance and Discipline Reports') with one subfolder per year, SY2014-15 through 2025-26, uploaded 2026-09-17 and renamed (e.g. 'SY17-18 Report.pdf'). Egnyte is browser-only, so the 5 reports this catalog used to profile from dcpcsb.org are no longer profiled."
 
   - id: pcsb-school-finances
     name: "Charter School Finances (spending, budgets, audits, 990s)"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/school-finances"
+    url: "https://dcpcsb.org/school-finances-funding/"
     topics: [finance]
     authority: authoritative
     status: unstable
     format: "Web page / PDF / Excel (much via Egnyte)"
     cadence: "Annual"
     years: "Multiple"
-    notes: "Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. HARVEST GAP: the 4 citywide At-Risk Funding reports are profiled; the bulk is per-school documents NOT catalogued individually — ~249 fiscal-audit PDFs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on Egnyte (browser-only). Open the page to browse a specific school."
+    notes: "Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. Since PCSB's Oct 2026 move to WordPress, this is one page (/school-finances-funding/) linking Egnyte folders for budgets, 990s and fiscal audits, plus per-year At-Risk Funding reports, UPSFF funding analyses and Financial Analysis Reports, mostly on Egnyte (browser-only, not profiled). The At-Risk Funding reports for 2019-20 through 2022-23 are on Egnyte. The 2018-19 report is still linked at its old dcpcsb.org URL, which returned 404 on 2026-11-01. The 2015, 2016 and 2017-18 reports this catalog used to profile now 404 and are not on the new site. Open the page to browse a specific school."
 
   - id: pcsb-growth-closures
     name: "Charter School Growth and Closures"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/charter-school-growth-and-closures"
+    url: "https://dcpcsb.org/sector-planning/"
     topics: [profiles, openings-closures]
     authority: authoritative
     status: ok
     format: "Web page + Google Sheet"
     cadence: "Updated as events occur"
     years: "1996–present"
-    notes: "History of 80+ closed/consolidated campuses: year opened/closed, reason, closure type. Full list via linked Google Sheet."
+    notes: "Openings, closures, grade changes and campus moves, plus the history of charter LEAs and campuses since 1996. Full list via a published Google Sheet linked from the page ('View the Full History'). PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /charter-school-growth-and-closures page returns 404; /sector-planning/ is the replacement."
 
   - id: pcsb-board-meetings
     name: "DC PCSB Board Meetings & Events"
     owner: "DC PCSB"
-    url: "https://dcpcsb.org/events"
+    url: "https://dcpcsb.org/board-meetings-public-comment/"
     topics: [governance, openings-closures]
     authority: authoritative
     status: ok
     format: "Event calendar (agendas/minutes as PDF)"
     cadence: "Monthly board meetings"
     years: "Current + archive"
-    notes: "Charter approvals/conditions/closures/replications are decided and recorded here."
+    notes: "Charter approvals/conditions/closures/replications are decided and recorded here. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /events URL redirects to the newsroom; /board-meetings-public-comment/ lists upcoming and archived meetings."
 
   # ============================== DME ==============================
   - id: edscape

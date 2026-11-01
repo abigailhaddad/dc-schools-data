@@ -53,14 +53,14 @@ When a new school year posts, add the new files to `data_files.yaml`. Watch:
 - **OSSE assessment results** — through 2025 at `/assessmentresultsYYYY` with Box
   links (see §3). The 2025-26 release (Aug 2026) broke both patterns: no
   `/assessmentresults2026` alias (404) and the files are direct osse.dc.gov
-  attachments. Find the page via the `data-and-reports-0` hub link titled
+  attachments. Find the page via the `osse-data-and-reports` hub (was `data-and-reports-0` until Oct 2026) link titled
   "YYYY-YY Statewide Assessment Results and Resources" (a `/node/NNN` URL;
   use its `<link rel=canonical>`). Catalogue the State/LEA/School files (incl.
   the separate Middle School Advanced Math set), the results PDF and appendix —
   skip the ~28 translated score-report guides / sample ISRs.
 - **EdScape chapter pages** — every chapter's `.xlsx` filename ends in the
   release year (`_2026`, `_2027`, sometimes `_2026_0` from Drupal re-uploads),
-  so each year is a NEW URL the monthly refresh never sees. Re-sweep all
+  so each year is a NEW URL the weekly refresh never sees. Re-sweep all
   `/page/` links from the EdScape home nav with curl (no browser needed) and
   diff hrefs against `data_files.yaml`; chapter 4 → `edscape-enrollment-patterns`,
   chapter 3 → `edscape-facilities`, chapters 1/2/5 → `edscape`, each row with
@@ -140,7 +140,8 @@ re-resolve each year.
 | `edscape.dc.gov` chapter pages | ✅ yes | each has a "Download … dataset" `.xlsx` link |
 | `dme.dc.gov/page/download-data` | 🚫 DEAD | no longer hosts files — redirects to EdScape/OpenData |
 | `myschooldc.org/.../attachments/*.pdf` | ✅ yes | per-year per-metric lottery PDFs; many years |
-| `dcpcsb.org/sites/.../*.pdf` | ✅ yes | citywide reports + some per-school PDFs |
+| `dcpcsb.org/sites/default/files/...` | 🚫 DEAD | Drupal paths all 404 since PCSB's Oct 2026 move to WordPress |
+| `dcpcsb.org/wp-content/uploads/YYYY/MM/*.pdf` | ✅ yes | the new WordPress uploads; filenames are the old ones with spaces→`-` and punctuation stripped |
 | `dcpcsb.egnyte.com/dl/<token>` | 🚫 returns HTML | Egnyte serves a JS landing page, NOT the file. Not script-fetchable. |
 
 **Egnyte is the wall.** Most PCSB machine-readable data (PMF score Excels, per-school
@@ -150,6 +151,31 @@ these as profilable files — instead record an honest **count** in the parent
 source's `notes` (e.g. "~464 per-school audit PDFs on Egnyte, browser-only") so the
 gap is visible and quantified, not silently dropped. Only catalogue PCSB files that
 are hosted directly on `dcpcsb.org`.
+
+### DC PCSB after the Oct 2026 WordPress migration (learned 2026-11-01)
+
+- **Every old `dcpcsb.org/sites/default/files/` link is dead**, including some
+  PCSB's own new pages still link (e.g. the 2018-19 At-Risk report).
+- **Don't guess new URLs, and don't brute-force them with curl.** dcpcsb.org
+  rate-limits fast clients (HTTP 429) and blocks curl on HTML pages (403). Use
+  the browser, 1-2 s between requests, and ask WordPress directly:
+  - every uploaded file: `/wp-json/wp/v2/media?per_page=100&page=N&_fields=id,source_url,date,title`
+    (~1,385 items, 14 pages; the API returned 1,370 on 2026-11-01)
+  - every page: `/wp-json/wp/v2/pages?per_page=100&_fields=link,title,modified` (33 pages)
+  - site search: `/wp-json/wp/v2/search?search=...`
+- **Old slugs hit catch-all redirects** to /school-profiles/, /data/ or /newsroom/,
+  and some *published* pages (/aspire-system/, /transparency-hub/) redirect away
+  when visited. Read their content via `/wp-json/wp/v2/pages?slug=<slug>`.
+- Most reports moved to **Egnyte folders**, renamed (attendance/discipline:
+  `egnyte.com/fl/Y7FcwyqdwDTd`, one subfolder per year). A renamed file can be
+  matched to an old cached copy by size (`data_cache/`).
+
+### Environment gotcha
+
+Run the scripts from a venv with `requirements.txt` installed
+(`python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`). Without
+pdfplumber, every PDF used to profile silently as "no tables";
+`profile_files.py` now crashes instead, by design.
 
 ## 4. Re-profile and regenerate
 
@@ -179,7 +205,7 @@ Two layers, different cadence:
 - **Layer 1 — deterministic refresh (no browser).** `./refresh.sh` re-downloads
   every known file, re-profiles, and regenerates. Catches files OSSE/DCPS updated
   *in place* and flags dead links (`error`). Runs unattended — see
-  `.github/workflows/refresh.yml` (monthly GitHub Action that commits drift), or a
+  `.github/workflows/refresh.yml` (weekly GitHub Action that commits drift; opens an issue for newly broken links and refuses to commit/deploy if more than 10 break in one run), or a
   plain cron: `0 9 1 * * cd /path/to/schools && ./refresh.sh`.
 - **Layer 2 — discovery (needs this skill).** Finding new years/files and resolving
   Box/Egnyte needs Playwright + judgment, so it can't be a dumb cron. Run this skill

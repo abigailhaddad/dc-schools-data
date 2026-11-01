@@ -180,10 +180,14 @@ def profile_pdf(path: Path) -> dict:
     n_pages = len(reader.pages)
     result = {"kind": "pdf", "n_pages": n_pages}
 
+    # Imported OUTSIDE the try: if pdfplumber is missing, every PDF would
+    # silently profile as "no tables" (this happened on a local run without the
+    # venv, Nov 2026). A missing dependency must crash, not degrade quietly.
+    import pdfplumber
+
     text_preview, tables = [], []
     pages_with_tables = set()
     try:
-        import pdfplumber
         with pdfplumber.open(str(path)) as pdf:
             for i, page in enumerate(pdf.pages):
                 if i < PDF_PREVIEW_PAGES:
@@ -201,7 +205,9 @@ def profile_pdf(path: Path) -> dict:
                                 "header": _clean(tbl[0])[:MAX_COLS],
                                 "n_rows": len(tbl),
                             })
-    except Exception:
+    except Exception as exc:  # noqa: BLE001 — a malformed PDF; record it, don't hide it
+        result["table_scan_failed"] = f"{type(exc).__name__}: {exc}"[:300]
+        text_preview, tables, pages_with_tables = [], [], set()
         for page in reader.pages[:PDF_PREVIEW_PAGES]:
             txt = (page.extract_text() or "").strip()
             if txt:
@@ -268,6 +274,14 @@ def main() -> int:
         if err:
             rec["status"] = "error"
             rec["error"] = err
+            # Keep the last good profile so a transient outage or a moved file
+            # doesn't erase what we knew (the 2026-11-01 run wiped ~5,300 lines
+            # of PCSB profiles this way). Re-profiling successfully replaces it.
+            prev = profiles.get(fid, {})
+            last_good = prev.get("profile") or prev.get("last_good_profile")
+            if last_good:
+                rec["last_good_profile"] = last_good
+                rec["last_ok_url"] = prev.get("last_ok_url") or prev.get("url")
             counts["error"] += 1
             profiles[fid] = rec
             print(f"  ! {fid}: {err}")
@@ -289,6 +303,14 @@ def main() -> int:
             print(f"  ! {fid}: profile_failed: {exc}")
 
         profiles[fid] = rec
+
+    # Drop profiles for ids no longer in data_files.yaml — otherwise a removed
+    # file keeps rendering in README/catalog.js. Print each one (no silent drops).
+    live_ids = {e["id"] for e in yaml.safe_load(DATA_FILES.read_text())["data_files"]}
+    orphans = sorted(set(profiles) - live_ids)
+    for fid in orphans:
+        print(f"  - {fid}: removed from data_files.yaml, dropping its profile")
+        del profiles[fid]
 
     OUT.write_text(json.dumps(profiles, indent=2, ensure_ascii=False))
     print(f"\nWrote {OUT.name}: {counts['ok']} ok, "

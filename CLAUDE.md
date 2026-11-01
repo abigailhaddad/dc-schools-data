@@ -158,8 +158,11 @@ full playbook + code snippets):
 ## Automation
 
 - **Layer 1 (no browser):** `./refresh.sh` or `.github/workflows/refresh.yml`
-  (monthly) validate → snapshot profiles → re-download + re-profile → regenerate →
+  (weekly, Mondays 09:00 UTC) validate → snapshot profiles → re-download + re-profile → regenerate →
   print a drift report — catches in-place updates and dead links. The CI run
-  surfaces the drift report in the job summary.
+  surfaces the drift report in the job summary, opens/updates a GitHub issue
+  listing any link that broke since last run, and if more than 10 broke at
+  once (a publisher migrated its site, as PCSB did in Oct 2026) it does not
+  commit or deploy. A broken file keeps its `last_good_profile`.
 - **Layer 2 (discovery):** finding new files / resolving Box needs the browser, so
   run the `update-dc-schools-data` skill (optionally scheduled as a cloud agent).

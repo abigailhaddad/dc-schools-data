@@ -1,17 +1,35 @@
 name: Refresh DC schools catalog
 
-# Layer-1 (deterministic) automation: monthly re-download + re-profile + regenerate,
+# Layer-1 (deterministic) automation: weekly re-download + re-profile + regenerate,
 # committing any drift. Catches in-place file updates and dead links. Does NOT
 # discover new files/years or resolve Box/Egnyte — run the update-dc-schools-data
-# skill for that. Activates once this repo is pushed to GitHub.
+# skill for that.
+#
+# Safety rails (added Nov 2026, after the 2026-11-01 run silently published 27
+# dead PCSB links when PCSB moved its site):
+#   * Any link that was ok last run and is broken now opens (or comments on) a
+#     GitHub issue, so breakage is never only visible in a job summary.
+#   * If more than BREAK_LIMIT links broke in one run, that looks like a site
+#     migration, not routine rot: the job does NOT commit or deploy, and fails,
+#     so the live site keeps last week's catalog until a person looks.
+#   * profile_files.py keeps each broken file's last good profile
+#     (`last_good_profile`), so a broken run no longer erases what we knew.
 
 on:
   schedule:
-    - cron: "0 9 1 * *"   # 09:00 UTC on the 1st of each month
+    - cron: "0 9 * * 1"   # 09:00 UTC every Monday
   workflow_dispatch: {}    # allow manual runs from the Actions tab
 
 permissions:
   contents: write
+  issues: write
+
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+
+env:
+  BREAK_LIMIT: "10"
 
 jobs:
   refresh:
@@ -34,9 +52,47 @@ jobs:
       - name: Publish-dir guard (allow-list, 25 MiB/file, no private paths)
         run: python test_publish_dir.py
       - name: Report drift
+        run: python report_drift.py file_profiles.prev.json file_profiles.json | tee drift.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Count newly broken links
+        id: broke
         run: |
-          python report_drift.py file_profiles.prev.json file_profiles.json >> "$GITHUB_STEP_SUMMARY"
+          python - <<'EOF' > broke.txt
+          import json
+          old = json.load(open("file_profiles.prev.json"))
+          new = json.load(open("file_profiles.json"))
+          for fid, rec in sorted(new.items()):
+              if old.get(fid, {}).get("status") == "ok" and rec["status"] != "ok":
+                  print(f"- `{fid}` — {rec.get('error', rec['status'])[:200]}\n  {rec['url']}")
+          EOF
+          n=$(grep -c '^- ' broke.txt || true)
+          echo "count=$n" >> "$GITHUB_OUTPUT"
+          echo "Newly broken this run: $n (limit $BREAK_LIMIT)"
           rm -f file_profiles.prev.json
+      - name: Open or update an issue for broken links
+        if: steps.broke.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ steps.broke.outputs.count }}
+        run: |
+          title="Catalog refresh: links stopped working"
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          if [ "$N" -gt "$BREAK_LIMIT" ]; then
+            verdict="**$N links broke in one run (limit $BREAK_LIMIT). Not committed or deployed** — the live site still shows the previous catalog. This usually means a publisher moved its site; run the update-dc-schools-data skill."
+          else
+            verdict="$N link(s) broke. Committed and deployed as usual; fix the URLs in data_files.yaml."
+          fi
+          body="$(printf '%s\n\nRun: %s\n\n%s\n' "$verdict" "$run_url" "$(cat broke.txt)")"
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
+      - name: Stop if the breakage looks like a site migration
+        if: fromJSON(steps.broke.outputs.count) > fromJSON(env.BREAK_LIMIT)
+        run: |
+          echo "::error::${{ steps.broke.outputs.count }} links broke in one run (limit $BREAK_LIMIT). Not committing or deploying."
+          exit 1
       - name: Commit any changes
         run: |
           git config user.name  "github-actions[bot]"
@@ -45,7 +101,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes — catalog is current."
           else
-            git commit -m "Automated monthly catalog refresh"
+            git commit -m "Automated weekly catalog refresh"
             git push
           fi
 

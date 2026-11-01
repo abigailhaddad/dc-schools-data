@@ -5,7 +5,7 @@
 A map of **where DC public-school data actually lives** — across OSSE, DCPS, the DC Public Charter School Board (DC PCSB), and the Deputy Mayor for Education (DME). The data is real but scattered: split across agencies, buried on Tableau, with old years on different pages than new ones, and the *same* metric often published in several places. This catalog links each source, groups the files into multi-year dataset series, inventories their **tabs and columns** (and tables inside PDFs), and describes — without judgment — how the same metric differs across places.
 
 > **Scope:** K-12 public (DCPS + charters). No higher ed.  
-> **Last verified:** 2026-08  
+> **Last verified:** 2026-11  
 > **Live site:** <https://dc-schools-data.abigailhaddad.com>  
 > **Browse it locally:** `python3 -m http.server -d public` then open <http://localhost:8000/> — searchable, filter by topic/owner/year.  
 > **Source of truth:** [`sources.yaml`](sources.yaml) + [`data_files.yaml`](data_files.yaml). Do not edit this README by hand — run `python generate_readme.py`.
@@ -42,14 +42,14 @@ A map of **where DC public-school data actually lives** — across OSSE, DCPS, t
 
 _DC's state education agency. Cross-sector (DCPS + charter) source for enrollment, assessments, attendance, graduation, discipline, finance, and the DC School Report Card / STAR ratings._
 
-### [OSSE Data and Reports (main landing)](https://osse.dc.gov/page/data-and-reports-0)
+### [OSSE Data and Reports (main landing)](https://osse.dc.gov/page/osse-data-and-reports)
 
 _topics: landing, enrollment, assessment, attendance, graduation, discipline, finance, demographics_
 
 - **Format:** Web portal of links to files & dashboards
 - **Updated:** Rolling; underlying datasets annual
 - **Years on page:** Links span SY2014-15 to SY2024-25 by dataset
-- **Notes:** Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes.
+- **Notes:** Top-level 'hub of hubs.' Best fallback when a specific per-year page URL changes. Moved from /page/data-and-reports-0 (404 as of 2026-11-01) to /page/osse-data-and-reports; the OSSE homepage's 'Data & Reports' link points to the new URL. The page's own jump links still use the old address.
 - **Data files (profiled):**
   - [`2016-17 to 2018-19 School, LEA and State Assessment Participation`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx) — **xlsx** — 4 tab(s)
     - tab **Data Notes** (15 rows × 1 cols) — cols: `Overview:`
@@ -948,6 +948,38 @@ _topics: assessment, attendance, graduation, discipline, enrollment, demographic
     - p1 table (3 rows): `Five-Year Adjusted Cohort Graduation Rate (high school grades) - Percentage of students who graduate with a diploma within five years of entering high school. EDUCATIONAL PROGRESS`
   - [`Alternative Accountability Framework - FAQ`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Alternative%20Accountability%20Framework%20-%20FAQ%20%282026%29.pdf) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
     - p1 table (14 rows): `METRIC NAME`, `ELEMENTARY/MIDDLE`, `K–12 / 6-12`, `HIGH SCHOOL`
+  - [`DC School Report Card and MySchoolDC Data Elements - Business Rules and Definitions (updated Oct. 2026)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Business%20Rules%20and%20Definitions%20for%20DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20%28updated%20Oct.%202026%29.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (6 rows): `Data Source`, `Data Element`, `Definition`, `Business Rules`
+    - p2 table (8 rows): `course on the OSSE State C ourse Catalog.`
+    - p3 table (6 rows): `eSchoolPLUS`, `Single-Gender Campus`, `The school’s enrollment targets a single gender.`, `On eSchoolPLUS, the LEA/school selected "Single-Gender Campus" as one of the School Characteristics for this school.`
+  - [`DC School Report Card - DC SAYS - Staff Metric Scores (2026)`](https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Staff%20Metric%20Scores%20%282026%29.xlsx) — **xlsx** — 7 tab(s)
+    - tab **Data Notes** (19 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (41 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **State Overall Scores** (10 rows × 4 cols) — cols: `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **PK-12 LEA Overall Scores** (541 rows × 6 cols) — cols: `LEA Name`, `LEA Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **PK-12 School Overall Scores** (2,188 rows × 8 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **Adult School Overall Scores** (91 rows × 8 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **Ward Overall Scores** (73 rows × 5 cols) — cols: `Ward`, `Group`, `Metric`, `Metric Score`, `School Year`
+  - [`DC School Report Card - DC SAYS - Family Metric Scores (2026)`](https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Family%20Metric%20Scores%20%282026%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (32 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **State Scores** (8 rows × 4 cols) — cols: `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **LEA Scores** (414 rows × 6 cols) — cols: `LEA Name`, `LEA Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **School Scores** (1,688 rows × 8 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **Ward Scores** (57 rows × 5 cols) — cols: `Ward`, `Group`, `Metric`, `Metric Score`, `School Year`
+  - [`DC School Report Card - DC SAYS - Students Grades 3-12 Metric Scores (2026)`](https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Grades%203-12%20Student%20Metric%20Scores%20%282026%29.xlsx) — **xlsx** — 6 tab(s)
+    - tab **Data Notes** (18 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (30 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **State Gradeband Scores** (23 rows × 4 cols) — cols: `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **LEA Gradeband Scores** (945 rows × 6 cols) — cols: `LEA Name`, `LEA Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **School Gradeband Scores** (3,187 rows × 8 cols) — cols: `LEA Name`, `LEA Code`, `School Name`, `School Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **Ward Gradeband Scores** (177 rows × 5 cols) — cols: `Ward`, `Group`, `Metric`, `Metric Score`, `School Year`
+  - [`DC School Report Card - DC SAYS - Adult Students Metric Scores (2026)`](https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Adult%20Student%20Metric%20Scores%20%282026%29.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Data Notes** (17 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Data Dictionary** (22 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **State Gradeband Scores** (12 rows × 4 cols) — cols: `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **LEA-School Gradeband Scores** (111 rows × 8 cols) — cols: `LEA Name`, `LEA Code`, `school_name`, `School Code`, `Group`, `Metric`, `Metric Score`, `School Year`
+    - tab **Ward Gradeband Scores** (67 rows × 5 cols) — cols: `Ward`, `Group`, `Metric`, `Metric Score`, `School Year`
 
 ### [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home)
 
@@ -961,7 +993,7 @@ _topics: accountability, assessment, attendance, graduation, discipline, enrollm
   - [`School STAR Scores (CSV export)`](https://opendata.dc.gov/api/download/v1/items/90b2efbd069842f29817615611619c9b/csv?layers=0) — **csv** — 203 rows × 9 cols
     - cols: `LEA_Code`, `LEA_Name`, `School_Code`, `School_Name`, `School_Type`, `Ward`, `STAR_Score`, `STAR_Rating`, `ObjectId`
 
-### [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide)
+### [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-technical-guide)
 
 _topics: accountability, methodology_
 
@@ -1392,6 +1424,10 @@ _topics: demographics, special-education_
   - [`Special Education SSIP Evaluation Plan - FFY20-25`](https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20SSIP%20Evaluation%20Plan%20-%20FFY20-25.pdf) — **pdf** — 4 pages, **extractable tables** on ~2 page(s)
     - p1 table (3 rows): `Evaluation Questions`, `Intended Outcomes`, `Relevant Activities`, `Data Sources`, `Anticipated`
     - p2 table (5 rows): `Evaluation Questions`, `Intended Outcomes`, `Relevant Activities`, `Data Sources`, `Anticipated`
+  - [`FFY 2024 Annual Performance Report - Part B`](https://osse.dc.gov/sites/default/files/2026-09/DC-B-SPP-APR-FFY24.pdf) — **pdf** — 114 pages, **extractable tables** on ~82 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p8 table (2 rows): `Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in`
+    - p8 table (2 rows): `States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high`
 
 ### [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting)
 
@@ -2104,6 +2140,21 @@ _topics: educators_
     - tab **Exp Effectiveness Ratings** (17 rows × 8 cols) — cols: `EPP Program`, `Program Type`, `EPP Program Completion Year`, `Effectiveness Rating Year`, `Employment Year`, `Number of Rated Teachers who were Effective - EPP`, `Number of Rated Teachers - EPP`, `Percent of Rated Teachers who were Effective - EPP`
     - tab **Clinical Exp Location** (17 rows × 12 cols) — cols: `EPP Program`, `Number of Candidates with Clinical Experience`, `Number of Completers with Clinical Experience`, `Total Number of Participants with Clinical Experience`, `Number of Participants with DCPS Clinical Experience`, `Number of Participants with Charter School Clinical Experience`, `Number of Participants with Private School Clinical Experience`, `Number of Participants with Out-of-State Clinical Experience`, `Percent of All Participants with DCPS Clinical Experience`, `Percent of All Participants with Charter School Clinical Experience`, `Percent of All Participants with Private School Clinical Experience`, `Percent of All Participants with Out-of-State Clinical Experience`
     - tab **Clinical Exp Location - by Ward** (110 rows × 11 cols) — cols: `Ward`, `EPP Program`, `Number of Candidates with Clinical Experience in this Ward`, `Number of Completers with Clinical Experience in this Ward`, `Total Number of Participants with Clinical Experience`, `Number of Participants with DCPS Clinical Experience in this Ward`, `Number of Participants with Charter School Clinical Experience in this Ward`, `Number of Participants with Private School Clinical Experience in this Ward`, `Percent of All Participants with DCPS Clinical Experience in this Ward`, `Percent of All Participants with Charter School Clinical Experience in this Ward`, `Percent of All Participants with Private School Clinical Experience in this Ward`
+  - [`Educator Data Flat File — Preparation and Performance (SY2025-26, Sep 8 2026)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance%2009082026.xlsx) — **xlsx** — 14 tab(s)
+    - tab **Overview** (5 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
+    - tab **Effective_Tch_SEA** (2 rows × 2 cols) — cols: `Total SY 2025-26 Teachers that were rated in SY 2024-25 Citywide`, `Percent of SY 2025-26 Teachers rated effective in SY 2024-25 Citywide`
+    - tab **Certified_Tch_SEA** (2 rows × 3 cols) — cols: `Number of Teachers (DCPS only)`, `Number of Teachers that hold a DC teaching certification (DCPS only)`, `Percent of Teachers that hold a DC teaching certification (DCPS only)`
+    - tab **Infield_Tch_SEA** (2 rows × 3 cols) — cols: `Number of Teachers (DCPS only)`, `Number of Teachers that are teaching a subject in-field (DCPS only)`, `Percent of Teachers that are teaching a subject in-field (DCPS only)`
+    - tab **Effective_Tch_LEA** (70 rows × 5 cols) — cols: `LEA Code`, `LEA Name`, `Sector`, `Total SY 2025-26 Teachers that were rated in SY 2024-25 at this LEA`, `Percent of 2025-26 Teachers rated effective in SY 2024-25 at this LEA`
+    - tab **Effective_Tch_SCH** (254 rows × 9 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Sector`, `Ward of School`, `Total SY 2025-26 Teachers that were rated in SY 2024-25 at this school`, `Percent of SY 2025-26 Teachers rated effective in SY 2024-25 at this school`, `Notes`
+    - tab **Certified_Tch_SCH** (118 rows × 9 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Sector`, `Ward of School`, `Number of Teachers at this school`, `Number of Teachers that hold a DC teaching certification at this school`, `Percent Teachers that hold a DC teaching certification at this school`
+    - tab **Infield_Tch_SCH** (118 rows × 9 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Sector`, `Ward of School`, `Number of Teachers at this school`, `Number of Teachers that are teaching a subject in-field at this school`, `Percent of Teachers that are teaching a subject in-field at this school`
+    - tab **Exp_Tch_SEA** (5 rows × 4 cols) — cols: `Years of Experience`, `Number of Teachers Citywide`, `Number of Teachers in this experience category`, `Percent of Teachers in this experience category`
+    - tab **Exp_School_Leader_SEA** (5 rows × 4 cols) — cols: `Years of Experience`, `Number of School Leaders Citywide`, `Number of School Leaders in this experience category`, `Percent of School Leaders in this experience category`
+    - tab **Exp_Tch_LEA** (277 rows × 7 cols) — cols: `LEA Code`, `LEA Name`, `Sector`, `Years of Experience`, `Number of Teachers at this LEA`, `Number of Teachers in this experience category`, `Percent of Teachers in this experience category`
+    - tab **Exp_School_Leader_LEA** (277 rows × 7 cols) — cols: `LEA Code`, `LEA Name`, `Sector`, `Years of Experience`, `Number of School Leaders at this LEA`, `Number of School Leaders in this experience category`, `Percent of School Leaders in this experience category`
+    - tab **Exp_Tch_SCH** (1,013 rows × 10 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Sector`, `Ward of School`, `Years of Experience`, `Number of Teachers at this School`, `Number of Teachers in this experience category`, `Percent of Teachers in this experience category`
+    - tab **Exp_School_Leader_SCH** (1,009 rows × 10 cols) — cols: `LEA Code`, `LEA Name`, `School Code`, `School Name`, `Sector`, `Ward of School`, `Years of Experience`, `Number of School Leaders at this School`, `Number of School Leaders in this experience category`, `Percent of School Leaders in this experience category`
 
 ### [Pre-Kindergarten Reports ('State of Pre-K in DC')](https://osse.dc.gov/publication/pre-kindergarten-reports-state-pre-k-district-columbia)
 
@@ -2284,6 +2335,10 @@ _topics: attendance_
   - [`DCPS Annual Attendance Report SY 2011-2012`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS_Annual_Attendance_Report_SY11-12%20FINAL.pdf) — **pdf** — 11 pages, **extractable tables** on ~2 page(s)
     - p3 table (23 rows): `Grade`, `Enrolled`, `Unexcused Absences`
     - p11 table (11 rows): `District`, `Child`, `% FARM`, `Public`, `General Student`, `Eligibility Criteria`
+  - [`DCPS Annual Attendance Report SY 2025-2026`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/DCPS%20SY%202025-2026%20Annual%20Attendance%20Report.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p3 table (4 rows): `Metric`, `SY24-25`, `SY25-26`
+    - p5 table (17 rows): `Grade`, `Compulsory`, `#1-5 Absences`, `%1-5 Absences`, `#6-10 Absences`, `% 6-10 Absences`, `#11-20 Absences`, `%11-20 Absences`
+    - p5 table (2 rows): `#1-5`
 
 ### [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets)
 
@@ -2736,12 +2791,12 @@ _topics: graduation_
 
 ### [DCPS Fast Facts](https://dcps.dc.gov/featured-content/dcps-fast-facts-2025)
 
-_topics: enrollment, demographics, landing_
+🗄️ archived/stale · _topics: enrollment, demographics, landing_
 
 - **Format:** PDF (2-page fact sheet)
 - **Updated:** Annual (2025 ed. published Mar 2025)
 - **Years on page:** Latest year; older editions only via direct PDF URLs
-- **Notes:** District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation.
+- **Notes:** District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation. As of 2026-11-01 the 2025 page returns 'Access denied' (HTTP 403) in a browser as well as to scripts, which is how dc.gov serves unpublished pages. No 2026 edition was found (/featured-content/dcps-fast-facts-2026 is 404) and the DCPS homepage no longer links Fast Facts.
 
 ### [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/)
 
@@ -2889,96 +2944,103 @@ _topics: profiles_
 
 _Authorizer/regulator of DC's public charter schools. Publishes charter directories, the School Quality Report (SQR) accountability framework, finances, and equity data._
 
-### [DC PCSB Transparency Hub](https://dcpcsb.org/transparency-hub)
+### [DC PCSB Transparency Hub](https://dcpcsb.org/transparency-hub/)
 
-_topics: landing, finance, discipline, equity, profiles_
+♻️ intermittent server errors · _topics: landing, finance, discipline, equity, profiles_
 
 - **Format:** Web portal (links to PDF / Excel / Egnyte / Google Sheets)
 - **Updated:** Continuously updated; docs annual
 - **Years on page:** Multiple; varies by document
-- **Notes:** The single most comprehensive index of PCSB charter data: budgets, audits, 990s, financials, at-risk spending, equity reports, discipline/attendance, charter agreements, site reviews, school profiles, openings/closures. Many financial docs hosted off-site on Egnyte.
+- **Notes:** An index of PCSB's own governance documents (finance committee memos, salaries, nurse schedule; mostly Egnyte). PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-15) but visiting it redirects to the 'Find a Public Charter School' page, so it is not currently reachable in a browser. The charter-school data this source used to index (budgets, audits, at-risk, equity, discipline) now sits on /data/ and /school-finances-funding/.
 
-### [Public Charter School Data (sector overview)](https://dcpcsb.org/about-us/public-charter-school-data)
+### [Public Charter School Data (sector overview)](https://dcpcsb.org/data/)
 
 _topics: landing, enrollment, assessment, graduation_
 
-- **Format:** Web page (links to sub-dashboards)
+- **Format:** Web page (links to Egnyte / OSSE)
 - **Updated:** Annual
 - **Years on page:** Current
-- **Notes:** Citywide charter rollups (enrollment, assessment, growth/closures, graduation, profiles). Cites 133 schools / 66 LEAs / ~47,525 students.
+- **Notes:** Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript.
 
-### [Charter Student Enrollment](https://dcpcsb.org/student-enrollment)
+### [Charter Student Enrollment](https://dcpcsb.org/data/)
 
 _topics: enrollment, demographics_
 
-- **Format:** Static tables + spreadsheet download + link to OSSE
+- **Format:** Spreadsheet (via Egnyte)
 - **Updated:** Annual
 - **Years on page:** SY22-23, 23-24, 24-25 shown; historical spreadsheet 1967–present
-- **Notes:** Charter-only enrollment by grade/tier/demographics/ward + market share. Audited counts sourced from OSSE; PCSB republishes/analyzes the charter slice. Static tables, NOT Tableau.
+- **Notes:** Charter-only enrollment. Audited counts come from OSSE; PCSB republishes and analyzes the charter slice. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /student-enrollment page and its static tables are gone (the URL redirects to /data/). The 'Student Enrollment' section of /data/ links a 'View Historical Enrollment' file on Egnyte (browser-only).
 
-### [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc)
+### [Statewide Assessment Results (charter)](https://dcpcsb.org/data/)
 
-♻️ intermittent server errors · _topics: assessment_
+_topics: assessment_
 
-- **Format:** Web page / dashboard
+- **Format:** Links to OSSE PDFs
 - **Updated:** Annual
 - **Years on page:** Multiple
-- **Notes:** Charter ELA/math on the DC statewide test. URL still says 'parcc' though DC moved to DC CAPE. Overlaps OSSE/Report Card (the authority). Site occasionally returns HTTP 520.
+- **Notes:** Charter ELA/math on the DC statewide test. Overlaps OSSE/Report Card. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /test-results-parcc page returns 404. The 'Statewide Assessment Results' section of /data/ now just links OSSE's DC CAPE results decks for 2022-2025; PCSB no longer publishes its own charter-only results page.
 
-### [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles)
+### [School Profiles / Find a DC Public Charter School](https://dcpcsb.org/school-profiles/)
 
 _topics: profiles, accountability_
 
 - **Format:** Interactive searchable directory
 - **Updated:** Updated yearly / as schools open/close
 - **Years on page:** Current roster
-- **Notes:** Canonical 'find a charter school' tool. Filter by feature/ward/grade/status; each entry links to its School Quality Report. No bulk export.
+- **Notes:** Interactive 'find a charter school' tool, plus high school course and graduation-policy documents. No bulk export. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. Whether each school entry still links to a School Quality Report was not checked.
 
-### [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory)
+### [Public Charter School Directory (annual PDF)](https://dcpcsb.egnyte.com/dl/4JmpCtX9bt48)
 
 _topics: profiles_
 
-- **Format:** PDF
+- **Format:** PDF (via Egnyte)
 - **Updated:** Annual (school year)
 - **Years on page:** 2025-26 latest; prior years at /YYYY-YY-... URLs
-- **Notes:** Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact.
+- **Notes:** Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /2025-26-public-charter-school-directory page redirects to the newsroom; the directory is now the 'School Directory' Egnyte link in the site header (browser-only). Which school year it covers was not checked.
 
-### [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report)
+### [School Quality Report (SQR)](https://dcpcsb.org/performance-management-framework-pmf/)
 
-♻️ intermittent server errors · _topics: accountability_
+🗄️ archived/stale · _topics: accountability_
 
 - **Format:** Web page / per-school report
 - **Updated:** Annual (released fall)
 - **Years on page:** Current; history via PMF archive
-- **Notes:** Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. Aggregated at /schoolquality (sometimes bot-blocked).
+- **Notes:** Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /families/school-quality-report page returns 404, and the new site has no SQR page (site search for 'school quality report' and 'SQR' finds none). The only SQR file found is the 2018-19 PK-8 report, linked from the PMF page.
 
-### [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system)
+### [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system/)
 
-_topics: accountability, methodology_
+♻️ intermittent server errors · _topics: accountability, methodology_
 
 - **Format:** Web page (framework docs / PDF)
 - **Updated:** Annual
 - **Years on page:** Current
-- **Notes:** The board-approved system that replaced the PMF and underlies the SQR. Note: PMF data pages look current but are frozen at 2018-19. The ASPIRE framework/result files (~14) are on Egnyte (/dl/ links that return an HTML landing page to scripts) — browser-only, not catalogued here.
+- **Notes:** The board-approved system that replaced the PMF and underlies the SQR. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-29) but visiting it, with or without the trailing slash, redirects to the 'Find a Public Charter School' page. Its content (read via the WordPress API) links the SY25-26 and SY26-27 ASPIRE Policy & Technical Guides, an Egnyte folder of historical guides, per-framework folders (PK-only, PK-8, high school, adult ed), and an ASPIRE packet, almost all on Egnyte (browser-only, not catalogued).
 
-### [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf)
+### [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf/)
 
 🗄️ archived/stale · _topics: accountability, methodology_
 
 - **Format:** PDF books/guides + Excel data files (via Egnyte)
 - **Updated:** Was annual
 - **Years on page:** SY2011-12 through 2018-19 (ARCHIVED)
-- **Notes:** Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. HARVEST GAP: 9 PMF books/guides are direct PDFs (profiled); the ~13 machine-readable PMF Excel score files are on Egnyte (browser-only download — not script-fetchable, not profiled).
+- **Notes:** Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. PCSB moved its site to WordPress in Oct 2026 and the old /sites/default/files/ links stopped resolving. Four PMF books (2012-13 through 2015-16) moved to /wp-content/uploads/ and are profiled. The 2016-17, 2017-18 and 2011-12 books are on Egnyte. Five older PMF policy/technical guides (2012-13 through 2016-17) were not found anywhere on the new site as of 2026-11-01. The ~13 machine-readable PMF Excel score files are on Egnyte (browser-only, not profiled).
 - **Data files (profiled):**
-  - [`PMF Archive — 11 21 2016 17 PMF Policy & Technical Guide v2`](http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20&%20Technical%20Guide%20v2.pdf
-  - [`PMF Archive — 12 12 Final 2015 16 PMF Book`](http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf
-  - [`PMF Archive — Vote 2015 16 PMF Policy Tech March Meeting Final Clean Copy`](http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf
-  - [`PMF Archive — Final PMF Book 2015 2 29 2016`](http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf
-  - [`PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1`](http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf
-  - [`PMF Archive — 14 Book (12 11 2014)`](http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013-14%20Book%20(12-11-2014).pdf
-  - [`PMF Archive — 2014TechnicalGuide 01 10 14 FINAL`](http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf
-  - [`PMF Archive — 2013 PMF REDUCED 2`](http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf
-  - [`PMF Archive — Release 2012 2013 PMF Guidelines revised 9 12`](http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf
+  - [`PMF Archive — 12 12 Final 2015 16 PMF Book`](https://dcpcsb.org/wp-content/uploads/2026/08/2016-12-12-Final-2015-16-PMF-Book.pdf) — **pdf** — 326 pages, **extractable tables** on ~117 page(s) (scan capped)
+    - p1 table (4 rows): 
+    - p2 table (4 rows): 
+    - p5 table (23 rows): `2015—16 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage`
+  - [`PMF Archive — Final PMF Book 2015 2 29 2016`](https://dcpcsb.org/wp-content/uploads/2026/08/Final_PMF_Book_2015_2-29-2016.pdf) — **pdf** — 300 pages, **extractable tables** on ~116 page(s) (scan capped)
+    - p1 table (4 rows): 
+    - p3 table (2 rows): 
+    - p6 table (27 rows): `Early Childhood/Elementary/Middle Schools`
+  - [`PMF Archive — 14 Book (12 11 2014)`](https://dcpcsb.org/wp-content/uploads/2026/08/2013-14-Book-12-11-2014.pdf) — **pdf** — 328 pages, **extractable tables** on ~115 page(s) (scan capped)
+    - p1 table (2 rows): 
+    - p6 table (25 rows): `2013—14 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage`
+    - p7 table (26 rows): `2013—14 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage`
+  - [`PMF Archive — 2013 PMF REDUCED 2`](https://dcpcsb.org/wp-content/uploads/2026/08/2013-PMF-REDUCED-2.pdf) — **pdf** — 304 pages, **extractable tables** on ~60 page(s) (scan capped)
+    - p1 table (3 rows): 
+    - p6 table (25 rows): `ELEMENTARY/MIDDLE SCHOOLS`
+    - p7 table (27 rows): `ELEMENTARY/MIDDLE SCHOOLS`
 
 ### [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports)
 
@@ -2987,64 +3049,43 @@ _topics: accountability, methodology_
 - **Format:** PDF (via Egnyte)
 - **Updated:** Was annual
 - **Years on page:** SY2012-13 through 2017-18 (ARCHIVED)
-- **Notes:** Per-school attendance, discipline, mobility/withdrawal, growth. PCSB now redirects this detail to OSSE's DC School Report Card; its own reports stop at 2017-18. HARVEST GAP: the 2017 per-school equity PDFs hosted directly on dcpcsb.org (9) + the definitions guide are profiled; ~111 more per-school equity PDFs are on Egnyte (browser-only, not profiled).
-- **Data files (profiled):**
-  - [`School Equity Reports — SY 2017 18 DC PCSB Equity Report Definitions Guide`](https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf
-  - [`School Equity Reports — Equity Report Public Charter School Academy of Hope Adult PCS`](http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School Briya PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf
-  - [`School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf
-  - [`School Equity Reports — Equity Report Public Charter School YouthBuild PCS`](http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf
+- **Notes:** Per-school attendance, discipline, mobility/withdrawal, growth. PCSB now redirects this detail to OSSE's DC School Report Card; its own reports stop at 2017-18. As of 2026-11-01 this page no longer exists: since PCSB's Oct 2026 move to WordPress the URL redirects to the general /data/ page, which does not mention equity reports. The 9 per-school 2017 equity PDFs and the SY2017-18 definitions guide that this catalog used to profile now 404 and are not in the new site's media library. Whether the ~111 per-school equity PDFs previously on Egnyte are still linked anywhere has not been checked.
 
-### [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report)
+### [Annual Discipline & Attendance Report (charter)](https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd)
 
 _topics: discipline, attendance_
 
-- **Format:** Web page / PDF
+- **Format:** PDF (via Egnyte folder)
 - **Updated:** Annual
-- **Years on page:** Multiple
-- **Notes:** Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (the cross-sector authority).
-- **Data files (profiled):**
-  - [`Discipline & Attendance — [CORRECTED 9 5 23 council submission] SY22 23 DC PCSB South Capital Street Truan`](https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf
-  - [`Discipline & Attendance — SY 17 18 Attendance and Discipline Report`](https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf
-  - [`Discipline & Attendance — DC PCSB SY 2015 16 Truancy Report`](https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf
-  - [`Discipline & Attendance — 15 PCSB Discipline and Truancy Report`](https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf
-  - [`Discipline & Attendance — 2015 Discipline & Attendance Briefing full report`](https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf
+- **Years on page:** SY2014-15 through 2025-26
+- **Notes:** Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (cross-sector). Since PCSB's Oct 2026 site migration the old /attendance-and-discipline-report page redirects to an unrelated page; the reports are now in an Egnyte folder (linked from dcpcsb.org/data/ as 'View Attendance and Discipline Reports') with one subfolder per year, SY2014-15 through 2025-26, uploaded 2026-09-17 and renamed (e.g. 'SY17-18 Report.pdf'). Egnyte is browser-only, so the 5 reports this catalog used to profile from dcpcsb.org are no longer profiled.
 
-### [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances)
+### [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances-funding/)
 
 ♻️ intermittent server errors · _topics: finance_
 
 - **Format:** Web page / PDF / Excel (much via Egnyte)
 - **Updated:** Annual
 - **Years on page:** Multiple
-- **Notes:** Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. HARVEST GAP: the 4 citywide At-Risk Funding reports are profiled; the bulk is per-school documents NOT catalogued individually — ~249 fiscal-audit PDFs on dcpcsb.org + ~464 audits, ~503 annual reports, and the financial-analysis files on Egnyte (browser-only). Open the page to browse a specific school.
-- **Data files (profiled):**
-  - [`At-Risk Funding — At Risk Funding Report 18 19 1 22 2019 NW`](https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf
-  - [`At-Risk Funding — SY 17 18 at risk funding report`](https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf
-  - [`At-Risk Funding — DC PCSB At Risk Funding Report (revised 102716)`](https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf
-  - [`At-Risk Funding — At Risk Report 2015 final 10 01 2015[1]`](https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf) — **pdf** — ❌ download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5B1%5D.pdf
+- **Notes:** Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. Since PCSB's Oct 2026 move to WordPress, this is one page (/school-finances-funding/) linking Egnyte folders for budgets, 990s and fiscal audits, plus per-year At-Risk Funding reports, UPSFF funding analyses and Financial Analysis Reports, mostly on Egnyte (browser-only, not profiled). The At-Risk Funding reports for 2019-20 through 2022-23 are on Egnyte. The 2018-19 report is still linked at its old dcpcsb.org URL, which returned 404 on 2026-11-01. The 2015, 2016 and 2017-18 reports this catalog used to profile now 404 and are not on the new site. Open the page to browse a specific school.
 
-### [Charter School Growth and Closures](https://dcpcsb.org/charter-school-growth-and-closures)
+### [Charter School Growth and Closures](https://dcpcsb.org/sector-planning/)
 
 _topics: profiles, openings-closures_
 
 - **Format:** Web page + Google Sheet
 - **Updated:** Updated as events occur
 - **Years on page:** 1996–present
-- **Notes:** History of 80+ closed/consolidated campuses: year opened/closed, reason, closure type. Full list via linked Google Sheet.
+- **Notes:** Openings, closures, grade changes and campus moves, plus the history of charter LEAs and campuses since 1996. Full list via a published Google Sheet linked from the page ('View the Full History'). PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /charter-school-growth-and-closures page returns 404; /sector-planning/ is the replacement.
 
-### [DC PCSB Board Meetings & Events](https://dcpcsb.org/events)
+### [DC PCSB Board Meetings & Events](https://dcpcsb.org/board-meetings-public-comment/)
 
 _topics: governance, openings-closures_
 
 - **Format:** Event calendar (agendas/minutes as PDF)
 - **Updated:** Monthly board meetings
 - **Years on page:** Current + archive
-- **Notes:** Charter approvals/conditions/closures/replications are decided and recorded here.
+- **Notes:** Charter approvals/conditions/closures/replications are decided and recorded here. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /events URL redirects to the newsroom; /board-meetings-public-comment/ lists upcoming and archived meetings.
 
 ## DME — Deputy Mayor for Education
 
@@ -3403,6 +3444,12 @@ _topics: enrollment, boundaries_
     - tab **Variable Definitions** (11 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
     - tab **Notes** (42 rows × 1 cols) — cols: `Notes`
     - tab **ESRI_MAPINFO_SHEET** (1 rows × 0 cols)
+  - [`Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Commute Paths 2026`](https://edscape.dc.gov/sites/default/files/2026-09/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2026.xlsx) — **xlsx** — 5 tab(s)
+    - tab **Introduction** (15 rows × 1 cols) — cols: `EdScape`
+    - tab **Ch4 Stu Ward 2022-Sch Ward 2022** (68,128 rows × 11 cols) — cols: `School Year`, `School sector`, `Grade band of students enrolled`, `Student group`, `Student ward`, `School ward`, `Count of students`, `Median walk distance`, `School commute path`, `Share of students in student geography`, `Share of students in school geography`
+    - tab **Ch4 Stu Plng Area-Sch Plng Area** (93,182 rows × 11 cols) — cols: `School Year`, `School sector`, `Grade band of students enrolled`, `Student group`, `Student planning area`, `School planning area`, `Count of students`, `Median walk distance`, `School commute path`, `Share of students in student geography`, `Share of students in school geography`
+    - tab **Variable Definitions** (29 rows × 2 cols) — cols: `Variable Name`, `Variable Definition`
+    - tab **Notes** (32 rows × 1 cols) — cols: `Notes`
 
 ### [EdScape — Public School Facilities (capacity/utilization/locations)](https://edscape.dc.gov/page/facilities-index)
 
@@ -3778,6 +3825,10 @@ _topics: lottery, enrollment_
     - tab **Notes** (26 rows × 2 cols) — cols: `My School DC Public Tableau Data`, `Release: 08/03/2026`
     - tab **Historic Lottery Results** (20,029 rows × 13 cols) — cols: `MSDC School Code`, `OSSE School Code`, `MSDC School Code and Grade`, `MSDC School Name`, `Grade Offered in Lottery`, `Lottery Year`, `Applications on Results Day`, `Lottery Seats Offered`, `Matches on Results Day`, `Waitlist Length on Results Day`, `Total Waitlist Offers made by June`, `Total Waitlist Offers made by August` …
     - tab **Matches by Preference** (60,189 rows × 8 cols) — cols: `Lottery Year`, `MSDC School Code`, `MSDC School Name`, `Grade Offered in Lottery`, `Preference Order`, `Preference Name`, `Preference Order and Name`, `Matches on Results Day by Preference`
+  - [`Year over Year Comparisons — 20261007 MySchoolDC Tableau Data`](https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20261007_MySchoolDC_Tableau_Data.xlsx) — **xlsx** — 3 tab(s)
+    - tab **Notes** (26 rows × 2 cols) — cols: `My School DC Public Tableau Data`, `Release: 10/07/2026`
+    - tab **Historic Lottery Results** (20,029 rows × 13 cols) — cols: `MSDC School Code`, `OSSE School Code`, `MSDC School Code and Grade`, `MSDC School Name`, `Grade Offered in Lottery`, `Lottery Year`, `Applications on Results Day`, `Lottery Seats Offered`, `Matches on Results Day`, `Waitlist Length on Results Day`, `Total Waitlist Offers made by June`, `Total Waitlist Offers made by August` …
+    - tab **Matches by Preference** (60,189 rows × 8 cols) — cols: `Lottery Year`, `MSDC School Code`, `MSDC School Name`, `Grade Offered in Lottery`, `Preference Order`, `Preference Name`, `Preference Order and Name`, `Matches on Results Day by Preference`
 
 ## Open Data DC / DCGIS
 
@@ -3866,7 +3917,7 @@ OSSE publishes the cross-sector audited fall count (by school; used for funding)
 Where it appears:
 - [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment) (OSSE)
 - [DCPS Data Set — Enrollment](https://dcps.dc.gov/publication/dcps-data-set-enrollment) (DCPS)
-- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
+- [Charter Student Enrollment](https://dcpcsb.org/data/) (DC PCSB)
 - [EdScape — Enrollment Patterns (cross-sector / where students attend)](https://edscape.dc.gov/page/enrollment-patterns-index) (DME)
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 
@@ -3876,10 +3927,10 @@ Two different scales. OSSE's STAR rating is 1–5 stars and covers both DCPS and
 
 Where it appears:
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
-- [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-and-star-framework-technical-guide) (OSSE)
-- [School Quality Report (SQR)](https://dcpcsb.org/families/school-quality-report) (DC PCSB)
-- [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system) (DC PCSB)
-- [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf) (DC PCSB)
+- [DC School Report Card & STAR Framework Technical Guide](https://osse.dc.gov/publication/dc-school-report-card-technical-guide) (OSSE)
+- [School Quality Report (SQR)](https://dcpcsb.org/performance-management-framework-pmf/) (DC PCSB)
+- [ASPIRE System (current charter accountability framework)](https://dcpcsb.org/aspire-system/) (DC PCSB)
+- [Performance Management Framework (PMF) — archive](https://dcpcsb.org/performance-management-framework-pmf/) (DC PCSB)
 - [EmpowerK12 — DC school accountability/outcomes dashboards](https://www.empowerk12.org/data-dashboard-source/dc-new-school-ratings) (EmpowerK12)
 
 ### Assessment / proficiency (ELA & math)
@@ -3891,7 +3942,7 @@ Where it appears:
 - [Statewide Assessment Results 2023-24 (+ older-year archive index)](https://osse.dc.gov/assessmentresults2024) (OSSE)
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [DCPS Downloadable Data Sets (index)](https://dcps.dc.gov/service/dcps-downloadable-data-sets) (DCPS)
-- [Statewide Assessment Results (charter)](https://dcpcsb.org/test-results-parcc) (DC PCSB)
+- [Statewide Assessment Results (charter)](https://dcpcsb.org/data/) (DC PCSB)
 
 ### Graduation rate (ACGR)
 
@@ -3911,7 +3962,7 @@ Where it appears:
 - [OSSE Attendance Dashboard](https://osse.dc.gov/attendancedashboard) (OSSE)
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [DCPS at a Glance: Attendance](https://dcps.dc.gov/node/1185940) (DCPS)
-- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
+- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd) (DC PCSB)
 
 ### Discipline (suspensions/expulsions)
 
@@ -3921,7 +3972,7 @@ Where it appears:
 - [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report) (OSSE)
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [School Equity Reports (charter)](https://dcpcsb.org/school-equity-reports) (DC PCSB)
-- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.org/attendance-and-discipline-report) (DC PCSB)
+- [Annual Discipline & Attendance Report (charter)](https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd) (DC PCSB)
 
 ### Demographics (race, SWD, EL, at-risk)
 
@@ -3932,7 +3983,7 @@ Where it appears:
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 - [EdScape (education landscape tool)](https://edscape.dc.gov/) (DME)
 - [DCPS at a Glance: Enrollment](https://dcps.dc.gov/node/966292) (DCPS)
-- [Charter Student Enrollment](https://dcpcsb.org/student-enrollment) (DC PCSB)
+- [Charter Student Enrollment](https://dcpcsb.org/data/) (DC PCSB)
 
 ### Per-pupil money
 
@@ -3941,7 +3992,7 @@ These measure different things. OSSE's ESSA per-pupil reports are actual EXPENDI
 Where it appears:
 - [Report Card School Finance Data (per-pupil expenditures)](https://osse.dc.gov/page/dc-school-report-card-resource-library) (OSSE)
 - [DCPS Budget Transparency Portal](https://dcpsbudget.com/) (DCPS)
-- [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances) (DC PCSB)
+- [Charter School Finances (spending, budgets, audits, 990s)](https://dcpcsb.org/school-finances-funding/) (DC PCSB)
 
 ### Facilities, capacity & utilization
 
@@ -3973,8 +4024,8 @@ Where it appears:
 - [Open Data DC — DC Public Schools (point locations)](https://opendata.dc.gov/datasets/dc-public-schools/about) (Open Data DC)
 - [Open Data DC — DC Charter Schools (point locations)](https://opendata.dc.gov/datasets/DCGIS::dc-charter-schools/about) (Open Data DC)
 - [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/) (DCPS)
-- [School Profiles / Find a DC Public Charter School](https://www.dcpcsb.org/school-profiles) (DC PCSB)
-- [Public Charter School Directory (annual PDF)](https://www.dcpcsb.org/2025-26-public-charter-school-directory) (DC PCSB)
+- [School Profiles / Find a DC Public Charter School](https://dcpcsb.org/school-profiles/) (DC PCSB)
+- [Public Charter School Directory (annual PDF)](https://dcpcsb.egnyte.com/dl/4JmpCtX9bt48) (DC PCSB)
 - [DC School Report Card (public interactive site)](https://schoolreportcard.dc.gov/home) (OSSE)
 
 ### Educator workforce
@@ -4005,43 +4056,16 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 538 of 566 catalogued files download and profile cleanly · 1 still need a browser to resolve · 27 failed.
+**Profiling status (last run):** 552 of 553 catalogued files download and profile cleanly · 1 still need a browser to resolve · 0 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 
 Currently flagged `needs_browser` (resolve in a browser):
 - 2019 DC School Report Card and STAR Framework Cross-Tabulated Data File → https://app.box.com/s/tb3ipg32wo48di3ph58llnpim5632fn9
 
-Files that failed to download/profile on the last run:
-- Discipline & Attendance — [CORRECTED 9 5 23 council submission] SY22 23 DC PCSB South Capital Street Truan — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf`
-- Discipline & Attendance — SY 17 18 Attendance and Discipline Report — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf`
-- Discipline & Attendance — DC PCSB SY 2015 16 Truancy Report — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf`
-- Discipline & Attendance — 15 PCSB Discipline and Truancy Report — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf`
-- Discipline & Attendance — 2015 Discipline & Attendance Briefing full report — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf`
-- At-Risk Funding — At Risk Funding Report 18 19 1 22 2019 NW — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf`
-- At-Risk Funding — SY 17 18 at risk funding report — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf`
-- At-Risk Funding — DC PCSB At Risk Funding Report (revised 102716) — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf`
-- At-Risk Funding — At Risk Report 2015 final 10 01 2015[1] — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5B1%5D.pdf`
-- PMF Archive — 11 21 2016 17 PMF Policy & Technical Guide v2 — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20&%20Technical%20Guide%20v2.pdf`
-- PMF Archive — 12 12 Final 2015 16 PMF Book — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf`
-- PMF Archive — Vote 2015 16 PMF Policy Tech March Meeting Final Clean Copy — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf`
-- PMF Archive — Final PMF Book 2015 2 29 2016 — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf`
-- PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1 — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf`
-- PMF Archive — 14 Book (12 11 2014) — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013-14%20Book%20(12-11-2014).pdf`
-- PMF Archive — 2014TechnicalGuide 01 10 14 FINAL — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf`
-- PMF Archive — 2013 PMF REDUCED 2 — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf`
-- PMF Archive — Release 2012 2013 PMF Guidelines revised 9 12 — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf`
-- School Equity Reports — SY 2017 18 DC PCSB Equity Report Definitions Guide — `download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf`
-- School Equity Reports — Equity Report Public Charter School Academy of Hope Adult PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School Briya PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf`
-- School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf`
-- School Equity Reports — Equity Report Public Charter School YouthBuild PCS — `download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf`
+_No download/profile errors on the last run._
 
 Other structural notes: Egnyte share links return an HTML landing page to scripts (not fetchable — counts are recorded in source notes); the PCSB site returns intermittent 520s; the live Report Card is a JS app (use the Resource Library files for analysis); discipline by-school detail is in PDF appendices; STAR (OSSE) and SQR/PMF/ASPIRE (PCSB) are different rating systems.
 
 ---
-_Generated from `sources.yaml` + `file_profiles.json` by `generate_readme.py`. Sources last verified 2026-08._
+_Generated from `sources.yaml` + `file_profiles.json` by `generate_readme.py`. Sources last verified 2026-11._

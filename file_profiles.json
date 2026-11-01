@@ -16033,361 +16033,787 @@
     },
     "status": "ok"
   },
-  "pcsb-disc-discipline-attendance-corrected-9-5-23-council-submission-sy22-23-pcsb": {
-    "id": "pcsb-disc-discipline-attendance-corrected-9-5-23-council-submission-sy22-23-pcsb",
-    "source_id": "pcsb-discipline-attendance",
-    "name": "Discipline & Attendance — [CORRECTED 9 5 23 council submission] SY22 23 DC PCSB South Capital Street Truan",
-    "url": "https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf",
-    "kind": "pdf",
-    "year": "2022-23",
-    "topics": [
-      "attendance",
-      "discipline"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf"
-  },
-  "pcsb-disc-discipline-attendance-sy-17-18-attendance-and-discipline-report-unknow": {
-    "id": "pcsb-disc-discipline-attendance-sy-17-18-attendance-and-discipline-report-unknow",
-    "source_id": "pcsb-discipline-attendance",
-    "name": "Discipline & Attendance — SY 17 18 Attendance and Discipline Report",
-    "url": "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "attendance",
-      "discipline"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf"
-  },
-  "pcsb-disc-discipline-attendance-pcsb-sy-2015-16-truancy-report-2015": {
-    "id": "pcsb-disc-discipline-attendance-pcsb-sy-2015-16-truancy-report-2015",
-    "source_id": "pcsb-discipline-attendance",
-    "name": "Discipline & Attendance — DC PCSB SY 2015 16 Truancy Report",
-    "url": "https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf",
-    "kind": "pdf",
-    "year": "2015",
-    "topics": [
-      "attendance",
-      "discipline"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf"
-  },
-  "pcsb-disc-discipline-attendance-15-pcsb-discipline-and-truancy-report-2020-14": {
-    "id": "pcsb-disc-discipline-attendance-15-pcsb-discipline-and-truancy-report-2020-14",
-    "source_id": "pcsb-discipline-attendance",
-    "name": "Discipline & Attendance — 15 PCSB Discipline and Truancy Report",
-    "url": "https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf",
-    "kind": "pdf",
-    "year": "2020-14",
-    "topics": [
-      "attendance",
-      "discipline"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf"
-  },
-  "pcsb-disc-discipline-attendance-2015-discipline-attendance-briefing-full-report": {
-    "id": "pcsb-disc-discipline-attendance-2015-discipline-attendance-briefing-full-report",
-    "source_id": "pcsb-discipline-attendance",
-    "name": "Discipline & Attendance — 2015 Discipline & Attendance Briefing full report",
-    "url": "https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf",
-    "kind": "pdf",
-    "year": "2015",
-    "topics": [
-      "attendance",
-      "discipline"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf"
-  },
-  "pcsb-fin-at-risk-funding-at-risk-funding-18-19-1-22-2019-nw-2018": {
-    "id": "pcsb-fin-at-risk-funding-at-risk-funding-18-19-1-22-2019-nw-2018",
-    "source_id": "pcsb-school-finances",
-    "name": "At-Risk Funding — At Risk Funding Report 18 19 1 22 2019 NW",
-    "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf",
-    "kind": "pdf",
-    "year": "2018",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf"
-  },
-  "pcsb-fin-at-risk-funding-sy-17-18-at-risk-funding-report-2017": {
-    "id": "pcsb-fin-at-risk-funding-sy-17-18-at-risk-funding-report-2017",
-    "source_id": "pcsb-school-finances",
-    "name": "At-Risk Funding — SY 17 18 at risk funding report",
-    "url": "https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf"
-  },
-  "pcsb-fin-at-risk-funding-pcsb-at-risk-funding-revised-102716-2016": {
-    "id": "pcsb-fin-at-risk-funding-pcsb-at-risk-funding-revised-102716-2016",
-    "source_id": "pcsb-school-finances",
-    "name": "At-Risk Funding — DC PCSB At Risk Funding Report (revised 102716)",
-    "url": "https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf",
-    "kind": "pdf",
-    "year": "2016",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf"
-  },
-  "pcsb-fin-at-risk-funding-at-risk-2015-final-10-01-2015-1-2010": {
-    "id": "pcsb-fin-at-risk-funding-at-risk-2015-final-10-01-2015-1-2010",
-    "source_id": "pcsb-school-finances",
-    "name": "At-Risk Funding — At Risk Report 2015 final 10 01 2015[1]",
-    "url": "https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf",
-    "kind": "pdf",
-    "year": "2010",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5B1%5D.pdf"
-  },
-  "pcsb-pmf-pmf-archive-11-21-2016-17-pmf-policy-technical-guide-v2-2016": {
-    "id": "pcsb-pmf-pmf-archive-11-21-2016-17-pmf-policy-technical-guide-v2-2016",
-    "source_id": "pcsb-pmf-archive",
-    "name": "PMF Archive — 11 21 2016 17 PMF Policy & Technical Guide v2",
-    "url": "http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf",
-    "kind": "pdf",
-    "year": "2016",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20&%20Technical%20Guide%20v2.pdf"
-  },
   "pcsb-pmf-pmf-archive-12-12-final-2015-16-pmf-book-2016": {
     "id": "pcsb-pmf-pmf-archive-12-12-final-2015-16-pmf-book-2016",
     "source_id": "pcsb-pmf-archive",
     "name": "PMF Archive — 12 12 Final 2015 16 PMF Book",
-    "url": "http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf",
+    "url": "https://dcpcsb.org/wp-content/uploads/2026/08/2016-12-12-Final-2015-16-PMF-Book.pdf",
     "kind": "pdf",
     "year": "2016",
     "topics": [
       "other"
     ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf"
-  },
-  "pcsb-pmf-pmf-archive-vote-2015-16-pmf-policy-tech-march-meeting-final-clean-cop": {
-    "id": "pcsb-pmf-pmf-archive-vote-2015-16-pmf-policy-tech-march-meeting-final-clean-cop",
-    "source_id": "pcsb-pmf-archive",
-    "name": "PMF Archive — Vote 2015 16 PMF Policy Tech March Meeting Final Clean Copy",
-    "url": "http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf",
-    "kind": "pdf",
-    "year": "2015",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf"
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 326,
+      "text_preview": [
+        "2015 16\nDC Public\nCharter\nSchool\nQuality\nReports\n3333 14th Street, NW\nSuite 210\nWashington, DC 20010",
+        "2016\nSchool Quality Report\nDC PCSB's Mission How can families use the\nTo provide quality public school options for DC School Quality Reports?\nstudents, families, and communities through:\nFamilies can use the School Quality Reports to find out how\nA comprehensive application review process; a public charter school is performing and as a guide to help\nEffective oversight; them select a new school. Families can also learn about each\nMeaningful support; and school’s mission, grades served, and student population.\nActive engagement of its stakeholders.\nDC PCSB's Vision Where did DC PCSB get the data\nTo lead the transformation of public education in for the School Quality Reports?\nDC and serve as a national role model for charter\nThe data come from a variety of sources, including state test\nschool authorizing and accountability.\ndata from the Office of the State Superintendent of Education\n(OSSE), official score reports from testing agencies, and DC\nWhat are the DC PCSB School\nPCSB's internal data systems. DC PCSB staff verified all data\nQuality Reports? submitted by public charter schools. Public charter school\nleaders validated each data point and fact-checked the results.\nDC PCSB produces a detailed annual quality report for\neach public charter school showing a school’s results on\nthe Performance Management Framework (PMF).\nChanges for 2016\nPK–12 Schools tiered for the first time with PARCC data\nThe 2015–16 School Quality Reports are tiered as Tier 1, 2, and 3, with Tier",
+        "Table of Contents\nSchool Lists César Chávez PCS for Public Policy —\nTier 1 Schools .........................................................4 Capitol Hill ............................................................84\nTier 2 Schools .........................................................6 César Chávez PCS for Public Policy —\nTier 3 Schools .........................................................8 Chávez Prep .........................................................87\nPK—8 Schools .........................................................9 César Chávez PCS for Public Policy —\nHigh Schools ........................................................14 Parkside Middle School ......................................89\nAdult Education Schools ....................................15 César Chávez PCS for Public Policy —\nAlternative Accountability Schools ....................15 Parkside High School ..........................................91\nThe Children's Guild DC PCS.............................94\nHow to Read the PK—8 and High City Arts & Prep PCS (formerly William E. Doar, Jr.\nSchool Reports .......................................................16 PCS for the Performing Arts) ..............................96\nCommunity College Preparatory\nHow to Read the Adult Education\nAcademy PCS.......................................................99\nSchool Reports .......................................................18 Creative Minds International PCS ............."
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 2,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [
+            "2015—16 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 23
+        },
+        {
+          "page": 6,
+          "header": [
+            "2015—16 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 21
+        },
+        {
+          "page": 7,
+          "header": [
+            "2015—16 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 26
+        },
+        {
+          "page": 8,
+          "header": [
+            "2015—16 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 26
+        },
+        {
+          "page": 9,
+          "header": [
+            "2015—16 Overall Tier 3 (0.0 — 34.9%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 10,
+          "header": [
+            "PK—8 Schools"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 11,
+          "header": [
+            "PK—8 Schools"
+          ],
+          "n_rows": 21
+        },
+        {
+          "page": 12,
+          "header": [
+            "PK—8 Schools"
+          ],
+          "n_rows": 23
+        },
+        {
+          "page": 13,
+          "header": [
+            "PK—8 Schools"
+          ],
+          "n_rows": 17
+        },
+        {
+          "page": 14,
+          "header": [
+            "PK—8 Schools"
+          ],
+          "n_rows": 22
+        },
+        {
+          "page": 15,
+          "header": [
+            "High Schools"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 16,
+          "header": [
+            "2015—16 Tier 1 (65.0 — 100.0%) Ward Ages Served"
+          ],
+          "n_rows": 17
+        },
+        {
+          "page": 17,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 17,
+          "header": [],
+          "n_rows": 13
+        },
+        {
+          "page": 17,
+          "header": [
+            "1 100+",
+            "TIER SCORES 2012 2013 2014 2015 2016"
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 17,
+          "header": [
+            "Board Chair President & CEO Grades Served Jane Smith John Smith Current Grades Future Grades PK3 PK4 K 1 Principal First School Year 2 3 4 5 Jill Smith, Ph.D. 2009–10 6 7 8 9 10 11 12 Adult Ed Is part of a PK-8 network. Student Demographics (2015–16)"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 18,
+          "header": [],
+          "n_rows": 61
+        },
+        {
+          "page": 18,
+          "header": [
+            "Points Earned Percent of out of Possible Points Possible Points"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 19,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 19,
+          "header": [],
+          "n_rows": 13
+        },
+        {
+          "page": 19,
+          "header": [
+            "2"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 20,
+          "header": [],
+          "n_rows": 15
+        },
+        {
+          "page": 20,
+          "header": [],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 117,
+      "table_scan_capped": true,
+      "has_tabular_data": true
+    },
+    "status": "ok"
   },
   "pcsb-pmf-pmf-archive-final-pmf-book-2015-2-29-2016-2029": {
     "id": "pcsb-pmf-pmf-archive-final-pmf-book-2015-2-29-2016-2029",
     "source_id": "pcsb-pmf-archive",
     "name": "PMF Archive — Final PMF Book 2015 2 29 2016",
-    "url": "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf",
+    "url": "https://dcpcsb.org/wp-content/uploads/2026/08/Final_PMF_Book_2015_2-29-2016.pdf",
     "kind": "pdf",
     "year": "2016",
     "topics": [
       "other"
     ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf"
-  },
-  "pcsb-pmf-pmf-archive-revised-2014-15-pmf-policy-tech-guide-approved-8-17-15-fin": {
-    "id": "pcsb-pmf-pmf-archive-revised-2014-15-pmf-policy-tech-guide-approved-8-17-15-fin",
-    "source_id": "pcsb-pmf-archive",
-    "name": "PMF Archive — Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1",
-    "url": "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf",
-    "kind": "pdf",
-    "year": "2015",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf"
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 300,
+      "text_preview": [
+        "2014 15\nDC Public\nCharter\nSchool PMF\nPerformance\nReports\n3333 14th Street, NW\nSuite 210\nWashington, DC 20010",
+        "Photo credits:\nCover page\n(Top Photo) Bridges PCS\nPrinted on 100% post-consumer\n(Middle Photo) César Chávez PCS for Public Policy — Capitol Hill\nrecycled acid-free FSC-certified paper\n(Bottom Photo) Hope Community PCS — Lamond\nusing vegetable-based, low VOC inks\n(Page 1) The Next Step / El PrÓximo Paso PCS\nPrinted on 100% post-consumer recycled acid-free FSC-certified paper using ve©g 2e0ta1b5l eD-bCa Psuebdl,i clo Cwh VarOteCr Sinckhso.ol\nBoard. All rights reserved.\n© 2016 DC Public Charter School Board. All rights reserved.",
+        "2015\nSchool Performance Report\nDC PCSB's Mission How can families use the School\nTo provide quality public school options for DC students, families, Performance Reports?\nand communities through:\nFamilies can use the School Performance Reports to find out how\nA comprehensive application review process; a public charter school is performing and as a guide to help them\nEffective oversight; select a new school.\nMeaningful support; and\nActive engagement of its stakeholders. Where did DC PCSB get the data for the\nSchool Performance Reports?\nDC PCSB's Vision\nTo lead the transformation of public education in DC and serve The data come from a variety of sources, including state test data\nas a national role model for charter school authorizing and from the Office of the State Superintendent of Education (OSSE),\naccountability. official score reports from testing agencies, and DC PCSB's\ninternal data systems. Data submitted by public charter schools\nWhat are the DC PCSB School Performance were verified by DC PCSB staff. Public charter school leaders\nwere given the data for their schools for fact-checking before the\nReports?\nreports were released to the public.\nDC PCSB produces a detailed annual performance report for each\npublic charter school it oversees. The performance report shows\na school's results on the Performance Management Framework\n(PMF). The performance reports also includes an Accountability\nPlan for a school that has 100 percent students with disabilities.\nNew for "
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "header": [],
+          "n_rows": 4
+        },
+        {
+          "page": 3,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "Early Childhood/Elementary/Middle Schools"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 7,
+          "header": [
+            "Early Childhood/Elementary/Middle Schools"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 8,
+          "header": [
+            "Early Childhood/Elementary/Middle Schools"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 9,
+          "header": [
+            "Early Childhood/Elementary/Middle Schools"
+          ],
+          "n_rows": 20
+        },
+        {
+          "page": 10,
+          "header": [
+            "High Schools"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 11,
+          "header": [
+            "2014—15 Tier 1 (65.0 — 100.0%) Ward Ages Served"
+          ],
+          "n_rows": 16
+        },
+        {
+          "page": 12,
+          "header": [
+            "2015 School Performance Report 1 Washington PCS TIER SCORES 2011 2012 2013 2014 2015 WARD 100 5 100+6767+64+64+66+66+63+63+100+0+0+0 100 2 100 2 100 1 100 1 6 3 1000 School Address Avenue NE 202-123-4567 N/A* Washington, DC www.school.org 65.9% 63.9% 65.5% 62.7% 2 School Profile (2015–16) Score Explanatio Board Chair Executive Director Grades Served For schools serving pre-kindergarten (PK) throu Jane Smith John Smith Is part of a PK-12 network. 8th grades, DC PCSB has Current Grades Future Grades implemented a new Early Childhood/Elementa Principal First School Year PK3 PK4 K 1 School/Middle School Jill Smith, Ph.D. 2009–10 2 3 4 5 Performance Management Framework (PMF) to assess 6 7 8 9 academic performance school-wide. The framework 10 11 12 Adult Ed now includes data for stude in all grades at the school 3 for multiple measures. Student Demographics (2014–15) 4 Starting in the spring of 201 Total Enrollment Asian 2.3% English Language all students in grades 3 and +2255 +40+32+1+20+5 Black Non-Hispanic 39.7% 1 Le 0 a .3 r % ner higher, participated in the Partnership for Assessment Hispanic / Latino 32.4% Economically of Readiness for College Native American / 0.4% Disadvantaged and Careers (PARCC). Alaska Native 45.9% * Due to the change in P H a a c w ifi a c ii a Is n la nder / Native 0.0% Special Education the state assessment, 7.7% scores and tiers were not White Non-Hispanic 20.1% At-Risk Population displayed in 2014–15. Multiracial 5.1% 28.4% 5 A Note from the School English language learners: Students whose families speak a language Washington Public Charter School’s mission is to prepare a community of successful learners for active citizenship at home other than and further education in a climate of respect and appreciation for diversity. Washington Public Charter School English. accomplishes this mission through a balanced curriculum focusing on the development of mind, body, and character. We are committed to providing our students with service learning opportunities with integrated technology. Students use laptops, interactive whiteboards, and document cameras as they work in teams on service learning projects. We celebrate student achievements each month and at an end of year assembly. Washington Public Charter School has received recognition for its community service by receiving the Jefferson’s Award for Public Service."
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 12,
+          "header": [
+            "1 100+6767",
+            "TIER SCORES 2011 2012 2013 2014 2015"
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 12,
+          "header": [
+            "ns"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "English language"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 13,
+          "header": [
+            "How to read the PK—"
+          ],
+          "n_rows": 29
+        },
+        {
+          "page": 14,
+          "header": [
+            "Washington PCS 015 School Performance Report"
+          ],
+          "n_rows": 14
+        },
+        {
+          "page": 14,
+          "header": [
+            "2565 0 100 25 65"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 16,
+          "header": [
+            "2015 School Performance Report"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 17,
+          "header": [
+            "(2014—15) KEY Rate Weighted Adult Education 0 Floor Target 100 Score"
+          ],
+          "n_rows": 13
+        },
+        {
+          "page": 17,
+          "header": [
+            "27100 0 26.7 100"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 18,
+          "header": [
+            "(2014—15) KEY Rate Adult Education 0 Floor Target 100"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 19,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 20,
+          "header": [
+            "(2014—15) KEY Rate Grades Measured: K–3 0 Floor Target 100"
+          ],
+          "n_rows": 16
+        },
+        {
+          "page": 20,
+          "header": [
+            "Early Childhood Student Outcomes on School-Selected Assessments"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 21,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 22,
+          "header": [
+            "(2014—15) KEY Rate Grades Measured: 4–8 0 Floor Target 100"
+          ],
+          "n_rows": 16
+        },
+        {
+          "page": 22,
+          "header": [
+            "Early Childhood Student Outcomes on School-Selected Assessments"
+          ],
+          "n_rows": 3
+        }
+      ],
+      "n_table_pages": 116,
+      "table_scan_capped": true,
+      "has_tabular_data": true
+    },
+    "status": "ok"
   },
   "pcsb-pmf-pmf-archive-14-book-12-11-2014-2013": {
     "id": "pcsb-pmf-pmf-archive-14-book-12-11-2014-2013",
     "source_id": "pcsb-pmf-archive",
     "name": "PMF Archive — 14 Book (12 11 2014)",
-    "url": "http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf",
+    "url": "https://dcpcsb.org/wp-content/uploads/2026/08/2013-14-Book-12-11-2014.pdf",
     "kind": "pdf",
     "year": "2013",
     "topics": [
       "other"
     ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013-14%20Book%20(12-11-2014).pdf"
-  },
-  "pcsb-pmf-pmf-archive-2014technicalguide-01-10-14-final-2001": {
-    "id": "pcsb-pmf-pmf-archive-2014technicalguide-01-10-14-final-2001",
-    "source_id": "pcsb-pmf-archive",
-    "name": "PMF Archive — 2014TechnicalGuide 01 10 14 FINAL",
-    "url": "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf",
-    "kind": "pdf",
-    "year": "2014",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf"
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 328,
+      "text_preview": [
+        "2013 14\nDC Public\nCharter\nSchool\nPerformance\nReports\n3333 14th Street, NW\nSuite 210\nWashington, DC 20010",
+        "Photo credits: Printed by: CTR Services, Inc., of\n(Top Photo) Edward Underwood and Friendship PCS. Courtesy of and Washington, DC\nused with permission from the photographer and the school.\n(Middle Photo) Cesar Chavez PCS. Courtesy of and used with Printed on 100% post-consumer recycled\npermission from the school. acid-free FSC-certified paper using\n(Bottom Photo) Richard Wright PCS. Courtesy of and used with vegetable-based, low VOC inks\npermission from the school.\n© 2014 District of Columbia Public Charter\nDesigned by: Tembo, Inc. School Board. All rights reserved.",
+        "2013—14 User Guide\nDear Friends,\nWhat are the PCSB School Performance Reports?\nThe DC Public Charter School\nBoard (PCSB) is pleased to PCSB produces a detailed annual performance report for each public charter\nprovide the 2013-14 School school it oversees. The performance report shows a school’s results on the\nPerformance Reports as a way Performance Management Framework (PMF), including the school’s total\nto share how PCSB evaluates percent score and a rating in one of three performance tiers. The performance\neach DC public charter school. reports also show an Accountability Plan for a school that has 100 percent\nAlthough each charter school students with disabilities.\nis unique, the Performance\nManagement Framework (PMF)\nHow can parents and guardians use the School Performance\nallows the Board and the public\nReports?\nto look at early childhood,\nelementary, middle, high school, Parents can use the School Performance Reports to find out how a public charter\nand adult education performance school is performing and as a guide to help them select a new school for their\nacross common measures. The children.\nschools are evaluated on several\nfactors: student progress over\nWhere did PCSB get the data for the School Performance\ntime, student achievement during\nReports?\nthe previous school year, gateway\nmeasures, and leading indicators The data come from a variety of sources, including state test data from the\nsuch as attendance and re- Office of the State Superintendent of Education "
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 6,
+          "header": [
+            "2013—14 Overall Tier 1 (65.0 — 100.0%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 7,
+          "header": [
+            "2013—14 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 26
+        },
+        {
+          "page": 8,
+          "header": [
+            "2013—14 Overall Tier 2 (35.0 — 64.9%) Ward Grade Levels Percentage"
+          ],
+          "n_rows": 24
+        },
+        {
+          "page": 9,
+          "header": [
+            "Early Childhood Programs"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 10,
+          "header": [
+            "Early Childhood Programs"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 11,
+          "header": [
+            "Early Childhood Programs"
+          ],
+          "n_rows": 23
+        },
+        {
+          "page": 12,
+          "header": [
+            "Elementary/Middle Schools"
+          ],
+          "n_rows": 22
+        },
+        {
+          "page": 13,
+          "header": [
+            "Elementary/Middle Schools"
+          ],
+          "n_rows": 23
+        },
+        {
+          "page": 14,
+          "header": [
+            "Elementary/Middle Schools"
+          ],
+          "n_rows": 21
+        },
+        {
+          "page": 15,
+          "header": [
+            "High Schools"
+          ],
+          "n_rows": 17
+        },
+        {
+          "page": 16,
+          "header": [
+            "High Schools"
+          ],
+          "n_rows": 13
+        },
+        {
+          "page": 17,
+          "header": [
+            "Adult Education*"
+          ],
+          "n_rows": 13
+        },
+        {
+          "page": 18,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 18,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 18,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 18,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 19,
+          "header": [
+            "How to rea"
+          ],
+          "n_rows": 20
+        },
+        {
+          "page": 19,
+          "header": [
+            "Points Earned Percent of Out of Possible Points Possible Points"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 20,
+          "header": [
+            "Early Childhood PCS 2014 School Performance Report ( 2013-2014) KEY Score Grades Measured: PK—2 0 Floor Target Pre(cid:16)(cid:46)(cid:76)n(cid:71)er(cid:74)arten (P(cid:46)(cid:22)—P(cid:46) 4) (cid:42)ra(cid:71)e(cid:86) ((cid:22)(cid:22)% of (cid:55)otal St(cid:88)(cid:71)ent(cid:86))",
+            "100 100 100 100 100 7.0 7 7 7 .2 100 100 100 100 100 1, 2014"
+          ],
+          "n_rows": 36
+        },
+        {
+          "page": 22,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 23,
+          "header": [
+            "(2013 —14) KEY Score Grades Measured: K–3 0 Floor Target 100"
+          ],
+          "n_rows": 10
+        },
+        {
+          "page": 23,
+          "header": [
+            "Mission Specific Goals Goals Met % Met"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 24,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 25,
+          "header": [
+            "(2013—14) KEY Score Points Earned Percent of out of Possible Grades Measured: 4–8 0 Floor Target 100 Points Possible Points"
+          ],
+          "n_rows": 21
+        }
+      ],
+      "n_table_pages": 115,
+      "table_scan_capped": true,
+      "has_tabular_data": true
+    },
+    "status": "ok"
   },
   "pcsb-pmf-pmf-archive-2013-pmf-reduced-2-2013": {
     "id": "pcsb-pmf-pmf-archive-2013-pmf-reduced-2-2013",
     "source_id": "pcsb-pmf-archive",
     "name": "PMF Archive — 2013 PMF REDUCED 2",
-    "url": "http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf",
+    "url": "https://dcpcsb.org/wp-content/uploads/2026/08/2013-PMF-REDUCED-2.pdf",
     "kind": "pdf",
     "year": "2013",
     "topics": [
       "other"
     ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf"
-  },
-  "pcsb-pmf-pmf-archive-release-2012-2013-pmf-guidelines-revised-9-12-2012": {
-    "id": "pcsb-pmf-pmf-archive-release-2012-2013-pmf-guidelines-revised-9-12-2012",
-    "source_id": "pcsb-pmf-archive",
-    "name": "PMF Archive — Release 2012 2013 PMF Guidelines revised 9 12",
-    "url": "http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf",
-    "kind": "pdf",
-    "year": "2012",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf"
-  },
-  "pcsb-eq-school-equity-reports-sy-2017-18-pcsb-equity-definitions-guide-unknown": {
-    "id": "pcsb-eq-school-equity-reports-sy-2017-18-pcsb-equity-definitions-guide-unknown",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — SY 2017 18 DC PCSB Equity Report Definitions Guide",
-    "url": "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-academy-of-hope-adult-pcs": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-academy-of-hope-adult-pcs",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School Academy of Hope Adult PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-briya-pcs-unknown": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-briya-pcs-unknown",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School Briya PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-carlos-rosario-internation": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-carlos-rosario-internation",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School Carlos Rosario International PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-community-college-preparat": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-community-college-preparat",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School Community College Preparatory Academy PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-layc-career-academy-pcs-un": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-layc-career-academy-pcs-un",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School LAYC Career Academy PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-maya-angelou-pcs-young-adu": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-maya-angelou-pcs-young-adu",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-the-next-step-el-proximo-p": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-the-next-step-el-proximo-p",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School The Next Step El Proximo Paso PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf"
-  },
-  "pcsb-eq-school-equity-reports-equity-public-charter-youthbuild-pcs-unknown": {
-    "id": "pcsb-eq-school-equity-reports-equity-public-charter-youthbuild-pcs-unknown",
-    "source_id": "pcsb-equity-reports",
-    "name": "School Equity Reports — Equity Report Public Charter School YouthBuild PCS",
-    "url": "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf",
-    "kind": "pdf",
-    "year": "2017",
-    "topics": [
-      "other"
-    ],
-    "status": "error",
-    "error": "download_failed: 404 Client Error: Not Found for url: http://dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf"
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 304,
+      "text_preview": [
+        "!\"#$\nDC Public\nCharter\nSchool\nPerformance\nReports\n3333 14th Street, NW, Suite 210, Washington, DC 20010",
+        "Photo credits: Washington Yu Ying PCS; Erica Sanchez-Vazquez, Carlos Rosario International PCS; and DC Prep PCS –\nBenning Elementary. Courtesy of and used with permission from the schools.\nDesigned by KSA-Plus Communications of Arlington, VA\nPrinted by CTR Services, Inc., of Washington, DC\nPrinted on 100% post-consumer recycled acid-free FSC-certified paper using vegetable-based, low VOC inks\n© 2013 District of Columbia Public Charter School Board. All rights reserved",
+        "2013 User Guide\nDear Friends, What is the PCSB School Performance Report?\nThe DC Public Charter School Board PCSB produces a detailed annual performance report for each public charter\n(PCSB) is pleased to provide the 2013 school it oversees. The performance report shows a school’s performance on the\nSchool Performance Report as a way to Performance Management Framework (PMF), including the school’s total percent\nshare how PCSB evaluates each public score and a rating in one of three performance tiers. The performance reports\ncharter school. Although each charter also show an Accountability Plan for schools that have 100 percent students\nschool is unique, the Performance with disabilities. This year PCSB consulted with Early Childhood (EC) and Adult\nManagement Framework (PMF) allows the Education (AE) task forces to draft a pilot framework for each of these programs,\nBoard and the public to look at elementary, which will be fully implemented in 2013–14. The PMF includes the pilot results\nmiddle, and high school performance of the 26 public charter schools that participated in the EC framework and the\nacross common measures. The schools Accountability Plan results of the 10 public charter schools that did not participate\nare evaluated on several factors: student in the pilot. This framework includes Accountability Plan and pilot results for all of\nprogress over time; student achievement the AE programs. In addition, each performance report has a demographic profile\nduring the p"
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 6,
+          "header": [
+            "ELEMENTARY/MIDDLE SCHOOLS"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 7,
+          "header": [
+            "ELEMENTARY/MIDDLE SCHOOLS"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 8,
+          "header": [
+            "HIGH SCHOOLS"
+          ],
+          "n_rows": 10
+        },
+        {
+          "page": 8,
+          "header": [
+            "ELEMENTARY/MIDDLE SCHOOLS"
+          ],
+          "n_rows": 9
+        },
+        {
+          "page": 9,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Targets Met",
+            "Total Targets"
+          ],
+          "n_rows": 31
+        },
+        {
+          "page": 10,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Targets Met",
+            "Total Targets"
+          ],
+          "n_rows": 30
+        },
+        {
+          "page": 11,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Targets Met",
+            "Total Targets"
+          ],
+          "n_rows": 9
+        },
+        {
+          "page": 12,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Tier",
+            "Overall Percentage"
+          ],
+          "n_rows": 36
+        },
+        {
+          "page": 13,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Tier",
+            "Overall Percentage"
+          ],
+          "n_rows": 26
+        },
+        {
+          "page": 14,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Tier",
+            "Overall Percentage"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 15,
+          "header": [
+            "Public Charter School",
+            "2012–13 Grade Levels",
+            "Targets Met",
+            "Total Targets"
+          ],
+          "n_rows": 13
+        },
+        {
+          "page": 16,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 16,
+          "header": [
+            "Tier 2013 Score: 68.7% 2012 Score: 58.4%"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 16,
+          "header": [],
+          "n_rows": 2
+        },
+        {
+          "page": 16,
+          "header": [
+            "English language learners: Students whose families"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 17,
+          "header": [
+            "s?"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 17,
+          "header": [
+            "Percent of Points Earned Possible Points Possible Points"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 17,
+          "header": [],
+          "n_rows": 3
+        },
+        {
+          "page": 17,
+          "header": [
+            "Grades measured: 3–8 Student Progress (40 points): Academic improv0e Student Progress (40 points): Academic improve 0.4 1.25 32.0% Growth on DC-CAS Reading over time WTwaoshRiinvgetrosnP CPSCS Growth on DC-CAS Reading over time 0 0 22001133 SScchhoo2 ool .l 8 PPeerrffoorrmmaannccee R Reeppoortr t Growth on DC-CAS Mathematics over time 5.0 55.5% Growth on DC-CAS Mathematics over time 0 ( G 20( Gr 21 a 02 r 1– da 21–3 ed 1) 3 s 0 e ) . s 6 mmeeaasusurered 4 d 4 : . : 0 P % 3K–38–2 KEY 0 Floor Score Goal 100 P P o o i i n n t t s s P E o a s r s n ib ed le P P e P o rc o s e s in i n b t t s l e o f M S S D t t OC u u - d d CR e e A n n ES t t A A RAe c c h a h Bd i i e e iO v v n e e g m m U e e T n n t t G ( ( 2 2 5 5 R p p O o o i i n n W t t s s ) ) T : : M M H e e e e t t i i n n g g o o r r e e x 0x c S tu d e n t1 P.2r o o5g r e s s ( 4 0 p o in ts): Academic improvement o v e r t im e E le m e n t a r y g r a d e s D C - C A S Reading S tu d e n t P r g r e s s T a r g e ts P r o g r es s Results Met Target? O V P Ero Rfi c iTe n It M a n Ed A d va n c e d (cid:131) G A r t o w le t a h s t o 2 8 n .59 D % C - o C f A p S r e R k e in ad d i e n r g g a o r v t e e r n t a im nd e 0 42 stu 30 d .0 ents out 5 o 6 f . 4 5 9 s 7 t 0 u .0 dents = 85 10 % 0 1 2 3 0 . . 3 0 N6o6.5% The P r g ofi r c o ie w nt t a h nd o A v d e va r n c t e im d e measure 0 0 kindergarten students w5ill0 d.e7m%onstrate progress Advanced only Gorno watt hle oa 5 sn . t 0 D3CD o-CfC At hCSe Mo6m aktehpyer megrahatedicnes soleivvveeerl Atliimtsesereacs ys ment System 57.5 13.8 69.0% alloAwdvsa nPceCdS oBnl yto compare schools 0 indicators by( DthCe -sCprAinSg) aids mthineis tarantniouna ol nc itthyew0 ide asses30s.0ment 70.0 100 20.0 inD Cw-ChAicS hM astthuemdaetnicsts enter at 0 SPtAuLdSe nats 0sAe.c8shsimegveievnmet ne(on rtt o s(c2 os5rt epu odaitne ttnhs)te:s M1 i0ne0e %gtinr mga daorrek es).x 3ce–e8d iangn dac agdreamdice s tandards Elementary grades DC-CAS Mathematics (cid:131)E Aletm leeanst1ta .7r2y0 5%g 1 r ao0 df e i1n ss DtD CaCn-Cd A p 6 2S un 0 Rdb .0 e lgi a % crda i adn neg dst upduebntlis c w cilhl arte6r0 %sc ohfo sotuldse.nts made at least a year’s growth as 2.8 No diff P Pe r r o ore fi fi c cn i i e et n n t tl e a a n nv d de A Al d ds v v a oa n nf c c e ep d derformance. 0 m P a r k o e fi c a i t e n le t a a s n t d t h A e d v p a r n o c je e c d ted level of a year’s confirmed by review o67f .s8tudent literacy folders 5.0 56.0% This measure combines each 0 growth3 o.2n the DRA. 0 with2 7D.0RA assessments. 100 studAdevnantc’sed p ornolygress on the DC 64.6% A d va n c e d o n ly Advan 5 c . e 0 d only 19.6 0 1 . . 9 2 8 5 78.4% C G o a m t e w p a r y e ( h 1 e 5 n p o s i i n v t e s): A Ou s t s c e om ss e m s in e k n e t y subjects 0 t 0 h Student 0 A . c 6 hievement Targets 0 Ac2h5i.e0vement Results 100 Met Target? SMysidtdelem g r(aDdeCs -DCC-ACASS) Rteeasdtinsg from one (cid:131) E A a le n t P m d r l o e e 2 fi a n n c s t 1 i a d t e . r 72 n y g t 0 5 r g % a a r n d a d o e d s f A e s s w d t v D u il a l d C n s e - c c C n e o A t d r 4 s e S 8 i n M a . t 0 k a o i %t n h r d e a e m b rg o a a v ti e r c t s e g n ra a d n e d 0l e 1 v s e t l 6 a2s 2 0 . % 4co o n f fi r s m tu e d d e n b t y s r s e c v o ie re w d7 o 2a f t. 0 s o t r u d ab en o t v e l1i t0 g e0 r r a a d cy e f l o e l v d e e l rs 3 5 . . 2 0 N6o4.0% g a P R r s r ea o c a Pd fi d h r c oei o n i fi e g c o n tie t o l n - a t l n t e a d hn v e A d e d A l n v d a m ev n ax c e n e tc d d ,e d i r 3 a e rd n s g u g r l a t r d i o n e w g t h in 00 on A d th v e an D ce R d A o . nly wit 2 h 6 D .6 RA assessments. 1.25 100.0% p L e e r a Ac d de in vna g n t I c n iel d ed ic o a (nM t l o y r G s ( P 20 ). p oints): Predictors of futu 5.3 71.0% 0 25.0 100 1.25 Attendance 0 LMeaidddinleg g 7Irna.5ddiecsa DtoCr-sC ATaSr Rgeeatdsing Leading Indicators Results 2.3 Met Target? TMhied dMle GgraPd essu DmC-mCAaSr Mizaethse smtautidcsent 0 (cid:131) O P n r o a fi v c e i 4r e a. n g6 t e a , n s d t u A d d e v n a t n s c e w d ill attend school at lea0 st On a2v8e.9rage, 95.5% 6 1 s . t 1 udents attend1e00d school as 5.0 Ye 46 s .0% gRreo- P ew r n o tr fi oh c l i l e mi n ne t n a at n d ins A cth d hi v so a s n oc c h e l.o d oIlt tells us 0 91 A % dv o an f7 c t. e h5 d e o d n a l y y s. 61.7% 8.7 c T o h n e fir m b e a d rs b s y h re o v w iew t h o e f O t L a A rg M e S t r e r p a o n r g t. e PCSB h 0. a 4 s 4 35.2% how Ad m van u c c ed h o s n t ly udents in a school 0 (cid:131) At least 85% of eligible students in grades 0 9s2e2.t65 %.f0o orf mstuedaesnutsr iinn ggr apdeersf PoKr–m2na1dn0 0rcee-e innro elleadc ha1t .25 Yes a T re O T p A ro L g SC re O s R si E n g academically 0 M p C id r C P e d r P k o l C e i fi n S c1 g d i e f r 0 e o a n r . d t r g 0 e a a th n s r t d e D e A n n C e d - t C x v h t A a r o n s S c c u e M h g d o h a o t 2 l h n y e d e m a w a r. t i i l c l s re-enroll at C b c (fl y C a o O t P e o C L g r S A ) o M f a o r S r n y t r d h e — e p t o h 2 t r 0 e t h 1 . e 0 g 6 – o l5 1 o. 1 a 1w l s . c e T h s o h t o e a l y t c t e i a a r r c in a le a s b c s o l h e n o fi s r w m c s o e d r t e h 2 5 e . . 5 0 50.0% coGamtepwaayr e(1d5 ptooi nstsim): Oiluatcro smteus dine kneyt ssu binje cts th 100.0% 0 30.5 100 oPtrhoeficri esnct hanodo Aldsv. aFncoerd e3rxda gmradpel e , an 1 0 . 0 s ch o o l’ s s c o r e f o r t h a t m e a s ur e a n d w h e r e Adva nc e d only 12.7 th at s c o r e fa l ls i n t h e p er fo r m a n c e r a n g 0 e .6 4 — 51.2% M R G ea P di n s g core of 62 means that, 0 Mission Specific Measures Targets Mission Specific Results 1.25 Met Target? 10.0 0 in2 o5.0ther words, how close t1h0e0 school came oPvreofircaielln,t tahnde Asdtvuadnceedn t8sth ignr atdhea t (cid:131) G A at t e l w ea a s1 y t 0 ( 9 1 .50 5 % p o o i f n p ts a ) r : e O n u ts t1 c o 0o r m0 g .e0 u s a % i r n d k ia e n y s s o ub f j s e t c u t d s e th n a ts t pre 1tdo0 ic 0 tm% fu eo tu fe r pte ai ne re dgn u t ces a ap tica o rhn ti a cgl i p sou aac te cle.d s i s n parent conferences Yes Mathematics P i r no fi p c r ie e kn it n da ne dr g A a dr t vea nn cth er do 3u rg dh gg r raa dd ee 2 will as confirmed by5 5re.1view of sign-in sheets. 3 . 4 s c h o o l s h o w e d g r e a t e r o v e r a l l 0 R p e aa d rt i in c 5gi p 5 a t.e 6 in a p a r e n t c o n f e r e n c e . 7 . 5 45.6% im Le pa drio ngv e In md icea nto tr st (h 2 a0 np o 6in 2t s ) p: P erer dc iec tn ort s ooff f utu r 55.6% 0 17.4 100 (cid:131)P M A s w r a o t t r ut fi i h l d t ce e i i e 1 n ae mn g sn0 ta t t s a t 08 a i s wc 5 s n. s e % i d0 l s l s A s o m c df o e vk r a n i e nn t . d a c e G t e dr g r g a r 8a d a tr d e ht e e l g e n l r e v at e v dh e l r e t l o a o u r n g g h e th t 2 e s n c s d o p r g r e i r n s 0 a : g d e 9 b an 7 a d . s 3 e 2 % a d 9t .t2 o o a n f c h s a t e u r d e d v e ru i n e b t w s ri c s o . c f o S s r o t e u m d d e e a n t w 8 t o r 2 i w r t . 9 i a o n b r g k o , w 1 v 0 s e a 0 c s o g s r r e c a o d s r h e e e d le e v b ts e y , l 5 7 . . 7 5 Ye 76 s .0% s th i A m e tt e i d l n a d i r s a t n s r c t i e u ct d . ents in schools across 0 Leading Indicators (20 points): Predictors of future student progress and achievement K=1.5, 1st = 2.0, and 2nd = 3.0. two reviewers and others by one.",
+            "Grades measured: 3–8 Student Progress (40 points): Academic improv0e",
+            "ment over t F im loo e r Goal 100 Points Possible Points"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 17,
+          "header": [
+            "Growth on DC-CAS Mathematics over time Growth on DC-CAS Mathematics over time"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 17,
+          "header": [
+            "44.0% S tu d e n t1 P.2r o o5g r e s s ( 4 0 p o in ts): Academic improvement o v e r t im e S tu d e n t P r g r e s s T a r g e ts P r o g r es s Results Met Target?"
+          ],
+          "n_rows": 27
+        },
+        {
+          "page": 18,
+          "header": [
+            "Early Childhood PCS 2013 School Performance Report (2012–13) Grades measured: PK3–2 Student Progress Targets Progress Results Met Target? (cid:131) At least 89% of prekindergarten and 42 students out of 49 students = 85% No kindergarten students will demonstrate progress on at least 3 of the 6 key grade level literacy indicators by the spring administration on the PALS assessment (or score at the 100% mark). (cid:131) At least 70% of 1st and 2nd grade students will 60% of students made at least a year’s growth as No make at least the projected level of a year’s confirmed by review of student literacy folders growth on the DRA. with DRA assessments. 2013 School Performance Report Student Achievement Targets Achievement Results Met Target? (cid:131) At leEasta 70r% lofy stu dCentsh in kiinlddergharteon aond 1dst P62%C of sStudents scored at or above grade level No and 2nd grades will score at or above grade level as confirmed by review of student literacy folders on the DRA. with DRA assessments. Leadin10g0 I0n dScichaotool rAs dTdarregses tSstreet, NW Leading Indicators Results (202) 328-2660 Met Target? (cid:131) On W av a e s r h a i g n e g , t o st n u , d D e C nt 2 s 0 w 0 i 0 ll 9 attend school at least On average, 95.5% students attended swchwowol. dacs pcsb.org Yes Profile (cid:131) ( 9 A 2 1 t 0 % le 1 a o s 3 f t t – 8 h 1 5 e % 4 d ) a o y f s e . ligible students in grades c 9 o 2 n .6 fi % rm o e f d s t b u y d r e e n v t i s e w in o g f r a O d L e A s M P P EK S M a– r r2 e l F n p yd o P r Cr t e i . -h l e o inl t rdo — lhleod oa t d Yes a b ir le : p C r CFe PikrCsintS dS f eco rhr go a toh rlt e eY n nee at xrh:t r 1o s9c u h8g o7h–o 28l 8n y d e a w r. ill rS T e o c-eh p no r ro o ol v l i lM d a e its q si u o a n l / it P y u C bp ryp u C b oO P l sC iLc eS A : s Mc fo hS r o t or h el e p o 2 r 0 t 1 . 0–11 scho S o c l h y o e o a l r s a s s e c rv o i n n fi g r m gr e a d d es e 1 o t b b e 2 r ! o D C - P v l l T e e K i a o 8 e \" e r - r 6 e f t d a 4 e h c H c : G \" t h g ! i o E g e r D (cid:133) r a h r 7 : K d M (cid:131) (cid:131) l R y \" T e \" A ! a i A i p A s w K O Q s n t f t a A = s t t i t r u 8 u oT p e 1r i i D 1 l l d t o a t :A e e r r Ui . i \" e l n e n 2 c! 5 a a i L C L fi n gT i k 0 s s , p a S t e t t i 9 1 E n T 2 s a t a r d p D 9 8 o es d A t s w \" t e 5 5 e s ! T e 1 R e % % c i = e r l i s l n i g a 1 G fi 3 s 2 s 0 c a o o m a c c . E h r f f 0 o t e p e M T p k , e r r n a i e S n a a s n e t r n r : e . d a t e a M d 8 h n G t e n s 9 r t r g u 2 t r E o % g s a c n r r u T a d o a e o d g r d n e s r t h = e f e g l T e e n g l a 3 u r e v e r r . a t e v a 0 n g h r e l d . d c r e t l o e e i a t a o u . s r 2 o a c e s s n n g g u t o n f p s a fw h e p t d m e t k o h t i pi c 2 e o l p c f e tl s o h n n o i r s c v r e o s d s m t t o e p h u , l f d r g m o r e a do e e i r r n n n ve s u a r s d D : e g s n n d i . r v t i C a s e t s e i i c e g s t a s t h iv p u t t e d , p 1 a 9 b a t Mh w s n m e 0 7 l r a e i oi c d o n 0 . s s nce 3 u a e s t % og a % a r s g t i d n e o a i , n t o h o t fi v g n f o i o a n n a i f r a e e n f c m m g S p m p w h s p f a a e i r t u e e l e o e u r i d r l d e e r n e c d c s s n tb e i v e r fi , a t u i s oy n e s c n s b f t w r , d p s R r eit i a c v e s s o o r . c i s f e t t o S u h i w s c r o l e t i t e u p m r s o d s d a f e t e b a s e n t w y i d g t o * p 2 p M ( a u T t yr o nP i i we i l n s rh e r a t n n t FsPc -M a e i ai e d r e i r c a o o n o e n M n n t e k r p h r sb m F g r r. . i g a i g n d c o F e k a s n o ) a p g i a o r h , A r w p d s p vf s a e l l t e l e s c o e i c ce a e i a d s in w c o m v t le r c h t t r o s e e o t e r g o e g t o o o t e e t s s r c u b h r a c u f , t o e n . i c a i o l o n o e o r n s n rd l o t d t e n s eo s u t e a r 2 b F an 2 h e e f a k e w l n e s 0 o d r 0 e e b P po d o l a r i t 1 1 i e e t i l e e fa n n e m l l r h 2 2 v b t i g r s r n e g t l n s r – e e f e – e y y ec c , o w o o p 1l 1 c e e w e P u 1 r h t o 3 t 3 i v m s v o 1 g y l r b a t a e t s a r o h a a os l e n c k u s a . n f h s a a t c . o t h n e e o e! d l M et Y Y O T e e a F s s rg e \" t? hool Characteristics ision is to*U lenaadb leth teo t vraenrisffyo prmerafotiormn aonfc e results due to lack of primary source data. ducation in Washington DC and serve onal role model for charter school ing and accountability. DC Public Charter School Board School Performance Report © 2013"
+          ],
+          "n_rows": 17
+        },
+        {
+          "page": 19,
+          "header": [
+            "2013 School Performance Report Washington PCS WARD# 1000 School Address Street, NW (202) 328-2660 Washington, DC 20009 www.dcpcsb.org School Profile (2013–14) Accountability Plans Board Chair: First School Year: 1987–88 School Mission/Purpose: For schools that do not Donna Noble To provide quality public school receive a Performance hingt E Do x o e nn c n u a t i NP ve o bC D le ir S ector: o an p d ti o c n o s m f m or u D ni C ti e s s tu t d h e ro n u ts g , h f a a m ilies, M ( t P h M a e n A F a ) c g s c e c o m o u r e n e n t * a t , b F P i r l C i a t S y m B P e l u w a s n o e r s k Principal: comprehensive application process, system to measure academic ool PerfoDromnannac Ne oRbeleport effective oversight, meaningful performance. Accountability ) G ! ra P d K- e 3 s S ! er P v K e - d 4 : !K !1 !2 !3 s s u ta p k p e o h r o t, ld a e n r d s. active engagement of its P b m l y a is n w s e h r d e e s t s u h p l e t e s r c t a i h fi re e c p d sc e e h r t f o e o r o r m l m m in a e e n t d c e o r s me!as4u !re5 d !: 6P \"K37 –\"28 \"9 \"10 targets that were established Progre \" Wssi l 1 lT 1 ga rr o \" gwe 1 tt 2 so 8 \" th G g E r D a d \" e; p A a D r U t L o T f E a D PK netwProorkgress Results Met Targ b be y y t t P? h C a S t B sc . hool and approved st 89% of(cid:59) p rBeekfinodree rCgaarret e n (cid:133) an dA fter Care 42 students out of 49 students = 85% NoS ac c c h o o u o n ls t a a b n i d lit p y r p o l g a r n a s m d s o w n i o th t garten stPuedrecnetnst awgilel doef mHoignhsltyr aQteu aplirfioegdre Tsesa chers: 89% receive a PMF tier. east 3 ofS tthued 6e nkte-tyo g-Treaadceh elerv Real tliitoe: r2a0c yt o 1 ors by the spring administration on the ssessment (or score at the 100% mark). * For a list of reasons why a school would not receive a s a t t 7 le 0 a % s t o t fU h 1n e si q p t u r a o en j d e S c c2 t h e no d do l lg e Cr v ah e da l er o a s f c t a tue d y r e eis a nt r itc ’ s s s will 6 co 0 n % fi r o m f e st d u d b e y n r t e s v m iew ad o e f a s t t u le d a e s n t t a l i y te e r a a r c ’s y g fo ro ld w e t r h s as No P co M m F p s l c e o te re b , o se o e k p of a g re e p 1 o 1 rt o s. f the h on the (cid:131)D ERxAtr.acurricular Activities Extracurriculawrith DRA as(cid:131)se Esxstmraecnutrsr.icular Activities Extracurricular (cid:131) Extracurricular Activities Extracurricular (cid:131) Extracurricular Activities Extracurricular Achiev(cid:131)e mExetrnatc uTrarricguelatrs Activities ExtracurriculaArchievemen(cid:131)t ERxetrsaucltusrricular Activities Extracurricular Met Target? st 70% of students in kindergarten and 1st 62% of students scored at or above grade level No n d D R g A ra . d eSs twuilld seconret aDt oerm aboovger garpadhei clesv e(l 20a w s1i t c h2o D–nfi R1r A m3 a e)s d s e b s y s m re e v n ie t w s. of student literacy folders Transportation Total Enrollment: XXX Metro/Bus Service* Indicators Targets Leading Indicators Results Met Target? Columbia Heights ■ African American 80% English Language Metro Station/52,53 e f r t a h g e e , d s a t y u s d . ents will attend school at lea■s t Hisp O caon n nic fi a /r v Lm e a r te a ind g o e b , y 9 r 5 e . v 5 i % ew s t 1o u 8f d %O en LA ts M aL S tet ea re rnn p de o er r ds t : . school as Yes S s d t f e o 8 r r 5 g % a th r t e o e f n n e e t l x h ig t r o i s b c u l h e g o h s o t 2 l u n y d d e e a n w r t . i s l l in re g -e r n ad ro e l s l at ■ ■ ■ W A N s h a ia i t t n i e v 9 C b / e 2 y PC . a AO 6 Pc m % Ci L fiS A e c o rM f f i Io c s s Sa lra t n u t r nh /e d d I e pn e e od n 2r ri t 0 at s 1 .n i 0 n – 1 < 0 g 1 % % 1 r 1 a % d sc e h s o P o L S K l o p – y w e 2 ec n a I i n a d r c l a r o Es e m d - c e uo e n c : n r afi o tri l o l m e n d e: d a t Yes S M r e u a c n o h c r h o s n e o o in v l f e g S s r e h a sc v l u h e t t i o t r m a l o e l e l s s s t h o fr u p o t s m t le s ■ Other 0% Specific Measures Targets Mission Specific Results Met Ta*rPgleeaste? check www.wmata.com for updates. st 95D%C Poufb lpic aCrheanrttesr Socrh ogoul Baoradrdia Sncsh ooofl Psetrufodrmeanntcse Rep1o0rt0 ©% 2 0o1f3 parents participated in parent conferences Yes kindergarten through grade 2 will as confirmed by review of sign-in sheets."
+          ],
+          "n_rows": 16
+        },
+        {
+          "page": 19,
+          "header": [
+            "involved?"
+          ],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 60,
+      "table_scan_capped": true,
+      "has_tabular_data": true
+    },
+    "status": "ok"
   },
   "osse-assess-2023-24-state-level-statewide-assessment-data-2023-24": {
     "id": "osse-assess-2023-24-state-level-statewide-assessment-data-2023-24",
@@ -51590,7 +52016,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%2C%202017-18%2C%202016-17%20School%2C%20LEA%2C%20And%20State%20Participation.Xlsx",
     "kind": "xlsx",
     "year": "2016",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "assessment"
     ],
@@ -51648,7 +52074,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20AP%20IB%20and%20SAT%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2020",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "advanced-coursework"
     ],
@@ -51730,7 +52156,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-25%20Mobility%20Brief%20Data.xlsx",
     "kind": "xlsx",
     "year": "2024-25",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -51823,7 +52249,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Mobility%20Brief%20Data%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2023-24",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -51916,7 +52342,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022-23%20Mobility%20Brief%20Data%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2022-23",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52009,7 +52435,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20Mobility%20Brief%20Data%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2021-22",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52102,7 +52528,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21%20Mobility%20Brief%20Data.xlsx",
     "kind": "xlsx",
     "year": "2020-21",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52195,7 +52621,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019-20%20Mobility%20Brief%20Data%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2019-20",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52288,7 +52714,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20Mobility%20Brief%20Data%20%281%29.xlsx",
     "kind": "xlsx",
     "year": "2018-19",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52381,7 +52807,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020%20Student%20Movement%20-%20Metric%20Scores.xlsx",
     "kind": "xlsx",
     "year": "2020",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "enrollment",
       "student-movement"
@@ -52515,7 +52941,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q8 Attachment - Mid-year Student Mobility SY16-17.xlsx",
     "kind": "xlsx",
     "year": "2016",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52699,7 +53125,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q10 Attachment - Discipline Data.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "discipline"
     ],
@@ -52800,7 +53226,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q7%20Attachment%20-%20Mid-year%20Student%20Mobility%20SY14-15%20and%20SY15-16.xlsx",
     "kind": "xlsx",
     "year": "2014",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "student-movement"
     ],
@@ -52928,7 +53354,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q9%20Attachment%201%20-%20Discipline%20Data.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "discipline"
     ],
@@ -53029,7 +53455,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q2 Attachment - Students by Ward SY1213%2C SY1314%2C SY1415%2C SY1617%2C and SY17-18.xlsx",
     "kind": "xlsx",
     "year": "2012",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53127,7 +53553,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q4 Attachment - Private School Enrollment SY14-15 SY15-16 SY16-17%2C SY17-18 to date.xlsx",
     "kind": "xlsx",
     "year": "2014",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53192,7 +53618,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx",
     "kind": "xlsx",
     "year": "2024-25",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "graduation"
     ],
@@ -53262,7 +53688,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx",
     "kind": "xlsx",
     "year": "2023-24",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "graduation"
     ],
@@ -53332,7 +53758,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2023-24%20DECP%20Reporting.xlsx",
     "kind": "xlsx",
     "year": "2023",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53400,7 +53826,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q77%20Attachment%20-%20FARM%20Status.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53465,7 +53891,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q5%20Attachment%20-%20At-Risk%20Students.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53503,7 +53929,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q6%20Attachment%20-%20Foster%20Children.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53568,7 +53994,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q49%20Attachment%20-%20IEPs.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53795,7 +54221,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q50%20and%20Q51%20Attachment%20-%20SPED%20Exit.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -53833,7 +54259,7 @@
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q52%20Attachment%20-%20Transitions.xlsx",
     "kind": "xlsx",
     "year": "unknown",
-    "page": "https://osse.dc.gov/page/data-and-reports-0",
+    "page": "https://osse.dc.gov/page/osse-data-and-reports",
     "topics": [
       "other"
     ],
@@ -59407,6 +59833,1301 @@
             "Preference Name",
             "Preference Order and Name",
             "Matches on Results Day by Preference"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "dcps-glance-attendance-dcps-annual-attendance-sy-2025-2026-2025": {
+    "id": "dcps-glance-attendance-dcps-annual-attendance-sy-2025-2026-2025",
+    "source_id": "dcps-glance-attendance",
+    "name": "DCPS Annual Attendance Report SY 2025-2026",
+    "url": "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/DCPS%20SY%202025-2026%20Annual%20Attendance%20Report.pdf",
+    "kind": "pdf",
+    "year": "2025",
+    "page": "https://dcps.dc.gov/publication/dcps-data-set-attendance",
+    "topics": [
+      "attendance"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 25,
+      "text_preview": [
+        "August 2026\nSY2025-26 Annual\nAttendance Report",
+        "2025-26 DCPS Attendance Report\nIntroduction\nIn compliance with D.C. Code § 38-203(i), DC Public Schools (DCPS) hereby reports a summary of the District’s\nattendance data for School Year (SY) 2025-2026 to the Mayor and the Office of the State Superintendent of\nEducation (OSSE). As required, the report reflects:\n• The number of minors with unexcused absences, categorized by grade, or equivalent grouping for\nungraded schools for:\nOne (1) to five (5) days\no\nSix (6) to ten (10) days\no\nEleven (11) to twenty (20) days\no\nTwenty-one (21) or more days\no\n• A discussion of the efforts of the school-based student support teams to reduce unexcused absences that\nincludes:\nThe number of students referred to a school-based student support team;\no\nThe number of students who met with a school-based student support team;\no\nA summary of the action plans and strategies implemented by the school-based student support\no\nteam to eliminate or ameliorate unexcused absences;\nA summary of the services utilized by students to reduce unexcused absences; and\no\nA summary of the common barriers to implementing the recommendations of the school-based\no\nstudent support team.\n• The number of minors, categorized by grade, or equivalent grouping for ungraded schools, that the school\nreported to the Child and Family Services Agency (CFSA) pursuant to D.C. Code § 4-1321.02(b)(1)(B).\n• The number of minors categorized by grade, or equivalent grouping for ungraded schools, referred for\ntruancy to the Court Social Serv",
+        "2025-26 DCPS Attendance Report\nSchool Year 2025-26 Attendance Summary\nDCPS is sharing attendance information pursuant to D.C. Code § 38-203(i) including overall attendance metrics\nand compliance rates for the 2025-26 school year. Overall, DCPS attendance trends remained consistent with\nschool year 2024-25, with both In-Seat Attendance (ISA) and Truancy rates improving slightly1￼ The table below\nhighlights DCPS’s last two years of attendance data.\nTable 1: Attendance Metrics\nMetric SY24-25 SY25-26\nIn-Seat Attendance 87.2% 87.3%\nTruancy 35.0% 34.9%\nChronic Absence 38.2% 38.4%\nAttendance Trends and Challenges\nSimilar to last year, ISA was lowest in January due to extreme winter weather (83.7% in 25-26) and in June due to\nlow attendance during the last week of school (81.2%). When looking at grade-level trends, attendance improved\nthe most in our PK grades. PK ISA improved by 0.9 percentage points, and the chronic absence rate improved by\n2.9 percentage points.\nOver the past year, DCPS has advanced several initiatives to strengthen attendance systems and support across\nschools. Key accomplishments include:\n• Expanding the DHS truancy pilot to now include Kramer MS, Cardozo EC (HS grades only) and Dunbar HS\n(9th grade only). DCPS also continued programming at Anacostia HS, Eastern HS, and Woodson HS,\nresulting in 741 student referrals during the pilot’s second year.\n• Executing targeted communication campaigns—through newsletters, social media, robo-calls, and text\nmessaging—to pr"
+      ],
+      "tables": [
+        {
+          "page": 3,
+          "header": [
+            "Metric",
+            "SY24-25",
+            "SY25-26"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 5,
+          "header": [
+            "Grade",
+            "Compulsory",
+            "#1-5 Absences",
+            "%1-5 Absences",
+            "#6-10 Absences",
+            "% 6-10 Absences",
+            "#11-20 Absences",
+            "%11-20 Absences",
+            "#21+ Absences",
+            "% 21+ Absences"
+          ],
+          "n_rows": 17
+        },
+        {
+          "page": 5,
+          "header": [
+            "#1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "%1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "#6-10"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "% 6-10"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "#11-20"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "%11-20"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "#21+"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 5,
+          "header": [
+            "% 21+"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [],
+          "n_rows": 9
+        },
+        {
+          "page": 9,
+          "header": [],
+          "n_rows": 12
+        },
+        {
+          "page": 11,
+          "header": [
+            "School Name",
+            "Compulsory",
+            "#1-5 Absences",
+            "%1-5 Absences",
+            "#6-10 Absences",
+            "% 6-10 Absences",
+            "#11-20 Absences",
+            "%11-20 Absences",
+            "#21+ Absences",
+            "% 21+ Absences"
+          ],
+          "n_rows": 25
+        },
+        {
+          "page": 11,
+          "header": [
+            "#1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "%1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "#6-10"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "% 6-10"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "#11-20"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "%11-20"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "#21+"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 11,
+          "header": [
+            "% 21+"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "School Name",
+            "Compulsory",
+            "#1-5 Absences",
+            "%1-5 Absences",
+            "#6-10 Absences",
+            "% 6-10 Absences",
+            "#11-20 Absences",
+            "%11-20 Absences",
+            "#21+ Absences",
+            "% 21+ Absences"
+          ],
+          "n_rows": 36
+        },
+        {
+          "page": 12,
+          "header": [
+            "#1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "%1-5"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "#6-10"
+          ],
+          "n_rows": 2
+        }
+      ],
+      "n_table_pages": 19,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "osse-report-card-resource-library-dc-report-and-myschooldc-elements-business-rules-and-definitions-2026": {
+    "id": "osse-report-card-resource-library-dc-report-and-myschooldc-elements-business-rules-and-definitions-2026",
+    "source_id": "osse-report-card-resource-library",
+    "name": "DC School Report Card and MySchoolDC Data Elements - Business Rules and Definitions (updated Oct. 2026)",
+    "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Business%20Rules%20and%20Definitions%20for%20DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20%28updated%20Oct.%202026%29.pdf",
+    "kind": "pdf",
+    "year": "2026",
+    "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+    "topics": [
+      "other"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 3,
+      "text_preview": [
+        "Data Sources for the DC School Report Card\nStarting in the 2026-27 school year, new data sources will be used to populate some areas\nof the School Profile section of the DC School Report Card, and the School Finder Tool and\nParticipating School Profiles of the My School DC website. The data elements below will be\ncalculated and used, according to the Business Rules described.\nData Source Data Element Definition Business Rules\nIn the Course Catalog\nThe school offers courses Collection, at least one\napproved by the College Board for course at the school uses\nAdvanced Placement\nCourse Catalog AP designation. Students that take an OSSE Course Code that\n(AP)\nthe AP exam and pass can earn corresponds to an AP\ncollege credit. course on the OSSE State\nC ourse Catalog.\nThe school offers CTE courses that\nIn the Course Catalog\nfocus on the skills and knowledge\nCollection, at least one\nrequired for specific jobs or fields\nCareer and Technical course at the school is\nCourse Catalog of work; this includes but is not\nEducation (CTE) marked “Y” for the \"CTE\nlimited to courses offered under\nIndicator\" Course\nOSSE approved/Perkins-funded\nCharacteristic.\nCTE program, and ATC courses.\nIn the Course Catalog\nThe school offers its students the Collection, at least one\nopportunity to maintain their high course at the school is\nDual College\nCourse Catalog school status while enrolling part- marked “Y” for the \"Dual\nEnrollment\ntime or full-time at participating Enrollment Course\ncolleges or universiti",
+        "course on the OSSE State\nC ourse Catalog.\nIn the Course Catalog\nCollection, at least one\nThe school offers courses that are\ncourse at the school uses\nCourse Catalog JROTC a part of the Junior Reserve\nan OSSE Course Code\nOfficers' Training Corps program.\nfrom Subject Area 09:\nMilitary Science.\nIn the Course Catalog\nCollection, at least one\nThe school offers courses in the\ncourse at the school is\nCourse Catalog Montessori Montessori method of\nmarked “Y” for the\neducation.\n\"Montessori Indicator\"\nCourse Characteristic.\nOn District of Columbia\nPublic Schools' Selective\nDCPS Selective The school admits students based\nHigh Schools/Programs\nHigh on specific criteria or eligibility\nSelective Program website, the school is listed\nSchools/Programs requirements; only DCPS is able\nas one of the\nwebsite to operate an application school.\nSelective/Application\nschools.\nOn eSchoolPLUS, the\nThe school offers core instruction\nLEA/school selected\nto students from a mix of teacher-\n\"Blended Learning\" as one\neSchoolPLUS Blended Learning led instruction and online-learning\nof the School\nplatforms as part of the school's\nCharacteristics for this\nacademic curriculum.\nschool.\nOn eSchoolPLUS, the\nLEA/school selected\n\"Extended Day\" as one of\nThe school extends the traditional the School Characteristics\nschool day on a regular basis to for this school, indicating\neSchoolPLUS Extended Day provide instruction and learning that the school extends the\ntime for longer than eight hours traditional school day o",
+        "On eSchoolPLUS, the\nLEA/school selected\nSingle-Gender The school’s enrollment targets a \"Single-Gender Campus\"\neSchoolPLUS\nCampus single gender. as one of the School\nCharacteristics for this\nschool.\nThe school offers the following list\nExtracurriculars & Via eSchoolPLUS, LEA\nof general extracurriculars and\nEnrichment Activities provided information on\nenrichment activities not captured\neSchoolPLUS (as self-reported by general extracurriculars\nin the other fields on School\nLEA) and enrichment activities\nPrograms and School\nas free-form text.\nCharacteristics.\nOn eSchoolPLUS, the LEA\nreported that the school\noffered 190+ instructional\nThe school extends the traditional days in its non-\nschool year beyond the typical 180 administrative, non-LEA-\nschool days to provide additional level SY2026-27 calendar(s)\nSchool Calendar Extended Calendar\ninstructional and learning time; (excluding ESY and summer\nstudents attend for at least 190 calendars), according to\nschool days. data certified on July\n2nd, 2026 as part of the\nSY2025-26 Data Validation\nprocess.\nThe school is a member of the DC\nState Athletic Association (DCSAA)\nThe school is listed on DC\nDC State Athletic and/or DC Public Charter School\nState Athletic Association\nAssociation Athletic Association (PCSSA) and\n(DCSAA) and/or DC Public\n(DCSAA) and DC has at least one middle and/or\nInterscholastic Sports Charter School Athletic\nPublic Charter high school sports team that\nAssociation (PCSSA) lists of\nSchool Athletic competes with o"
+      ],
+      "tables": [
+        {
+          "page": 1,
+          "header": [
+            "Data Source",
+            "Data Element",
+            "Definition",
+            "Business Rules"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 2,
+          "header": [
+            "course on the OSSE State C ourse Catalog."
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 3,
+          "header": [
+            "eSchoolPLUS",
+            "Single-Gender Campus",
+            "The school’s enrollment targets a single gender.",
+            "On eSchoolPLUS, the LEA/school selected \"Single-Gender Campus\" as one of the School Characteristics for this school."
+          ],
+          "n_rows": 6
+        }
+      ],
+      "n_table_pages": 3,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "osse-report-card-resource-library-dc-report-dc-says-staff-scores-2026-2026": {
+    "id": "osse-report-card-resource-library-dc-report-dc-says-staff-scores-2026-2026",
+    "source_id": "osse-report-card-resource-library",
+    "name": "DC School Report Card - DC SAYS - Staff Metric Scores (2026)",
+    "url": "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Staff%20Metric%20Scores%20%282026%29.xlsx",
+    "kind": "xlsx",
+    "year": "2026",
+    "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+    "topics": [
+      "school-climate"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 7,
+      "sheets": [
+        {
+          "name": "Data Notes",
+          "n_rows": 19,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Data Dictionary",
+          "n_rows": 41,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "State Overall Scores",
+          "n_rows": 10,
+          "n_columns": 4,
+          "columns": [
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "PK-12 LEA Overall Scores",
+          "n_rows": 541,
+          "n_columns": 6,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "PK-12 School Overall Scores",
+          "n_rows": 2188,
+          "n_columns": 8,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "School Name",
+            "School Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Adult School Overall Scores",
+          "n_rows": 91,
+          "n_columns": 8,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "School Name",
+            "School Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ward Overall Scores",
+          "n_rows": 73,
+          "n_columns": 5,
+          "columns": [
+            "Ward",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "osse-report-card-resource-library-dc-report-dc-says-family-scores-2026-2026": {
+    "id": "osse-report-card-resource-library-dc-report-dc-says-family-scores-2026-2026",
+    "source_id": "osse-report-card-resource-library",
+    "name": "DC School Report Card - DC SAYS - Family Metric Scores (2026)",
+    "url": "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Family%20Metric%20Scores%20%282026%29.xlsx",
+    "kind": "xlsx",
+    "year": "2026",
+    "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+    "topics": [
+      "school-climate"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 6,
+      "sheets": [
+        {
+          "name": "Data Notes",
+          "n_rows": 18,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Data Dictionary",
+          "n_rows": 32,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "State Scores",
+          "n_rows": 8,
+          "n_columns": 4,
+          "columns": [
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "LEA Scores",
+          "n_rows": 414,
+          "n_columns": 6,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "School Scores",
+          "n_rows": 1688,
+          "n_columns": 8,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "School Name",
+            "School Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ward Scores",
+          "n_rows": 57,
+          "n_columns": 5,
+          "columns": [
+            "Ward",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "osse-report-card-resource-library-dc-report-dc-says-students-grades-3-12-scores-2026-2026": {
+    "id": "osse-report-card-resource-library-dc-report-dc-says-students-grades-3-12-scores-2026-2026",
+    "source_id": "osse-report-card-resource-library",
+    "name": "DC School Report Card - DC SAYS - Students Grades 3-12 Metric Scores (2026)",
+    "url": "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Grades%203-12%20Student%20Metric%20Scores%20%282026%29.xlsx",
+    "kind": "xlsx",
+    "year": "2026",
+    "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+    "topics": [
+      "school-climate"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 6,
+      "sheets": [
+        {
+          "name": "Data Notes",
+          "n_rows": 18,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Data Dictionary",
+          "n_rows": 30,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "State Gradeband Scores",
+          "n_rows": 23,
+          "n_columns": 4,
+          "columns": [
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "LEA Gradeband Scores",
+          "n_rows": 945,
+          "n_columns": 6,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "School Gradeband Scores",
+          "n_rows": 3187,
+          "n_columns": 8,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "School Name",
+            "School Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ward Gradeband Scores",
+          "n_rows": 177,
+          "n_columns": 5,
+          "columns": [
+            "Ward",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "osse-report-card-resource-library-dc-report-dc-says-adult-students-scores-2026-2026": {
+    "id": "osse-report-card-resource-library-dc-report-dc-says-adult-students-scores-2026-2026",
+    "source_id": "osse-report-card-resource-library",
+    "name": "DC School Report Card - DC SAYS - Adult Students Metric Scores (2026)",
+    "url": "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Adult%20Student%20Metric%20Scores%20%282026%29.xlsx",
+    "kind": "xlsx",
+    "year": "2026",
+    "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
+    "topics": [
+      "school-climate"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 5,
+      "sheets": [
+        {
+          "name": "Data Notes",
+          "n_rows": 17,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Data Dictionary",
+          "n_rows": 22,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "State Gradeband Scores",
+          "n_rows": 12,
+          "n_columns": 4,
+          "columns": [
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "LEA-School Gradeband Scores",
+          "n_rows": 111,
+          "n_columns": 8,
+          "columns": [
+            "LEA Name",
+            "LEA Code",
+            "school_name",
+            "School Code",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ward Gradeband Scores",
+          "n_rows": 67,
+          "n_columns": 5,
+          "columns": [
+            "Ward",
+            "Group",
+            "Metric",
+            "Metric Score",
+            "School Year"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "edu-preparation-and-performance-2020-25": {
+    "id": "edu-preparation-and-performance-2020-25",
+    "source_id": "osse-educator-workforce",
+    "name": "Educator Data Flat File — Preparation and Performance (SY2025-26, Sep 8 2026)",
+    "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance%2009082026.xlsx",
+    "kind": "xlsx",
+    "year": "2025",
+    "page": "https://osse.dc.gov/page/dc-educator-workforce-data",
+    "topics": [
+      "educators"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 14,
+      "sheets": [
+        {
+          "name": "Overview",
+          "n_rows": 5,
+          "n_columns": 1,
+          "columns": [
+            "Office of the State Superintendent of Education"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Effective_Tch_SEA",
+          "n_rows": 2,
+          "n_columns": 2,
+          "columns": [
+            "Total SY 2025-26 Teachers that were rated in SY 2024-25 Citywide",
+            "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 Citywide"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Certified_Tch_SEA",
+          "n_rows": 2,
+          "n_columns": 3,
+          "columns": [
+            "Number of Teachers (DCPS only)",
+            "Number of Teachers that hold a DC teaching certification (DCPS only)",
+            "Percent of Teachers that hold a DC teaching certification (DCPS only)"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Infield_Tch_SEA",
+          "n_rows": 2,
+          "n_columns": 3,
+          "columns": [
+            "Number of Teachers (DCPS only)",
+            "Number of Teachers that are teaching a subject in-field (DCPS only)",
+            "Percent of Teachers that are teaching a subject in-field (DCPS only)"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Effective_Tch_LEA",
+          "n_rows": 70,
+          "n_columns": 5,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "Sector",
+            "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this LEA",
+            "Percent of 2025-26 Teachers rated effective in SY 2024-25 at this LEA"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Effective_Tch_SCH",
+          "n_rows": 254,
+          "n_columns": 9,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "School Code",
+            "School Name",
+            "Sector",
+            "Ward of School",
+            "Total SY 2025-26 Teachers that were rated in SY 2024-25 at this school",
+            "Percent of SY 2025-26 Teachers rated effective in SY 2024-25 at this school",
+            "Notes"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Certified_Tch_SCH",
+          "n_rows": 118,
+          "n_columns": 9,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "School Code",
+            "School Name",
+            "Sector",
+            "Ward of School",
+            "Number of Teachers at this school",
+            "Number of Teachers that hold a DC teaching certification at this school",
+            "Percent Teachers that hold a DC teaching certification at this school"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Infield_Tch_SCH",
+          "n_rows": 118,
+          "n_columns": 9,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "School Code",
+            "School Name",
+            "Sector",
+            "Ward of School",
+            "Number of Teachers at this school",
+            "Number of Teachers that are teaching a subject in-field at this school",
+            "Percent of Teachers that are teaching a subject in-field at this school"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_Tch_SEA",
+          "n_rows": 5,
+          "n_columns": 4,
+          "columns": [
+            "Years of Experience",
+            "Number of Teachers Citywide",
+            "Number of Teachers in this experience category",
+            "Percent of Teachers in this experience category"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_School_Leader_SEA",
+          "n_rows": 5,
+          "n_columns": 4,
+          "columns": [
+            "Years of Experience",
+            "Number of School Leaders Citywide",
+            "Number of School Leaders in this experience category",
+            "Percent of School Leaders in this experience category"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_Tch_LEA",
+          "n_rows": 277,
+          "n_columns": 7,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "Sector",
+            "Years of Experience",
+            "Number of Teachers at this LEA",
+            "Number of Teachers in this experience category",
+            "Percent of Teachers in this experience category"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_School_Leader_LEA",
+          "n_rows": 277,
+          "n_columns": 7,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "Sector",
+            "Years of Experience",
+            "Number of School Leaders at this LEA",
+            "Number of School Leaders in this experience category",
+            "Percent of School Leaders in this experience category"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_Tch_SCH",
+          "n_rows": 1013,
+          "n_columns": 10,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "School Code",
+            "School Name",
+            "Sector",
+            "Ward of School",
+            "Years of Experience",
+            "Number of Teachers at this School",
+            "Number of Teachers in this experience category",
+            "Percent of Teachers in this experience category"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Exp_School_Leader_SCH",
+          "n_rows": 1009,
+          "n_columns": 10,
+          "columns": [
+            "LEA Code",
+            "LEA Name",
+            "School Code",
+            "School Name",
+            "Sector",
+            "Ward of School",
+            "Years of Experience",
+            "Number of School Leaders at this School",
+            "Number of School Leaders in this experience category",
+            "Percent of School Leaders in this experience category"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "sped-ffy-2024-annual-performance-part-b-2024": {
+    "id": "sped-ffy-2024-annual-performance-part-b-2024",
+    "source_id": "osse-special-ed",
+    "name": "FFY 2024 Annual Performance Report - Part B",
+    "url": "https://osse.dc.gov/sites/default/files/2026-09/DC-B-SPP-APR-FFY24.pdf",
+    "kind": "pdf",
+    "year": "2024",
+    "page": "https://osse.dc.gov/service/specialized-education-data-and-reports",
+    "topics": [
+      "special-education"
+    ],
+    "profile": {
+      "kind": "pdf",
+      "n_pages": 114,
+      "text_preview": [
+        "STATE PERFORMANCE PLAN / ANNUAL PERFORMANCE REPORT: PART B\nfor STATE FORMULA GRANT PROGRAMS under the Individuals with Disabilities Education\nAct\nFor reporting on\nFFY 2024\nDistrict of Columbia\nPART B DUE February 2, 2026\nU.S. DEPARTMENT OF EDUCATION\nWASHINGTON, DC 20202\n1 Part B",
+        "Introduction\nInstructions\nProvide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved\nresults for students with disabilities and to ensure that the State Educational Agency (SEA) and Local Educational Agencies (LEAs) meet the\nrequirements of IDEA Part B. This introduction must include descriptions of the State’s General Supervision System, Technical Assistance System,\nProfessional Development System, Stakeholder Involvement, and Reporting to the Public.\nIntro - Indicator Data\nExecutive Summary\nThe Office of the State Superintendent of Education (OSSE) is submitting this report in the final stretch of its 2023-25 strategic plan, which is designed to\nallocate resources and supports that accelerate progress in recovery of the coronavirus (COVID-19) pandemic. The strategic plan provides a clear\ntheory of action, resources and projects to directly address historical inequities for learners across the District of Columbia.\nContinued strong collaboration with the LEAs remains central to OSSE’s work; seeking understanding of the specific circumstances, challenges, and\nsuccesses at the school and LEA levels informs OSSE’s strategic thinking on a daily basis. During the 2020-21 school year, OSSE required all LEAs to\nsubmit a Continuous Education and Recovery Plan Application that included specific information on LEA activities to ensure continued IDEA service\ndelivery and procedures through distance",
+        "action. OSSE verifies that each LEA implements the specific regulatory requirements with 100% compliance based on a subsequent file review of 1-5\nfiles, depending on the number of identified instances of noncompliance.\nDescribe the data system(s) the State uses to collect monitoring and SPP/APR data, and the period from which records are reviewed.\nOSSE utilizes data systems that are key to accomplishing the systemic review processes described above. First, the Statewide Longitudinal Education\nData System (SLED) houses student-level enrollment, attendance, graduation, and other data for all children in the District of Columbia. Second,\nPowerSchool Special Programs (PSSP) houses Individualized Education Programs (IEPs) and Part B special education-related documentation for the\nDistrict of Columbia. Third, as previously mentioned, the District of Columbia's Corrective Action Tracking System (DC-CATS) electronically tracks each\nfinding of noncompliance, the required corrective action(s), and documentation and timelines for correction. OSSE pulls data for all SPP/APR indicators\nfrom the above-referenced data systems. Records are reviewed from July 1 – June 30. For student file reviews as part of its focused desktop and onsite\ncompliance monitoring, OSSE reviews each selected student’s most recent IEP.\nDescribe how the State issues findings: by number of instances or by LEAs.\nOSSE issues findings by LEA.\nIf applicable, describe the adopted procedures that permit its LEAs to correct"
+      ],
+      "tables": [
+        {
+          "page": 2,
+          "header": [
+            "Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 8,
+          "header": [
+            "Same data as used for reporting to the Department under section 618 of the Individuals with Disabilities Education Act (IDEA), using the definitions in"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [
+            "States must report a percentage using the number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [
+            "Baseline Year",
+            "Baseline Data"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 8,
+          "header": [
+            "FFY",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 8,
+          "header": [
+            "FFY",
+            "2024",
+            "2025"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 9,
+          "header": [
+            "Source",
+            "Date",
+            "Description",
+            "Data"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 9,
+          "header": [
+            "Number of youth with IEPs (ages 14-21) who exited special education due to graduating with a regular high school diploma",
+            "Number of all youth with IEPs who exited special education (ages 14-21)",
+            "FFY 2023 Data",
+            "FFY 2024 Target",
+            "FFY 2024 Data",
+            "Status",
+            "Slippage"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "Baseline Year",
+            "Baseline Data"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 12,
+          "header": [
+            "FFY",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 12,
+          "header": [
+            "FFY",
+            "2024",
+            "2025"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 13,
+          "header": [
+            "Source",
+            "Date",
+            "Description",
+            "Data"
+          ],
+          "n_rows": 6
+        },
+        {
+          "page": 13,
+          "header": [
+            "Number of youth with IEPs (ages 14-21) who exited special education due to dropping out",
+            "Number of all youth with IEPs who exited special education (ages 14-21)",
+            "FFY 2023 Data",
+            "FFY 2024 Target",
+            "FFY 2024 Data",
+            "Status",
+            "Slippage"
+          ],
+          "n_rows": 2
+        },
+        {
+          "page": 14,
+          "header": [
+            "Consistent with EDFacts specifications for file FS009, students who have dropped out were enrolled at the start of the reporting period but were not"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 15,
+          "header": [
+            "Subject",
+            "Group",
+            "Group Name",
+            "Baseline Year",
+            "Baseline Data"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 15,
+          "header": [
+            "Subject",
+            "Group",
+            "Group Name",
+            "2024",
+            "2025"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 16,
+          "header": [
+            "Group",
+            "Grade 4",
+            "Grade 8",
+            "Grade HS"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 17,
+          "header": [
+            "Group",
+            "Grade 4",
+            "Grade 8",
+            "Grade HS"
+          ],
+          "n_rows": 5
+        },
+        {
+          "page": 17,
+          "header": [
+            "Group",
+            "Group Name",
+            "Number of Children with IEPs Participating",
+            "Number of Children with IEPs",
+            "FFY 2023 Data",
+            "FFY 2024 Target",
+            "FFY 2024 Data",
+            "Status",
+            "Slippage"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 17,
+          "header": [
+            "Group",
+            "Group Name",
+            "Number of Children with IEPs Participating",
+            "Number of Children with IEPs",
+            "FFY 2023 Data",
+            "FFY 2024 Target",
+            "FFY 2024 Data",
+            "Status",
+            "Slippage"
+          ],
+          "n_rows": 4
+        },
+        {
+          "page": 19,
+          "header": [
+            "Subject",
+            "Group",
+            "Group Name",
+            "Baseline Year",
+            "Baseline Data"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 19,
+          "header": [
+            "Subject",
+            "Group",
+            "Group Name",
+            "2024",
+            "2025"
+          ],
+          "n_rows": 7
+        },
+        {
+          "page": 20,
+          "header": [
+            "Group",
+            "Grade 4",
+            "Grade 8",
+            "Grade HS"
+          ],
+          "n_rows": 8
+        },
+        {
+          "page": 20,
+          "header": [
+            "a. Children with IEPs who"
+          ],
+          "n_rows": 3
+        },
+        {
+          "page": 20,
+          "header": [
+            "b.",
+            "Children with",
+            "IEPs in regula"
+          ],
+          "n_rows": 4
+        }
+      ],
+      "n_table_pages": 82,
+      "table_scan_capped": false,
+      "has_tabular_data": true
+    },
+    "status": "ok"
+  },
+  "myschooldc-lottery-20261007-myschooldc-tableau-data-unknown": {
+    "id": "myschooldc-lottery-20261007-myschooldc-tableau-data-unknown",
+    "source_id": "myschooldc-lottery",
+    "name": "Year over Year Comparisons — 20261007 MySchoolDC Tableau Data",
+    "url": "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20261007_MySchoolDC_Tableau_Data.xlsx",
+    "kind": "xlsx",
+    "year": "2026-10",
+    "page": "https://www.myschooldc.org/resources/data",
+    "topics": [
+      "other"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 3,
+      "sheets": [
+        {
+          "name": "Notes",
+          "n_rows": 26,
+          "n_columns": 2,
+          "columns": [
+            "My School DC Public Tableau Data",
+            "Release: 10/07/2026"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Historic Lottery Results",
+          "n_rows": 20029,
+          "n_columns": 13,
+          "columns": [
+            "MSDC School Code",
+            "OSSE School Code",
+            "MSDC School Code and Grade",
+            "MSDC School Name",
+            "Grade Offered in Lottery",
+            "Lottery Year",
+            "Applications on Results Day",
+            "Lottery Seats Offered",
+            "Matches on Results Day",
+            "Waitlist Length on Results Day",
+            "Total Waitlist Offers made by June",
+            "Total Waitlist Offers made by August",
+            "Total Waitlist Offers made by October"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Matches by Preference",
+          "n_rows": 60189,
+          "n_columns": 8,
+          "columns": [
+            "Lottery Year",
+            "MSDC School Code",
+            "MSDC School Name",
+            "Grade Offered in Lottery",
+            "Preference Order",
+            "Preference Name",
+            "Preference Order and Name",
+            "Matches on Results Day by Preference"
+          ],
+          "columns_truncated": false
+        }
+      ]
+    },
+    "status": "ok"
+  },
+  "edscape-enrollment-patterns-download-for-edscape-chapter-4-student-commute-patterns-2026": {
+    "id": "edscape-enrollment-patterns-download-for-edscape-chapter-4-student-commute-patterns-2026",
+    "source_id": "edscape-enrollment-patterns",
+    "name": "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Commute Paths 2026",
+    "url": "https://edscape.dc.gov/sites/default/files/2026-09/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2026.xlsx",
+    "kind": "xlsx",
+    "year": "2026",
+    "page": "https://edscape.dc.gov/page/student-commute-patterns",
+    "topics": [
+      "other"
+    ],
+    "profile": {
+      "kind": "xlsx",
+      "n_sheets": 5,
+      "sheets": [
+        {
+          "name": "Introduction",
+          "n_rows": 15,
+          "n_columns": 1,
+          "columns": [
+            "EdScape"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ch4 Stu Ward 2022-Sch Ward 2022",
+          "n_rows": 68128,
+          "n_columns": 11,
+          "columns": [
+            "School Year",
+            "School sector",
+            "Grade band of students enrolled",
+            "Student group",
+            "Student ward",
+            "School ward",
+            "Count of students",
+            "Median walk distance",
+            "School commute path",
+            "Share of students in student geography",
+            "Share of students in school geography"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Ch4 Stu Plng Area-Sch Plng Area",
+          "n_rows": 93182,
+          "n_columns": 11,
+          "columns": [
+            "School Year",
+            "School sector",
+            "Grade band of students enrolled",
+            "Student group",
+            "Student planning area",
+            "School planning area",
+            "Count of students",
+            "Median walk distance",
+            "School commute path",
+            "Share of students in student geography",
+            "Share of students in school geography"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Variable Definitions",
+          "n_rows": 29,
+          "n_columns": 2,
+          "columns": [
+            "Variable Name",
+            "Variable Definition"
+          ],
+          "columns_truncated": false
+        },
+        {
+          "name": "Notes",
+          "n_rows": 32,
+          "n_columns": 1,
+          "columns": [
+            "Notes"
           ],
           "columns_truncated": false
         }

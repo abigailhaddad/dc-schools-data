@@ -2050,251 +2050,48 @@ data_files:
     topics: [enrollment]
 
   # ---- Harvested from pcsb-discipline-attendance (5 files) ----
-  - id: pcsb-disc-discipline-attendance-corrected-9-5-23-council-submission-sy22-23-pcsb
-    source_id: pcsb-discipline-attendance
-    name: "Discipline & Attendance \u2014 [CORRECTED 9 5 23 council submission] SY22 23 DC PCSB South Capital Street Truan"
-    url: "https://dcpcsb.org/sites/default/files/media/file/%5BCORRECTED%209_5_23%20council_submission%5D%20SY22-23%20DC%20PCSB%20South%20Capital%20Street%20Truancy%20Report.pdf"
-    kind: pdf
-    year: "2022-23"
-    added: "2026-06-15"
-    topics: [attendance, discipline]
-
-  - id: pcsb-disc-discipline-attendance-sy-17-18-attendance-and-discipline-report-unknow
-    source_id: pcsb-discipline-attendance
-    name: "Discipline & Attendance \u2014 SY 17 18 Attendance and Discipline Report"
-    url: "https://dcpcsb.org/sites/default/files/SY-17-18-Attendance-and-Discipline-Report.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [attendance, discipline]
-
-  - id: pcsb-disc-discipline-attendance-pcsb-sy-2015-16-truancy-report-2015
-    source_id: pcsb-discipline-attendance
-    name: "Discipline & Attendance \u2014 DC PCSB SY 2015 16 Truancy Report"
-    url: "https://dcpcsb.org/sites/default/files/media/file/DC-PCSB-SY-2015-16-Truancy-Report.pdf"
-    kind: pdf
-    year: "2015"
-    added: "2026-06-15"
-    topics: [attendance, discipline]
-
-  - id: pcsb-disc-discipline-attendance-15-pcsb-discipline-and-truancy-report-2020-14
-    source_id: pcsb-discipline-attendance
-    name: "Discipline & Attendance \u2014 15 PCSB Discipline and Truancy Report"
-    url: "https://dcpcsb.org/sites/default/files/media/file/SY2014-15%20PCSB%20Discipline%20and%20Truancy%20Report.pdf"
-    kind: pdf
-    year: "2020-14"
-    added: "2026-06-15"
-    topics: [attendance, discipline]
-
-  - id: pcsb-disc-discipline-attendance-2015-discipline-attendance-briefing-full-report
-    source_id: pcsb-discipline-attendance
-    name: "Discipline & Attendance \u2014 2015 Discipline & Attendance Briefing full report"
-    url: "https://dcpcsb.org/sites/default/files/2015%20Discipline%20%26%20Attendance%20Briefing_full%20report.pdf"
-    kind: pdf
-    year: "2015"
-    added: "2026-06-15"
-    topics: [attendance, discipline]
 
   # ---- Harvested from pcsb-school-finances (4 files) ----
-  - id: pcsb-fin-at-risk-funding-at-risk-funding-18-19-1-22-2019-nw-2018
-    source_id: pcsb-school-finances
-    name: "At-Risk Funding \u2014 At Risk Funding Report 18 19 1 22 2019 NW"
-    url: "https://dcpcsb.org/sites/default/files/At-Risk%20Funding%20Report%2018-19%201-22-2019%20NW.pdf"
-    kind: pdf
-    year: "2018"
-    added: "2026-06-15"
-    topics: [other]
 
-  - id: pcsb-fin-at-risk-funding-sy-17-18-at-risk-funding-report-2017
-    source_id: pcsb-school-finances
-    name: "At-Risk Funding \u2014 SY 17 18 at risk funding report"
-    url: "https://dcpcsb.org/sites/default/files/SY%2017-18%20at%20risk%20funding%20report.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-fin-at-risk-funding-pcsb-at-risk-funding-revised-102716-2016
-    source_id: pcsb-school-finances
-    name: "At-Risk Funding \u2014 DC PCSB At Risk Funding Report (revised 102716)"
-    url: "https://dcpcsb.org/sites/default/files/2016-DC-PCSB-At-Risk-Funding-Report-%28revised-102716%29.pdf"
-    kind: pdf
-    year: "2016"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-fin-at-risk-funding-at-risk-2015-final-10-01-2015-1-2010
-    source_id: pcsb-school-finances
-    name: "At-Risk Funding \u2014 At Risk Report 2015 final 10 01 2015[1]"
-    url: "https://dcpcsb.org/sites/default/files/At-Risk%20Report_2015_final%2010%2001%202015%5b1%5d.pdf"
-    kind: pdf
-    year: "2010"
-    added: "2026-06-15"
-    topics: [other]
-
-  # ---- Harvested from pcsb-pmf-archive (9 files) ----
-  - id: pcsb-pmf-pmf-archive-11-21-2016-17-pmf-policy-technical-guide-v2-2016
-    source_id: pcsb-pmf-archive
-    name: "PMF Archive \u2014 11 21 2016 17 PMF Policy & Technical Guide v2"
-    url: "http://www.dcpcsb.org/sites/default/files/2016-11-21%202016-17%20PMF%20Policy%20%26%20Technical%20Guide%20v2.pdf"
-    kind: pdf
-    year: "2016"
-    added: "2026-06-15"
-    topics: [other]
-
+  # ---- Harvested from pcsb-pmf-archive (9 files; 4 remain after the Oct 2026 PCSB site migration) ----
   - id: pcsb-pmf-pmf-archive-12-12-final-2015-16-pmf-book-2016
     source_id: pcsb-pmf-archive
     name: "PMF Archive \u2014 12 12 Final 2015 16 PMF Book"
-    url: "http://www.dcpcsb.org/sites/default/files/2016-12-12%20Final%202015-16%20PMF%20Book.pdf"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2016-12-12-Final-2015-16-PMF-Book.pdf"
     kind: pdf
     year: "2016"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-pmf-pmf-archive-vote-2015-16-pmf-policy-tech-march-meeting-final-clean-cop
-    source_id: pcsb-pmf-archive
-    name: "PMF Archive \u2014 Vote 2015 16 PMF Policy Tech March Meeting Final Clean Copy"
-    url: "http://www.dcpcsb.org/sites/default/files/Vote--2015-16%20PMF_Policy%20%20Tech_March%20Meeting%20Final%20Clean%20Copy.pdf"
-    kind: pdf
-    year: "2015"
     added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-final-pmf-book-2015-2-29-2016-2029
     source_id: pcsb-pmf-archive
     name: "PMF Archive \u2014 Final PMF Book 2015 2 29 2016"
-    url: "http://www.dcpcsb.org/sites/default/files/Final_PMF_Book_2015_2%2029%202016.pdf"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/Final_PMF_Book_2015_2-29-2016.pdf"
     kind: pdf
     year: "2016"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-pmf-pmf-archive-revised-2014-15-pmf-policy-tech-guide-approved-8-17-15-fin
-    source_id: pcsb-pmf-archive
-    name: "PMF Archive \u2014 Revised 2014 15 PMF Policy Tech Guide Approved 8 17 15 FINAL1"
-    url: "http://www.dcpcsb.org/sites/default/files/Revised%202014-15%20PMF_Policy__Tech_Guide%20Approved%20%208%2017%2015%20FINAL1.pdf"
-    kind: pdf
-    year: "2015"
     added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-14-book-12-11-2014-2013
     source_id: pcsb-pmf-archive
     name: "PMF Archive \u2014 14 Book (12 11 2014)"
-    url: "http://www.dcpcsb.org/sites/default/files/2013-14%20Book%20%2812-11-2014%29.pdf"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2013-14-Book-12-11-2014.pdf"
     kind: pdf
     year: "2013"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-pmf-pmf-archive-2014technicalguide-01-10-14-final-2001
-    source_id: pcsb-pmf-archive
-    name: "PMF Archive \u2014 2014TechnicalGuide 01 10 14 FINAL"
-    url: "http://www.dcpcsb.org/sites/default/files/2014TechnicalGuide%2001%2010%2014%20FINAL.pdf"
-    kind: pdf
-    year: "2014"
     added: "2026-06-15"
     topics: [other]
 
   - id: pcsb-pmf-pmf-archive-2013-pmf-reduced-2-2013
     source_id: pcsb-pmf-archive
     name: "PMF Archive \u2014 2013 PMF REDUCED 2"
-    url: "http://www.dcpcsb.org/sites/default/files/2013%20PMF%20REDUCED%202.pdf"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2013-PMF-REDUCED-2.pdf"
     kind: pdf
     year: "2013"
     added: "2026-06-15"
     topics: [other]
 
-  - id: pcsb-pmf-pmf-archive-release-2012-2013-pmf-guidelines-revised-9-12-2012
-    source_id: pcsb-pmf-archive
-    name: "PMF Archive \u2014 Release 2012 2013 PMF Guidelines revised 9 12"
-    url: "http://www.dcpcsb.org/sites/default/files/Release--2012_2013_PMF%20Guidelines%20revised%209%2012.pdf"
-    kind: pdf
-    year: "2012"
-    added: "2026-06-15"
-    topics: [other]
 
   # ---- Harvested from pcsb-equity-reports (9 files) ----
-  - id: pcsb-eq-school-equity-reports-sy-2017-18-pcsb-equity-definitions-guide-unknown
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 SY 2017 18 DC PCSB Equity Report Definitions Guide"
-    url: "https://dcpcsb.org/sites/default/files/SY%202017-18%20DC%20PCSB%20Equity%20Report%20Definitions%20Guide.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-academy-of-hope-adult-pcs
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School Academy of Hope Adult PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/report/2017_Equity_Report_Public%20Charter%20School_Academy%20of%20Hope%20Adult%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-briya-pcs-unknown
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School Briya PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Briya%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-carlos-rosario-internation
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School Carlos Rosario International PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Carlos%20Rosario%20International%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-community-college-preparat
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School Community College Preparatory Academy PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Community%20College%20Preparatory%20Academy%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-layc-career-academy-pcs-un
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School LAYC Career Academy PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_LAYC%20Career%20Academy%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-maya-angelou-pcs-young-adu
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School Maya Angelou PCS Young Adult Learning Center"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_Maya%20Angelou%20PCS%20-%20Young%20Adult%20Learning%20Center.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-the-next-step-el-proximo-p
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School The Next Step El Proximo Paso PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_The%20Next%20Step-El%20Proximo%20Paso%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
-
-  - id: pcsb-eq-school-equity-reports-equity-public-charter-youthbuild-pcs-unknown
-    source_id: pcsb-equity-reports
-    name: "School Equity Reports \u2014 Equity Report Public Charter School YouthBuild PCS"
-    url: "http://www.dcpcsb.org/sites/default/files/2017_Equity_Report_Public%20Charter%20School_YouthBuild%20PCS.pdf"
-    kind: pdf
-    year: "2017"
-    added: "2026-06-15"
-    topics: [other]
 
   # ---- Harvested from osse-assessment-archive (35 files) ----
   - id: osse-assess-2023-24-state-level-statewide-assessment-data-2023-24
@@ -4703,7 +4500,7 @@ data_files:
     kind: xlsx
     year: "2016"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [assessment]
 
   - id: osse-data-reports-2020-ap-ib-and-sat-scores-2020
@@ -4713,7 +4510,7 @@ data_files:
     kind: xlsx
     year: "2020"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [advanced-coursework]
 
   - id: osse-data-reports-2024-25-mobility-data-2024-25
@@ -4723,7 +4520,7 @@ data_files:
     kind: xlsx
     year: "2024-25"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2023-24-mobility-data-2023-24
@@ -4733,7 +4530,7 @@ data_files:
     kind: xlsx
     year: "2023-24"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2022-23-mobility-data-2022-23
@@ -4743,7 +4540,7 @@ data_files:
     kind: xlsx
     year: "2022-23"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2021-22-mobility-data-2021-22
@@ -4753,7 +4550,7 @@ data_files:
     kind: xlsx
     year: "2021-22"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2020-21-mobility-data-2020-21
@@ -4763,7 +4560,7 @@ data_files:
     kind: xlsx
     year: "2020-21"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2019-20-mobility-data-2019-20
@@ -4773,7 +4570,7 @@ data_files:
     kind: xlsx
     year: "2019-20"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2018-19-mobility-data-2018-19
@@ -4783,7 +4580,7 @@ data_files:
     kind: xlsx
     year: "2018-19"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-2020-mobility-and-re-enrollment-report-2020
@@ -4793,7 +4590,7 @@ data_files:
     kind: xlsx
     year: "2020"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [enrollment, student-movement]
 
   - id: osse-data-reports-mid-year-student-mobility-2016-17-year-council-performance-oversight-a
@@ -4803,7 +4600,7 @@ data_files:
     kind: xlsx
     year: "2016"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown
@@ -4813,7 +4610,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [discipline]
 
   - id: osse-data-reports-mid-year-student-mobility-2014-15-and-2015-16-years-council-performanc
@@ -4823,7 +4620,7 @@ data_files:
     kind: xlsx
     year: "2014"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [student-movement]
 
   - id: osse-data-reports-citywide-discipline-council-performance-oversight-attachment-unknown-2
@@ -4833,7 +4630,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [discipline]
 
   - id: osse-data-reports-students-by-ward-in-2012-13-through-2017-18-year-council-performance-o
@@ -4843,7 +4640,7 @@ data_files:
     kind: xlsx
     year: "2012"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-private-enrollment-from-2014-15-through-2017-18-schoo-council-performa
@@ -4853,7 +4650,7 @@ data_files:
     kind: xlsx
     year: "2014"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-2024-25-adjusted-cohort-graduation-rate-acgr-public-2024-25
@@ -4863,7 +4660,7 @@ data_files:
     kind: xlsx
     year: "2024-25"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [graduation]
 
   - id: osse-data-reports-2023-24-adjusted-cohort-graduation-rate-acgr-public-2023-24
@@ -4873,7 +4670,7 @@ data_files:
     kind: xlsx
     year: "2023-24"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [graduation]
 
   - id: osse-data-reports-2023-24-decp-file-2023
@@ -4883,7 +4680,7 @@ data_files:
     kind: xlsx
     year: "2023"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-free-and-reduced-price-meals-status-council-performance-oversight-atta
@@ -4893,7 +4690,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-at-risk-students-council-performance-oversight-attachment-unknown
@@ -4903,7 +4700,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-foster-children-council-performance-oversight-attachment-unknown
@@ -4913,7 +4710,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-individual-education-programs-ieps-council-performance-oversight-attac
@@ -4923,7 +4720,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-special-education-exit-council-performance-oversight-attachment-unknow
@@ -4933,7 +4730,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   - id: osse-data-reports-secondary-transitions-for-students-with-disabilities-council-performan
@@ -4943,7 +4740,7 @@ data_files:
     kind: xlsx
     year: "unknown"
     added: "2026-08-29"
-    page: "https://osse.dc.gov/page/data-and-reports-0"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
   # ---- Harvested from osse-report-card-resource-library (6 files) ----
@@ -5381,4 +5178,110 @@ data_files:
     year: "2026-08"
     added: "2026-08-29"
     page: "https://www.myschooldc.org/resources/data"
+    topics: [other]
+
+  # ---- Harvested from dcps-glance-attendance (1 files) ----
+  - id: dcps-glance-attendance-dcps-annual-attendance-sy-2025-2026-2025
+    source_id: dcps-glance-attendance
+    name: "DCPS Annual Attendance Report SY 2025-2026"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/DCPS%20SY%202025-2026%20Annual%20Attendance%20Report.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-attendance"
+    topics: [attendance]
+
+  # ---- Harvested from osse-report-card-resource-library (6 files) ----
+  - id: osse-report-card-resource-library-dc-report-and-myschooldc-elements-business-rules-and-definitions-2026
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card and MySchoolDC Data Elements - Business Rules and Definitions (updated Oct. 2026)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Business%20Rules%20and%20Definitions%20for%20DC%20School%20Report%20Card%20and%20MySchoolDC%20Data%20Elements%20%28updated%20Oct.%202026%29.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [other]
+
+  - id: osse-report-card-resource-library-dc-report-dc-says-staff-scores-2026-2026
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card - DC SAYS - Staff Metric Scores (2026)"
+    url: "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Staff%20Metric%20Scores%20%282026%29.xlsx"
+    kind: xlsx
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [school-climate]
+
+  - id: osse-report-card-resource-library-dc-report-dc-says-family-scores-2026-2026
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card - DC SAYS - Family Metric Scores (2026)"
+    url: "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Family%20Metric%20Scores%20%282026%29.xlsx"
+    kind: xlsx
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [school-climate]
+
+  - id: osse-report-card-resource-library-dc-report-dc-says-students-grades-3-12-scores-2026-2026
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card - DC SAYS - Students Grades 3-12 Metric Scores (2026)"
+    url: "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Grades%203-12%20Student%20Metric%20Scores%20%282026%29.xlsx"
+    kind: xlsx
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [school-climate]
+
+  - id: osse-report-card-resource-library-dc-report-dc-says-adult-students-scores-2026-2026
+    source_id: osse-report-card-resource-library
+    name: "DC School Report Card - DC SAYS - Adult Students Metric Scores (2026)"
+    url: "https://osse.dc.gov/sites/default/files/2026-09/DC%20School%20Report%20Card%20-%20DC%20SAYS%20Adult%20Student%20Metric%20Scores%20%282026%29.xlsx"
+    kind: xlsx
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
+    topics: [school-climate]
+
+  # ---- Harvested from osse-educator-workforce (1 files) ----
+  - id: edu-preparation-and-performance-2020-25
+    source_id: osse-educator-workforce
+    name: "Educator Data Flat File — Preparation and Performance (SY2025-26, Sep 8 2026)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/SY2025-2026%20DC%20Educator%20Data_Preparation%20and%20Performance%2009082026.xlsx"
+    kind: xlsx
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/dc-educator-workforce-data"
+    topics: [educators]
+
+  # ---- Harvested from osse-special-ed (1 files) ----
+  - id: sped-ffy-2024-annual-performance-part-b-2024
+    source_id: osse-special-ed
+    name: "FFY 2024 Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/2026-09/DC-B-SPP-APR-FFY24.pdf"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/specialized-education-data-and-reports"
+    topics: [special-education]
+
+  # ---- Harvested from myschooldc-lottery (1 files) ----
+  - id: myschooldc-lottery-20261007-myschooldc-tableau-data-unknown
+    source_id: myschooldc-lottery
+    name: "Year over Year Comparisons — 20261007 MySchoolDC Tableau Data"
+    url: "https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/page/attachments/20261007_MySchoolDC_Tableau_Data.xlsx"
+    kind: xlsx
+    year: "2026-10"
+    added: "2026-11-01"
+    page: "https://www.myschooldc.org/resources/data"
+    topics: [other]
+
+  # ---- Harvested from edscape-enrollment-patterns (1 files) ----
+  - id: edscape-enrollment-patterns-download-for-edscape-chapter-4-student-commute-patterns-2026
+    source_id: edscape-enrollment-patterns
+    name: "Enrollment Patterns — EdScape Chapter 4 Enrollment Patterns Commute Paths 2026"
+    url: "https://edscape.dc.gov/sites/default/files/2026-09/EdScape_Chapter%204%20Enrollment%20Patterns_Commute%20Paths_2026.xlsx"
+    kind: xlsx
+    year: "2026"
+    added: "2026-11-01"
+    page: "https://edscape.dc.gov/page/student-commute-patterns"
     topics: [other]
