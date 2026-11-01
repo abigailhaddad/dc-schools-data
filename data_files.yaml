@@ -4653,26 +4653,6 @@ data_files:
     page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [other]
 
-  - id: osse-data-reports-2024-25-adjusted-cohort-graduation-rate-acgr-public-2024-25
-    source_id: osse-data-reports
-    name: "2024-25 Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
-    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2425 ACGR Rates.xlsx"
-    kind: xlsx
-    year: "2024-25"
-    added: "2026-08-29"
-    page: "https://osse.dc.gov/page/osse-data-and-reports"
-    topics: [graduation]
-
-  - id: osse-data-reports-2023-24-adjusted-cohort-graduation-rate-acgr-public-2023-24
-    source_id: osse-data-reports
-    name: "2023-24 Adjusted Cohort Graduation Rate (ACGR) \u2014 Public"
-    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Public SY2324 ACGR Rates.xlsx"
-    kind: xlsx
-    year: "2023-24"
-    added: "2026-08-29"
-    page: "https://osse.dc.gov/page/osse-data-and-reports"
-    topics: [graduation]
-
   - id: osse-data-reports-2023-24-decp-file-2023
     source_id: osse-data-reports
     name: "2023-24 DECP Data File"
@@ -5285,3 +5265,3548 @@ data_files:
     added: "2026-11-01"
     page: "https://edscape.dc.gov/page/student-commute-patterns"
     topics: [other]
+
+  # ---- Added 2026-11-01 broader pass: OSSE results decks 2015-2024, 2024-25 advanced math, DCPS DC CAS decks, DC Policy Center report ----
+  - id: osse-assess-2014-15-results-deck-grades-3-8
+    source_id: osse-assessment-archive
+    name: "2014-15 PARCC Results — Grades 3-8 (public presentation)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015%20District%20of%20Columbia%20PARCC%20Grades%203-8%20Results.pdf"
+    kind: pdf
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2014-15-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2014-15-results-deck-hs
+    source_id: osse-assessment-archive
+    name: "2014-15 PARCC Results — High School (public presentation)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015%20District%20of%20Columbia%20PARCC%20High%20School%20Results_0.pdf"
+    kind: pdf
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2014-15-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2015-16-results-deck
+    source_id: osse-assessment-archive
+    name: "2015-16 PARCC Results (public presentation)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2016%20OSSE%20PARCC%20Presentation.pdf"
+    kind: pdf
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2015-16-parcc-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2016-17-results-deck
+    source_id: osse-assessment-archive
+    name: "2016-17 PARCC Results (public presentation, updated Sept. 27, 2017)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20PARCC%20State%20Results%20Public%20Presentation_updated%20Sept.%2027%2C%202017_0.pdf"
+    kind: pdf
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2016-17-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2017-18-results-deck
+    source_id: osse-assessment-archive
+    name: "2017-18 PARCC Results (public presentation, Aug. 16, 2018)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018%20PARCC%20Results%20Release%20%28Aug.%2016%2C%202018%29.pdf"
+    kind: pdf
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-18-parcc-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2018-19-results-deck
+    source_id: osse-assessment-archive
+    name: "2018-19 Statewide Assessment Results (public presentation)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019%20Statewide%20ELA%20and%20Math%20Public%20Results.pdf"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2018-19-parcc-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2021-22-results-deck
+    source_id: osse-assessment-archive
+    name: "2021-22 Statewide Assessment Results (public presentation)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021-22%20District%20of%20Columbia%20Statewide%20Assessment%20Results%20Presentation.pdf"
+    kind: pdf
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-22-parcc-and-msaa-results-and-resources"
+    topics: [assessment]
+
+  - id: osse-assess-2022-23-results-deck
+    source_id: osse-assessment-archive
+    name: "2022-23 Statewide Assessment Results (public deck)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Assessment%202023%20Deck_.08.24_0.pdf"
+    kind: pdf
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/assessmentresults2023"
+    topics: [assessment]
+
+  - id: osse-assess-2023-24-results-deck
+    source_id: osse-assessment-archive
+    name: "2023-24 Statewide Assessment Results (public deck with appendix)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024-08-22-DCCAPE_MSAA_2324_PublicDeck_with_appendix.pdf"
+    kind: pdf
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/assessmentresults2024"
+    topics: [assessment]
+
+  - id: osse-cape-2025-advanced-math-sea
+    source_id: osse-assessment-2025
+    name: "2024-25 Middle School Advanced Math DC CAPE — State (SEA) Level"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=05z9br204vgfa6atic6qplhg0p3cj1we&file_id=f_1962549140545"
+    kind: xlsx
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/assessmentresults2025"
+    topics: [assessment]
+
+  - id: osse-cape-2025-advanced-math-lea
+    source_id: osse-assessment-2025
+    name: "2024-25 Middle School Advanced Math DC CAPE — LEA Level"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=nlhxqgkyde3ngbg17vmz0k8f6fi6xp9s&file_id=f_1962548624673"
+    kind: xlsx
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/assessmentresults2025"
+    topics: [assessment]
+
+  - id: osse-cape-2025-advanced-math-school
+    source_id: osse-assessment-2025
+    name: "2024-25 Middle School Advanced Math DC CAPE — School Level"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=y0vrq1g8u6p98pd12qdk6g007r8q366p&file_id=f_1962539349190"
+    kind: xlsx
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/assessmentresults2025"
+    topics: [assessment]
+
+  - id: dcps-dc-cas-presentation-2014
+    source_id: dcps-downloadable-datasets
+    name: "2014 DC CAS Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2014%20DC%20CAS%20Presentation.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
+    topics: [assessment]
+
+  - id: dcps-dc-cas-presentation-2013
+    source_id: dcps-downloadable-datasets
+    name: "2013 DC CAS Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2013%20DC%20CAS%20Presentation.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
+    topics: [assessment]
+
+  - id: dcps-dc-cas-presentation-2012
+    source_id: dcps-downloadable-datasets
+    name: "2012 DC CAS Presentation"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2012%20DC%20CAS%20Presentation.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/publication/dcps-data-set-dc-cas"
+    topics: [assessment]
+
+  - id: dcpc-state-of-dc-schools-2024-25-full-report
+    source_id: dc-policy-state-of-schools
+    name: "State of D.C. Schools, 2024-25 (full report)"
+    url: "https://www.dcpolicycenter.org/wp-content/uploads/v3_SODCS_2024_25_full_report-2.24-copy-2.pdf"
+    kind: pdf
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://www.dcpolicycenter.org/publications/stateofdcschools2024-25/"
+    topics: [assessment, enrollment, attendance]
+
+  # ---- Harvested from osse-attendance (17 files) ----
+  - id: att-2017-18-year-attendance-pdf-2017
+    source_id: osse-attendance
+    name: "2017-18 School Year Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017-18%20School%20Year%20Attendance%20Report.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2017-18-school-year"
+    topics: [attendance]
+
+  - id: att-2018-19-year-attendance-pdf-2018
+    source_id: osse-attendance
+    name: "2018-19 School Year Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018-19%20School%20Year%20Attendance%20Report.pdf"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2018-19-school-year"
+    topics: [attendance]
+
+  - id: att-2019-20-attendance-pdf-2019
+    source_id: osse-attendance
+    name: "2019-20 Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019-20%20Attendance%20Report.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2019-20-school-year"
+    topics: [attendance]
+
+  - id: att-2020-attendance-scores-xlsx-2020
+    source_id: osse-attendance
+    name: "2020 Attendance - Metric Scores"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2020%20Attendance%20-%20Metric%20Scores.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2019-20-school-year"
+    topics: [attendance]
+
+  - id: att-2020-21-attendance-report-2020
+    source_id: osse-attendance
+    name: "2020-21 Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2020-21%20Attendance%20Report_FINAL.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2020-21-school-year"
+    topics: [attendance]
+
+  - id: att-2021-22-attendance-report-2021
+    source_id: osse-attendance
+    name: "2021-22 Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2021-22%20Attendance%20Report%20%28Nov%2028%202022%29.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2021-22-school-year"
+    topics: [attendance]
+
+  - id: att-2022-23-chronic-truancy-rates-2022
+    source_id: osse-attendance
+    name: "2022-23 Chronic Truancy Rates"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20SY2022-23%20Chronic%20Truancy%20Rates.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2022-23-school-year"
+    topics: [attendance]
+
+  - id: att-2022-23-attendance-report-2022
+    source_id: osse-attendance
+    name: "2022-23 Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2022-23%20Attendance%20Report_FINAL_0.pdf"
+    kind: pdf
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-attendance-report-2022-23-school-year"
+    topics: [attendance]
+
+  - id: att-2023-24-attendance-annual-report-2023
+    source_id: osse-attendance
+    name: "2023-24 Attendance Annual Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Attendance%20Report%20%28Final%29.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-2023-24-attendance-brief-2023
+    source_id: osse-attendance
+    name: "2023-24 Attendance Brief"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Attendance%20Brief.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-data-2023-24-truancy-data-2023
+    source_id: osse-attendance
+    name: "Data File: 2023-24 Truancy Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Truancy%20Data.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-data-2023-24-chronic-absenteeism-scores-2023
+    source_id: osse-attendance
+    name: "Data File: 2023-24 Chronic Absenteeism Metric Scores"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023-24%20Chronic%20Absenteeism%20Metric%20Scores%20%281%29.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-2023-24-mid-year-attendance-brief-1-july-10-nov-24-2023-2023
+    source_id: osse-attendance
+    name: "2023-24 Mid-Year Attendance Brief 1 (July 10-Nov. 24, 2023)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Mid_Year%20Attendance_1Pager%203_29_2024.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-data-2023-24-mid-year-attendance-brief-1-2023
+    source_id: osse-attendance
+    name: "Data File: 2023-24 Mid-Year Attendance Brief 1"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Data%20File%20-%202023-24%20Mid-Year%20Attendance%20Brief%201%20%28July%2010-Nov.%2024%202023%29.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-2023-24-mid-year-attendance-brief-2-july-10-2023-march-1-2024-2023
+    source_id: osse-attendance
+    name: "2023-24 Mid-Year Attendance Brief 2 (July 10, 2023-March 1, 2024)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Mid_Year_Attendance_1Pager%206_14_2024.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-data-2023-24-mid-year-attendance-brief-2-2023
+    source_id: osse-attendance
+    name: "Data File: 2023-24 Mid-Year Attendance Brief 2"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Data%20File%20-%202023-24%20Mid-Year%20Attendance%20Brief%202%20%28July%2010%2C%202023-March%201%2C%202024.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/attendancesy202324"
+    topics: [attendance]
+
+  - id: att-2016-17-2016
+    source_id: osse-attendance
+    name: "2016-17 School Year Attendance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SY16-17AttendanceReport.FINAL_.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [attendance, discipline, student-movement]
+
+  # ---- Harvested from osse-graduation (22 files) ----
+  - id: grad-adjusted-cohort-graduation-rates-by-2012-2013-2012
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rates School by School 2012-2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/GraduationbySchool_2013ACGR%20%282%29.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2012-2013-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-overview-2012-2013-2012
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate Overview 2012-2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013_ACGR_summary_wnongrad.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2012-2013-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rates-by-subgroup-2012-2013-2012
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rates School by School Subgroup 2012-2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013_ACGR_summary_subgroup%20%282%29.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2012-2013-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-overview-2013-14-2013
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate Overview 2013-14"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20Overview%202013-14.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2013-2014-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-subgroup-2013-14-2013
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate by Subgroup 2013-14"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20by%20Subgroup%202013-14.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2013-2014-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-2013-14-2013
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate School by School 2013-14"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20School%20by%20School%202013-14.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2013-2014-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-overview-2014-15-2014
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate Overview 2014-15"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20Overview%202014-15.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-15-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-subgroup-2014-15-2014
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate by Subgroup 2014-15"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20by%20Subgroup%202014-15.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-15-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-2014-15-2014
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate School by School 2014-15"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20School%20by%20School%202014-15.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-15-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-overview-2015-16-pdf-2015
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate Overview 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20Overview%202015-16.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2015-16-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-subgroup-2015-16-pdf-2015
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate by Subgroup 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20by%20Subgroup%202015-16.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2015-16-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-adjusted-cohort-graduation-rate-by-2015-16-pdf-2015
+    source_id: osse-graduation
+    name: "Adjusted Cohort Graduation Rate School by School 2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Adjusted%20Cohort%20Graduation%20Rate%20School%20by%20School%202015-16.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2015-16-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-public-sy1617-acgr-rates-xlsx-2016-17
+    source_id: osse-graduation
+    name: "Public SY1617 ACGR Rates_"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Public%20SY1617%20ACGR%20Rates_.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2016-17-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2017-18-year-acgr-four-year-rates-2017
+    source_id: osse-graduation
+    name: "2017-18 School Year ACGR Four Year Rates"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Public%20SY1718%20ACGR%20Rates%2011.14.18.xlsx"
+    kind: xlsx
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2017-18-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2017-18-year-acgr-five-year-rates-2017
+    source_id: osse-graduation
+    name: "2017-18 School Year ACGR Five Year Rates"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Public%20SY1718%20ACGR%20Rates_Five_Year.xlsx"
+    kind: xlsx
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2017-18-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2018-19-year-public-acgr-rates-4-year-xlsx-2018
+    source_id: osse-graduation
+    name: "2018-19 School Year Public ACGR Rates 4-Year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018-19%20School%20Year%20Public%20ACGR%20Rates%204-Year.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2018-19-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2018-19-year-public-acgr-rates-5-year-xlsx-2018
+    source_id: osse-graduation
+    name: "2018-19 School Year Public ACGR Rates 5-Year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018-19%20School%20Year%20Public%20ACGR%20Rates%205-Year.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2018-19-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2019-20-year-public-acgr-rates-4-year-2019
+    source_id: osse-graduation
+    name: "2019-20 School Year Public ACGR Rates 4-year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Public%20SY1920%20ACGR%20Rates%204-Year.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2019-20-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-2019-20-year-public-acgr-rates-5-year-2019
+    source_id: osse-graduation
+    name: "2019-20 School Year Public ACGR Rates 5-year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Public%20SY1920%20ACGR%20Rates%205-Year.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2019-20-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: grad-osse-postsecondary-access-readiness-series-part-1-pdf-unknown
+    source_id: osse-graduation
+    name: "OSSE Postsecondary Access Readiness Series Part 1"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE%20Postsecondary%20Access%20Readiness%20Series%20Part%201.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-postsecondary-access-and-readiness-series"
+    topics: [graduation]
+
+  - id: grad-osse-postsecondary-access-and-readiness-series-part-2-pdf-unknown
+    source_id: osse-graduation
+    name: "OSSE Postsecondary Access and Readiness Series Part 2"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE%20Postsecondary%20Access%20and%20Readiness%20Series%20Part%202.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-postsecondary-access-and-readiness-series"
+    topics: [graduation]
+
+  - id: grad-dc-trends-2011-12-cohort-high-and-college-milestones-2011
+    source_id: osse-graduation
+    name: "DC Trends: 2011-12 Cohort High School and College Milestones"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20Trends%202011_12%20Cohort%20High%20School%20and%20College%20Milestones_January_2023.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-trends-2011-12-cohort-high-school-and-college-milestones"
+    topics: [graduation]
+
+  # ---- Harvested from osse-yrbs (65 files) ----
+  - id: yrbs-2023-yrbs-report-2023
+    source_id: osse-yrbs
+    name: "2023 DC YRBS Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2023%20DC%20Youth%20Risk%20Behavior%20Survey%20Report%20%281%29.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/dc-youth-risk-behavior-survey-yrbs"
+    topics: [school-climate]
+
+  - id: yrbs-2015-yrbs-pdf-2015
+    source_id: osse-yrbs
+    name: "2015 YRBS Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015%20YRBS%20Report.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2015-yrbs-report"
+    topics: [school-climate]
+
+  - id: yrbs-2017-yrbs-pdf-2017
+    source_id: osse-yrbs
+    name: "2017 YRBS Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20YRBS%20Report.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2017-yrbs-report"
+    topics: [school-climate]
+
+  - id: yrbs-2019-yrbs-pdf-2019
+    source_id: osse-yrbs
+    name: "2019 DC YRBS Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20DC%20YRBS%20Report.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2019-yrbs-report"
+    topics: [school-climate]
+
+  - id: yrbs-2021-youth-risk-behavior-survey-report-2021
+    source_id: osse-yrbs
+    name: "2021 Youth Risk Behavior Survey Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2021%20Youth%20Risk%20Behavior%20Survey%20Report.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2021-dc-yrbs-report"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-academic-achievement-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017%20DC%20Middle%20School%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-summary-tables-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2017%20DC%20Middle%20School%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-sample-description-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Sample%20Description.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-sample-statistics-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Sample%20Statistics.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-sexual-identity-summary-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Sexual%20Identity%20Summary.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-sexual-identity-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-summary-graphs-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Summary Graphs"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Summary%20Graphs.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-survey-summary-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-middle-trend-report-2017
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-academic-achievement-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-summary-tables-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-graphs-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Graphs"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Graphs.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sample-description-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sample%20Description_0.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sample-statistics-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sample%20Statistics_0.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sexual-contacts-summary-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sexual Contacts Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sexual%20Contacts%20Summary_0.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sexual-contacts-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sexual Contacts"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sexual%20Contacts_0.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sexual-identity-summary-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sexual%20Identity%20Summary_0.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-sexual-identity-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-summary-graphs-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Summary Graphs"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Summary%20Graphs.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-survey-summary-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2017-high-trend-report-2017
+    source_id: osse-yrbs
+    name: "2017 DC High School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20High%20School%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-academic-achievement-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-summary-tables-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-sample-description-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Sample%20Description.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-sample-statistics-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Sample%20Statistics.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-sexual-identity-summary-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Sexual%20Identity%20Summary.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-sexual-identity-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-survey-summary-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-trend-10-years-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Trend Report 10 Years"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Trend%20Report%2010%20Years.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-middle-trend-report-2019
+    source_id: osse-yrbs
+    name: "2019 DC Middle School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBM%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-academic-achievement-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sample-description-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sample%20Description.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sample-statistics-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sample%20Statistics.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sexual-contacts-summary-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sexual Contacts Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sexual%20Contacts%20Summary.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sexual-contacts-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sexual Contacts"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sexual%20Contacts.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sexual-identity-summary-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sexual%20Identity%20Summary.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-sexual-identity-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-summary-tables-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-survey-summary-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2019-high-trend-report-2019
+    source_id: osse-yrbs
+    name: "2019 DC High School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019DCBH%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2019-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-academic-achievement-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-summary-tables-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-sample-description-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Sample%20Description.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-sample-statistics-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Sample%20Statistics.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-sexual-identity-summary-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Sexual%20Identity%20Summary.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-sexual-identity-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-survey-summary-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-trend-10-years-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Trend Report 10 Years"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Trend%20Report%2010%20Years.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-middle-trend-report-2021
+    source_id: osse-yrbs
+    name: "2021 DC Middle School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBM%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-academic-achievement-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Academic Achievement"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Academic%20Achievement.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sample-description-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sample Description"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sample%20Description.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sample-statistics-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sample Statistics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sample%20Statistics.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sexual-contacts-summary-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sexual Contacts Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sexual%20Contacts%20Summary.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sexual-contacts-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sexual Contacts"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sexual%20Contacts.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sexual-identity-summary-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sexual Identity Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sexual%20Identity%20Summary.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-sexual-identity-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Sexual Identity"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Sexual%20Identity.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-summary-tables-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-survey-summary-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Survey Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Survey%20Summary.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2021-high-trend-report-2021
+    source_id: osse-yrbs
+    name: "2021 DC High School Trend Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021DCBH%20Trend%20Report.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/2021-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: yrbs-2012-yrbs-report-2012
+    source_id: osse-yrbs
+    name: "2012 YRBS Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2012%20DC%20YRBS_OSSE_0.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [school-climate]
+
+  # ---- Harvested from osse-naep (9 files) ----
+  - id: naep-district-of-columbia-2024-results-overview-presentation-2024
+    source_id: osse-naep
+    name: "District of Columbia 2024 Results Overview Presentation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2024%20OSSE%20NAEP%20Results%20Presentation%20for%20Website.pdf"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/national-assessment-educational-progress-naep"
+    topics: [assessment]
+
+  - id: naep-2019-state-4-math-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 State 4 Math Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20State%204%20Math%20Snapshot%20.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-state-results-fourth-grade-mathematics"
+    topics: [assessment]
+
+  - id: naep-2019-state-4-read-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 State 4 Read Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20State%204%20Read%20Snapshot%20.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-state-results-fourth-grade-reading"
+    topics: [assessment]
+
+  - id: naep-2019-state-8-math-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 State 8 Math Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20State%208%20Math%20Snapshot.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-state-results-eighth-grade-mathematics"
+    topics: [assessment]
+
+  - id: naep-2019-state-8-read-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 State 8 Read Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20State%208%20Read%20Snapshot%20.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-state-results-eighth-grade-reading"
+    topics: [assessment]
+
+  - id: naep-2019-dcps-tuda-4-math-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 DCPS (TUDA) 4 Math Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20DCPS%20%28TUDA%29%204%20Math%20Snapshot%20.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-tuda-results-fourth-grade-mathematics"
+    topics: [assessment]
+
+  - id: naep-2019-dcps-tuda-4-read-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 DCPS (TUDA) 4 Read Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20DCPS%20%28TUDA%29%204%20Read%20Snapshot.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-tuda-results-fourth-grade-reading"
+    topics: [assessment]
+
+  - id: naep-2019-dcps-tuda-8-math-snapshot-pdf-2019
+    source_id: osse-naep
+    name: "2019 DCPS (TUDA) 8 Math Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019%20DCPS%20%28TUDA%29%208%20Math%20Snapshot%20.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-tuda-results-eighth-grade-mathematics"
+    topics: [assessment]
+
+  - id: naep-dcps-tuda-8-read-snapshot-pdf-unknown
+    source_id: osse-naep
+    name: "2019 DCPS (TUDA) 8 Read Snapshot"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS%20%28TUDA%29%208%20Read%20Snapshot.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/naep-2019-tuda-results-eighth-grade-reading"
+    topics: [assessment]
+
+  # ---- Harvested from osse-cep (4 files) ----
+  - id: cep-2016-17-year-cep-annual-notification-of-leas-2016
+    source_id: osse-cep
+    name: "2016-17 School Year CEP Annual Notification of LEAs"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2016-17%20School%20Year%20CEP%20Annual%20Notification%20of%20LEAs.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2016-17-school-year-dc-schools-eligible-community-eligibility-provision"
+    topics: [demographics]
+
+  - id: cep-2016-17-year-cep-annual-notification-of-schools-2016
+    source_id: osse-cep
+    name: "2016-17 School Year CEP Annual Notification of Schools"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2016-17%20School%20Year%20CEP%20Annual%20Notification%20of%20Schools.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2016-17-school-year-dc-schools-eligible-community-eligibility-provision"
+    topics: [demographics]
+
+  - id: cep-2017-18-year-cep-annual-notification-of-leas-and-schools-updated-6-26
+    source_id: osse-cep
+    name: "2017-18 School Year CEP Annual Notification of LEAs and Schools updated 6-26-17"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017-18%20School%20Year%20CEP%20Annual%20Notification%20of%20LEAs%20and%20Schools%20updated%206-26-17.xlsx"
+    kind: xlsx
+    year: "2017"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2017-18-school-year-dc-schools-eligible-community-eligibility-provision"
+    topics: [demographics]
+
+  - id: cep-2018-19-year-cep-annual-notification-of-leas-and-schools-xlsx-2018
+    source_id: osse-cep
+    name: "2018-19 School Year CEP Annual Notification of LEAs and Schools"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018-19%20School%20Year%20CEP%20Annual%20Notification%20of%20LEAs%20and%20Schools.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2018-19-school-year-dc-schools-eligible-community-eligibility-provision"
+    topics: [demographics]
+
+  # ---- Harvested from osse-school-health (18 files) ----
+  - id: shp-all-schools-data-2025-26
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2025-26"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SY25-26%20SHP%20Data_final_0.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2024-25
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2024-25"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SY24-25%20SHP%20Data_final_0.xlsx"
+    kind: xlsx
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-unknown
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2023-24"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SY%2023-24%20SHP%20Data_final.xlsx"
+    kind: xlsx
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2022
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2022-23"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SHP%202022-23%20All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2021
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2021-22"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SHP%202021-22%20All%20Schools%20Data_0.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2019
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2019-20"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SHP%202019-20%20All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2019-20"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2018-19
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2018-19"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA__SY1819_All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2017-18
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2017-18"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA_SY17-18%20All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2016-17
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2016-17"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA__SY1617_All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-all-schools-data-2015-16
+    source_id: osse-school-health
+    name: "School Health Profiles — All Schools Data, SY2015-16"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA__SY1516_All%20Schools%20Data.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+
+  - id: shp-2024-health-schools-act-february-2025-2024
+    source_id: osse-school-health
+    name: "2024 Health Schools Act Report February 2025"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2024%20Health%20Schools%20Act%20Report%20-%20February%202025.pdf"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-reports"
+    topics: [school-climate, profiles]
+
+  - id: shp-healthy-schools-act-hsa-draft-11-17-20-2020
+    source_id: osse-school-health
+    name: "Healthy Schools Act (HSA) Report Draft 11.17.20"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Healthy%20Schools%20Act%20%28HSA%29%20Report%20Draft_11.17.20.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-reports"
+    topics: [school-climate, profiles]
+
+  - id: shp-schools-that-received-selected-environmental-education-programming-202
+    source_id: osse-school-health
+    name: "Schools that Received Selected Environmental Education Programming, 2023-24 School Year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/EE_in_Schools_List_SY23-24.2.6.25.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-reports"
+    topics: [school-climate, profiles]
+
+  - id: shp-schools-that-received-selected-environmental-education-programming-202-2
+    source_id: osse-school-health
+    name: "Schools that Received Selected Environmental Education Programming, 2022-23 School Year"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/EE_in_Schools_SY22-23.pdf"
+    kind: pdf
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/healthy-schools-act-reports"
+    topics: [school-climate, profiles]
+
+  - id: shp-health-and-physical-education-assessment-results-2012
+    source_id: osse-school-health
+    name: "Health & Physical Education Assessment Results, SY2012-13"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CAS%20Health%20%26%20Physical%20Education%20SY%202012-2013%20Results.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/health-and-physical-education-assessment-hpea"
+    topics: [assessment]
+
+  - id: shp-health-and-physical-education-assessment-results-2011
+    source_id: osse-school-health
+    name: "Health & Physical Education Assessment Results, SY2011-12"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CAS%20Health%20%26%20Physical%20Education%20SY%202011-2012%20Results.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/service/health-and-physical-education-assessment-hpea"
+    topics: [assessment]
+
+  # ---- Harvested from osse-equity-reports (5 files) ----
+  - id: osse-eq-2016-17-year-equity-business-rules-2016
+    source_id: osse-equity-reports
+    name: "2016-17 School Year Equity Report Business Rules"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20Equity%20Reports%20Business%20Rules.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/equity-reports"
+    topics: [accountability, demographics]
+
+  - id: osse-eq-2016-17-year-state-level-data-2016
+    source_id: osse-equity-reports
+    name: "2016-17 School Year State-Level Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20State-Level%20Data.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/equity-reports"
+    topics: [accountability, demographics]
+
+  - id: osse-eq-2016-17-year-level-data-2016
+    source_id: osse-equity-reports
+    name: "2016-17 School Year School-Level Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2016-17%20School%20Year%20School-Level%20Data.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/equity-reports"
+    topics: [accountability, demographics]
+
+  - id: osse-eq-2015-16-year-state-level-data-2015
+    source_id: osse-equity-reports
+    name: "2015-16 School Year State-Level Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015-16%20School%20Year%20State-Level%20Data.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/equity-reports"
+    topics: [accountability, demographics]
+
+  - id: osse-eq-2015-16-year-level-data-2015
+    source_id: osse-equity-reports
+    name: "2015-16 School Year School-Level Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015-16%20School%20Year%20School-Level%20Data.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/equity-reports"
+    topics: [accountability, demographics]
+
+  # ---- Harvested from osse-nonresident (3 files) ----
+  - id: nonres-2023-24-year-2023
+    source_id: osse-nonresident
+    name: "Non-Resident Student Review and Findings Report, SY2023-24"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY23-24%20Non-Resident%20Student%20Review%20and%20Findings%20Report.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [enrollment]
+
+  - id: nonres-2024-25-year-2024
+    source_id: osse-nonresident
+    name: "Non-Resident Student Review and Findings Report, SY2024-25"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY24-25%20Non-Resident%20Student%20Review%20and%20Findings%20Report.pdf"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [enrollment]
+
+  - id: nonres-2025-26-year-2025
+    source_id: osse-nonresident
+    name: "Non-Resident Student Review and Findings Report, SY2025-26"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/SY25-26-Non-Residency-Report.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [enrollment]
+
+  # ---- Harvested from osse-assessment-archive (16 files) ----
+  - id: osse-assess-2014-cas-results-presentation-2014
+    source_id: osse-assessment-archive
+    name: "2014 DC CAS Results Presentation"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2014%20DC%20CAS%20Result%20July%2031%202014...FINAL_.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-dc-cas-results"
+    topics: [assessment]
+
+  - id: osse-assess-2014-cas-classification-results-by-school-2014
+    source_id: osse-assessment-archive
+    name: "2014 DC CAS Classification Results by School"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CAS%20Classification%202014_FOR%20POSTING_FINAL.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-dc-cas-results"
+    topics: [assessment]
+
+  - id: osse-assess-2014-cas-subgroup-and-grade-proficiency-2014
+    source_id: osse-assessment-archive
+    name: "2014 DC CAS School, Subgroup and Grade Proficiency"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCCAS_10.6.2014.xlsx"
+    kind: xlsx
+    year: "2014"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/2014-dc-cas-results"
+    topics: [assessment]
+
+  - id: osse-assess-presentation-of-2013-cas-results-statewide-2013
+    source_id: osse-assessment-archive
+    name: "Presentation of 2013 DC CAS Results (Statewide)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20Presentation%202013%20DC%20CAS%20Results%20%28Statewide%29.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-school-by-dc-cas-results-alpha-2013
+    source_id: osse-assessment-archive
+    name: "School-by-School DC CAS Results (Alpha)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20School-By-School%20DC%20CAS%20Results%20%28Alpha%29%20analysis%20for%20presentation%20%282%29.xlsx"
+    kind: xlsx
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-school-by-dc-cas-results-classification-2013
+    source_id: osse-assessment-archive
+    name: "School-By-School DC CAS Results (Classification)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20School-By-School%20DC%20CAS%20Results%20%28Classification%29%5B1%5D.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-school-by-dc-cas-results-proficiency-2013
+    source_id: osse-assessment-archive
+    name: "School-By-School DC CAS Results (Proficiency)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20School-By-School%20DC%20CAS%20Results%20%28Proficiency%29%5B1%5D.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-school-by-dc-cas-results-growth-2013
+    source_id: osse-assessment-archive
+    name: "School-By-School DC CAS Results (Growth)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20School-By-School%20DC%20CAS%20Results%20%28Growth%29%5B1%5D.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-2013-cas-lea-appeals-summary-2013
+    source_id: osse-assessment-archive
+    name: "2013 DC CAS LEA Appeals Summary"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20DC%20CAS%20LEA%20Appeals%20Summary-2.xlsx"
+    kind: xlsx
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-2013-cas-reward-schools-2013
+    source_id: osse-assessment-archive
+    name: "2013 DC CAS Reward Schools"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013%20DC%20CAS%20Reward%20Schools-2.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-2013-cas-briefing-2013
+    source_id: osse-assessment-archive
+    name: "2013 DC CAS Briefing"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20CAS%20Briefing_091313.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-assess-dc-cape-ela-performance-levels-unknown
+    source_id: osse-assessment-archive
+    name: "DC CAPE ELA Performance Levels"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20CAPE%20ELA%20Performance%20Level%20Ranges%20by%20Grade%20Level.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/dccape"
+    topics: [assessment]
+
+  - id: osse-assess-dc-cape-math-performance-levels-unknown
+    source_id: osse-assessment-archive
+    name: "DC CAPE Math Performance Levels"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20CAPE%20Mathematics%20Performance%20Level%20Ranges%20by%20Grade%20Level.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/dccape"
+    topics: [assessment]
+
+  - id: osse-assess-parcc-ela-performance-levels-unknown
+    source_id: osse-assessment-archive
+    name: "PARCC ELA Performance Levels"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/ELA%20PARCC%20Cut%20Scores.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/parcc"
+    topics: [assessment]
+
+  - id: osse-assess-parcc-math-performance-levels-unknown
+    source_id: osse-assessment-archive
+    name: "PARCC Math Performance Levels"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/Math%20PARCC%20Cut%20Scores.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/parcc"
+    topics: [assessment]
+
+  - id: osse-assess-2020-21-osse-local-assessment-collection-report-2020
+    source_id: osse-assessment-archive
+    name: "2020-21 OSSE Local Assessment Collection Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021%20OSSE%20Local%20Assessment%20Collection%20Report_FINAL.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  # ---- Harvested from osse-educator-workforce (1 files) ----
+  - id: edu-educator-retention-brief-march-2025-2025
+    source_id: osse-educator-workforce
+    name: "Educator Retention Brief March 2025"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Educator%20Retention%20Brief%20March%202025.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/district-columbia-educator-retention"
+    topics: [educators]
+
+  # ---- Harvested from osse-special-ed (1 files) ----
+  - id: sped-swd-landscape-analysis-unknown
+    source_id: osse-special-ed
+    name: "Students with Disabilities in the District of Columbia: A Landscape Analysis (Oct 2019)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SWD%20Landscape%20Analysis%2010.10.19.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/students-disabilities-district-columbia-landscape-analysis"
+    topics: [special-education]
+
+  # ---- Harvested from osse-data-reports (2 files) ----
+  - id: osse-data-reports-2023-24-decp-summary-one-pager-2023
+    source_id: osse-data-reports
+    name: "2023-24 DECP Summary One Pager"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/PostSec_DualEnrollment_Handout_Feb7.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [graduation]
+
+  - id: osse-data-reports-school-year-2024-25-competency-based-education-report-2024
+    source_id: osse-data-reports
+    name: "School Year 2024-25 Competency Based Education Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY24-25%20Competency%20Based%20Education%20Report.pdf"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [graduation]
+
+  # ---- Added 2026-11-01 broader pass: Open Data DC STAR siblings + facility history/closed schools ----
+  - id: opendata-star-enrollment-csv
+    source_id: dc-school-report-card-site
+    name: "School STAR Enrollment (CSV export)"
+    url: "https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0"
+    kind: csv
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://opendata.dc.gov/datasets/DCGIS::school-star-enrollment/about"
+    topics: [accountability, enrollment]
+
+  - id: opendata-star-framework-scores-csv
+    source_id: dc-school-report-card-site
+    name: "School STAR Framework Scores (CSV export)"
+    url: "https://opendata.dc.gov/api/download/v1/items/297b7dd14d4a4a759b33435c57e1b6e4/csv?layers=0"
+    kind: csv
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://opendata.dc.gov/datasets/DCGIS::school-star-framework-scores/about"
+    topics: [accountability]
+
+  - id: opendata-star-student-group-scores-csv
+    source_id: dc-school-report-card-site
+    name: "School STAR Student Group Scores (CSV export)"
+    url: "https://opendata.dc.gov/api/download/v1/items/db72f81db024485f818f0f41a43aeec4/csv?layers=0"
+    kind: csv
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://opendata.dc.gov/datasets/DCGIS::school-star-student-group-scores/about"
+    topics: [accountability, demographics]
+
+  - id: opendata-school-facility-location-history-csv
+    source_id: opendata-school-facilities
+    name: "Public School Facility Location History (CSV export)"
+    url: "https://opendata.dc.gov/api/download/v1/items/67eebf4195264886be48740cede944ee/csv?layers=10"
+    kind: csv
+    year: "2013-14 to 2025-26"
+    added: "2026-11-01"
+    page: "https://opendata.dc.gov/datasets/DCGIS::public-school-facility-location-history/about"
+    topics: [facilities, gis]
+
+  - id: opendata-closed-public-schools-csv
+    source_id: opendata-school-facilities
+    name: "Closed Public Schools (CSV export)"
+    url: "https://opendata.dc.gov/api/download/v1/items/ed29a83d799f465f8368bad3d7b330a9/csv?layers=2"
+    kind: csv
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://opendata.dc.gov/datasets/DCGIS::closed-public-schools/about"
+    topics: [facilities, gis]
+
+  # ---- Added 2026-11-01 broader pass: DCPS educator exit survey, printable directory, glance-performance NAEP ----
+  - id: dcps-educator-exit-survey-2024-25
+    source_id: dcps-educator-exit-survey
+    name: "SY24-25 DCPS Educator Exit Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/SY24-25%20DCPS%20Educator%20Exit%20Survey%20Report.pdf"
+    kind: pdf
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/page/dcps-educator-exit-survey-report"
+    topics: [educators]
+
+  - id: dcps-educator-retention-data-2025
+    source_id: dcps-educator-exit-survey
+    name: "2025 Educator Retention Report Data File"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2025%20Educator%20Retention%20Report%20Data%20File.xlsx"
+    kind: xlsx
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/page/dcps-educator-exit-survey-report"
+    topics: [educators]
+
+  - id: dcps-educator-exit-survey-2023-24
+    source_id: dcps-educator-exit-survey
+    name: "SY23-24 DCPS Educator Exit Survey Report"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/SY23-24%20DCPS%20Educator%20Exit%20Survey%20Report.pdf"
+    kind: pdf
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/page/dcps-educator-exit-survey-report"
+    topics: [educators]
+
+  - id: dcps-educator-retention-data-2024
+    source_id: dcps-educator-exit-survey
+    name: "2024 Educator Retention Report Data File"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2024%20Educator%20Retention%20Report%20Data%20File.xlsx"
+    kind: xlsx
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/page/dcps-educator-exit-survey-report"
+    topics: [educators]
+
+  - id: dcps-school-directory-2025-26
+    source_id: dcps-school-directory
+    name: "DCPS School Directory SY 2025-2026"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/DCPS%20School%20Directory%20SY%202025-2026.pdf"
+    kind: pdf
+    year: "2025-26"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/publication/printable-school-directory"
+    topics: [profiles]
+
+  - id: dcps-naep-2019-results
+    source_id: dcps-glance-performance
+    name: "DCPS 2019 NAEP Results"
+    url: "https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/2019%20NAEP%20Results_FINAL.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dcps.dc.gov/page/dcps-glance-performance"
+    topics: [assessment]
+
+  # ---- Added 2026-11-01 broader pass: DCPS budget archives FY23-FY26 ----
+  - id: dcpsbudget-fy26-initial-submitted-amended-2025
+    source_id: dcps-budget-portal
+    name: "FY26 Initial, Submitted & Amended Budget Spreadsheet (school-by-school)"
+    url: "https://dcpsbudget.com/wp-content/uploads/2025/10/FY26-Initial_Submitted_Amended_Budget_Spreadsheet.xlsx"
+    kind: xlsx
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dcpsbudget.com/budget-archives/sy25-26-fy26-archives/"
+    topics: [finance]
+
+  - id: dcpsbudget-fy25-amended-submitted-initial-2024
+    source_id: dcps-budget-portal
+    name: "FY25 Amended, Submitted & Initial Budgets (data download)"
+    url: "https://dcpsbudget.com/wp-content/uploads/2024/11/FY25-Amended-Submitted-and-Initial_Data-Download.xlsx"
+    kind: xlsx
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://dcpsbudget.com/budget-archives/sy24-25-archives/"
+    topics: [finance]
+
+  - id: dcpsbudget-fy24-initial-submitted-amended-2023
+    source_id: dcps-budget-portal
+    name: "FY24 Initial, Submitted & Amended Budgets"
+    url: "https://dcpsbudget.com/wp-content/uploads/2023/11/FY24_Initial_Submitted_Amended-Budgets.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://dcpsbudget.com/budget-archives/sy23-24-archives/"
+    topics: [finance]
+
+  - id: dcpsbudget-fy23-initial-allocations-2022
+    source_id: dcps-budget-portal
+    name: "FY23 Initial Allocations (Three Strategies)"
+    url: "https://dcpsbudget.com/wp-content/uploads/2022/02/FY23-Initial-Allocations_Three-Strategies.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dcpsbudget.com/budget-archives/sy22-23-archives/"
+    topics: [finance]
+
+  - id: dcpsbudget-fy23-submitted-budgets-2022
+    source_id: dcps-budget-portal
+    name: "FY23 Submitted Budgets"
+    url: "https://dcpsbudget.com/wp-content/uploads/2022/02/FY23-Submitted-Budgets.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dcpsbudget.com/budget-archives/sy22-23-archives/"
+    topics: [finance]
+
+  # ---- Added 2026-11-01 broader pass: SLED public docs (fact sheets, cohort grad rates) ----
+  - id: sled-sea-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "DC SEA Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/DC_SEA_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-1-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 1 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_1_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-2-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 2 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_2_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-3-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 3 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_3_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-4-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 4 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_4_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-5-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 5 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_5_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-6-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 6 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_6_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-7-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 7 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_7_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-ward-8-fact-sheet-2011-12
+    source_id: osse-sled
+    name: "Ward 8 Indicator Data Fact Sheet (SY2011-12)"
+    url: "https://sled.osse.dc.gov/DOCS/Ward_8_FactSheet.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [enrollment, demographics]
+
+  - id: sled-cohort-grad-rates-2007-08-cohort
+    source_id: osse-sled
+    name: "Official Graduation Rates Report — 2007-08 First-Time Ninth Grader Cohort"
+    url: "https://sled.osse.dc.gov/DOCS/Cohort_Grad_Rates410.pdf"
+    kind: pdf
+    year: "2007-08"
+    added: "2026-11-01"
+    page: "https://sled.osse.dc.gov/info/OSSE-Reports/"
+    topics: [graduation]
+
+  # ---- Harvested from dme-mfp-archive (57 files) ----
+  - id: dme-mfp-archive-2025-mfp-annual-supplement-report-2025
+    source_id: dme-mfp-archive
+    name: "MFP 2025 Supplement — 2025 MFP Annual Supplement Report"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2025_MFP_Annual_Supplement_FINAL%5B1%5D.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-2025-mfp-annual-supplement-appendix-1-2025
+    source_id: dme-mfp-archive
+    name: "MFP 2025 Supplement — 2025 MFP Annual Supplement Appendix 1"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2025%20MFP%20Annual%20Supplement%20Appendix%201.xlsx"
+    kind: xlsx
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-2025-mfp-annual-supplement-appendix-2-2025
+    source_id: dme-mfp-archive
+    name: "MFP 2025 Supplement — 2025 MFP Annual Supplement Appendix 2"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2025%20MFP%20Annual%20Supplement%20Appendix%202.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-2025-mfp-annual-supplement-appendix-3-2025
+    source_id: dme-mfp-archive
+    name: "MFP 2025 Supplement — 2025 MFP Annual Supplement Appendix 3"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2025%20MFP%20Annual%20Supplement%20Appendix%203_0.xlsx"
+    kind: xlsx
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-2025-mfp-annual-supplement-appendix-4-2025
+    source_id: dme-mfp-archive
+    name: "MFP 2025 Supplement — 2025 MFP Annual Supplement Appendix 4"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2025%20MFP%20Annual%20Supplement%20Appendix%204_0.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-a-dcps-sy2021-22-enrollment-utilization-plans-mfp-2022-supp-f
+    source_id: dme-mfp-archive
+    name: "MFP 2022 Supplement — Appendix A - DCPS SY2021-22 Enrollment Utilization Plans MFP 2022 Supp_Final"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A%20-%20DCPS%20SY2021-22%20Enrollment%20Utilization%20Plans%20MFP%202022%20Supp_Final_0.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2022-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-b-pcs-sy2021-22-enrollment-mfp-2022-supp-final-xlsx-2022
+    source_id: dme-mfp-archive
+    name: "MFP 2022 Supplement — Appendix B - DC PCS SY2021-22 Enrollment Data MFP 2022 Supp_Final"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B%20-%20DC%20PCS%20SY2021-22%20Enrollment%20Data%20MFP%202022%20Supp_Final_0.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2022-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-c-dcps-facility-classification-mfp-2022-supp-final-xlsx-2022
+    source_id: dme-mfp-archive
+    name: "MFP 2022 Supplement — Appendix C - DCPS Facility Classification MFP 2022 Supp_Final"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C%20-%20DCPS%20Facility%20Classification%20MFP%202022%20Supp_Final_0.xlsx"
+    kind: xlsx
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2022-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-a-dcps-sy2020-21-enrollment-data-2021
+    source_id: dme-mfp-archive
+    name: "MFP 2021 Supplement — Appendix A - DCPS SY2020-21 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A%20-%20DCPS%20SY2020-21%20Enrollment%20Data.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2021-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-b-pcs-sy2020-21-enrollment-data-2021
+    source_id: dme-mfp-archive
+    name: "MFP 2021 Supplement — Appendix B - DC PCS SY2020-21 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B%20-%20DC%20PCS%20SY2020-21%20Enrollment%20Data.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2021-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-c-dcps-facility-data-2021
+    source_id: dme-mfp-archive
+    name: "MFP 2021 Supplement — Appendix C - DCPS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C%20-%20DCPS%20Facility%20Data_2.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2021-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-d-pcs-facility-data-2021
+    source_id: dme-mfp-archive
+    name: "MFP 2021 Supplement — Appendix D - DC PCS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20D%20-%20DC%20PCS%20Facility%20Data_2.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2021-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-e-dcps-facility-classification-as-of-december-2021-2021
+    source_id: dme-mfp-archive
+    name: "MFP 2021 Supplement — Appendix E - DCPS Facility Classification as of December 2021"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E%20-%20DCPS%20Facility%20Classification%20as%20of%20December%202021.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2021-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-a-dcps-sy2019-20-enrollment-data-2020
+    source_id: dme-mfp-archive
+    name: "MFP 2020 Supplement — Appendix A - DCPS SY2019-20 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A%20-%20DCPS%20SY2019-20%20Enrollment%20Data.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2020-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-b-pcs-sy2019-20-enrollment-data-2020
+    source_id: dme-mfp-archive
+    name: "MFP 2020 Supplement — Appendix B - DC PCS SY2019-20 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B%20-%20DC%20PCS%20SY2019-20%20Enrollment%20Data.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2020-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-c-dcps-facility-data-2020
+    source_id: dme-mfp-archive
+    name: "MFP 2020 Supplement — Appendix C - DCPS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C%20-%20DCPS%20Facility%20Data_1.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2020-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-d-pcs-facility-data-2020
+    source_id: dme-mfp-archive
+    name: "MFP 2020 Supplement — Appendix D - DC PCS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20D%20-%20DC%20PCS%20Facility%20Data_1.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2020-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-e-dcps-facility-classifications-2020
+    source_id: dme-mfp-archive
+    name: "MFP 2020 Supplement — Appendix E - DCPS Facility Classifications"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E%20-%20DCPS%20Facility%20Classification%20as%20of%20December%202020.xlsx"
+    kind: xlsx
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2020-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-a-dcps-sy2018-19-enrollment-data-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix A - DCPS SY2018-19 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A%20-%20DCPS%20SY2018-19%20Enrollment%20Data_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-b-pcs-sy2018-19-enrollment-data-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix B - DC PCS SY2018-19 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B%20-%20DC%20PCS%20SY2018-19%20Enrollment%20Data_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-c-dcps-facility-data-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix C - DCPS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C%20-%20DCPS%20Facility%20Data_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-d-pcs-facility-data-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix D - DC PCS Facility Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20D%20-%20DC%20PCS%20Facility%20Data_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-e-dcps-5-and-10-year-enrollment-projections-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix E – DCPS 5- and 10-year Enrollment Projections"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E%20%E2%80%93%20DCPS%205-%20and%2010-year%20Enrollment%20Projections%20_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-f-pcs-5-and-10-year-enrollment-estimates-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix F - DC PCS 5- and 10-year Enrollment Estimates"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20F%20-%20DC%20PCS%205-%20and%2010-year%20Enrollment%20Estimates_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-g-dcps-sy2018-19-facility-classification-2019
+    source_id: dme-mfp-archive
+    name: "MFP 2019 Supplement — Appendix G - DCPS SY2018-19 Facility Classification"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20G%20-%20DCPS%20SY2018-19%20Facility%20Classification_0.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2019-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-1-number-of-facilities-by-ward-sector-2013-2017-xlsx-2013
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.1 Number of School Facilities by Ward_Sector, 2013-2017"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.1%20Number%20of%20School%20Facilities%20by%20Ward_Sector%2C%202013-2017_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-2-modernization-by-2002-2008-xlsx-2002
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.2 Modernization by School, 2002-2008"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.2%20Modernization%20by%20School%2C%202002-2008_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-3-schools-modernized-after-2008-xlsx-2008
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.3 Schools Modernized After 2008"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.3%20Schools%20Modernized%20After%202008_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-4-facility-condition-index-schools-in-district-owned-facilities-sy20
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.4 Facility Condition Index, Schools in District-Owned Facilities SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.4%20Facility%20Condition%20Index%2C%20Schools%20in%20District-Owned%20Facilities%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-5-facility-condition-index-schools-in-non-district-owned-facilities
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.5 Facility Condition Index, Schools in Non-District Owned Facilities SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.5%20Facility%20Condition%20Index%2C%20Schools%20in%20Non-District%20Owned%20Facilities%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-7-schools-with-one-or-more-programs-sy2017-18-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.7 Schools with One or More Programs, SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.7%20Schools%20with%20One%20or%20More%20Programs%2C%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-8-historic-enrollment-share-by-sector-since-sy2008-09-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.8 Historic Enrollment Share by Sector Since SY2008-09"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.8%20Historic%20Enrollment%20Share%20by%20Sector%20Since%20SY2008-09_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-9-change-in-program-enrollment-sy2014-15-to-sy2017-18-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.9 Change in Program Enrollment, SY2014-15 to SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.9%20Change%20in%20Program%20Enrollment%2C%20SY2014-15%20to%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-10-programs-offered-with-percent-change-sy2014-15-to-sy2017-18-xlsx
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.10 Programs Offered With Percent Change, SY2014-15 to SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.10%20Programs%20Offered%20With%20Percent%20Change%2C%20SY2014-15%20to%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-11-programs-offered-with-absolute-change-sy2014-15-to-sy2017-18-xlsx
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.11 Programs Offered with Absolute Change, SY2014-15 to SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.11%20Programs%20Offered%20with%20Absolute%20Change%2C%20SY2014-15%20to%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-12-programs-offered-by-ward-sy2014-15-to-sy2017-18-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.12 Programs Offered by Ward, SY2014-15 to SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.12%20Programs%20Offered%20by%20Ward%2C%20SY2014-15%20to%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-13-utilization-status-sy2017-18-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.13 Utilization Status SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.13%20Utilization%20Status%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-14-fy2019-fy2024-cip-investment-costs-by-project-and-year-us-million
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.14 FY2019-FY2024 CIP Investment Costs by Project and Year ($US Million)"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.14%20FY2019-FY2024%20CIP%20Investment%20Costs%20by%20Project%20and%20Year%20%28%24US%20Million%29_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-15-pace-modernization-prioritization-rankings-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.15 PACE Modernization Prioritization Rankings"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.15%20PACE%20Modernization%20Prioritization%20Rankings_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-16-dcps-sy2017-18-aud-enroll-sy2022-23-and-sy2027-28-proj-enroll-by
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.16 DCPS SY2017-18 Aud Enroll, SY2022-23 and SY2027-28 Proj Enroll by School"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.16%20DCPS%20SY2017-18%20Aud%20Enroll%2C%20SY2022-23%20and%20SY2027-28%20Proj%20Enroll%20by%20School.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-17-dcps-sy2017-18-aud-enroll-sy2022-23-and-sy2027-28-proj-enroll-gro
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.17 DCPS SY2017-18 Aud Enroll, SY2022-23 and SY2027-28 Proj Enroll_GrowthPln"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.17%20DCPS%20SY2017-18%20Aud%20Enroll%2C%20SY2022-23%20and%20SY2027-28%20Proj%20Enroll_GrowthPln.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-a-18-public-charter-growth-plans-by-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.18 Public Charter School Growth Plans by School"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.18%20Public%20Charter%20School%20Growth%20Plans%20by%20School_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-a-20-dcps-gap-analysis-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.20 DCPS Gap Analysis"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.20%20DCPS%20Gap%20Analysis_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-21-pcs-gap-analysis-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.21 PCS Gap Analysis"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.21%20PCS%20Gap%20Analysis_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-22-pcs-gap-analysis-lea-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.22 PCS Gap Analysis - LEA"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.22%20PCS%20Gap%20Analysis%20-%20LEA_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-a-25-gross-square-feet-by-facility-sy2017-18-xlsx-2018
+    source_id: dme-mfp-archive
+    name: "MFP 2018 — A.25 Gross Square Feet by Facility SY2017-18"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/A.25%20Gross%20Square%20Feet%20by%20Facility%20SY2017-18_0.xlsx"
+    kind: xlsx
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-public-education-master-facilities-plan-2018-mfp-appendices"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-a-dcps-sy-2016-17-enrollment-data-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix A - DCPS SY 2016-17 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A%20-%20DCPS%20SY2016-17%20Enrollment%20Data_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-b-pcs-sy-2016-17-enrollment-data-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix B - PCS SY 2016-17 Enrollment Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B%20-%20PCS%20SY2016-17%20Enrollment%20Data_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-c-fy17-dcps-asset-condition-ratings-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix C - FY17 DCPS Asset Condition Ratings"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C%20-%20FY17%20DCPS%20Asset%20Condition%20Ratings_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-d-pcsb-public-charter-facility-survey-findings-16-17-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix D - DC PCSB Public Charter Facility Survey Findings 16-17"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20D%20-%20DC%20PCSB%20Public%20Charter%20Facility%20Survey%20Findings%2016-17_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [facilities, school-climate]
+
+  - id: dme-mfp-archive-appendix-e-sy-2016-17-audited-enrollment-by-lea-and-by-school-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix E - SY 2016-17 Audited Enrollment by LEA and by School"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E%20-%20SY2016-17%20Audited%20Enrollment%20by%20LEA%20and%20by%20School_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-f-dcps-sy-2016-17-facility-classification-2016
+    source_id: dme-mfp-archive
+    name: "MFP 2016 Supplement — Appendix F - DCPS SY 2016-17 Facility Classification"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20F%20-%20DCPS%20SY2016-17%20Facility%20Classification_0.xlsx"
+    kind: xlsx
+    year: "2016"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/2016-master-facilities-plan-supplement"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-d-excel-2014-15
+    source_id: dme-mfp-archive
+    name: "MFP 2015 — Appendix D - SY14-15 Audited Enrollment by LEA and by School"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20D_SY14-15%20Audited%20Enrollment%20by%20LEA%20and%20by%20School.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/appendix-d-sy14-15-audited-enrollment-lea-and-school"
+    topics: [enrollment]
+
+  - id: dme-mfp-archive-appendix-a-excel-unknown
+    source_id: dme-mfp-archive
+    name: "MFP 2015 — Appendix A - DCPS Facility Data and Utilization Plan(s)"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20A_DCPS%20Facility%20Data%20and%20Utilization%20Plans.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/appendix-dcps-facility-data-and-utilization-plans"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-b-excel-2014-15
+    source_id: dme-mfp-archive
+    name: "MFP 2015 — Appendix B - Public Charter Facility Data, SY14-15"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20B_Public%20Charter%20Facility%20Data%20Sheet%2C%20SY14-15.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/appendix-b-public-charter-facility-data-sy14-15"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-appendix-c-excel-unknown
+    source_id: dme-mfp-archive
+    name: "MFP 2015 — Appendix C - DCPS Schools Facilities- Condition Assessment Summary (FCS)"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20C_DCPS%20Schools%20-%20Facility%20Condition%20Assessments%20%28FCS%29%20Summary.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/appendix-c-dcps-schools-facilities-condition-assessment-summary-fcs"
+    topics: [enrollment, facilities]
+
+  - id: dme-mfp-archive-appendix-e-excel-unknown
+    source_id: dme-mfp-archive
+    name: "MFP 2015 — Appendix E - DCPS Facility Designation List"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E_DCPS%20Facility%20Designation%20List.xlsx"
+    kind: xlsx
+    year: "2015"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/appendix-e-dcps-facility-designation-list"
+    topics: [facilities]
+
+  # ---- Harvested from dme-enrollment-per-boundary (5 files) ----
+  - id: dme-enrollment-per-boundary-download-the-sy23-24-public-enrollments-per-dcps-boundary-2023-24
+    source_id: dme-enrollment-per-boundary
+    name: "SY23-24 Public School Enrollments per DCPS Boundary"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY2324_Public%20School%20Enrollments%20per%20DCPS%20Boundary.xlsx"
+    kind: xlsx
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2023-24-public-school-enrollments-dcps-boundary"
+    topics: [enrollment, boundaries, student-movement]
+
+  - id: dme-enrollment-per-boundary-download-the-sy22-23-public-enrollments-per-dcps-boundary-2022-23
+    source_id: dme-enrollment-per-boundary
+    name: "SY22-23 Public School Enrollments per DCPS Boundary"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY2223_Public%20School%20Enrollments%20per%20DCPS%20Boundary.xlsx"
+    kind: xlsx
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2022-23-public-school-enrollments-dcps-boundary"
+    topics: [enrollment, boundaries, student-movement]
+
+  - id: dme-enrollment-per-boundary-sy1718-public-enrollments-per-dcps-boundary-xlsx-2017-18
+    source_id: dme-enrollment-per-boundary
+    name: "SY1718_Public School Enrollments per DCPS Boundary"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY1718_Public%20School%20Enrollments%20per%20DCPS%20Boundary.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2017-18-public-school-enrollments-dcps-boundary"
+    topics: [enrollment, boundaries, student-movement]
+
+  - id: dme-enrollment-per-boundary-sy2016-17-public-enrollments-per-dcps-boundary-xlsx-2020-16
+    source_id: dme-enrollment-per-boundary
+    name: "SY2016-17 Public School Enrollments per DCPS Boundary"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY2016-17%20Public%20School%20Enrollments%20per%20DCPS%20Boundary_3.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2016-17-public-school-enrollments-dcps-boundary"
+    topics: [enrollment, boundaries, student-movement]
+
+  - id: dme-enrollment-per-boundary-sy2016-17-public-enrollments-by-neighborhood-cluster-2020-16
+    source_id: dme-enrollment-per-boundary
+    name: "SY2016-17 Public School Enrollments by Neighborhood Cluster"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY2016-17%20Public%20School%20Enrollment%20by%20Neighborhood.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2016-17-public-school-enrollments-neighborhood-cluster"
+    topics: [enrollment, boundaries, student-movement]
+
+  # ---- Harvested from dme-boundary-study (2 files) ----
+  - id: dme-boundary-study-download-the-boundary-and-student-assignment-study-2023-supporting-dat
+    source_id: dme-boundary-study
+    name: "Boundary and Student Assignment Study 2023 Supporting Datasheet"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Boundary%20and%20Student%20Assignment%20Study%202023%20Supporting%20Datasheet%20-%204.05.2024.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/boundary-and-student-assignment-study-2023-supporting-datasheet"
+    topics: [boundaries]
+
+  - id: dme-boundary-study-download-the-boundary-and-student-assignment-study-2023-es-boundary-ne
+    source_id: dme-boundary-study
+    name: "Boundary and Student Assignment Study 2023 - ES Boundary Neighbors datasheet"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Elementary%20School%20Boundary%20Neighbors%20-%20Shares%20of%20at-risk%20students.xlsx"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/boundary-and-student-assignment-study-2023-elementary-school-boundary-neighbors"
+    topics: [boundaries]
+
+  # ---- Harvested from dme-school-facilities-data (9 files) ----
+  - id: dme-school-facilities-data-edsight-vacant-facilities-appendix-september-2021-update-2021
+    source_id: dme-school-facilities-data
+    name: "Edsight - Vacant Facilities Appendix (September 2021 Update)"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Citywide%20Landscape%20of%20Formerly%20Closed%20DCPS%20Facilities_Appendix_August%202021_FINAL%20PUBLIC_0.xlsx"
+    kind: xlsx
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/edsight-closed-dcps-facilities-updated-september-2021"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-sy21-22-facilities-data-2021-22
+    source_id: dme-school-facilities-data
+    name: "SY21-22 School Facilities Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY21-22_Facility%20Summary%20for%20Download_0.xlsx"
+    kind: xlsx
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2021-22-school-facilities-data"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-sy20-21-facilities-data-2020-21
+    source_id: dme-school-facilities-data
+    name: "SY20-21 School Facilities Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY20-21_Facility%20Summary%20for%20Download_0.xlsx"
+    kind: xlsx
+    year: "2020-21"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2020-21-school-facilities-data"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-edsight-cross-sector-collaboration-appendix-i-table-unknown
+    source_id: dme-school-facilities-data
+    name: "Edsight - Cross Sector Collaboration Appendix I table"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Cross%20Sector%20Collaboration%20Edsight%20Appendix%201.xlsx"
+    kind: xlsx
+    year: "unknown"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/edsight-cross-sector-collaboration"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-citywide-landscape-of-formerly-closed-dcps-facilities-appendix-august
+    source_id: dme-school-facilities-data
+    name: "Citywide Landscape of Formerly Closed DCPS Facilities_Appendix_August 2019"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Citywide%20Landscape%20of%20Formerly%20Closed%20DCPS%20Facilities_Appendix_August%202019.xlsx"
+    kind: xlsx
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/citywide-landscape-former-dcps-facilities-remaining-educational-use-or-government-owned"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-sy19-20-facilities-data-2019-20
+    source_id: dme-school-facilities-data
+    name: "SY19-20 School Facilities Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY19-20_Facility%20Summary%20for%20Download_2.xlsx"
+    kind: xlsx
+    year: "2019-20"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2019-20-school-facilities-data"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-sy18-19-facilities-xlsx-2018-19
+    source_id: dme-school-facilities-data
+    name: "SY18-19 School Facilities Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY18-19%20School%20Facilities%20Data_3.xlsx"
+    kind: xlsx
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2018-19-school-facilities-data"
+    topics: [facilities]
+
+  - id: dme-school-facilities-data-sy16-17-dcps-utilization-and-in-boundary-percentage-data-2016-17
+    source_id: dme-school-facilities-data
+    name: "SY16-17 DCPS Utilization and In-boundary Percentage Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY1617_DCPS%20Utilization%20%26%20In-boundary%20%25%20Data_0.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2016-17-dcps-utilization-rates-and-boundary-percentages-data"
+    topics: [boundaries, facilities]
+
+  - id: dme-school-facilities-data-sy17-18-facilities-xlsx-2017-18
+    source_id: dme-school-facilities-data
+    name: "SY17-18 School Facilities Data"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY17-18%20School%20Facilities%20Data_1.xlsx"
+    kind: xlsx
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/sy2017-18-school-facilities-data"
+    topics: [facilities]
+
+  # ---- Harvested from dme-supply-demand (14 files) ----
+  - id: dme-supply-demand-sy16-17-high-fact-sheets-appendices-10-06-17-xlsx-2016-17
+    source_id: dme-supply-demand
+    name: "Supply & Demand — SY16-17_High School Fact Sheets Appendices_10.06.17"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY16-17_High%20School%20Fact%20Sheets%20Appendices_10.06.17_2.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-high-school-fact-sheet-sy2016-17"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-elementary-fact-sheet-sy2016-17-appendices-2016-17
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Elementary School Fact Sheet - SY2016-17 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY16-17_Elementary%20School%20Fact%20Sheets%20Appendices_10.06.17_1.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-elementary-school-fact-sheet-1"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-middle-fact-sheet-sy2016-17-appendices-2016-17
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Middle School Fact Sheet - SY2016-17 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY16-17_Middle%20School%20Fact%20Sheets%20Appendices_10.06.17.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-middle-school-fact-sheet-sy2016-17"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-citywide-fact-sheet-sy2016-17-appendices-2016-17
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Citywide Fact Sheet - SY2016-17 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY16-17_Citywide%20School%20Fact%20Sheets%20Appendices_10.06.17_2.xlsx"
+    kind: xlsx
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-citywide-fact-sheet-sy2016-17"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-elementary-fact-sheet-sy2015-16-appendices-2015-16
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Elementary School Fact Sheet - SY2015-16 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY15-16_Elementary%20School%20Fact%20Sheets%20Appendices_10.21.16_0.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-elementary-school-fact-sheet"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-citywide-fact-sheet-sy2015-16-appendices-2015-16
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Citywide Fact Sheet - SY2015-16 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY15-16_Citywide%20School%20Fact%20Sheets%20Appendices_10.14.16_0.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-citywide-fact-sheet-sy2015-16"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-middle-fact-sheet-sy2015-16-appendices-2015-16
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Middle School Fact Sheet - SY2015-16 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY15-16_Middle%20School%20Fact%20Sheets%20Appendices_10.21.16_1.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-middle-school-fact-sheet-sy2015-16"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-high-fact-sheet-sy2015-16-appendices-2015-16
+    source_id: dme-supply-demand
+    name: "Supply & Demand — High School Fact Sheet - SY2015-16 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/SY15-16_High%20School%20Fact%20Sheets%20Appendices_10.21.16_0.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-high-school-fact-sheet-sy2015-16"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-elementary-fact-sheet-sy14-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Cross-Sector Task Force — Elementary School Fact Sheet SY14-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Elementary%20School%20Fact%20Sheets%20SY14-15%20Appendices_02%2018%2016.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-cross-sector-collaboration-task-force-elementary-school-fact-sheet-sy14-15-0"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-high-fact-sheet-sy14-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Cross-Sector Task Force — High School Fact Sheet SY14-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/High%20School%20Fact%20Sheets%20SY14-15%20Appendices_02%2018%2016.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-cross-sector-collaboration-task-force-high-school-fact-sheet-sy14-15-appendices"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-middle-fact-sheet-sy14-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Cross-Sector Task Force — Middle School Fact Sheet SY14-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Middle%20School%20Fact%20Sheets%20SY14-15%20Appendices_02%2018%2016.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dc-cross-sector-collaboration-task-force-middle-school-fact-sheet-sy14-15-appendices"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-high-fact-sheet-sy2014-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Supply & Demand — High School Fact Sheet - SY2014-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/High%20School%20Fact%20Sheets%20SY14-15%20Appendices_02.18.16.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-high-school-fact-sheet-sy2014-15"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-elementary-fact-sheet-sy2014-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Elementary School Fact Sheet - SY2014-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Elementary%20School%20Fact%20Sheets%20SY14-15%20Appendices_02.18.16.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-elementary-school-fact-sheet-0"
+    topics: [enrollment, lottery, facilities]
+
+  - id: dme-supply-demand-middle-fact-sheet-sy2014-15-appendices-2014-15
+    source_id: dme-supply-demand
+    name: "Supply & Demand — Middle School Fact Sheet - SY2014-15 - Appendices"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Middle%20School%20Fact%20Sheets%20SY14-15%20Appendices_02.18.16.xlsx"
+    kind: xlsx
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/public-education-supply-and-demand-district-columbia-middle-school-fact-sheet-sy2014-15"
+    topics: [enrollment, lottery, facilities]
+
+  # ---- Harvested from dme-boundary-review-2014 (19 files) ----
+  - id: dme-boundary-review-2014-current-vs-proposed-es-boundaries-2014
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Current vs Proposed ES Boundaries"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Current%20vs%20%20Proposed%20Elementary%20School%20Boundaries_2014%20and%202020_Public%205%2019%2014_AC%20MEETING.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/advisory-committee-student-assignment-current-vs-proposed-elementary-school-boundaries"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-school-boundary-neighborhood-level-sheet-including-boundary-change-rat
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — School, Boundary, Neighborhood-Level Data Sheet Including Boundary Change Rationales"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/School%2C%20Boundary%2C%20Neighborhood-Level%20Data%20Sheet%20Including%20Boundary%20Change%20Rationales.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/school-boundary-neighborhood-level-data-sheet-including-boundary-change-rationales"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-at-risk-priority-analysis-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — At Risk Priority Analysis"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/At%20Risk%20Priority%20Analysis.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/risk-priority-analysis-schools-less-25-risk-enrollment"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-basic-statistics-about-dcps-schools-sy2013-14-2020-13
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Basic Statistics About DCPS Schools, SY2013-14"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Basic%20Statistics%20about%20DCPS%20Schools%20SY2013-14.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/basic-statistics-about-dcps-school-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-dcps-feeder-pattern-analysis-2020-12
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — DCPS Feeder Pattern Analysis"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/DCPS%20Feeder%20Pattern%20Analysis%20SY2012%20to%20SY2013_0.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dcps-feeder-pattern-analysis-sy2012-13-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-schools-of-right-for-students-sy2013-14-2020-13
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Schools of Right for Students_SY2013-14"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Schools%20of%20Right%20for%20Students_SY2013-14_0.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/current-dcps-schools-right-number-students-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-early-childhood-analysis-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Early Childhood Analysis"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Title%201%20Early%20Childhood%20Analysis_1.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/early-childhood-analysis-title-i-dcps-schools-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-percent-oob-students-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Percent OOB students"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Percent%20OOB%20students.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/out-boundary-students-enrolled-dcps-schools-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-percent-at-risk-students-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Percent at risk students"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Percent%20at%20risk%20students.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/risk-students-school-sy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-change-walk-distance-current-final-boundaries-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Change Walk Distance Current Final Boundaries"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Change%20Walk%20Distance%20Current%20Final%20Boundaries%20.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/change-walk-distance-between-current-and-new-boundaries-ward"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-walkability-analysis-for-proximity-priority-and-guardian-subsidy-unkno
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Walkability Analysis for Proximity Priority and Guardian Subsidy"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Walkability%20Analysis%20for%20Proximity%20Priority%20and%20Guardian%20Subsidy.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/walkability-analysis-proximity-priority-and-guardian-subsidy-new-boundaries"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-final-sy2015-16-geographic-feeder-pathways-2020-15
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Final SY2015-16 Geographic Feeder Pathways"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Final%20SY2015-16%20Geographic%20Feeder%20Pathways.xlsx"
+    kind: xlsx
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/new-geographic-feeder-pathways"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-draft-recommendations-data-sheet-june-2014-2014
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Draft Recommendations School Data Sheet_June 2014"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Copy%20of%20Draft%20Recommendations%20School%20Data%20Sheet_June%202014.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/draft-recommendations-school-data-sheetjune-2014"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-school-boundary-and-neighborhood-cluster-statistics-file-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — School Boundary and Neighborhood Cluster Statistics File"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/School%2C%20Boundary%20and%20Neighborhood%20Cluster%20Statistics%20File_5.22.14.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/school-boundary-and-neighborhood-cluster-statistics-file"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-schools-of-right-for-students-sy2013-14-2020-13-2
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Schools of Right for Students_SY2013-14 (second posting, file Schools of Right for Students_SY2013-14.xlsx)"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Schools%20of%20Right%20for%20Students_SY2013-14.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/schools-right-studentssy2013-14"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-policy-brief-3-appendix-b-boundary-participation-table-excel-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Policy Brief 3 - Appendix B - Boundary Participation Table"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Copy%20of%20Appendix%20B-%20Boundary%20Participation%20Data%20Tables_DRAFT_Policy%20Brief%203.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/policy-brief-3-appendix-b-boundary-participation-table-excel"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-dcps-feeder-pattern-analysis-3handouts-4-2-14-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — DCPS Feeder Pattern Analysis_3Handouts_4.2.14"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/DCPS%20Feeder%20Pattern%20Analysis_3Handouts_4.2.14.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/dcps-feeder-pattern-analysis3handouts4214-excel"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-basic-statistics-about-dcps-schools-sy2013-14-4-2-14-excel-2020-13
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Basic Statistics about DCPS Schools, SY2013-14_4.2.14"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Basic%20Statistics%20about%20DCPS%20Schools%2C%20SY2013-14_4.2.14.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/basic-statistics-about-dcps-schools-sy2013-144214-excel"
+    topics: [boundaries, student-movement]
+
+  - id: dme-boundary-review-2014-policy-brief-3-appendix-b-excel-format-unknown
+    source_id: dme-boundary-review-2014
+    name: "2014 Boundary Review — Policy Brief #3 - Appendix B"
+    url: "https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Policy%20Brief%20%233%20-%20Appendix%20B%20%28excel%20format%29.xlsx"
+    kind: xlsx
+    year: "2013-14"
+    added: "2026-11-01"
+    page: "https://dme.dc.gov/publication/policy-brief-3-appendix-b-excel-format"
+    topics: [boundaries, student-movement]
+
+  # ---- Added 2026-11-01: PCSB files on Egnyte via direct-download /dd/ links ----
+  - id: pcsb-sqr-2018-school-quality-report
+    source_id: pcsb-sqr
+    name: "2018 School Quality Report (Dec 7, 2018; linked on PCSB's PMF page as the 2017-18 PMF Book)"
+    url: "https://dcpcsb.egnyte.com/dd/NWTM37IDqT"
+    kind: pdf
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability]
+
+  - id: pcsb-pmf-book-sy16-17
+    source_id: pcsb-pmf-archive
+    name: "PMF Book SY16-17 (Dec 20, 2017)"
+    url: "https://dcpcsb.egnyte.com/dd/30mlhJPiWv"
+    kind: pdf
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability]
+
+  - id: pcsb-pmf-book-2011
+    source_id: pcsb-pmf-archive
+    name: "2011 Charter School Performance Reports (PMF Book, Dec 2011; linked on PCSB's PMF page as the 2011-12 PMF Book)"
+    url: "https://dcpcsb.egnyte.com/dd/ir04gsR9Pu"
+    kind: pdf
+    year: "2010-11"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability]
+
+  - id: pcsb-aspire-guide-2026-27
+    source_id: pcsb-aspire
+    name: "2026–27 ASPIRE Policy & Technical Guide (Jun 29, 2026)"
+    url: "https://dcpcsb.egnyte.com/dd/q36q6hXjkkJ7"
+    kind: pdf
+    year: "2026-27"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/aspire-system/"
+    topics: [accountability, methodology]
+
+  - id: pcsb-aspire-guide-2025-26
+    source_id: pcsb-aspire
+    name: "2025–26 ASPIRE Policy & Technical Guide (Jun 23, 2025)"
+    url: "https://dcpcsb.egnyte.com/dd/W8HyWRKQBCjc"
+    kind: pdf
+    year: "2025-26"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/aspire-system/"
+    topics: [accountability, methodology]
+
+  - id: pcsb-at-risk-2022-23
+    source_id: pcsb-school-finances
+    name: "FY 2023 At-Risk Report (Nov 1, 2022)"
+    url: "https://dcpcsb.egnyte.com/dd/cGbZiGeN3E"
+    kind: pdf
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-at-risk-2021-22
+    source_id: pcsb-school-finances
+    name: "FY 2022 At-Risk Report"
+    url: "https://dcpcsb.egnyte.com/dd/HJF35Bqqdm"
+    kind: pdf
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-at-risk-2020-21
+    source_id: pcsb-school-finances
+    name: "At-Risk Funding 2020-2021"
+    url: "https://dcpcsb.egnyte.com/dd/TsyKf62tLL"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-at-risk-2019-20
+    source_id: pcsb-school-finances
+    name: "At-Risk Report, January 2020 (linked as the 2019-2020 report)"
+    url: "https://dcpcsb.egnyte.com/dd/N725Elnhja"
+    kind: pdf
+    year: "2019-20"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-upsff-2024-25
+    source_id: pcsb-school-finances
+    name: "2024-25 UPSFF Memo (Final) (per-pupil funding analysis)"
+    url: "https://dcpcsb.egnyte.com/dd/iWzWL6BZ4E"
+    kind: pdf
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-upsff-2023-24
+    source_id: pcsb-school-finances
+    name: "2023-24 UPSFF Memo (per-pupil funding analysis)"
+    url: "https://dcpcsb.egnyte.com/dd/rf5wCEMBcA"
+    kind: pdf
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-upsff-2022-23
+    source_id: pcsb-school-finances
+    name: "2022-23 UPSFF Memo (per-pupil funding analysis)"
+    url: "https://dcpcsb.egnyte.com/dd/jPC9eb73eB"
+    kind: pdf
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-upsff-2021-22
+    source_id: pcsb-school-finances
+    name: "2021-22 Uniform Per Student Funding Formula Payments (per-pupil funding analysis)"
+    url: "https://dcpcsb.egnyte.com/dd/Xg3Xt2zT7V"
+    kind: pdf
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-upsff-2020-21
+    source_id: pcsb-school-finances
+    name: "2020-21 UPSFF Payment Letter (per-pupil funding analysis)"
+    url: "https://dcpcsb.egnyte.com/dd/GV7epFJ06V"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2025
+    source_id: pcsb-school-finances
+    name: "FY 2025 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/r8Bg6X7JRxJQ"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2024
+    source_id: pcsb-school-finances
+    name: "FY 2024 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/9Tmw4gkwjM7H"
+    kind: pdf
+    year: "2024"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2023
+    source_id: pcsb-school-finances
+    name: "FY 2023 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/b6jMdBmyQ8"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2022
+    source_id: pcsb-school-finances
+    name: "FY 2022 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/9rv9ElIrHO"
+    kind: pdf
+    year: "2022"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2021
+    source_id: pcsb-school-finances
+    name: "FY 2021 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/Tm1JvmtBeN"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2020
+    source_id: pcsb-school-finances
+    name: "FY 2020 Financial Analysis Report"
+    url: "https://dcpcsb.egnyte.com/dd/XwUqqyAsEa"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2019
+    source_id: pcsb-school-finances
+    name: "FY 2019 Financial Analysis Report (file named 43637 DCPCSB Report Card)"
+    url: "https://dcpcsb.egnyte.com/dd/biu7bUGJby"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-far-fy2018
+    source_id: pcsb-school-finances
+    name: "FY 2018 Financial Analysis Report (file named 42999 DCPCSB Report Card V3)"
+    url: "https://dcpcsb.egnyte.com/dd/qDfQOo8sSC"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: pcsb-historical-enrollment
+    source_id: pcsb-student-enrollment
+    name: "Historical Enrollment Analysis, charter vs DCPS, 1967-68 to 2019-20 (Jul 15, 2020)"
+    url: "https://dcpcsb.egnyte.com/dd/0BR9yldipC"
+    kind: xlsx
+    year: "1967-68 to 2019-20"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/data/"
+    topics: [enrollment]
+
+  - id: pcsb-directory-2026-27
+    source_id: pcsb-directory-pdf
+    name: "2026–27 Public Charter School Directory"
+    url: "https://dcpcsb.egnyte.com/dd/4JmpCtX9bt48"
+    kind: xls
+    year: "2026-27"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/data/"
+    topics: [profiles]
+
+  - id: pcsb-attendance-discipline-sy14-15-full-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY14-15 Full Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=1ef046fa-a5b0-4bb1-a86c-9914cec4b73b"
+    kind: pdf
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy14-15-summary
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY14-15 Summary"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=0a695b27-04ae-49a4-b36c-dda889113e58"
+    kind: pdf
+    year: "2014-15"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy15-16-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY15-16 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=a2efc449-ee6f-4ef2-8e9e-8c2bdecad228"
+    kind: pdf
+    year: "2015-16"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy16-17-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY16-17 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=6f9d26a7-443b-458e-9ff4-0ea2f7160cf8"
+    kind: pdf
+    year: "2016-17"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy17-18-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY17-18 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=6421e1c8-18fe-416b-b805-3280c0364f66"
+    kind: pdf
+    year: "2017-18"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy18-19-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY18-19 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=25b82521-3d8a-48ef-beb3-f6bce1bc3f01"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy19-20-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY19-20 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=52cd4682-9d42-4c40-83c0-0e8beef89919"
+    kind: pdf
+    year: "2019-20"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy21-22-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY21-22 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=6d69dfe1-174d-4aaa-966a-99fc6819c6fc"
+    kind: pdf
+    year: "2021-22"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy22-23-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY22-23 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=60288e6a-6cf8-49de-b231-6b194017ca44"
+    kind: pdf
+    year: "2022-23"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy23-24-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY23-24 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=fe8ad3c3-0f50-44a7-99e4-fc38324d3b3e"
+    kind: pdf
+    year: "2023-24"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy24-25-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY24-25 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=545d19dd-cac0-46f3-afeb-8566bda282a6"
+    kind: pdf
+    year: "2024-25"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  - id: pcsb-attendance-discipline-sy25-26-report
+    source_id: pcsb-discipline-attendance
+    name: "Attendance & Discipline Report — SY25-26 Report"
+    url: "https://dcpcsb.egnyte.com/dd/Y7FcwyqdwDTd/?entryId=bf54b152-50d9-494d-b7c1-308cfa202e80"
+    kind: pdf
+    year: "2025-26"
+    added: "2026-11-01"
+    page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
+    topics: [attendance, discipline]
+
+  # ---- Added 2026-11-01: PCSB WordPress media not linked from a page (found via /wp-json/wp/v2/media) ----
+  - id: pcsb-pmf-public-data-file-2019
+    source_id: pcsb-pmf-archive
+    name: "2019 PK-12 and Adult Education PMF Public Data File (Oct 29, 2019)"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/PUBLIC-2019-10-29-2019-PK-12-and-AE-PMF-Public-Data-File.xlsx"
+    kind: xlsx
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability]
+
+  - id: pcsb-sqr-2018-19
+    source_id: pcsb-sqr
+    name: "DC PCSB School Quality Reports 2018-19"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/43413-DC-PCSB-SQR-2018-19.pdf"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability]
+
+  - id: pcsb-sqr-2018-19-pk-8
+    source_id: pcsb-sqr
+    name: "2018-19 PK-8 School Quality Reports"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2018-19-PK-8-School-Quality-Reports.pdf"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/data/"
+    topics: [accountability]
+
+  - id: pcsb-pmf-guide-2019-20
+    source_id: pcsb-pmf-archive
+    name: "2019-20 PMF Policy & Technical Guide (Nov 13, 2019 update)"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/09/2019.11.13-Vote-2019-20-PMF-Policy-Technical-Guide-November-Update-ZATT-A-Clean-BBF.pdf"
+    kind: pdf
+    year: "2019-20"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/performance-management-framework-pmf/"
+    topics: [accountability, methodology]
+
+  - id: pcsb-pmf-guide-2018-19-revisions
+    source_id: pcsb-pmf-archive
+    name: "2018-19 PMF Policy & Technical Guide Revisions (May 7, 2019)"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2019-05-07-Vote-2018-19-PMF-Policy-Tech-Guide-Revisions-Clean-ZATT-B-BBF.pdf"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/wp-content/uploads/2026/08/2019-05-07-Vote-2018-19-PMF-Policy-Tech-Guide-Revisions-Clean-ZATT-B-BBF.pdf"
+    topics: [accountability, methodology]
+
+  - id: pcsb-directory-2025-26
+    source_id: pcsb-directory-pdf
+    name: "2025-26 Public Charter School Directory"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/07/2025-26-Public-Charter-School-Directory.xlsx"
+    kind: xlsx
+    year: "2025-26"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/wp-content/uploads/2026/07/2025-26-Public-Charter-School-Directory.xlsx"
+    topics: [profiles]
+
+  - id: pcsb-enrollment-outlook-2026-06
+    source_id: pcsb-student-enrollment
+    name: "Enrollment Outlook (Jun 5, 2026)"
+    url: "https://dcpcsb.org/wp-content/uploads/2026/08/2026-06-05-Enrollment-Outlook.pdf"
+    kind: pdf
+    year: "2026-27"
+    added: "2026-11-01"
+    page: "https://dcpcsb.org/wp-content/uploads/2026/08/2026-06-05-Enrollment-Outlook.pdf"
+    topics: [enrollment]

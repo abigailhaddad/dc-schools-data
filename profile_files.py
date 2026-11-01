@@ -70,6 +70,11 @@ def local_path(entry: dict) -> Path:
 def needs_browser(url: str) -> bool:
     if "box_download_shared_file" in url:   # already-resolved Box download URL
         return False
+    # Egnyte share links come in two forms for the same token: /dl/<token>
+    # returns an HTML preview page, /dd/<token> returns the file itself with a
+    # Content-Disposition filename (verified 2026-11-01 on dcpcsb.egnyte.com).
+    if "egnyte.com/dd/" in url:
+        return False
     return any(p in url for p in NEEDS_BROWSER_PATTERNS)
 
 def download(entry: dict, refresh: bool) -> tuple[Path | None, str | None]:

@@ -142,15 +142,19 @@ re-resolve each year.
 | `myschooldc.org/.../attachments/*.pdf` | ✅ yes | per-year per-metric lottery PDFs; many years |
 | `dcpcsb.org/sites/default/files/...` | 🚫 DEAD | Drupal paths all 404 since PCSB's Oct 2026 move to WordPress |
 | `dcpcsb.org/wp-content/uploads/YYYY/MM/*.pdf` | ✅ yes | the new WordPress uploads; filenames are the old ones with spaces→`-` and punctuation stripped |
-| `dcpcsb.egnyte.com/dl/<token>` | 🚫 returns HTML | Egnyte serves a JS landing page, NOT the file. Not script-fetchable. |
+| `dcpcsb.egnyte.com/dl/<token>` | ⚠️ use `/dd/` | `/dl/` returns an HTML preview page; the same token at `/dd/<token>` returns the file (plain curl/requests, with a Content-Disposition filename) |
+| `dcpcsb.egnyte.com/fl/<token>` (folder) | ⚠️ list via API | `POST /rest/public/1.0/links/info/<token>/contents` with `{"path": "<folder path>"}` lists files; each has `_self.linkedResources.itemDownload.url` = `/dd/<token>/?entryId=<id>`, directly downloadable |
 
-**Egnyte is the wall.** Most PCSB machine-readable data (PMF score Excels, per-school
-financials, 503 annual reports, hundreds of fiscal audits) lives on Egnyte `/dl/`
-links that return an HTML landing page to any non-browser client. Do **not** add
-these as profilable files — instead record an honest **count** in the parent
-source's `notes` (e.g. "~464 per-school audit PDFs on Egnyte, browser-only") so the
-gap is visible and quantified, not silently dropped. Only catalogue PCSB files that
-are hosted directly on `dcpcsb.org`.
+**Egnyte is fetchable via `/dd/` (corrected 2026-11-01).** The old rule here said
+Egnyte was a wall; that was true only of the `/dl/` share links PCSB pages use.
+The direct-download form works for scripts, so catalogue PCSB's citywide reports
+and data files on Egnyte as `/dd/` URLs (profile_files.py treats `egnyte.com/dd/`
+as direct). Name files from the Content-Disposition filename, not PCSB's link
+text: several links are mislabelled (e.g. the "2017-18 PMF Book" is the 2018
+School Quality Report). Still do **not** catalogue the per-school folders
+(budgets, 990s, fiscal audits, annual reports, hundreds of PDFs): link the
+folder in the source's notes. `entryId`s may change if PCSB re-uploads; the
+weekly refresh will flag that as a broken link.
 
 ### DC PCSB after the Oct 2026 WordPress migration (learned 2026-11-01)
 
@@ -169,6 +173,33 @@ are hosted directly on `dcpcsb.org`.
 - Most reports moved to **Egnyte folders**, renamed (attendance/discipline:
   `egnyte.com/fl/Y7FcwyqdwDTd`, one subfolder per year). A renamed file can be
   matched to an old cached copy by size (`data_cache/`).
+
+### Finding sources the catalog doesn't know yet (broader pass, 2026-11-01)
+
+Re-sweeping known pages only finds new files *on those pages*. To find whole
+new series, also walk the publishers' own indexes and diff against
+`sources.yaml` + every `page:` in `data_files.yaml`:
+- **OSSE** `/page/osse-data-and-reports`: its links are mostly `/node/NNNN`;
+  resolve each (fetch with `redirect:'follow'`, read `response.url`) before
+  diffing, or every link looks new. This found YRBS, NAEP, CEP, School Health
+  Profiles, OSSE equity reports, non-residency reports, and older attendance
+  (2016-17→2023-24) and ACGR (2012-13→2019-20) years.
+- **DCPS** `/service/dcps-downloadable-data-sets` and `/service/school-data`.
+- **DME** `/publications` (72 pages; `?page=0..72`).
+- **Open Data DC**: `https://opendata.dc.gov/api/search/v1/collections/all/items?q=<term>&limit=100`
+  (curl works). Export URL: `/api/download/v1/items/<id>/csv?layers=<N>`;
+  N is the trailing number of the item's MapServer/FeatureServer URL (0 for
+  a bare FeatureServer). Check the CSV header before adding.
+
+After `add_harvested_files.py`, **review every new row**: it guesses `year`
+from any digits (an "SY2025-26 … 09082026" file came out as "2020-25") and
+defaults topics to `other`. Year must be a school year, a year, a range like
+"2013-14 to 2025-26", or `unknown`/`current`. Anything else (e.g. "multiple")
+shows up as a bogus year chip in the UI. Then re-sync `file_profiles.json`
+metadata from `data_files.yaml` (profiles copy name/year/topics/page at profile time).
+
+Before adding a source, grep `sources.yaml` by *name keywords* as well as URL:
+`dcps-school-directory` already existed under a different URL.
 
 ### Environment gotcha
 

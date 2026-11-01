@@ -549,8 +549,10 @@ def main() -> int:
         w("")
     else:
         w("_No download/profile errors on the last run._\n")
-    w("Other structural notes: Egnyte share links return an HTML landing page to "
-      "scripts (not fetchable — counts are recorded in source notes); the PCSB site "
+    w("Other structural notes: PCSB's Egnyte share links (/dl/) return an HTML preview "
+      "page, so files are catalogued via Egnyte's direct-download form (/dd/); PCSB's "
+      "per-school folders (budgets, 990s, audits) are linked from source notes, not "
+      "listed file by file; the PCSB site "
       "returns intermittent 520s; the live Report Card is a JS app (use the Resource "
       "Library files for analysis); discipline by-school detail is in PDF appendices; "
       "STAR (OSSE) and SQR/PMF/ASPIRE (PCSB) are different rating systems.\n")

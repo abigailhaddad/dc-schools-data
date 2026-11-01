@@ -301,6 +301,78 @@ sources:
     years: "Includes historical enrollment-audit Excel SY2001–2009"
     notes: "Two-tier: public direct links vs. credentialed access (SLED login + user agreement) for the main Reports portal."
 
+  - id: osse-yrbs
+    name: "DC Youth Risk Behavior Survey (YRBS)"
+    owner: OSSE
+    url: "https://osse.dc.gov/service/dc-youth-risk-behavior-survey-yrbs"
+    topics: [school-climate, demographics]
+    authority: authoritative
+    status: ok
+    format: "PDF reports + PDF data tables"
+    cadence: "Every two years"
+    years: "2012, 2015, 2017, 2019, 2021, 2023 reports; detailed MS/HS data tables 2017-2021"
+    notes: "Student health-behavior survey of DC public middle and high school students (CDC YRBS instrument). Statewide only (no school-level results). Detailed middle/high school summary tables, trend reports and academic-achievement cross-tabs for 2017, 2019 and 2021 are on separate 'data files' pages. Added 2026-11-01; questionnaires, infographics and fact sheets are not catalogued."
+
+  - id: osse-naep
+    name: "NAEP (Nation's Report Card) — DC and DCPS results"
+    owner: OSSE
+    url: "https://osse.dc.gov/service/national-assessment-educational-progress-naep"
+    topics: [assessment]
+    authority: republished
+    status: ok
+    format: "PDF snapshots / presentation"
+    cadence: "Every two years"
+    years: "2019 state and TUDA snapshots; 2024 results overview"
+    notes: "Grades 4 and 8 reading and math. 'State' covers all DC public schools (DCPS + charters); TUDA (Trial Urban District Assessment) covers DCPS only. Full results and microdata come from NCES (nationsreportcard.gov). Older 2017 snapshot URLs now redirect to the 2019 snapshots. Added 2026-11-01."
+
+  - id: osse-school-health
+    name: "Healthy Schools Act — School Health Profiles, HSA reports, health & PE assessment"
+    owner: OSSE
+    url: "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles"
+    topics: [school-climate, profiles]
+    authority: authoritative
+    status: ok
+    format: "Excel (all-schools data) + PDF"
+    cadence: "Annual"
+    years: "School Health Profiles data SY2015-16 through SY2025-26; HSA reports 2020, 2024; HPEA results 2011-12, 2012-13"
+    notes: "School Health Profiles are a self-reported per-school survey (health services, PE minutes, nutrition, wellness policy) for every DCPS and charter school, one all-schools Excel per year. HSA reports: https://osse.dc.gov/service/healthy-schools-act-reports. Health and PE assessment (HPEA): https://osse.dc.gov/service/health-and-physical-education-assessment-hpea; only 2011-12 and 2012-13 results are posted. Added 2026-11-01; questionnaires, proctor scripts and LEA guides are not catalogued."
+
+  - id: osse-cep
+    name: "Community Eligibility Provision (CEP) — schools eligible for universal free meals"
+    owner: OSSE
+    url: "https://osse.dc.gov/publication/2018-19-school-year-dc-schools-eligible-community-eligibility-provision"
+    topics: [demographics]
+    authority: authoritative
+    status: stale
+    format: "Excel"
+    cadence: "Was annual"
+    years: "SY2016-17 through SY2018-19"
+    notes: "LEA- and school-level lists with identified-student percentages that determine CEP eligibility (a poverty proxy). Linked from the OSSE Data & Reports hub under 'Free and Reduced-Price Meals Status'; one publication page per year, latest posted is 2018-19. Added 2026-11-01."
+
+  - id: osse-equity-reports
+    name: "OSSE Equity Reports (2012-17)"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/equity-reports"
+    topics: [equity, attendance, discipline, demographics]
+    authority: authoritative
+    status: stale
+    format: "Excel + PDF business rules"
+    cadence: "Was annual"
+    years: "State- and school-level data files for SY2015-16 and SY2016-17"
+    notes: "Cross-sector equity reports (DCPS + charters) that preceded the DC School Report Card; separate from PCSB's charter-only equity reports. Only the 2015-16 and 2016-17 data files and the 2016-17 business rules are linked from this page. Added 2026-11-01."
+
+  - id: osse-nonresident
+    name: "Non-Resident Student Review and Findings Reports"
+    owner: OSSE
+    url: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [enrollment]
+    authority: authoritative
+    status: ok
+    format: "PDF"
+    cadence: "Annual"
+    years: "SY2023-24 through SY2025-26"
+    notes: "Results of OSSE's residency verification: students enrolled in DC public schools found to be non-residents, by LEA. Linked from the 'Enrollment in Public Schools' section of the Data & Reports hub. Added 2026-11-01."
+
   # ============================== DCPS ==============================
   - id: dcps-school-data-hub
     name: "DCPS School Data (data hub landing)"
@@ -485,14 +557,38 @@ sources:
   - id: dcps-school-directory
     name: "DCPS School Directory"
     owner: DCPS
-    url: "https://dcps.dc.gov/service/school-data"
+    url: "https://dcps.dc.gov/publication/printable-school-directory"
     topics: [profiles]
     authority: authoritative
     status: ok
     format: "PDF (per year)"
     cadence: "Annual"
-    years: "Per school year (e.g. SY24-25)"
-    notes: "Crosswalk of DCPS school IDs, names, addresses, wards, types. Latest year linked from the data hub; older years only via direct PDF URLs."
+    years: "Per school year (SY2025-26 linked as of 2026-11-01)"
+    notes: "Crosswalk of DCPS school IDs, names, addresses, wards, types. The 'Printable School Directory' publication page (linked from DCPS's School Data page) holds only the current year; older years only via direct PDF URLs."
+
+  - id: dcps-educator-exit-survey
+    name: "DCPS Educator Exit Survey & Educator Retention Report data"
+    owner: DCPS
+    url: "https://dcps.dc.gov/page/dcps-educator-exit-survey-report"
+    topics: [educators]
+    authority: authoritative
+    status: ok
+    format: "PDF reports + Excel data files"
+    cadence: "Annual"
+    years: "SY2023-24, SY2024-25"
+    notes: "DCPS-only. Exit survey of departing teachers and school leaders, plus the data files behind DCPS's educator retention report. Distinct from OSSE's cross-sector educator workforce data. Linked from DCPS's School Data page. Added 2026-11-01."
+
+  - id: dcps-glance-performance
+    name: "DCPS at a Glance: Performance"
+    owner: DCPS
+    url: "https://dcps.dc.gov/page/dcps-glance-performance"
+    topics: [assessment]
+    authority: republished
+    status: stale
+    format: "Web page + PDF"
+    cadence: "Irregular"
+    years: "NAEP 2019"
+    notes: "DCPS summary of its own performance. As of 2026-11-01 the only file linked is DCPS's 2019 NAEP results summary (TUDA); the page has not been updated for the 2022 or 2024 NAEP. Added 2026-11-01."
 
   # ============================== DC PCSB ==============================
   - id: pcsb-transparency-hub
@@ -526,10 +622,10 @@ sources:
     topics: [enrollment, demographics]
     authority: republished
     status: ok
-    format: "Spreadsheet (via Egnyte)"
+    format: "Excel + PDF"
     cadence: "Annual"
     years: "SY22-23, 23-24, 24-25 shown; historical spreadsheet 1967–present"
-    notes: "Charter-only enrollment. Audited counts come from OSSE; PCSB republishes and analyzes the charter slice. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /student-enrollment page and its static tables are gone (the URL redirects to /data/). The 'Student Enrollment' section of /data/ links a 'View Historical Enrollment' file on Egnyte (browser-only)."
+    notes: "Charter-only enrollment. Audited counts come from OSSE; PCSB republishes and analyzes the charter slice. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /student-enrollment page and its static tables are gone (the URL redirects to /data/). Catalogued: the 'View Historical Enrollment' spreadsheet linked from /data/ (charter vs DCPS enrollment, 1967-68 to 2019-20, dated Jul 15, 2020) and a June 2026 Enrollment Outlook found in PCSB's WordPress uploads but not linked from any page. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-assessment
     name: "Statewide Assessment Results (charter)"
@@ -562,10 +658,10 @@ sources:
     topics: [profiles]
     authority: authoritative
     status: ok
-    format: "PDF (via Egnyte)"
+    format: "Excel"
     cadence: "Annual (school year)"
-    years: "2025-26 latest; prior years at /YYYY-YY-... URLs"
-    notes: "Static counterpart to the interactive profiles: every LEA, campus, program, grades, ward, leader contact. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /2025-26-public-charter-school-directory page redirects to the newsroom; the directory is now the 'School Directory' Egnyte link in the site header (browser-only). Which school year it covers was not checked."
+    years: "2025-26, 2026-27"
+    notes: "Static counterpart to the interactive profiles: every LEA and campus with contacts of record. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old directory page redirects to the newsroom. The 'School Directory' link in the site header is the 2026-27 directory (an .xls on Egnyte, despite this source's old 'PDF' name); the 2025-26 directory is an .xlsx in PCSB's WordPress uploads. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-sqr
     name: "School Quality Report (SQR)"
@@ -573,11 +669,11 @@ sources:
     url: "https://dcpcsb.org/performance-management-framework-pmf/"
     topics: [accountability]
     authority: authoritative
-    status: stale
+    status: "stale"
     format: "Web page / per-school report"
     cadence: "Annual (released fall)"
-    years: "Current; history via PMF archive"
-    notes: "Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /families/school-quality-report page returns 404, and the new site has no SQR page (site search for 'school quality report' and 'SQR' finds none). The only SQR file found is the 2018-19 PK-8 report, linked from the PMF page."
+    years: "2017-18, 2018-19"
+    notes: "Charter accountability: scores each charter 0-100 and assigns Tier 1/2/3. This is a DIFFERENT system from OSSE's STAR (1-5) — see overlaps. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /families/school-quality-report page returns 404, and the new site has no SQR page. Catalogued: the 2018 School Quality Report (SY2017-18; PCSB's PMF page labels this Egnyte link the '2017-18 PMF Book') and the 2018-19 full and PK-8 School Quality Reports from PCSB's WordPress uploads. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-aspire
     name: "ASPIRE System (current charter accountability framework)"
@@ -589,7 +685,7 @@ sources:
     format: "Web page (framework docs / PDF)"
     cadence: "Annual"
     years: "Current"
-    notes: "The board-approved system that replaced the PMF and underlies the SQR. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-29) but visiting it, with or without the trailing slash, redirects to the 'Find a Public Charter School' page. Its content (read via the WordPress API) links the SY25-26 and SY26-27 ASPIRE Policy & Technical Guides, an Egnyte folder of historical guides, per-framework folders (PK-only, PK-8, high school, adult ed), and an ASPIRE packet, almost all on Egnyte (browser-only, not catalogued)."
+    notes: "The board-approved system that replaced the PMF and underlies the SQR. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The page is published in WordPress (last modified 2026-10-29) but visiting it, with or without the trailing slash, redirects to the 'Find a Public Charter School' page; its content was read via the WordPress API. Catalogued: the SY2025-26 and SY2026-27 ASPIRE Policy & Technical Guides. Not catalogued: the historical-guides folder, the working-group folders (PK-only, PK-8, high school, adult ed: meeting materials) and the charter-goals adoption packet. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-pmf-archive
     name: "Performance Management Framework (PMF) — archive"
@@ -598,10 +694,10 @@ sources:
     topics: [accountability, methodology]
     authority: republished
     status: stale
-    format: "PDF books/guides + Excel data files (via Egnyte)"
+    format: "PDF books/guides + Excel data file"
     cadence: "Was annual"
-    years: "SY2011-12 through 2018-19 (ARCHIVED)"
-    notes: "Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. PCSB moved its site to WordPress in Oct 2026 and the old /sites/default/files/ links stopped resolving. Four PMF books (2012-13 through 2015-16) moved to /wp-content/uploads/ and are profiled. The 2016-17, 2017-18 and 2011-12 books are on Egnyte. Five older PMF policy/technical guides (2012-13 through 2016-17) were not found anywhere on the new site as of 2026-11-01. The ~13 machine-readable PMF Excel score files are on Egnyte (browser-only, not profiled)."
+    years: "SY2010-11 through 2019-20 (ARCHIVED)"
+    notes: "Legacy charter accountability with per-school scores/tiers. Superseded by ASPIRE/SQR. Confirm which framework a given year's 'tier' refers to before combining. PCSB moved its site to WordPress in Oct 2026 and the old /sites/default/files/ links stopped resolving. Catalogued: PMF books for 2010-11 (labelled '2011-12' on PCSB's page; the file is the December 2011 performance reports), 2012-13 through 2016-17; the 2019 PK-12 and adult-ed PMF public data file (Excel); and the 2018-19 and 2019-20 policy & technical guides. Five older policy/technical guides (2012-13 through 2016-17) were not found on the new site. The ~13 PMF Excel score files the old site linked are no longer linked anywhere; only the 2019 public data file was found (in PCSB's WordPress uploads). Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-equity-reports
     name: "School Equity Reports (charter)"
@@ -622,10 +718,10 @@ sources:
     topics: [discipline, attendance]
     authority: republished
     status: ok
-    format: "PDF (via Egnyte folder)"
+    format: "PDF (Egnyte folder)"
     cadence: "Annual"
     years: "SY2014-15 through 2025-26"
-    notes: "Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (cross-sector). Since PCSB's Oct 2026 site migration the old /attendance-and-discipline-report page redirects to an unrelated page; the reports are now in an Egnyte folder (linked from dcpcsb.org/data/ as 'View Attendance and Discipline Reports') with one subfolder per year, SY2014-15 through 2025-26, uploaded 2026-09-17 and renamed (e.g. 'SY17-18 Report.pdf'). Egnyte is browser-only, so the 5 reports this catalog used to profile from dcpcsb.org are no longer profiled."
+    notes: "Charter suspensions/expulsions/attendance. Overlaps OSSE citywide discipline data and the Report Card (cross-sector). Since PCSB's Oct 2026 site migration the old /attendance-and-discipline-report page redirects to an unrelated page; the reports are in an Egnyte folder (linked from dcpcsb.org/data/ as 'View Attendance and Discipline Reports') with one subfolder per year, SY2014-15 through 2025-26, uploaded 2026-09-17. All 12 PDF reports are catalogued; the SY2020-21 report is a PowerPoint (.pptx), which the profiler cannot read, so it is not. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-school-finances
     name: "Charter School Finances (spending, budgets, audits, 990s)"
@@ -637,7 +733,7 @@ sources:
     format: "Web page / PDF / Excel (much via Egnyte)"
     cadence: "Annual"
     years: "Multiple"
-    notes: "Per-school spending breakdowns. Cluster of pages: /school-budgets, /school-fiscal-audits, /school-990s, /risk-funding-reports, /financial-analysis-report. Charter actuals — distinct from OSSE PPE methodology. Since PCSB's Oct 2026 move to WordPress, this is one page (/school-finances-funding/) linking Egnyte folders for budgets, 990s and fiscal audits, plus per-year At-Risk Funding reports, UPSFF funding analyses and Financial Analysis Reports, mostly on Egnyte (browser-only, not profiled). The At-Risk Funding reports for 2019-20 through 2022-23 are on Egnyte. The 2018-19 report is still linked at its old dcpcsb.org URL, which returned 404 on 2026-11-01. The 2015, 2016 and 2017-18 reports this catalog used to profile now 404 and are not on the new site. Open the page to browse a specific school."
+    notes: "Charter actuals — distinct from OSSE PPE methodology. Since PCSB's Oct 2026 move to WordPress, this is one page (/school-finances-funding/). Catalogued: At-Risk Funding reports 2019-20 through 2022-23, per-pupil funding (UPSFF) memos 2020-21 through 2024-25, and Financial Analysis Reports FY2018 through FY2025 (the FY2018/FY2019 files are named '42999/43637 DCPCSB Report Card'; their contents confirm the fiscal year). Not catalogued: the per-school folders of budgets, 990s and fiscal audits (open the page to browse a school), and finance committee memos. The 2018-19 At-Risk report is still linked at its old dcpcsb.org URL, which returned 404 on 2026-11-01; the 2015, 2016 and 2017-18 reports were not found on the new site. Egnyte files are catalogued via their direct-download form (dcpcsb.egnyte.com/dd/<token>, or /dd/<folder>/?entryId=<id> for files inside a shared folder), which returns the file itself; the /dl/ links on PCSB's pages return a preview page."
 
   - id: pcsb-growth-closures
     name: "Charter School Growth and Closures"
@@ -770,7 +866,7 @@ sources:
     format: "Downloadable Excel/CSV/PDF"
     cadence: "Legacy/archival"
     years: "SY2014-15 through SY2023-24"
-    notes: "DEAD END as of June 2026 — this page no longer hosts files; it now just links out to EdScape and OpenData DC. The actual downloadable datasets (e.g. 'Enrollments per DCPS Boundary') moved to EdScape's chapter pages and are harvested under EdScape. Kept here because it's still the URL people get sent to."
+    notes: "DEAD END as of June 2026 — this page no longer hosts files; it now just links out to EdScape and OpenData DC. The actual downloadable datasets (e.g. 'Enrollments per DCPS Boundary') moved to EdScape's chapter pages and are harvested under EdScape. Kept here because it's still the URL people get sent to. Older DME datasets (MFP appendices, School Facilities Data, Enrollments per DCPS Boundary SY2016-17 to SY2023-24, Supply & Demand fact sheets, 2014 boundary review data) are attached to individual items on dme.dc.gov/publications; see the dme-mfp-archive, dme-school-facilities-data, dme-enrollment-per-boundary, dme-supply-demand and dme-boundary-review-2014 sources (added 2026-11-01)."
 
   - id: dme-facility-maps
     name: "DME — Interactive School Facility Maps"
@@ -783,6 +879,66 @@ sources:
     cadence: "Annual (one map per school year)"
     years: "SY2015-16 through SY2025-26"
     notes: "Standalone facility-location maps; content now also inside EdScape Ch.3. Early years lack downloadable data."
+
+  - id: dme-mfp-archive
+    name: "DME — Master Facilities Plans & annual supplements (archive)"
+    owner: DME
+    url: "https://dme.dc.gov/publications"
+    topics: [facilities, enrollment]
+    authority: authoritative
+    status: ok
+    format: "Excel appendices + PDF reports"
+    cadence: "Annual supplement; full plan every ~5 years"
+    years: "MFP 2015 and 2018 appendices; annual supplements 2016, 2019-2022, 2025"
+    notes: "Each publication on DME's publications list carries Excel appendices: per-school enrollment, facility data, utilization, condition, facility classification, and (2019) 5- and 10-year enrollment projections; MFP 2018 has ~20 tables (A.1-A.25). The 2023 MFP and 2024 supplement are separate sources. Found by scanning all 72 pages of dme.dc.gov/publications on 2026-11-01. Only the 2025 supplement's PDFs are catalogued; older years' report PDFs are not."
+
+  - id: dme-school-facilities-data
+    name: "DME — School Facilities Data (annual) & Edsight facility briefs"
+    owner: DME
+    url: "https://dme.dc.gov/publications"
+    topics: [facilities]
+    authority: authoritative
+    status: stale
+    format: "Excel"
+    cadence: "Was annual"
+    years: "SY2016-17 through SY2021-22"
+    notes: "Per-facility summary (sector, capacity, enrollment, utilization) for every public school building, one file per year, plus SY2016-17 DCPS utilization and in-boundary percentages and appendices to DME's Edsight briefs on closed DCPS facilities and cross-sector collaboration. EdScape's facilities chapter carries the later years. Added 2026-11-01."
+
+  - id: dme-enrollment-per-boundary
+    name: "DME — Public School Enrollments per DCPS Boundary"
+    owner: DME
+    url: "https://dme.dc.gov/publication/sy2023-24-public-school-enrollments-dcps-boundary"
+    topics: [enrollment, boundaries, student-movement]
+    authority: authoritative
+    status: ok
+    format: "Excel"
+    cadence: "Annual (irregularly posted)"
+    years: "SY2016-17, SY2017-18, SY2022-23, SY2023-24 (+ SY2016-17 by neighborhood cluster)"
+    notes: "For students living in each DCPS attendance boundary, where they enroll (in-boundary DCPS, other DCPS, charter). One publication per year on DME's publications list. EdScape's 'Enrollments per DCPS Boundary' dashboard covers SY2019-20 onward. Added 2026-11-01."
+
+  - id: dme-supply-demand
+    name: "DME — Public Education Supply and Demand fact sheets (2014-17)"
+    owner: DME
+    url: "https://dme.dc.gov/publications"
+    topics: [enrollment, facilities, lottery]
+    authority: authoritative
+    status: stale
+    format: "Excel appendices"
+    cadence: "Was annual"
+    years: "SY2014-15, SY2015-16, SY2016-17"
+    notes: "Citywide, elementary, middle and high school fact-sheet appendices from DME's 'Public Education Supply and Demand for the District of Columbia' series (and the Cross-Sector Collaboration Task Force's SY2014-15 versions): seats, enrollment, waitlists and quality by neighborhood. Added 2026-11-01."
+
+  - id: dme-boundary-review-2014
+    name: "DME — 2014 Advisory Committee on Student Assignment (boundary review) data"
+    owner: DME
+    url: "https://dme.dc.gov/publications"
+    topics: [boundaries, enrollment, student-movement]
+    authority: authoritative
+    status: stale
+    format: "Excel"
+    cadence: "One-time (2013-14 study)"
+    years: "SY2012-13 to SY2015-16"
+    notes: "Data sheets behind the 2014 DCPS boundary and feeder-pattern overhaul: schools of right, out-of-boundary shares, at-risk shares, feeder patterns, walk distances, current vs proposed boundaries, and the final SY2015-16 geographic feeder pathways. Added 2026-11-01."
 
   # ============================== Cross-cutting ==============================
   - id: myschooldc-lottery
@@ -820,6 +976,18 @@ sources:
     cadence: "Updated as campuses change (~annually)"
     years: "Current/live snapshot"
     notes: "Point locations of every charter campus. Same MapServer (layer 1) as DCPS schools."
+
+  - id: opendata-school-facilities
+    name: "Open Data DC — Public School Facility Location History & Closed Public Schools"
+    owner: "Open Data DC"
+    url: "https://opendata.dc.gov/datasets/DCGIS::public-school-facility-location-history/about"
+    topics: [facilities, gis]
+    authority: authoritative
+    status: ok
+    format: "GIS layer (CSV/GeoJSON/Shapefile export)"
+    cadence: "Updated irregularly"
+    years: "Multiple school years"
+    notes: "Facility Location History: which LEA/school occupied which facility, by school year, with sector and swing-space flags. Closed Public Schools: DCPS buildings no longer used as schools, with capacity and year built. Added 2026-11-01."
 
   - id: opendata-attendance-zones
     name: "Open Data DC — School Attendance Zones (ES/MS/HS boundaries)"

@@ -138,8 +138,11 @@ full playbook + code snippets):
   browser → `…/index.php?rm=box_download_shared_file&shared_name=…&file_id=f_…`.
   Box lazy-loads; read the file_id from the rendered DOM (`typedID":"f_<id>`),
   re-resolve yearly (ids change). OSSE assessment results are all Box.
-- **Egnyte (`dcpcsb.egnyte.com/dl/...`)** — returns an HTML landing page to scripts,
-  **not fetchable**. Don't catalogue these; record a count in the source's `notes`.
+- **Egnyte (`dcpcsb.egnyte.com/dl/...`)** — `/dl/` returns an HTML preview page, but
+  the same token at `/dd/<token>` returns the file to plain scripts (files inside a
+  shared folder: `/dd/<folder>/?entryId=<id>`, listed via the public REST API; see
+  the skill). Catalogue citywide reports/data as `/dd/` URLs; don't catalogue the
+  per-school folders (budgets, 990s, audits) — link them in the source's `notes`.
 - **DCPS / DME `download-data`** — the DME page is a dead redirect; DCPS publishes
   per-metric pages. Prefer harvesting from the **live DOM** (browser_evaluate), not
   `fetch()` — same-origin `fetch` has under-collected recent files before.
