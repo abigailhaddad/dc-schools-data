@@ -201,6 +201,17 @@ metadata from `data_files.yaml` (profiles copy name/year/topics/page at profile 
 Before adding a source, grep `sources.yaml` by *name keywords* as well as URL:
 `dcps-school-directory` already existed under a different URL.
 
+### Set `published` on genuinely new files
+
+The site's 🆕 New filter shows files whose `published` date (publisher's release
+date, YYYY-MM or YYYY-MM-DD) is within the last 6 months; rows without it are
+never New. When a harvest adds a file the publisher released recently, set
+`published` from evidence: a date in the file/filename/page, or the server's
+`Last-Modified` header on dc.gov / edscape / myschooldc static files. Do not use
+Last-Modified for PCSB WordPress uploads or Egnyte (bulk re-uploaded Aug-Sep 2026),
+Box, or Open Data CSV exports (generated on request). Backfilled old files get
+no `published` (or their true old date), so they don't show as New.
+
 ### Environment gotcha
 
 Run the scripts from a venv with `requirements.txt` installed

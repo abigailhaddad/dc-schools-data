@@ -74,7 +74,7 @@
     </div>
 
     <div class="mt-2"><span id="newbtn" class="topic-btn newbtn" role="button" tabindex="0"
-         title="Only datasets with files added to this catalog recently">🆕 New</span><span id="topicchips"></span></div>
+         title="Only datasets with files their publisher released in the last 6 months">🆕 New</span><span id="topicchips"></span></div>
 
     <ul class="nav nav-tabs mt-2 mb-0">
       <li class="nav-item"><a class="nav-link active" href="#" id="tab-files">Search files</a></li>
@@ -115,11 +115,12 @@ if (!window.CATALOG) {
 const CAT = window.CATALOG;
 // single home for filter state — nothing else writes these
 const state = { q: "", owner: "", topic: "", year: "", view: "files", newOnly: false };
-// "New" = the latest harvest batch: files whose `added` date is on/after
-// CATALOG.new_since (generator sets it from the newest `added` date minus a grace
-// period; see NEW_BATCH_GRACE_DAYS in generate_readme.py).
+// "New" = files the PUBLISHER released recently: `published` (YYYY-MM or
+// YYYY-MM-DD) on/after CATALOG.new_since (today minus NEW_WINDOW_DAYS, set by
+// generate_readme.py). Files with no known publication date are never "New".
+// String compare works for both forms: "2026-09" >= "2026-05-02".
 const NEW_SINCE = window.CATALOG.new_since || "";
-function isNew(f) { return !!(NEW_SINCE && f.added && f.added >= NEW_SINCE); }
+function isNew(f) { return !!(NEW_SINCE && f.published && f.published >= NEW_SINCE.slice(0, f.published.length)); }
 
 function esc(s) {
   return String(s == null ? "" : s)
@@ -469,6 +470,7 @@ function renderFiles() {
           + (state.newOnly && isNew(x.file) ? " isnew" : "")
           + '" href="' + esc(x.file.url) + '" target="_blank" rel="noopener" title="Downloads this file: '
           + esc(x.file.name) + " (" + esc(x.file.kind) + ") — " + esc(fileSummary(x.file))
+          + (x.file.published ? " — published " + esc(x.file.published) : "")
           + (x.file.added ? " — added to catalog " + esc(x.file.added) : "") + '">⬇ '
           + esc(chipLabel(x)) + (x.file.kind === "pdf" ? " 📄" : "") + "</a>"
           + '<a class="year-chip pg" href="' + esc(x.sourceUrl) + '" target="_blank" rel="noopener" '
@@ -745,7 +747,7 @@ document.getElementById("verified").textContent = "Last verified " + CAT.last_ve
   const btn = document.getElementById("newbtn");
   if (!n) { btn.style.display = "none"; return; }
   btn.textContent = "🆕 New (" + n + ")";
-  btn.title = n + " files added to this catalog since " + NEW_SINCE + " — click to show only those datasets";
+  btn.title = n + " files published by their source since " + NEW_SINCE + " — click to show only those datasets";
 })();
 
 // ----- bind events once (elements are long-lived; no re-binding) -----

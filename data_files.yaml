@@ -15,6 +15,12 @@
 #   kind       xlsx | xls | csv | pdf
 #   year       the school/report year the file covers (string)
 #   topics     subject tags
+#   added      date the row entered this catalog (YYYY-MM-DD)
+#   published  OPTIONAL: when the publisher released the file (YYYY-MM or YYYY-MM-DD).
+#              Drives the site's "New" filter (published in the last 6 months).
+#              Set it only from evidence: a date in the file, filename or page, or
+#              the server's Last-Modified on hosts that don't bulk re-upload (not
+#              PCSB's 2026 WordPress/Egnyte re-uploads, not Open Data exports).
 #
 # NOTE on coverage: this list is SEEDED with the direct file URLs the research
 # sweep verified. Many OSSE/PCSB files live behind Box.com / Egnyte share links or
@@ -155,6 +161,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-06-15"
+    published: "2026-06-11"
     topics: [methodology]
 
   - id: osse-rl-2025-calculation-confirmation-mcc-dictionary-2025
@@ -876,6 +883,7 @@ data_files:
     kind: xlsx
     year: "2026-06"
     added: "2026-06-15"
+    published: "2026-06-02"
     topics: [other]
 
   - id: msdc-total-applications-and-results-from-2018-to-2026-lotteries-2018
@@ -1975,6 +1983,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-06-15"
+    published: "2026-05-29"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-4-enrollment-patterns-commute-path
@@ -2002,6 +2011,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-06-15"
+    published: "2026-05-29"
     topics: [other]
 
   - id: edscape-enrollment-patterns-edscape-chapter-1-population-and-students-where-st
@@ -2452,6 +2462,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-06-15"
+    published: "2026-05-21"
     page: "https://dcps.dc.gov/publication/dcps-data-set-enrollment"
     topics: [other]
 
@@ -3571,6 +3582,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-06-15"
+    published: "2026-05-07"
     topics: [educators]
 
   # ---- Harvested from osse-special-ed (13 files) ----
@@ -3590,6 +3602,7 @@ data_files:
     kind: xlsx
     year: "2024"
     added: "2026-06-15"
+    published: "2026-06-02"
     topics: [other]
 
   - id: sped-ffy-2023-special-education-annual-performance-part-b-2023
@@ -4046,6 +4059,7 @@ data_files:
     kind: pdf
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4056,6 +4070,7 @@ data_files:
     kind: pdf
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-19"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4066,6 +4081,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4076,6 +4092,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4086,6 +4103,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-19"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4096,6 +4114,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-19"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4106,6 +4125,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-19"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4116,6 +4136,7 @@ data_files:
     kind: xlsx
     year: "2025-26"
     added: "2026-08-29"
+    published: "2026-08-19"
     page: "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources"
     topics: [assessment]
 
@@ -4127,6 +4148,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://edscape.dc.gov/page/adult-and-youth-population-trends"
     topics: [demographics]
 
@@ -4187,6 +4209,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children"
     topics: [demographics]
 
@@ -4247,6 +4270,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-05-29"
     page: "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live"
     topics: [demographics]
 
@@ -4287,6 +4311,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://edscape.dc.gov/page/schools-race-and-ethnicity"
     topics: [enrollment, demographics]
 
@@ -4337,6 +4362,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-05-29"
     page: "https://edscape.dc.gov/page/schools-special-populations-risk"
     topics: [enrollment, demographics]
 
@@ -4347,6 +4373,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-05-29"
     page: "https://edscape.dc.gov/page/schools-special-populations-special-education"
     topics: [enrollment, demographics]
 
@@ -4357,6 +4384,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-05-29"
     page: "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners"
     topics: [enrollment, demographics]
 
@@ -4367,6 +4395,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-08-20"
     page: "https://edscape.dc.gov/page/schools-specialized-programs-offered"
     topics: [other]
 
@@ -4468,6 +4497,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-06-17"
     page: "https://edscape.dc.gov/page/trends-enrollment-sector"
     topics: [enrollment]
 
@@ -4489,6 +4519,7 @@ data_files:
     kind: xlsx
     year: "2027"
     added: "2026-08-29"
+    published: "2026-08-28"
     page: "https://edscape.dc.gov/page/facilities-number"
     topics: [facilities]
 
@@ -4731,6 +4762,7 @@ data_files:
     kind: pdf
     year: "2026"
     added: "2026-08-29"
+    published: "2026-05-05"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [methodology]
 
@@ -4741,6 +4773,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-08-29"
+    published: "2026-08-25"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [methodology]
 
@@ -4751,6 +4784,7 @@ data_files:
     kind: pdf
     year: "2026"
     added: "2026-08-29"
+    published: "2026-07-01"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [other]
 
@@ -4761,6 +4795,7 @@ data_files:
     kind: pdf
     year: "unknown"
     added: "2026-08-29"
+    published: "2026-08-27"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [other]
 
@@ -5157,6 +5192,7 @@ data_files:
     kind: xlsx
     year: "2026-08"
     added: "2026-08-29"
+    published: "2026-08-03"
     page: "https://www.myschooldc.org/resources/data"
     topics: [other]
 
@@ -5168,6 +5204,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-10-16"
     page: "https://dcps.dc.gov/publication/dcps-data-set-attendance"
     topics: [attendance]
 
@@ -5179,6 +5216,7 @@ data_files:
     kind: pdf
     year: "2026"
     added: "2026-11-01"
+    published: "2026-10-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [other]
 
@@ -5189,6 +5227,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-11-01"
+    published: "2026-09-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [school-climate]
 
@@ -5199,6 +5238,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-11-01"
+    published: "2026-09-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [school-climate]
 
@@ -5209,6 +5249,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-11-01"
+    published: "2026-09-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [school-climate]
 
@@ -5219,6 +5260,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-11-01"
+    published: "2026-09-29"
     page: "https://osse.dc.gov/page/dc-school-report-card-resource-library"
     topics: [school-climate]
 
@@ -5230,6 +5272,7 @@ data_files:
     kind: xlsx
     year: "2025"
     added: "2026-11-01"
+    published: "2026-09-08"
     page: "https://osse.dc.gov/page/dc-educator-workforce-data"
     topics: [educators]
 
@@ -5241,6 +5284,7 @@ data_files:
     kind: pdf
     year: "2024"
     added: "2026-11-01"
+    published: "2026-09-28"
     page: "https://osse.dc.gov/service/specialized-education-data-and-reports"
     topics: [special-education]
 
@@ -5252,6 +5296,7 @@ data_files:
     kind: xlsx
     year: "2026-10"
     added: "2026-11-01"
+    published: "2026-10-07"
     page: "https://www.myschooldc.org/resources/data"
     topics: [other]
 
@@ -5263,6 +5308,7 @@ data_files:
     kind: xlsx
     year: "2026"
     added: "2026-11-01"
+    published: "2026-09-25"
     page: "https://edscape.dc.gov/page/student-commute-patterns"
     topics: [other]
 
@@ -6832,6 +6878,7 @@ data_files:
     kind: pdf
     year: "2024"
     added: "2026-11-01"
+    published: "2026-05-19"
     page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [enrollment]
 
@@ -6842,6 +6889,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-10-23"
     page: "https://osse.dc.gov/page/osse-data-and-reports"
     topics: [enrollment]
 
@@ -7087,6 +7135,7 @@ data_files:
     kind: csv
     year: "2013-14 to 2025-26"
     added: "2026-11-01"
+    published: "2026-05-09"
     page: "https://opendata.dc.gov/datasets/DCGIS::public-school-facility-location-history/about"
     topics: [facilities, gis]
 
@@ -7321,6 +7370,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-08-18"
     page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
     topics: [facilities]
 
@@ -7331,6 +7381,7 @@ data_files:
     kind: xlsx
     year: "2025"
     added: "2026-11-01"
+    published: "2026-08-18"
     page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
     topics: [facilities]
 
@@ -7341,6 +7392,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-08-18"
     page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
     topics: [facilities]
 
@@ -7351,6 +7403,7 @@ data_files:
     kind: xlsx
     year: "2025"
     added: "2026-11-01"
+    published: "2026-08-19"
     page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
     topics: [facilities]
 
@@ -7361,6 +7414,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-08-19"
     page: "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement"
     topics: [facilities]
 
@@ -8417,6 +8471,7 @@ data_files:
     kind: pdf
     year: "2026-27"
     added: "2026-11-01"
+    published: "2026-06-29"
     page: "https://dcpcsb.org/aspire-system/"
     topics: [accountability, methodology]
 
@@ -8527,6 +8582,7 @@ data_files:
     kind: pdf
     year: "2025"
     added: "2026-11-01"
+    published: "2026-06"
     page: "https://dcpcsb.org/school-finances-funding/"
     topics: [finance]
 
@@ -8737,6 +8793,7 @@ data_files:
     kind: pdf
     year: "2025-26"
     added: "2026-11-01"
+    published: "2026-08"
     page: "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd"
     topics: [attendance, discipline]
 
@@ -8808,5 +8865,6 @@ data_files:
     kind: pdf
     year: "2026-27"
     added: "2026-11-01"
+    published: "2026-06-15"
     page: "https://dcpcsb.org/wp-content/uploads/2026/08/2026-06-05-Enrollment-Outlook.pdf"
     topics: [enrollment]

@@ -20,6 +20,7 @@ Usage:
 from __future__ import annotations
 
 import re
+from datetime import date
 import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -96,6 +97,10 @@ def main() -> int:
         # and the file would vanish from the Coverage grid and year filters.
         if f.get("added") and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(f["added"])):
             errors.append(f"{where}: `added` must be YYYY-MM-DD, got `{f['added']}`")
+        if f.get("published") and not re.fullmatch(r"\d{4}-\d{2}(-\d{2})?", str(f["published"])):
+            errors.append(f"{where}: `published` must be YYYY-MM or YYYY-MM-DD, got `{f['published']}`")
+        elif f.get("published") and str(f["published"]) > date.today().isoformat():
+            errors.append(f"{where}: `published` {f['published']} is in the future")
         fname = unquote(urlsplit(str(f.get("url", ""))).path.rsplit("/", 1)[-1])
         if str(f.get("year")) == "unknown" and re.search(r"(?<!\d)20\d{2}(?!\d)", fname):
             errors.append(f"{where}: year is `unknown` but the filename `{fname}` contains a year")

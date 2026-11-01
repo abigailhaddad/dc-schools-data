@@ -262,11 +262,16 @@ def infer_file_topics(name: str, fallback: list[str]) -> list[str]:
 # profiles, so read it straight from the source of truth, keyed by URL.
 ADDED_BY_URL = {f["url"]: str(f["added"]) for f in yaml.safe_load(DATA_FILES.read_text())["data_files"]
                 if f.get("added")}
-# The site's "New" toggle = the most recent harvest batch: everything added on or
-# after (latest `added` date − grace). Not "last N days of today": the whole catalog
-# was built in June 2026, so a calendar window would first flag all 566 files as new
-# and later flag nothing at all between harvests.
-NEW_BATCH_GRACE_DAYS = 14
+# `published` = when the PUBLISHER released the file (YYYY-MM or YYYY-MM-DD), set
+# only where there is evidence (date in the file/filename/page, or a server
+# Last-Modified that isn't a bulk re-upload). Rows without it are never "New".
+PUBLISHED_BY_URL = {f["url"]: str(f["published"]) for f in yaml.safe_load(DATA_FILES.read_text())["data_files"]
+                    if f.get("published")}
+# The site's "New" toggle = files the publisher released in the last NEW_WINDOW_DAYS.
+# Changed 2026-11-01 from "latest harvest batch": that flagged backfilled old files
+# (e.g. 2012 graduation rates added in a 2026 pass) as new. If nothing was published
+# in the window, the toggle hides itself, which is the honest answer.
+NEW_WINDOW_DAYS = 183
 
 
 def file_for_js(rec: dict, src: dict | None) -> dict:
@@ -282,7 +287,9 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
     if rec.get("page"):
         out["page"] = rec["page"]
     if ADDED_BY_URL.get(rec["url"]):
-        out["added"] = ADDED_BY_URL[rec["url"]]     # drives the "New" filter
+        out["added"] = ADDED_BY_URL[rec["url"]]     # shown in the tooltip
+    if PUBLISHED_BY_URL.get(rec["url"]):
+        out["published"] = PUBLISHED_BY_URL[rec["url"]]   # drives the "New" filter
     out.update(derive_series(rec["source_id"], rec["name"], rec.get("year")))
     if rec["kind"] in ("xlsx", "xls"):
         out["tabs"] = [{"name": s["name"], "n_rows": s["n_rows"], "columns": s["columns"]}
@@ -405,8 +412,7 @@ def write_catalog_js(doc, profiles) -> int:
                     for i in ov.get("sources", []) if i in src_by_id],
     } for ov in doc.get("overlaps", [])]
 
-    latest_added = max(ADDED_BY_URL.values())
-    new_since = (date.fromisoformat(latest_added) - timedelta(days=NEW_BATCH_GRACE_DAYS)).isoformat()
+    new_since = (date.today() - timedelta(days=NEW_WINDOW_DAYS)).isoformat()
     catalog = {"last_verified": doc.get("last_verified", "?"),
                "generated": date.today().isoformat(),
                "new_since": new_since,

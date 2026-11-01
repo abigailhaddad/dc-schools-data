@@ -1,7 +1,7 @@
 window.CATALOG = {
  "last_verified": "2026-11",
  "generated": "2026-11-01",
- "new_since": "2026-10-18",
+ "new_since": "2026-05-02",
  "owners": [
   {
    "key": "OSSE",
@@ -1980,6 +1980,7 @@ window.CATALOG = {
       "methodology"
      ],
      "added": "2026-06-15",
+     "published": "2026-06-11",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -9475,6 +9476,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-08-29",
+     "published": "2026-05-05",
      "n_pages": 4,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -9520,6 +9522,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-08-29",
+     "published": "2026-08-25",
      "tabs": [
       {
        "name": "Release Schedule",
@@ -9763,6 +9766,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-08-29",
+     "published": "2026-07-01",
      "n_pages": 70,
      "has_tabular_data": true,
      "n_table_pages": 17,
@@ -9852,6 +9856,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-08-29",
+     "published": "2026-08-27",
      "n_pages": 3,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -9977,6 +9982,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-11-01",
+     "published": "2026-10-29",
      "n_pages": 3,
      "has_tabular_data": true,
      "n_table_pages": 3,
@@ -10021,6 +10027,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-11-01",
+     "published": "2026-09-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -10110,6 +10117,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-11-01",
+     "published": "2026-09-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -10185,6 +10193,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-11-01",
+     "published": "2026-09-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -10260,6 +10269,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-school-report-card-resource-library",
      "added": "2026-11-01",
+     "published": "2026-09-29",
      "tabs": [
       {
        "name": "Data Notes",
@@ -10576,6 +10586,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26",
      "n_pages": 60,
@@ -10606,6 +10617,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-19",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 Appendix",
      "n_pages": 17,
@@ -10694,6 +10706,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 State/Adv MS Math",
      "tabs": [
@@ -10809,6 +10822,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 State",
      "tabs": [
@@ -10924,6 +10938,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-19",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 LEA/Adv MS Math",
      "tabs": [
@@ -11039,6 +11054,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-19",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 LEA",
      "tabs": [
@@ -11154,6 +11170,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-19",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 School/Adv MS Math",
      "tabs": [
@@ -11269,6 +11286,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/2025-26-statewide-assessment-results-and-resources",
      "added": "2026-08-29",
+     "published": "2026-08-19",
      "series": "Statewide Assessment Results (DC CAPE / PARCC & MSAA)",
      "label": "2025-26 School",
      "tabs": [
@@ -17292,6 +17310,7 @@ window.CATALOG = {
       "special-education"
      ],
      "added": "2026-06-15",
+     "published": "2026-06-02",
      "tabs": [
       {
        "name": "Overview",
@@ -18097,6 +18116,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/service/specialized-education-data-and-reports",
      "added": "2026-11-01",
+     "published": "2026-09-28",
      "n_pages": 114,
      "has_tabular_data": true,
      "n_table_pages": 82,
@@ -31069,6 +31089,7 @@ window.CATALOG = {
       "educators"
      ],
      "added": "2026-06-15",
+     "published": "2026-05-07",
      "tabs": [
       {
        "name": "Overview",
@@ -31406,6 +31427,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/dc-educator-workforce-data",
      "added": "2026-11-01",
+     "published": "2026-09-08",
      "tabs": [
       {
        "name": "Overview",
@@ -38034,6 +38056,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/osse-data-and-reports",
      "added": "2026-11-01",
+     "published": "2026-05-19",
      "n_pages": 8,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -38085,6 +38108,7 @@ window.CATALOG = {
      ],
      "page": "https://osse.dc.gov/page/osse-data-and-reports",
      "added": "2026-11-01",
+     "published": "2026-10-23",
      "n_pages": 9,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -39234,6 +39258,7 @@ window.CATALOG = {
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-attendance",
      "added": "2026-11-01",
+     "published": "2026-10-16",
      "n_pages": 25,
      "has_tabular_data": true,
      "n_table_pages": 19,
@@ -39339,6 +39364,7 @@ window.CATALOG = {
      ],
      "page": "https://dcps.dc.gov/publication/dcps-data-set-enrollment",
      "added": "2026-06-15",
+     "published": "2026-05-21",
      "tabs": [
       {
        "name": "SY 2025-26",
@@ -48743,6 +48769,7 @@ window.CATALOG = {
      ],
      "page": "https://dcpcsb.org/wp-content/uploads/2026/08/2026-06-05-Enrollment-Outlook.pdf",
      "added": "2026-11-01",
+     "published": "2026-06-15",
      "n_pages": 45,
      "has_tabular_data": true,
      "n_table_pages": 18,
@@ -49169,6 +49196,7 @@ window.CATALOG = {
      ],
      "page": "https://dcpcsb.org/aspire-system/",
      "added": "2026-11-01",
+     "published": "2026-06-29",
      "n_pages": 221,
      "has_tabular_data": true,
      "n_table_pages": 84,
@@ -50948,6 +50976,7 @@ window.CATALOG = {
      ],
      "page": "https://dcpcsb.egnyte.com/fl/Y7FcwyqdwDTd",
      "added": "2026-11-01",
+     "published": "2026-08",
      "n_pages": 28,
      "has_tabular_data": true,
      "n_table_pages": 24,
@@ -51623,6 +51652,7 @@ window.CATALOG = {
      ],
      "page": "https://dcpcsb.org/school-finances-funding/",
      "added": "2026-11-01",
+     "published": "2026-06",
      "n_pages": 194,
      "has_tabular_data": true,
      "n_table_pages": 101,
@@ -52349,6 +52379,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/adult-and-youth-population-trends",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Adult and Youth Population Trends (EdScape)",
      "label": "2026",
      "tabs": [
@@ -52862,6 +52893,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-race-and-ethnicity-adults-and-children",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Race and Ethnicity of Adults and Children (EdScape)",
      "label": "2026",
      "tabs": [
@@ -53214,6 +53246,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/pop-and-students-where-EL-public-school-students-live",
      "added": "2026-08-29",
+     "published": "2026-05-29",
      "series": "Where English Learner Public School Students Live (EdScape)",
      "label": "2026",
      "tabs": [
@@ -53490,6 +53523,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/schools-race-and-ethnicity",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Public School Enrollment by Race and Ethnicity (EdScape)",
      "label": "2026",
      "tabs": [
@@ -53998,6 +54032,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/schools-special-populations-risk",
      "added": "2026-08-29",
+     "published": "2026-05-29",
      "series": "School Enrollment by Special Populations - At Risk (EdScape)",
      "label": "2026",
      "tabs": [
@@ -54130,6 +54165,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/schools-special-populations-special-education",
      "added": "2026-08-29",
+     "published": "2026-05-29",
      "series": "School Enrollment by Special Populations - Special Education (EdScape)",
      "label": "2026",
      "tabs": [
@@ -54262,6 +54298,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/school-enrollment-special-populations-english-learners",
      "added": "2026-08-29",
+     "published": "2026-05-29",
      "series": "School Enrollment by Special Populations - English Learners (EdScape)",
      "label": "2026",
      "tabs": [
@@ -54393,6 +54430,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/schools-specialized-programs-offered",
      "added": "2026-08-29",
+     "published": "2026-08-20",
      "series": "Specialized Programs Offered by Public Schools (EdScape)",
      "label": "2026",
      "tabs": [
@@ -54958,6 +54996,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "added": "2026-06-15",
+     "published": "2026-05-29",
      "series": "Enrollment by Sector",
      "label": "2026",
      "tabs": [
@@ -55255,6 +55294,7 @@ window.CATALOG = {
       "enrollment"
      ],
      "added": "2026-06-15",
+     "published": "2026-05-29",
      "series": "Distance to School",
      "label": "2026",
      "tabs": [
@@ -55776,6 +55816,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/trends-enrollment-sector",
      "added": "2026-08-29",
+     "published": "2026-06-17",
      "series": "Enrollment by Sector",
      "label": "2026",
      "tabs": [
@@ -55881,6 +55922,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/student-commute-patterns",
      "added": "2026-11-01",
+     "published": "2026-09-25",
      "series": "Commute Paths",
      "label": "2026",
      "tabs": [
@@ -56073,6 +56115,7 @@ window.CATALOG = {
      ],
      "page": "https://edscape.dc.gov/page/facilities-number",
      "added": "2026-08-29",
+     "published": "2026-08-28",
      "series": "Number of Public School Facilities (EdScape)",
      "label": "2027",
      "tabs": [
@@ -56750,6 +56793,7 @@ window.CATALOG = {
      ],
      "page": "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement",
      "added": "2026-11-01",
+     "published": "2026-08-18",
      "n_pages": 22,
      "has_tabular_data": true,
      "n_table_pages": 6,
@@ -56834,6 +56878,7 @@ window.CATALOG = {
      ],
      "page": "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement",
      "added": "2026-11-01",
+     "published": "2026-08-18",
      "tabs": [
       {
        "name": "Contents and notes",
@@ -56951,6 +56996,7 @@ window.CATALOG = {
      ],
      "page": "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement",
      "added": "2026-11-01",
+     "published": "2026-08-18",
      "n_pages": 1,
      "has_tabular_data": true,
      "n_table_pages": 1,
@@ -57026,6 +57072,7 @@ window.CATALOG = {
      ],
      "page": "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement",
      "added": "2026-11-01",
+     "published": "2026-08-19",
      "tabs": [
       {
        "name": "Appendix 3. Contents",
@@ -57139,6 +57186,7 @@ window.CATALOG = {
      ],
      "page": "https://dme.dc.gov/publication/2025-master-facilities-plan-annual-supplement",
      "added": "2026-11-01",
+     "published": "2026-08-19",
      "n_pages": 8,
      "has_tabular_data": true,
      "n_table_pages": 2,
@@ -61522,6 +61570,7 @@ window.CATALOG = {
       "lottery"
      ],
      "added": "2026-06-15",
+     "published": "2026-06-02",
      "series": "Lottery: Tableau underlying data",
      "label": "2026-06",
      "tabs": [
@@ -65098,6 +65147,7 @@ window.CATALOG = {
      ],
      "page": "https://www.myschooldc.org/resources/data",
      "added": "2026-08-29",
+     "published": "2026-08-03",
      "series": "Lottery: Tableau underlying data",
      "label": "2026-08",
      "tabs": [
@@ -65156,6 +65206,7 @@ window.CATALOG = {
      ],
      "page": "https://www.myschooldc.org/resources/data",
      "added": "2026-11-01",
+     "published": "2026-10-07",
      "series": "Lottery: Tableau underlying data",
      "label": "2026-10",
      "tabs": [
@@ -65369,6 +65420,7 @@ window.CATALOG = {
      ],
      "page": "https://opendata.dc.gov/datasets/DCGIS::public-school-facility-location-history/about",
      "added": "2026-11-01",
+     "published": "2026-05-09",
      "columns": [
       "X",
       "Y",
