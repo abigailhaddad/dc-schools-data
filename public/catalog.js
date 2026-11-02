@@ -1,7 +1,7 @@
 window.CATALOG = {
  "last_verified": "2026-11",
- "generated": "2026-11-01",
- "new_since": "2026-05-02",
+ "generated": "2026-11-02",
+ "new_since": "2026-05-03",
  "owners": [
   {
    "key": "OSSE",
