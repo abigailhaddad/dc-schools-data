@@ -2028,6 +2028,10 @@ _topics: demographics, enrollment_
     - p18 table (3 rows): `EL Teacher FTE, not EL Certified`, `EL Teacher FTE, EL Certified`, `EL Teachers FTE, Total`, `Percent of EL Teachers who are Certified`, `Number of ELs per certified EL Teacher`, `Number of ELs per EL Teacher`
   - [`English Learners in DC, 2023-24 School Year Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/English%20Learners%20in%20DC_2023-24%20School%20Year%20Data.pdf) — **pdf** — 19 pages, **extractable tables** on ~1 page(s)
     - p18 table (3 rows): `EL Teacher FTE, not EL Certified`, `EL Teacher FTE, EL Certified`, `EL Teachers FTE, Total`, `Percent of EL Teachers who are Certified`, `Number of ELs per certified EL Teacher`, `Number of ELs per EL Teacher`
+  - [`2018-19 English Learners in DC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2018-19%20English%20Learners%20in%20DC.pdf) — **pdf** — 31 pages, **extractable tables** on ~10 page(s)
+    - p14 table (6 rows): 
+    - p15 table (11 rows): `76%`, `76%`
+    - p18 table (12 rows): 
 
 ### [Specialized Education Data and Reports](https://osse.dc.gov/service/specialized-education-data-and-reports)
 
@@ -2302,6 +2306,10 @@ _topics: demographics, special-education_
     - p4 table (10 rows): `Timely Provision of`
     - p5 table (10 rows): `Services in Natural`
     - p6 table (10 rows): `Early Childhood Transition –`
+  - [`FFY23 SPP APR Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY23%20SPP%20APR%20Part%20C.pdf) — **pdf** — 58 pages, **extractable tables** on ~37 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p8 table (2 rows): `Baseline Year`, `Baseline Data`
+    - p8 table (3 rows): `FFY`, `2018`, `2019`, `2020`, `2021`, `2022`
 
 ### [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting)
 
@@ -3415,6 +3423,42 @@ _topics: early-childhood, finance_
     - p3 table (2 rows): `DC Child Care Subsidy Program Spending, FY19-FY26 To Date $126.8 M $118.5 M $111.5 M $105.5 M $97.1 M $90.9 M $85.0 M $34.2 M FY 19 FY20 FY21 FY22 FY23 FY24 FY25 FY26* *FY26 spending to date includes October-December 2025.`
     - p4 table (2 rows): `DC Child Care Subsidy Program FY26 Monthly Spending To Date $12.1 M $11.7 M $10.5 M October November December`
     - p5 table (2 rows): `DC Child Care Subsidy Program Enrollment FY26 Q1`
+  - [`FY26 Education Requirement Trends October 2026`](https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/FY26%20Education%20Requirement%20Trends%20October%202026.pdf) — **pdf** — 36 pages, **extractable tables** on ~31 page(s)
+    - p3 table (11 rows): 
+    - p3 table (13 rows): 
+    - p4 table (13 rows): 
+  - [`FY26 Q4 Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/FY26%20Q4%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (28 rows): `Facility License #`, `Facility Name`, `Approved Waiver`
+    - p2 table (37 rows): `CDH-909730`, `Barbara P. Joaquin`
+    - p3 table (38 rows): `CDX-909721`, `Cleotilde Galvez Kimmell`
+  - [`FY25 Quarter Four Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Quarter%20Four%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (27 rows): `License #`, `Facility Name`, `Approved Waiver`
+    - p2 table (38 rows): `CDH-909684`, `Lubertha Wilson Payne`
+    - p3 table (38 rows): `CDC-102921`, `Communikids Preschool LLC IX`
+  - [`FY25 Quarter Three Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Quarter%20Three%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (26 rows): `License #`, `Facility Name`, `Approved Waiver`
+    - p2 table (36 rows): `CDC-102843`, `Barbara Chambers Children's Center #4`
+    - p3 table (36 rows): `CDC-907332`, `Chevy Chase Presbyterian Church Nursery School`
+  - [`FY25 Quarter Two Participating Facilities in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Quarter%20Two%20Participating%20Facilities%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (28 rows): `License #`, `Facility Name`, `Approved Waiver`
+    - p2 table (38 rows): `CDC-907252`, `Beauvoir Nursery School`
+    - p3 table (38 rows): `CDC-909879`, `Children's Creative Learning Center @ The World Bank`
+  - [`FY26 Q1 Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q1%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (28 rows): `License Number`, `Facility Name`, `Approved Waiver`
+    - p2 table (38 rows): `CDC-907252`, `Beauvoir Nursery School`
+    - p3 table (38 rows): `CDX-909721`, `Cleotilde Galvez Kimmell`
+  - [`FY26 Q3 Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q3%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (27 rows): `DELLT License Number`, `Facility Name`, `Approved Waiver`
+    - p2 table (37 rows): `CDC-102847`, `Barbara Chambers Children's Center #5`
+    - p3 table (38 rows): `CDC-102897`, `City Ridge Kindercare`
+  - [`FY26 Quarter Two Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Quarter%20Two%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (27 rows): `DELLT License Number`, `Facility Name`, `Approved Waiver`
+    - p2 table (36 rows): `CDC-102847`, `Barbara Chambers Children's Center #5`
+    - p3 table (36 rows): `CDC-909879`, `Children's Creative Learning Center @ The World Bank`
+  - [`Q1 Facilities Participating in Pay Equity Fund`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Q1%20Facilities%20Participating%20in%20Pay%20Equity%20Fund.pdf) — **pdf** — 10 pages, **extractable tables** on ~10 page(s)
+    - p1 table (26 rows): `License #`, `Facility Name`, `Approved Waiver`
+    - p2 table (38 rows): `CDC-102778`, `Bellas Artes Child Crea�vity Center`
+    - p3 table (38 rows): `CDC-908682`, `Cleveland Park Kinderhaus`
 
 ### [DC ESSA State Plan](https://osse.dc.gov/essa)
 
@@ -3683,6 +3727,46 @@ _topics: assessment_
     - p1 table (3 rows): `69*`, `22*`, `8*`
     - p1 table (2 rows): `Lower Than 7 Districts`, `Not Significantly Different From 5 Districts`, `Higher Than 8 Districts`
     - p1 table (2 rows): `Percentage at or above`
+  - [`2019 District of Columbia NAEP Results 11.4.19`](https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2019%20District%20of%20Columbia%20NAEP%20Results%2011.4.19.pdf) — **pdf** — 18 pages, **extractable tables** on ~7 page(s)
+    - p10 table (3 rows): `National Public`
+    - p11 table (6 rows): `70`
+    - p11 table (2 rows): `DC Black/AfricBalna-ck American`, `lack/AfricBalna-ck ican`, `WDhCit eWh`
+  - [`DC NAEP 2022 State Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/DC%20NAEP%202022%20State%20Results.pdf) — **pdf** — 33 pages, **extractable tables** on ~6 page(s)
+    - p7 table (6 rows): `Assessment`, `2019 Avg. Scale Score`, `2022 Avg. Scale Score`, `Difference`
+    - p8 table (6 rows): `Assessment`, `2019 Avg. Scale Score`, `2022 Avg. Scale Score`, `Difference`
+    - p9 table (6 rows): `# of States that Decreased`, `# of States with No Change`, `# of States that Increased`
+  - [`NAEP — Math Grade 4 DC State`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Math%20Grade%204%20DC%20State.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (3 rows): 
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Math Grade 4 DC TUDA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Math%20Grade%204%20DC%20TUDA.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (2 rows): `Not Significantly Different From 11 Districts`, `Higher Than 6 Districts`
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Math Grade 8 DC State`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Math%20Grade%208%20DC%20State.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (3 rows): 
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Math Grade 8 DC TUDA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Math%20Grade%208%20DC%20TUDA.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (2 rows): `Not Significantly Different From 3 Districts`, `Higher Than 5 Districts`
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Reading Grade 4 DC State`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Reading%20Grade%204%20DC%20State.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (3 rows): 
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Reading Grade 4 DC TUDA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Reading%20Grade%204%20DC%20TUDA.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (2 rows): `Not Significantly Different From 7 Districts`, `Higher Than 14 Districts`
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Reading Grade 8 DC State`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Reading%20Grade%208%20DC%20State.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (3 rows): 
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
+  - [`NAEP — Reading Grade 8 DC TUDA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Reading%20Grade%208%20DC%20TUDA.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (4 rows): 
+    - p1 table (2 rows): `Not Significantly Different From 6 Districts`, `Higher Than 8 Districts`
+    - p1 table (18 rows): `REPORTING GROUPS`, `PERCENTAGE OF STUDENTS`, `AVG. SCORE`, `PERCENTAGE AT OR ABOVE NAEP`, `PERCENTAGE AT NAEP`
 
 ### [Healthy Schools Act — School Health Profiles, HSA reports, health & PE assessment](https://osse.dc.gov/service/healthy-schools-act-school-health-profiles)
 
@@ -3803,6 +3887,2593 @@ _topics: school-climate, profiles_
     - p1 table (27 rows): `Grade`, `Students Tested`, `Reporting Category`, `Percent Correct`
   - [`Health & Physical Education Assessment Results, SY2011-12`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CAS%20Health%20%26%20Physical%20Education%20SY%202011-2012%20Results.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
     - p1 table (27 rows): `Grade`, `Students Tested`, `Reporting Category`, `Percent Correct`
+  - [`School Health Profile (year not stated) — Watkins Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Watkins%20Elementary%20School%20Health%20Profile.pdf) — **pdf** — 9 pages, **extractable tables** on ~9 page(s)
+    - p1 table (20 rows): `Section 1: School Profile`
+    - p1 table (4 rows): 
+    - p1 table (4 rows): `✔`
+  - [`School Health Profile (year not stated) — William E Doar Jr PCS Edgewood`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/William%20E.%20Doar%2C%20Jr.%20PCS%20-%20Edgewood%20Health%20Profile.pdf) — **pdf** — 9 pages, **extractable tables** on ~9 page(s)
+    - p1 table (20 rows): `Section 1: School Profile`
+    - p1 table (4 rows): `✔`
+    - p1 table (4 rows): `✔`
+  - [`School Health Profile (year not stated) — Youth Services Center`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Youth%20Services%20Center%20Health%20Profile.pdf) — **pdf** — 9 pages, **extractable tables** on ~9 page(s)
+    - p1 table (20 rows): `Section 1: School Profile`
+    - p1 table (4 rows): 
+    - p1 table (4 rows): 
+  - [`School Health Profile 2018-19 — Achievement Preparatory PCS-Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Achievement%20Preparatory%20Academy%20PCS_Achievement%20Preparatory%20PCS-Elementary_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Achievement Preparatory Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Achievement Preparatory PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Achievement%20Preparatory%20Academy%20PCS_Achievement%20Preparatory%20PCS-Middle%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Achievement Preparatory Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning Center PCS Columbia Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Columbia%20Heights_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning Center PCS Douglas Knoll`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Douglas%20Knoll_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning Center PCS Lincoln Park`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Lincoln%20Park_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning Center PCS Oklahoma`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Oklahoma_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning PCS … Southeast [Parklands]`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20PCS%20%E2%80%A6%20Southeast%20%5BParklands%5D_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — AppleTree Early Learning PCS … Southwest`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20PCS%20%E2%80%A6%20Southwest_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `AppleTree Early Learning PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Basis DC PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Basis%20DC%20PCS_Basis%20DC%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Basis DC PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Breakthrough Montessori PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Breakthrough%20Montessori%20PCS_Breakthrough%20Montessori%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Breakthrough Montessori PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Bridges PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Bridges%20PCS_Bridges%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Bridges PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Capital City High School PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Capital%20City%20PCS_Capital%20City%20High%20School%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Capital City PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Capital City Lower PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Capital%20City%20PCS_Capital%20City%20Lower%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Capital City PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Capital City Middle School PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Capital%20City%20PCS_Capital%20City%20Middle%20School%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Capital City PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Cedar Tree Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Cedar%20Tree%20Academy%20Public%20Charter%20School_Cedar%20Tree%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Cedar Tree Academy Public Charter School`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Center City Brightwood Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Brightwood%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Center City Capitol Hill Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Capitol%20Hill%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Center City Congress Heights Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Congress%20Heights%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Center City Petworth Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Petworth%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Center City Shaw Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Shaw%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Center City Trinidad Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Center%20City%20Public%20Charter%20Schools_Center%20City%20Trinidad%20Campus%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Center City Public Charter Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — City Arts & Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_City%20Arts%20%26%20Prep%20PCS_City%20Arts%20%26%20Prep%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `City Arts & Prep PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Creative Minds International PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Creative%20Minds%20PCS_Creative%20Minds%20International%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Creative Minds PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — D C Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Bilingual%20PCS_D%20C%20%20Bilingual%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Bilingual PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — DC Preparatory Academy PCS Anacostia Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20%20Anacostia%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Preparatory Academy`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — DC Preparatory Academy PCS Benning Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Benning%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Preparatory Academy`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — DC Preparatory Academy PCS Benning Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Benning%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Preparatory Academy`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — DC Preparatory Academy PCS Edgewood Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Edgewood%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Preparatory Academy`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — DC Preparatory Academy PCS Edgewood Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Edgewood%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Preparatory Academy`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — DC Scholars PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DC%20Scholar%20PCS_DC%20Scholars%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `DC Scholar PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Aiton ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Aiton%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Amidon Bowen ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Amidon%20Bowen%20%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Anacostia HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Anacostia%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Ballou HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ballou%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Bancroft ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Bancroft%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Barnard ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Barnard%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Beers ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Beers%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Benjamin Banneker HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Benjamin%20Banneker%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Boone Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Boone%20Elementary%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Brent ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Brent%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Brightwood EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Brightwood%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Brookland MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Brookland%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Browne EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Browne%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Bruce Monroe ES at Park View`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Bruce%20Monroe%20ES%20at%20Park%20View_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Bunker Hill ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Bunker%20Hill%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Burroughs EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Burroughs%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Burrville ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Burrville%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — C W Harris ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_C%20W%20%20Harris%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Capitol Hill Montessori School at Logan`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Capitol%20Hill%20Montessori%20School%20at%20Logan_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Cardozo EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Cardozo%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Cleveland ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Cleveland%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Columbia Heights EC (CHEC)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Columbia%20Heights%20EC%20%28CHEC%29_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Coolidge HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Coolidge%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Deal MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Deal%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Dorothy Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Dorothy%20Heights_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Drew ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Drew%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Dunbar HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Dunbar%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Eastern HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Eastern%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Eaton ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Eaton%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Eliot Hine MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Eliot%20Hine%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Ellington School of the Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ellington%20School%20of%20the%20Arts_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Garfield ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Garfield%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Garrison ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Garrison%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — H D Cooke ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_H%20D%20Cooke%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Hardy MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Hardy%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hart MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Hart%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hearst ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Hearst%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hendley ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Hendley%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Houston ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Houston%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hyde Addison ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Hyde%20Addison%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — J O Wilson ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_J%20O%20Wilson%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Janney ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Janney%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Jefferson Middle School Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Jefferson%20Middle%20School%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Johnson John Hayden MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Johnson%20%20John%20Hayden%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Kelly Miller MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Kelly%20Miller%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Ketcham ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ketcham%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Key ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Key%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Kimball ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Kimball%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — King, M L ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_King%2C%20M%20L%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Kramer MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Kramer%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — LaSalle Backus EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_LaSalle%20Backus%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Lafayette ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Lafayette%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Langdon EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Langdon%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Langley EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Langley%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Leckie ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Leckie%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Ludlow Taylor ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ludlow%20Taylor%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — MacFarland MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_MacFarland%20MS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Malcolm X ES at Green`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Malcolm%20X%20ES%20at%20Green_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Mann ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Mann%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Marie Reed ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Marie%20Reed%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Maury ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Maury%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — McKinley Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_McKinley%20Middle%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — McKinley Technology HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_McKinley%20Technology%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Miner ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Miner%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Moten ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Moten%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Murch ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Murch%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Nalle ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Nalle%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Noyes EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Noyes%20EC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Oyster Adams Bilingual School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Oyster%20Adams%20Bilingual%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Patterson ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Patterson%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Payne ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Payne%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Peabody ES (Capitol Hill Cluster)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Peabody%20ES%20%28Capitol%20Hill%20Cluster%29_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Phelps Architecture Construction and Engineering HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Phelps%20Architecture%20Construction%20and%20Engineering%20HS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Plummer ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Plummer%20ES_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~2 page(s)
+    - p23 table (8 rows): `Section`, `Recommended to be completed by`
+    - p24 table (2 rows): `navigate through the application, and answer certain questions.`
+  - [`School Health Profile 2018-19 — Powell ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Powell%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Randle Highlands ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Randle%20Highlands%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Raymond EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Raymond%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — River Terrace ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_River%20Terrace%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Ron Brown College Preparatory High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ron%20Brown%20College%20Preparatory%20High%20School_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Roosevelt HS at MacFarland`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Roosevelt%20HS%20at%20MacFarland_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Ross ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Ross%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Savoy ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Savoy%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — School Within School at Goding`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_School%20Within%20School%20at%20Goding_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — School Without Walls HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_School%20Without%20Walls%20HS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — School Without Walls at Francis Stevens`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_School%20Without%20Walls%20at%20Francis%20Stevens_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Seaton ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Seaton%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Shepherd ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Shepherd%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Simon ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Simon%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Smothers ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Smothers%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Sousa MS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Sousa%20MS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Stanton ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Stanton%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Stoddert ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Stoddert%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Stuart Hobson MS (Capitol Hill Cluster)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Stuart%20Hobson%20MS%20%28Capitol%20Hill%20Cluster%29_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Takoma EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Takoma%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Thomas ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Thomas%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Thomson ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Thomson%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Truesdell EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Truesdell%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Tubman ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Tubman%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Turner ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Turner%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Tyler ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Tyler%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Van Ness ES`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Van%20Ness%20ES_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Walker Jones EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Walker%20Jones%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Metropolitan HS (formerly YEA)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Washington%20Metropolitan%20HS%20%28formerly%20YEA%29_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Watkins ES Capitol Hill Cluster`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Watkins%20ES%20Capitol%20Hill%20Cluster_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — West EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_West%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Wheatley EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Wheatley%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Whittier EC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Whittier%20EC_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Wilson HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Wilson%20HS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Woodson H D HS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_DCPS_Woodson%20H%20D%20HS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia Public Schools`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Digital Pioneers Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Digital%20Pioneers%20Academy%20PCS_Digital%20Pioneers%20Academy%20PCS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Digital Pioneers Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — District of Columbia International School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_District%20of%20Columbia%20International%20School_District%20of%20Columbia%20International%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `District of Columbia International School`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — E.L. Haynes PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_E.L.%20Haynes%20PCS%20PCS116_E.L.%20%20Haynes%20PCS-Middle%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `E.L. Haynes PCS PCS116`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — E.L. Haynes PCS-Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_E.L.%20Haynes%20PCS%20PCS116_E.L.%20Haynes%20PCS-Elementary%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `E.L. Haynes PCS PCS116`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — E.L. Haynes-High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_E.L.%20Haynes%20PCS%20PCS116_E.L.%20Haynes-High%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `E.L. Haynes PCS PCS116`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Eagle Academy PCS Capitol Riverfront`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Eagle%20Academy%20PCS_Eagle%20Academy%20PCS%20Capitol%20Riverfront_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Eagle Academy PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Eagle Academy PCS Congres Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Eagle%20Academy%20PCS_Eagle%20Academy%20PCS%20Congres%20Heights_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Eagle Academy PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Early Childhood Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Early%20Childhood%20Academy%20PCS_Early%20Childhood%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Early Childhood Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Elsie Whitlow Stokes Community Freedom PCS - Brookland`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Elsie%20Whitlow%20Stokes_Elsie%20Whitlow%20Stokes%20Community%20Freedom%20PCS%20-%20Brookland_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Elsie Whitlow Stokes`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Elsie Whitlow Stokes Community Freedom PCS - East End`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Elsie%20Whitlow%20Stokes_Elsie%20Whitlow%20Stokes%20Community%20Freedom%20PCS%20-%20East%20End_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Elsie Whitlow Stokes`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS - Southeast Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20-%20Southeast%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Armstrong`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Armstrong_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Blow Pierce Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Blow%20Pierce%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Blow-Pierce Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Blow-Pierce%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Chamberlain Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Chamberlain%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Chamberlain Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Chamberlain%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Online`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Online_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Southeast Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Southeast%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Technology Preparatory High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Technology%20Preparatory%20High_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Technology Preparatory Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Technology%20Preparatory%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Woodridge Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Woodridge%20Elementary_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Woodridge Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Woodridge%20Middle_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Friendship PCS Woodson Collegiate Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Friendship%20PCS_Friendship%20PCS%20Woodson%20Collegiate%20Academy_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Friendship PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Harmony DC PCS-School of Excellence`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Harmony%20DC%20Public%20Charter%20School_Harmony%20DC%20PCS-School%20of%20Excellence_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Harmony DC Public Charter School`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hope Community PCS Lamond Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Hope%20Community%20PCS_Hope%20Community%20PCS%20Lamond%20Campus_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Hope Community PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Hope Community PCS Tolson Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Hope%20Community%20PCS_Hope%20Community%20PCS%20Tolson%20Campus_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Hope Community PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Howard University Middle School of Math and Science PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Howard%20University%20PC%20Middle%20School%20of%20Mathematics%20and%20Science_Howard%20University%20Middle%20School%20of%20Math%20and%20Science%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Howard University PC Middle School of Mathematics and Science`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Ideal Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Ideal%20Academy%20PCS_Ideal%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Ideal Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Ingenuity Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Ingenuity%20Preparatory%20PCS_Ingenuity%20Prep%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Ingenuity Preparatory PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Inspired Teaching Demonstration PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Inspired%20Teaching%20PCS_Inspired%20Teaching%20Demonstration%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Inspired Teaching PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS AIM Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20AIM%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Arts & Technology Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Arts%20%26%20Technology%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS College Preparatory Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20College%20Preparatory%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Connect Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Connect%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Discover Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Discover%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Grow Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Grow%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Heights Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Heights%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS KEY Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20KEY%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS LEAP Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20LEAP%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Lead Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Lead%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Northeast Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Northeast%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Promise Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Promise%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Quest Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Quest%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Spring Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Spring%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS Valor Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20Valor%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — KIPP DC PCS WILL Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_KIPP%20DC_KIPP%20DC%20PCS%20WILL%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `KIPP DC`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Kingsman Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Kingsman%20Academy%20PCS_Kingsman%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Kingsman Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Latin American Montessori Bilingual (LAMB) PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_LAMB-%20Latin%20American%20Montessori%20Billingual%20PCS_Latin%20American%20Montessori%20Bilingual%20%28LAMB%29%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `LAMB- Latin American Montessori Billingual PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Lee Montessori PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Lee%20Montessori_Lee%20Montessori%20PCS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Lee Montessori`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Mary McLeod Bethune Day Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Mary%20McLeod%20Bethune%20PCS_Mary%20McLeod%20Bethune%20Day%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Mary McLeod Bethune PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Meridian PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Meridian%20PCS_Meridian%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Meridian PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Monument Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Monument%20Academy%20PCS_Monument%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Monument Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Mundo Verde Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Mundo%20Verde%20PCS_Mundo%20Verde%20Bilingual%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Mundo Verde PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — National Collegiate Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_National%20Collegiate%20Academy%20PCS_National%20Collegiate%20Prep%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `National Collegiate Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Paul PCS-International High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Paul%20PCS_Paul%20PCS-International%20High%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Paul PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Paul PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Paul%20PCS_Paul%20PCS-Middle%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Paul PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Perry Street Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Perry%20Street%20Preparatory%20PCS_Perry%20Street%20Prep%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Perry Street Preparatory PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Richard Wright PCS for Journalism and Media Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Richard%20Wright%20PCS%20for%20Journalism%20and%20Media%20Arts%20PCS_Richard%20Wright%20PCS%20for%20Journalism%20and%20Media%20Arts_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Richard Wright PCS for Journalism and Media Arts PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Rocketship Legacy Prep`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Rocketship%20DC%20PCS_Rocketship%20Legacy%20Prep_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Rocketship DC PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Rocketship PCS - Rise Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Rocketship%20DC%20PCS_Rocketship%20PCS%20-%20Rise%20Academy_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Rocketship DC PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Roots PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Roots%20PCS_Roots%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Roots PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — SEED PCS of Washington DC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_SEED%20PCS_SEED%20PCS%20of%20Washington%20DC_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `SEED PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Sela PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Sela%20PCS_Sela%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Sela PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Shining Stars Montessori Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Shining%20Stars%20Montessori%20PCS_Shining%20Stars%20Montessori%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Shining Stars Montessori PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Somerset Preparatory Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Somerset%20Preparatory%20PCS_Somerset%20Preparatory%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Somerset Preparatory PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — St. Coletta Special Education PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_St%20Coletta%20Special%20Education%20PCS_St.%20Coletta%20Special%20Education%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `St Coletta Special Education PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Statesmen College Preparatory Academy for Boys PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Statesmen%20College%20Preparatory%20Academy%20for%20Boys%20PCS_Statesmen%20College%20Preparatory%20%20Academy%20for%20Boys%20PCS_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Statesmen College Preparatory Academy for Boys PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — The Children's Guild`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_The%20Children%27s%20Guild%20PCS_The%20Children%27s%20Guild_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `The Children's Guild PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Thurgood Marshall Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Thurgood%20Marshall%20Academy%20PCS_Thurgood%20Marshall%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Thurgood Marshall Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Two Rivers PCS 4th Street`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Two%20Rivers%20PCS_Two%20Rivers%20PCS%204th%20Street_7-3-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Two Rivers PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): `4  `
+  - [`School Health Profile 2018-19 — Two Rivers PCS-Young`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Two%20Rivers%20PCS_Two%20Rivers%20PCS-Young_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Two Rivers PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Global`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Washington%20Global%20PCS_Washington%20Global_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Washington Global PCS`
+    - p6 table (5 rows): `4  `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Latin PCS - Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Middle%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Washington Latin PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Latin PCS - Upper School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Upper%20School_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Washington Latin PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Leadership Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Washington%20Leadership%20Academy%20PCS_Washington%20Leadership%20Academy%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Washington Leadership Academy PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2018-19 — Washington Yu Ying PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_Washington%20Yu%20Ying%20PCS_Washington%20Yu%20Ying%20PCS_7-2-2019.pdf) — **pdf** — 24 pages, **extractable tables** on ~8 page(s)
+    - p3 table (2 rows): `Washington Yu Ying PCS`
+    - p6 table (5 rows): ` `
+    - p6 table (3 rows): ` `
+  - [`School Health Profile 2017-18 — Achievement Preparatory PCS-Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Achievement%20Preparatory%20Academy%20PCS_Achievement%20Preparatory%20PCS-Elementary_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Achievement Preparatory PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Achievement%20Preparatory%20Academy%20PCS_Achievement%20Preparatory%20PCS-Middle%20School_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — AppleTree Early Learning Center PCS Columbia Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Columbia%20Heights_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — AppleTree Early Learning Center PCS Douglas Knoll`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Douglas%20Knoll_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — AppleTree Early Learning Center PCS Lincoln Park`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Lincoln%20Park_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — AppleTree Early Learning Center PCS Oklahoma`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20Center%20PCS%20Oklahoma_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — AppleTree Early Learning PCS … Southeast [Parklands]`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20PCS%20%E2%80%A6%20Southeast%20%5BParklands%5D_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — AppleTree Early Learning PCS … Southwest`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AppleTree%20Early%20Learning%20PCS_AppleTree%20Early%20Learning%20PCS%20%E2%80%A6%20Southwest_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Basis DC PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Basis%20DC%20PCS_Basis%20DC%20PCS_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Bridges PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Bridges%20PCS_Bridges%20PCS_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Capital City High School PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Capital%20City%20PCS_Capital%20City%20High%20School%20PCS_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Capital City Lower PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Capital%20City%20PCS_Capital%20City%20Lower%20PCS_HSA2018_2-28-2018_2.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Capital City Middle School PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Capital%20City%20PCS_Capital%20City%20Middle%20School%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Cedar Tree Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Cedar%20Tree%20Academy%20Public%20Charter%20School_Cedar%20Tree%20Academy%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Center City Brightwood Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Center%20City%20Public%20Charter%20Schools_Center%20City%20Brightwood%20Campus%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Center City Capitol Hill Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Center%20City%20Public%20Charter%20Schools_Center%20City%20Capitol%20Hill%20Campus%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Center City Congress Heights Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Center%20City%20Public%20Charter%20Schools_Center%20City%20Congress%20Heights%20Campus%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Center City Petworth Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Center%20City%20Public%20Charter%20Schools_Center%20City%20Petworth%20Campus%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Center City Trinidad Campus PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Center%20City%20Public%20Charter%20Schools_Center%20City%20Trinidad%20Campus%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Creative Minds International PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Creative%20Minds%20PCS_Creative%20Minds%20International%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — D C Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Bilingual%20PCS_D%20C%20%20Bilingual%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Preparatory Academy PCS Anacostia Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20%20Anacostia%20Elementary_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Preparatory Academy PCS Benning Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Benning%20Elementary_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Preparatory Academy PCS Benning Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Benning%20Middle_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Preparatory Academy PCS Edgewood Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Edgewood%20Elementary_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Preparatory Academy PCS Edgewood Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Preparatory%20Academy_DC%20Preparatory%20Academy%20PCS%20Edgewood%20Middle_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — DC Scholars PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC%20Scholar%20PCS_DC%20Scholars%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Democracy Prep PCS-Congress Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Democracy%20Prep%20Congress%20Heights_Democracy%20Prep%20PCS-Congress%20Heights_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — District of Columbia International School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/District%20of%20Columbia%20International%20School_District%20of%20Columbia%20International%20School_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — E.L. Haynes PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/E.L.%20Haynes%20PCS%20PCS116_E.L.%20%20Haynes%20PCS-Middle%20School_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — E.L. Haynes PCS-Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/E.L.%20Haynes%20PCS%20PCS116_E.L.%20Haynes%20PCS-Elementary%20School_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — E.L. Haynes-High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/E.L.%20Haynes%20PCS%20PCS116_E.L.%20Haynes-High%20School_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Eagle Academy PCS Capitol Riverfront`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Eagle%20Academy%20PCS_Eagle%20Academy%20PCS%20Capitol%20Riverfront_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Eagle Academy PCS Congres Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Eagle%20Academy%20PCS_Eagle%20Academy%20PCS%20Congres%20Heights_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Early Childhood Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Early%20Childhood%20Academy%20PCS_Early%20Childhood%20Academy%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Elsie Whitlow Stokes Community Freedom PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Elsie%20Whitlow%20Stokes_Elsie%20Whitlow%20Stokes%20Community%20Freedom%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Excel Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Excel%20Academy_Excel%20Academy%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Armstrong`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Armstrong_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Blow Pierce Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Blow%20Pierce%20Elementary_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Blow-Pierce Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Blow-Pierce%20Middle_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Chamberlain Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Chamberlain%20Elementary_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Chamberlain Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Chamberlain%20Middle_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Online`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Online_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Friendship PCS Southeast Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Southeast%20Academy_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Technology Preparatory High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Technology%20Preparatory%20High_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Technology Preparatory Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Technology%20Preparatory%20Middle_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Woodridge Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Woodridge%20Elementary_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Woodridge Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Woodridge%20Middle_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Friendship PCS Woodson Collegiate Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Friendship%20PCS_Friendship%20PCS%20Woodson%20Collegiate%20Academy_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Hope Community PCS Lamond Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Hope%20Community%20PCS_Hope%20Community%20PCS%20Lamond%20Campus_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Hope Community PCS Tolson Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Hope%20Community%20PCS_Hope%20Community%20PCS%20Tolson%20Campus_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Ideal Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Ideal%20Academy%20PCS_Ideal%20Academy%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Inspired Teaching Demonstration PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Inspired%20Teaching%20PCS_Inspired%20Teaching%20Demonstration%20PCS_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS AIM Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20AIM%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Arts & Technology Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Arts%20%26%20Technology%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS College Preparatory Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20College%20Preparatory%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Connect Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Connect%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Discover Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Discover%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Grow Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Grow%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Heights Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Heights%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS KEY Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20KEY%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS LEAP Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20LEAP%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Lead Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Lead%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Northeast Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Northeast%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Promise Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Promise%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Quest Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Quest%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS Spring Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Spring%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — KIPP DC PCS Valor Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20Valor%20Academy_HSA2018_2-28-2018_1.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — KIPP DC PCS WILL Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/KIPP%20DC_KIPP%20DC%20PCS%20WILL%20Academy_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Kingsman Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Kingsman%20Academy%20PCS_Kingsman%20Academy_HSA2018_6-6-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Mary McLeod Bethune Day Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Mary%20McLeod%20Bethune%20PCS_Mary%20McLeod%20Bethune%20Day%20Academy%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Maya Angelou PCS-Evans High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Maya%20Angelou%20PCS_Maya%20Angelou%20PCS-Evans%20High%20School_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Meridian PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Meridian%20PCS_Meridian%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Monument Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Monument%20Academy%20PCS_Monument%20Academy_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Mundo Verde Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Mundo%20Verde%20PCS_Mundo%20Verde%20Bilingual%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Paul PCS-International High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Paul%20PCS_Paul%20PCS-International%20High%20School_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Paul PCS-Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Paul%20PCS_Paul%20PCS-Middle%20School_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Perry Street Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Perry%20Street%20Preparatory%20PCS_Perry%20Street%20Prep%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Richard Wright PCS for Journalism and Media Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Richard%20Wright%20PCS%20for%20Journalism%20and%20Media%20Arts%20PCS_Richard%20Wright%20PCS%20for%20Journalism%20and%20Media%20Arts_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): `4 `
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Rocketship DC PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Rocketship%20DC%20PCS_Rocketship%20DC%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Rocketship Legacy Prep`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Rocketship%20DC%20PCS_Rocketship%20Legacy%20Prep_HSA2018_3-1-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — SEED PCS of Washington DC`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SEED%20PCS_SEED%20PCS%20of%20Washington%20DC_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — San Miguel`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/San%20Miguel_San%20Miguel_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Sela PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Sela%20PCS_Sela%20PCS_HSA2018_6-6-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Shining Stars Montessori Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Shining%20Stars%20Montessori%20PCS_Shining%20Stars%20Montessori%20Academy%20PCS_HSA2018_4-3-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — St. Coletta Special Education PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/St%20Coletta%20Special%20Education%20PCS_St.%20Coletta%20Special%20Education%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — The Children's Guild`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/The%20Children%27s%20Guild%20PCS_The%20Children%27s%20Guild_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Thurgood Marshall Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Thurgood%20Marshall%20Academy%20PCS_Thurgood%20Marshall%20Academy%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Two Rivers PCS-Young`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Two%20Rivers%20PCS_Two%20Rivers%20PCS-Young_HSA2018_6-6-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Washington Global`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Washington%20Global%20PCS_Washington%20Global_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): `4 `
+  - [`School Health Profile 2017-18 — Washington Latin PCS - Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Middle%20School_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Washington Latin PCS - Upper School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Upper%20School_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Washington Leadership Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Washington%20Leadership%20Academy%20PCS_Washington%20Leadership%20Academy%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2017-18 — Washington Yu Ying PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Washington%20Yu%20Ying%20PCS_Washington%20Yu%20Ying%20PCS_HSA2018_2-28-2018.pdf) — **pdf** — 26 pages, **extractable tables** on ~8 page(s)
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+    - p13 table (4 rows): ``
+  - [`School Health Profile 2013-14 — Achievement Preparatory PCS-Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Achievement%20Prep%20Academy_Achievement%20Preparatory%20PCS-Elementary_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — AppleTree Early Learning Center PCS Southwest`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AppleTree%20Early%20Learning_AppleTree%20Early%20Learning%20Center%20PCS%20Southwest_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — AppleTree Early Learning PCS Southeast`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AppleTree%20Early%20Learning_AppleTree%20Early%20Learning%20PCS%20Southeast_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Columbia Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AppleTree%20Early%20Learning_Columbia%20Heights_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Lincoln`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AppleTree%20Early%20Learning_Lincoln_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Arts and Technology Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Arts%20and%20Technology%20Academy_Arts%20and%20Technology%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Booker T. Washington`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Booker%20T.%20Washington_Booker%20T.%20Washington_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Capital City Lower PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Capital%20City_Capital%20City%20Lower%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Cedar Tree Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cedar%20Tree%20Academy%20Public%20Charter%20School_Cedar%20Tree%20Academy%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Brightwood Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Brightwood%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Capitol Hill Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Capitol%20Hill%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Congress Heights Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Congress%20Heights%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Petworth Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Petworth%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Shaw Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Shaw%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Trinidad Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Center%20City_Trinidad%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Capitol Hill (Central Office location)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez%20PCS_Capitol%20Hill%20%28Central%20Office%20location%29_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Chavez Prep Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez%20PCS_Chavez%20Prep%20Campus_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Parkside Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez%20PCS_Parkside%20Middle_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Parkside Upper`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez%20PCS_Parkside%20Upper_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Capitol Hill (Central Office location)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez_Capitol%20Hill%20%28Central%20Office%20location%29_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Chavez Prep Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cesar%20Chavez_Chavez%20Prep%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Amos III`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Amos%20III_2014HSAHealthForm_2-28-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Amos II`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Amos%20II_2014HSAHealthForm_2-28-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Amos II`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Amos%20II_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Community Academy Amos I`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Community%20Academy%20%20Amos%20I_2014_FINAL.PDF) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Community Academy Amos I`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Community%20Academy%20%20Amos%20I_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Community Academy Butler Bilingual Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Community%20Academy%20%20Butler%20Bilingual%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Community Academy Butler Bilingual Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Community%20Academy%20%20Butler%20Bilingual%20Campus_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Community Academy CAPCS Online`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Academy_Community%20Academy%20CAPCS%20Online_2014HSAHealthForm_2-26-2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Creative Minds PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Creative%20Minds%20PCS_Creative%20Minds%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — D.C. Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Bilingual%20PCS_D.C.%20Bilingual%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — D.C. Bilingual PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Bilingual%20PCS_D.C.%20Bilingual%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — D C Preparatory Benning Middle Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Preparatory%20Academy_D%20C%20Preparatory%20Benning%20Middle%20Campus_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Edgewood Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Preparatory%20Academy_Edgewood%20Elementary_2014HSAHealthForm_2-19-2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Edgewood Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Preparatory%20Academy_Edgewood%20Elementary_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Edgewood Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/D.C.%20Preparatory%20Academy_Edgewood%20Middle_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — DC Scholars PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20Scholars%20PCS_DC%20Scholars%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — DC Scholars PCS (2)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20Scholars%20PCS_DC%20Scholars%20PCS_HSAForm_2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Ballou High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Ballou%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Benjamin Banneker High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Benjamin%20Banneker%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Brent Elementary SchoolHSA2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Brent%20Elementary%20SchoolHSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Brookland Education Campus @ Bunker Hill`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Brookland%20Education%20Campus%20%40%20Bunker%20Hill_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Coolidge High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Coolidge%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Deal Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Deal%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Drew Elementary SchoolHSA2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Drew%20Elementary%20SchoolHSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Drew Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Drew%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Dunbar High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Dunbar%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Eastern High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Eastern%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Eaton Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Eaton%20Elementary%20School_HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Eaton Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Eaton%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Eliot-Hine Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Eliot-Hine%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Ellington School of the Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Ellington%20School%20of%20the%20Arts_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Garfield Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Garfield%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~18 page(s)
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (14 rows): `Section 2: Health Services`
+    - p4 table (12 rows): `Section 3: Health Education Instruction`
+  - [`School Health Profile 2014-15 — H.D. Cooke Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_H.D.%20Cooke%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Hardy Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hardy%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Hart Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hart%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Hearst Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hearst%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Hendley Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hendley%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Houston Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Houston%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Hyde-Addison Elementary School HSA2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hyde-Addison%20Elementary%20School%20HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Hyde-Addison Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Hyde-Addison%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — J.O. Wilson Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_J.O.%20Wilson%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Janney Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Janney%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Jefferson Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Jefferson%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Johnson, John Hayden Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Johnson%2C%20John%20Hayden%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Kelly Miller Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Kelly%20Miller%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Ketcham Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Ketcham%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Key Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Key%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Kimball Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Kimball%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — King Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_King%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Kramer Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Kramer%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile (year not stated) — LUDLOW`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_LUDLOW_final.pdf) — **pdf** — 9 pages, **extractable tables** on ~9 page(s)
+    - p1 table (12 rows): `Section 1: School Profile`
+    - p2 table (15 rows): `Section 2: Health Services`
+    - p3 table (12 rows): `Section 3: Health Education Instruction`
+  - [`School Health Profile 2014-15 — Lafayette Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Lafayette%20Elementary%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Langdon Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Langdon%20Education%20Campus_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Langley Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Langley%20Education%20Campus_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Mamie D. Lee School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Mamie%20D.%20Lee%20School_HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — McKinley Technology High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_McKinley%20Technology%20High%20School_HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Sharpe Health School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Sharpe%20Health%20School_HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Shepherd Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Shepherd%20Elementary%20School_HSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Wilson High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_Wilson%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Democracy Prep PCS-Congress Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Democracy%20Prep%20PCS-Congress%20Heights_Democracy%20Prep%20PCS-Congress%20Heights_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Aiton Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Aiton%20Elementary%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Amidon-Bowen Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Amidon-Bowen%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Anacostia High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Anacostia%20High%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Bancroft Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Bancroft%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Barnard Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Barnard%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Beers Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Beers%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Benjamin Banneker High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Benjamin%20Banneker%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Browne Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Browne%20Education%20Campus_2014HSAHealthForm_2-28-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Bruce-Monroe Elementary School @ Park View`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Bruce-Monroe%20Elementary%20School%20%40%20Park%20View_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Burroughs Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Burroughs%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Burrville Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Burrville%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — C.W. Harris Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_C.W.%20Harris%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Capitol Hill Montessori @ Logan`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Capitol%20Hill%20Montessori%20%40%20Logan_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Cardozo Education Center`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Cardozo%20Education%20Center_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Cleveland Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Cleveland%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Columbia Heights Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Columbia%20Heights%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Coolidge High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Coolidge%20High%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Deal Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Deal%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Eastern High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Eastern%20High%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Eliot-Hine Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Eliot-Hine%20Middle%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ellington School of the Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Ellington%20School%20of%20the%20Arts_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Garfield Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Garfield%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Garrison Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Garrison%20Elementary%20School_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — H.D. Cooke Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_H.D.%20Cooke%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hardy Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Hardy%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hart Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Hart%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hearst Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Hearst%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hendley Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Hendley%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Houston Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Houston%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — J.O. Wilson Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_J.O.%20Wilson%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Janney Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Janney%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Jefferson Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Jefferson%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Johnson, John Hayden Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Johnson%2C%20John%20Hayden%20Middle%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kelly Miller Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Kelly%20Miller%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ketcham Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Ketcham%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Key Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Key%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kimball Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Kimball%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — King Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_King%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kramer Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Kramer%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Lafayette Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Lafayette%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Langdon Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Langdon%20Education%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Langley Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Langley%20Education%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Leckie Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Leckie%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ludlow-Taylor Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Ludlow-Taylor%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Luke C. Moore High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Luke%20C.%20Moore%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Malcolm X Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Malcolm%20X%20Elementary%20School_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Mann Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Mann%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Marie Reed Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Marie%20Reed%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Maury Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Maury%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — McKinley Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_McKinley%20Middle%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Miner Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Miner%20Elementary%20School_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Moten Elementary School @ Wilkinson`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Moten%20Elementary%20School%20%40%20Wilkinson_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Murch Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Murch%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Nalle Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Nalle%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Noyes Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Noyes%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Orr Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Orr%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Oyster Adams Bilingual School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Oyster%20Adams%20Bilingual%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Patterson Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Patterson%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Payne Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Payne%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Peabody Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Peabody%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Phelps Architecture, Construction, and Engineering High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Phelps%20Architecture%2C%20Construction%2C%20and%20Engineering%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Plummer Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Plummer%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Powell Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Powell%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Randle Highlands Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Randle%20Highlands%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Raymond Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Raymond%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Roosevelt High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Roosevelt%20High%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ross Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Ross%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Savoy Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Savoy%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — School Without Walls High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_School%20Without%20Walls%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — School Without Walls at Francis Stevens`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_School%20Without%20Walls%20at%20Francis%20Stevens_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — School-Within-School @ Peabody`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_School-Within-School%20%40%20Peabody_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Seaton Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Seaton%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Simon Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Simon%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Smothers Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Smothers%20Elementary%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Sousa Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Sousa%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Stanton Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Stanton%20Elementary%20School_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Stoddert Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Stoddert%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Stuart-Hobson Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Stuart-Hobson%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Takoma Education Campus @ Meyer`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Takoma%20Education%20Campus%20%40%20Meyer_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Thomas Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Thomas%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Thomson Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Thomson%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Truesdell Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Truesdell%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Tubman Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Tubman%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Turner Elementary School @ Green`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Turner%20Elementary%20School%20%40%20Green_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Tyler Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Tyler%20Elementary%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Walker-Jones Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Walker-Jones%20Education%20Campus_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Washington Metropolitan High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Washington%20Metropolitan%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Watkins Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Watkins%20Elementary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — West Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_West%20Education%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Wheatley Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Wheatley%20Education%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Whittier Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Whittier%20Education%20Campus_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Wilson High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Wilson%20High%20School_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Woodson, H.D. High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Woodson%2C%20H.D.%20High%20School_2014HSAHea....pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Youth Services Center`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/District%20of%20Columbia%20Public%20Schools_Youth%20Services%20Center_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Georgia Ave`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/E.L.%20Haynes%20PCS_Georgia%20Ave_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kansas Ave … Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/E.L.%20Haynes%20PCS_Kansas%20Ave%20%E2%80%A6%20Elementary%20School_2014HSAHealthForm_2-27-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kansas Ave - High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/E.L.%20Haynes%20PCS_Kansas%20Ave%20-%20High%20School_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Early Childhood Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Early%20Childhood%20Academy%20PCS_Early%20Childhood%20Academy%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Excel Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Excel%20Academy%20PCS_Excel%20Academy%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Blow-Pierce`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Blow-Pierce_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Blow-Pierce (2)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Blow-Pierce_HSAForm_2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Collegiate Academy -Woodson`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Collegiate%20Academy%20-Woodson_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Friendship PCS - Blow Pierce Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Friendship%20PCS%20-%20Blow%20Pierce%20Elementary_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Friendship PCS - Chamberlain Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Friendship%20PCS%20-%20Chamberlain%20Middle_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Friendship PCS - Collegiate Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Friendship%20PCS%20-%20Collegiate%20Academy_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Friendship PCS - Woodridge Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Friendship%20PCS%20-%20Woodridge%20Elementary_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Friendship PCS - Woodridge Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Friendship%20PCS%20-%20Woodridge%20Middle_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Southeast Elementary`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Southeast%20Elementary_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Tech Prep`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Tech%20Prep_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Woodridge`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Friendship%20Schools_Woodridge_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hope Community PCS Lamond`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Hope%20Community_Hope%20Community%20PCS%20Lamond_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hope Community PCS Tolson`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Hope%20Community_Hope%20Community%20PCS%20Tolson_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Hospitality SHS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Hospitality%20PCS_Hospitality%20SHS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Howard University Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Howard%20University%20Middle%20School_Howard%20University%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ideal Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Ideal%20Academy_Ideal%20Academy_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Imagine SE`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Imagine%20SE_Imagine%20SE_HSAForm_2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Ingenuity Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Ingenuity%20Prep%20PCS_Ingenuity%20Prep%20PCS_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Inspired Teaching School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Inspired%20Teaching%20School_Inspired%20Teaching%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — KIPP DC AIM PCS Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20AIM%20PCS%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Arts & Technology Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Arts%20%26%20Technology%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Connect Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Connect%20Academy_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Discover PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Discover%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC GROW Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20GROW%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Heights Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Heights%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC KEY Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20KEY%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC LEAP Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20LEAP%20Academy%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Promise PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Promise%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Quest PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Quest%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — KIPP DC Spring Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC%20PCS_KIPP%20DC%20Spring%20Academy_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — AIM Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_AIM%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — College Preparatory`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_College%20Preparatory_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Discover Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_Discover%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Grow Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_Grow%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Heights Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_Heights%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — KEY Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_KEY%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — KIPP DC Connect Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_KIPP%20DC%20Connect%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — KIPP DC LEAD Academy PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_KIPP%20DC%20LEAD%20Academy%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — KIPP DC Spring Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_KIPP%20DC%20Spring%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — LEAP Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_LEAP%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Promise Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_Promise%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — WILL Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/KIPP%20DC_WILL%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Latin American Montessori Bilingual (LAMB) PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Latin%20American%20Montessori%20Bilingual%20%28LAMB%29_Latin%20American%20Montessori%20Bilingual%20%28LAMB%29%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Latin American Youth Center Career Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Latin%20American%20Youth%20Center%20%28LAYC%29%20Career%20Academy_Latin%20American%20Youth%20Center%20Career%20Academy_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Mary McLeod Bethune PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Mary%20McLeod%20Bethune%20PCS_Mary%20McLeod%20Bethune%20PCS_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Maya Angelou - Evans High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Maya%20Angelou_Maya%20Angelou%20-%20Evans%20High_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Maya Angelou PCS - Evans Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Maya%20Angelou_Maya%20Angelou%20PCS%20-%20Evans%20Middle_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Meridian PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Meridian%20PCS_Meridian%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Meridian PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Meridian%20PCS_Meridian%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Mundo Verde PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Mundo%20Verde%20Bilingual%20PCS_Mundo%20Verde%20PCS_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Mundo Verde PCS (2)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Mundo%20Verde%20Bilingual%20PCS_Mundo%20Verde%20PCS_2014HSAHealthForm_2-19-2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — National Collegiate PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/National%20Collegiate%20PCS_National%20Collegiate%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Options PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Options%20Options_Options%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Eagle Academy PCS - The Eagle Center at McGogneyHSA2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PCS_Eagle%20Academy%20PCS%20-%20The%20Eagle%20Center%20at%20McGogneyHSA2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — SELA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PCS_SELA_HSA2014_0.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Paul Public Charter School - International High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Paul%20PCS_Paul%20Public%20Charter%20School%20-%20International%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Paul Public Charter School - International High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Paul%20PCS_Paul%20Public%20Charter%20School%20-%20International%20High%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Paul Public Charter School - Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Paul%20PCS_Paul%20Public%20Charter%20School%20-%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Paul Public Charter School - Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Paul%20PCS_Paul%20Public%20Charter%20School%20-%20Middle%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Perry Street Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Perry%20Street%20Prep%20%28former%20HYDE%29_Perry%20Street%20Prep%20PCS_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Perry Street Prep PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Perry%20Street%20Prep%20%28former%20HYDE%29_Perry%20Street%20Prep%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Potomac Lighthouse PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Potomac%20Lighthouse%20PCS_Potomac%20Lighthouse%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Potomac Preparatory PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Potomac%20Preparatory%20PCS_Potomac%20Preparatory%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — High Road Academy High School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_High%20Road%20Academy%20High%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — High Road Academy Middle School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_High%20Road%20Academy%20Middle%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — High Road Academy Primary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_High%20Road%20Academy%20Primary%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Kingsbury Day School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_Kingsbury%20Day%20School_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — San Miguel School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_San%20Miguel%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Village Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Private%20Schools_Village%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2013-14 — Richard Wright PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Richard%20Wright%20PCS_Richard%20Wright%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Richard Wright PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Richard%20Wright%20PCS_Richard%20Wright%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Roots PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Roots%20PCS_Roots%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — SEED`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SEED_SEED_2014HSAHealthForm_2-28-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — SEED`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SEED_SEED_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile (year not stated) — Anacostia High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_AcademiesAnacostia_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Apple Tree Columbia`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_AppleTree_Columbia.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Appletree Ecapitol`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_AppleTree_ECapitol.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Apple Tree Early Learning Center PCS Riverside`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_AppleTree_Riverside.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Ballou Stay High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_BallouSTAYHigh_1.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Benjamin Banneker High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_BannekerHS_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Bridges`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Bridges.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Ron Brown Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_BrownHRonald_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Choice Academy Middlehigh`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CHOICE%20Acad_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Capitalcity Lower`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CapitalCity_Lower_2ndSubmission.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Cardozo High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Cardozo_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Center City Brightwood`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CenterCity%20_Brightwood.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Center City Petworth`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CenterCity%20_Petworth.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Center City Congress Heights`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CenterCity_CongressHeights.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Center City Trinidad`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CenterCity_Trinidad.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Drew Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CharlesDrew.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Community Academy AMOS 2`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CommunityAcademy_Amos2.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Coolidge High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_CoolidgeSHS_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Deal Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_DealMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Ellington School Arts`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_DukeEllington_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Dunbar High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Dunbar_SH_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Eastern High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_EasternSH_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Eliot Hine Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_EliotHine_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Hardy Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_HardyMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Tubman Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_HarrietTubman.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Hart Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_HartMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Hope Community Lamond`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_HopeCommunity_Lamond.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Hope Community Tolson`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_HopeCommunity_Tolson.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Jefferson Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_JeffersonMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Burroughs Education Campus`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_JohnBurroughs_2Submissions.pdf) — **pdf** — 8 pages, **extractable tables** on ~8 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Nalle Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_JohnCarrollNalle.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Tyler Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_JohnTylerElem.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — John Hayden Johnson Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_JohnsonMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Kippdc Discover Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_KIPPDC_Discover.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Kelly Miller Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_KellyMillerMiddle_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Kimball Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_KimballES.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Kramer Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_KramerMiddle_revised_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Luke C Moore High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_LukeCMooreHigh_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — King Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_MLKingElem.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Macfarland Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_MacFarland_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Mckinley Technology High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_McKinleyTechn_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Moten Elementary School Wilkinson`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Moten%40Wilkinson.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Murch Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_MurchElem.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Patterson Elementary School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Patterson.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Phelps Architecture Construction And Engineering High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_PhelpsArchitecture_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Roosevelt Stay High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_RooseveltSTAY_1.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+    - p1 table (2 rows): `Name of School Nurse 2:`, `Nurse 2 - Phone:`, `Nurse 2 - Email Address:`, `Nurse 2 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — School Without Walls High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_SchoolWithoutWalls_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Seed`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Seed.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Sousa Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_SousaMS_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Stuart Hobson Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_StuartHobson_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Transition Academy Shadd`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Transition_Shadd_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Washington Metropolitan High`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_WashingtonMetropolitan_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Watkins Elementary (2)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Watkins_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Wilson High School Udc`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_WoodrowWilsonSH_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Woodson Academy Ron Brown`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Woodson9thGrAcad_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile (year not stated) — Youth Services Center (2)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20Health%20Form_Youth%20Services%20Center_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~4 page(s)
+    - p1 table (2 rows): 
+    - p1 table (13 rows): `Section 1: School Profile`
+    - p1 table (2 rows): `Name of School Nurse 1:`, `Nurse 1 - Phone:`, `Nurse 1 - Email Address:`, `Nurse 1 - Suite/Room Location:`
+  - [`School Health Profile 2014-15 — Sela PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Sela%20PCS_Sela%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Shining Stars Montessori`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Shining%20Stars%20Montessori_Shining%20Stars%20Montessori_2014HSAHealthForm_2-24-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Shining Stars Montessori`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Shining%20Stars%20Montessori_Shining%20Stars%20Montessori_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Somerset PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Somerset%20PCS_Somerset%20PCS_2014HSAHealthForm_2-19-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Somerset PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Somerset%20PCS_Somerset%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — St. Coletta Special Education`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/St.%20Coletta%20Special%20Education_St.%20Coletta%20Special%20Education_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — St. Coletta Special Education`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/St.%20Coletta%20Special%20Education_St.%20Coletta%20Special%20Education_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — The Next Step PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/The%20Next%20Step%20PCS_The%20Next%20Step%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — The Next Step`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/The%20Next%20Step%20PCS_The%20Next%20Step_El%20Pr%C3%B3ximo%20Paso%20PCS_HSA_2015_FINAL.PDF) — **pdf** — 25 pages, **extractable tables** on ~18 page(s)
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (14 rows): `Section 2: Health Services`
+    - p4 table (12 rows): `Section 3: Health Education Instruction`
+  - [`School Health Profile 2013-14 — Thurgood Marshall Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Thurgood%20Marshall%20Academy_Thurgood%20Marshall%20Academy_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Thurgood Marshall Academy`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Thurgood%20Marshall%20Academy_Thurgood%20Marshall%20Academy_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Tree Of Life PCS School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Tree%20Of%20Life%20PCS_Tree%20Of%20Life%20PCS%20School_2014HSAHealthForm_2-26-2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Tree Of Life PCS School`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Tree%20Of%20Life%20PCS_Tree%20Of%20Life%20PCS%20School_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Two Rivers PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Two%20Rivers%20PCS_Two%20Rivers%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Two Rivers PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Two%20Rivers%20PCS_Two%20Rivers%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — Hospitality SHS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Hospitality%20Foundation_Hospitality%20SHS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Washington Latin PCS - Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Middle_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Washington Latin PCS - Middle`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Middle_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Washington Latin PCS - Upper`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Upper_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (11 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Washington Latin PCS - Upper`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Latin%20PCS_Washington%20Latin%20PCS%20-%20Upper_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Washington Math Science and Technology (WMST)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Math%20Science%20and%20Technology%20%28WMST%29_Washington%20Math%20Science%20and%20Technology%20%28WMST%29_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Washington Math Science and Technology (WMST)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Math%20Science%20and%20Technology%20%28WMST%29_Washington%20Math%20Science%20and%20Technology%20%28WMST%29_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2013-14 — Washington Yu Ying PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Yu%20Ying%20PCS_Washington%20Yu%20Ying%20PCS_HSAForm_2014.pdf) — **pdf** — 12 pages, **extractable tables** on ~12 page(s)
+    - p1 table (4 rows): `Healthy Schools Act of 2010`
+    - p2 table (12 rows): `Section 1: School Profile`
+    - p3 table (13 rows): `Section 2: Health Services`
+  - [`School Health Profile 2014-15 — Washington Yu Ying PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Yu%20Ying%20PCS_Washington%20Yu%20Ying%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
+  - [`School Health Profile 2014-15 — William E. Doar Jr PCS`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/William%20E.%20Doar%2C%20Jr.%20PCS_William%20E.%20Doar%20Jr%20PCS_HSA_2015_FINAL.pdf) — **pdf** — 25 pages, **extractable tables** on ~19 page(s)
+    - p2 table (16 rows): ```, `Section 1: School Profile Section 1: School Profile`
+    - p3 table (15 rows): ``Section 2: Health ServicesS ection 2: Health Services`
+    - p4 table (16 rows): ```, `Section 3: Health ESdeucctaiotnio 3n: IHnestarluthc tEiodnu cation Instruction`
 
 ### [Community Eligibility Provision (CEP) — schools eligible for universal free meals](https://osse.dc.gov/publication/2018-19-school-year-dc-schools-eligible-community-eligibility-provision)
 
@@ -3855,6 +6526,9 @@ _topics: school-climate, profiles_
     - p10 table (4 rows): `NAME OF FACILITY`
   - [`Community Eligibility Provision (CEP) Eligibility Data Memo Feb. 2020`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Eligibility%20Provision%20%28CEP%29%20Eligibility%20Data%20Memo%20Feb.%202020.pdf) — **pdf** — 3 pages, **extractable tables** on ~1 page(s)
     - p2 table (10 rows): `Due Date`, `Responsible Party`, `Action`
+  - [`March2024 CEP DCPS`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/March2024_CEP_DCPS.pdf) — **pdf** — 9 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `1`, `Provision of 1:1 learning devices.`
+    - p2 table (4 rows): `A1.`, `As of the submission of this plan, the LEA has 46,000 learning devices.`
 
 ### [OSSE Equity Reports (2012-17)](https://osse.dc.gov/page/equity-reports)
 
@@ -8020,6 +10694,10 @@ _topics: graduation_
 - **Updated:** Annual (2025 ed. published Mar 2025)
 - **Years on page:** Latest year; older editions only via direct PDF URLs
 - **Notes:** District-wide 'by the numbers.' Prior-year editions have no central archive — classic fragmentation. As of 2026-11-01 the 2025 page returns 'Access denied' (HTTP 403) in a browser as well as to scripts, which is how dc.gov serves unpublished pages. No 2026 edition was found (/featured-content/dcps-fast-facts-2026 is 404) and the DCPS homepage no longer links Fast Facts.
+- **Data files (profiled):**
+  - [`2025 DCPS Fast Facts`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/2025%20DCPS%20Fast%20Facts.pdf) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `STAY IN TOUCH 1200 First Street, NE Washington, DC 20002 (202) 442-5885 dcps.dc.gov`
+    - p2 table (4 rows): `10 month 12 month`
 
 ### [DCPS School Profiles ('Find a School')](https://profiles.dcps.dc.gov/)
 
@@ -8153,6 +10831,54 @@ _topics: boundaries_
 - **Updated:** Annual
 - **Years on page:** SY14-15 through SY26-27
 - **Notes:** Which schools feed into which (geographic + programmatic). Unusually complete multi-year archive vs. other DCPS data.
+- **Data files (profiled):**
+  - [`SY23-24 School Feeder Patterns`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/SY23-24%20School%20Feeder%20Patterns.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (45 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (53 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY2425 School Feeder Patterns 10.23 Eng`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/SY2425%20School%20Feeder%20Patterns_10.23_Eng.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (45 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (48 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (10 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY25-26 School Feeder Patterns English`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/SY25-26%20School%20Feeder%20Patterns%20English_0.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (45 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (48 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (10 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY 14-15 DCPS Feeder Patterns`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY%2014-15%20DCPS%20Feeder%20Patterns.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (45 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (43 rows): `Elementary School`, `Middle School`, `High School`
+  - [`SY15-16 DCPS Feeder Patterns`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY15-16%20DCPS%20Feeder%20Patterns_0.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (6 rows): `Dual-­‐Language School/Program`, `Non Dual-­‐Language Alternative`
+  - [`SY16-17 School Feeder Patterns - Revised`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY16-17%20School%20Feeder%20Patterns%20-%20Revised_0.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (49 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (46 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (7 rows): `Dual-­‐Language School/Program`, `Non Dual-­‐Language Alternative School`
+  - [`SY17-18 School Feeder Patterns`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY17-18%20School%20Feeder%20Patterns.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (42 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (46 rows): `Walker Jones EC (PK3-8)`
+    - p3 table (10 rows): `SY17-18 Dual Language Programmatic and Feeder Patterns`
+  - [`SY1819 School Feeder Patterns`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY1819%20School%20Feeder%20Patterns_0.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (42 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (53 rows): 
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY1920-School-Feeder-Patterns-July-2019`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY1920-School-Feeder-Patterns-July-2019_0.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (44 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY2021-School-Feeder-Patterns Final`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY2021-School-Feeder-Patterns_Final.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (44 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY2122-School-Feeder-Patterns Feb-2021`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY2122-School-Feeder-Patterns_Feb-2021.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (44 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
+  - [`SY2223-School-Feeder-Patterns updated-1-13-22`](https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY2223-School-Feeder-Patterns_updated-1-13-22.pdf) — **pdf** — 3 pages, **extractable tables** on ~3 page(s)
+    - p1 table (43 rows): `Elementary School`, `Middle School`, `High School`
+    - p2 table (44 rows): `Elementary School`, `Middle School`, `High School`
+    - p3 table (9 rows): `Elementary Grades`, `Middle Grades`, `High Schools`
 
 ### [Find Your In-Boundary School (address lookup)](https://enrolldcps.dc.gov/node/41)
 
@@ -9066,6 +11792,10 @@ _topics: enrollment, facilities, boundaries_
     - p1 table (3 rows): `Public School Enrollment Trends 2011-2016`
     - p2 table (3 rows): `Population Key Takeaways Population Changes • The District added more than 100,000 people since 2000, driven mostly by an increase in adults. • The number of children substantially increased in the past five years surpassing the number of children in 1990. • Between 2010 and 2015, infants and toddlers under age 5 increased by almost 10,000 children. • The number of 15-17 year olds has been declining since 1990.`
     - p3 table (3 rows): `Public School Enrollment Key Takeaways Public School Student Enrollment Changes • Total enrollment started to increase in 2008 after decades of decline, driven by enrollment in public charters and also in DCPS in recent years. – Enrollment in early childhood and elementary grades increased more than middle and high school grades, and these increases occurred in almost all wards. – Enrollments in adult and alternative schools also increased substantially in the public charter sector. • Public school students living in Ward 3 had the greatest percent change increases between 2013 and 2016 in the early childhood, middle school, and high school grades.`
+  - [`Inside-Education-UPSFF-10082025-Appendix`](https://dme.dc.gov/sites/default/files/dc/sites/dme/page_content/attachments/Inside-Education-UPSFF-10082025-Appendix.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (9 rows): `Grade Levels`, `Weight`, `Per Pupil Allocation`
+    - p1 table (11 rows): `Special Education`, `Weight`, `Per Pupil Allocation`
+    - p1 table (3 rows): `English Language Learners`, `Weight`, `Per Pupil Allocation`
 
 ### [DME — Interactive School Facility Maps](https://dme.dc.gov/page/interactive-school-facility-maps)
 
@@ -9268,6 +11998,14 @@ _topics: facilities, enrollment_
     - tab **DCPS Building Condition Dat (2** (124 rows × 19 cols) — cols: `(DCPS ACR II) 2012 ACR A10: Foundations`, `(DCPS ACR II) 2012 ACR A20: Basement Construction`, `(DCPS ACR II) 2012 ACR B20: Exterior Enclosure`, `(DCPS ACR II) 2012 ACR B30: Roofing`, `(DCPS ACR II) 2012 ACR C10: Interior Construction`, `(DCPS ACR II) 2012 ACR C20: Stairs`, `(DCPS ACR II) 2012 ACR C30: Interior Finishes`, `(DCPS ACR II) 2012 ACR D10: Conveying Systems`, `(DCPS ACR II) 2012 ACR D20: Plumbing`, `(DCPS ACR II) 2012 ACR D30: HVAC`, `(DCPS ACR II) 2012 ACR D40: Fire Protection Systems`, `(DCPS ACR II) 2012 ACR D50: Electrical Systems` …
   - [`MFP 2015 — Appendix E - DCPS Facility Designation List`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Appendix%20E_DCPS%20Facility%20Designation%20List.xlsx) — **xlsx** — 1 tab(s)
     - tab **Act Classification 2014** (138 rows × 5 cols) — cols: `Program #`, `School Name`, `School Address`, `D.C. ACT 20-319 Classification`, `Notes`
+  - [`2016 MFP Annual Supplement`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2016%20MFP%20Annual%20Supplement_0.pdf) — **pdf** — 9 pages, **extractable tables** on ~4 page(s)
+    - p6 table (7 rows): `School Name`, `SY 2016-2017 Utilization Rate (Permanent Capacity)***`, `SY 2016-2017 Utilization Rate (Permanent + Portable Capacity)***`, `Plan to Address High/Low Utilization`
+    - p6 table (5 rows): `SY 2016-2017`
+    - p6 table (4 rows): `SY 2016-2017`
+  - [`FINAL Closed DCPS Facility Landscape as of August 2019`](https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/FINAL%20Closed%20DCPS%20Facility%20Landscape_as%20of%20August%202019.pdf) — **pdf** — 20 pages, **extractable tables** on ~14 page(s)
+    - p6 table (5 rows): `Own/Lease`, `# of Facilities`
+    - p7 table (4 rows): `Use of Closed DCPS Facilities Remaining in the DCPS Portfolio`, `# of Facilities`
+    - p8 table (9 rows): `Agency`, `# of Facilities`
 
 ### [DME — School Facilities Data (annual) & Edsight facility briefs](https://dme.dc.gov/publications)
 
@@ -10064,7 +12802,7 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 2007 of 2009 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
+**Profiling status (last run):** 2692 of 2694 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 

@@ -150,6 +150,13 @@ def derive_series(source_id: str, name: str, year):
         if m:
             yr, sector, school = m.groups()
             return {"series": f"OSSE School Equity Reports {yr} ({sector})", "label": school}
+    # OSSE School Health Profiles: one filled-in annual form per school (DCPS and charter),
+    # per school year. One card per year, school name as the chip.
+    if source_id == "osse-school-health":
+        m = re.match(r"School Health Profile (?:(\S+)|\(year not stated\)) \u2014 (.*)$", name)
+        if m:
+            yr = m.group(1) or "year not stated"
+            return {"series": f"School Health Profiles {yr}", "label": m.group(2)}
     if source_id == "pcsb-equity-reports":
         if "definition" in low:
             return {"series": "School Equity Reports (per charter school, 2017-18)", "label": "Definitions Guide"}

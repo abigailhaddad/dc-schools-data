@@ -167,5 +167,35 @@ full playbook + code snippets):
   listing any link that broke since last run, and if more than 10 broke at
   once (a publisher migrated its site, as PCSB did in Oct 2026) it does not
   commit or deploy. A broken file keeps its `last_good_profile`.
-- **Layer 2 (discovery):** finding new files / resolving Box needs the browser, so
-  run the `update-dc-schools-data` skill (optionally scheduled as a cloud agent).
+- **Layer 1b (discovery, no browser):** `find_new_files.py`, run by the same weekly
+  workflow after the refresh. `refresh.sh` only re-downloads URLs already in
+  `data_files.yaml`, so a new year, or a release at a new URL, is invisible without it.
+  It crawls the source pages (seeded from the OSSE/DME/DCPS `/publications?page=N`
+  listings and the PCSB sitemap), and writes `new_files.md` listing spreadsheets/CSVs
+  and PDFs-with-tables that are not in the catalog. It never edits the catalog: a
+  person reviews the list, adds the real data files to `data_files.yaml`, and puts
+  declined URLs in `discovery_ignore.txt` so they are not flagged again.
+  - Scope is **data only**: spreadsheets, and statistical PDFs. Not guides,
+    questionnaires, translations, plans, checklists, forms, meeting notes, or agency
+    operations (budget, contracts). Keep **all years** of everything.
+  - The PDF table test is weak (most PDFs have a table somewhere), so PDFs always
+    need a human read of the file names. Results are cached in
+    `discovery_pdf_checked.json`; `PDF_BUDGET` caps how many are checked per run.
+  - It alerts (GitHub issue) when it finds candidates, when it crashes, and when
+    crawl coverage (share of already-catalogued files it re-finds) falls below 75% or
+    drops more than 5 points from `discovery_state.json`. Coverage is a tripwire, not
+    a 100% target: publishers drop links to superseded years, and Box/Egnyte/ArcGIS
+    links cannot be crawled.
+  - PCSB serves a different page to non-browser User-Agents; the script sends a
+    browser UA.
+- **`verify_labels.py`**: re-fetches entries and checks file type, source-page link,
+  year and name against the live file (`--added YYYY-MM-DD`, `--ids`, `--sample N`).
+  Run it on anything you add in bulk. A year match is weak for spreadsheets (a bare
+  year can match unrelated numbers), so treat it as confirmation, not proof.
+- **Layer 2 (browser):** resolving Box/Egnyte/ArcGIS links needs the browser, so run
+  the `update-dc-schools-data` skill (optionally scheduled as a cloud agent).
+- **Adding files by hand:** add rows to `data_files.yaml` (percent-encode the URL),
+  run `profile_files.py --only <ids>` (needs the packages in `requirements.txt`,
+  including `pdfplumber`), then `generate_readme.py`, `test_frontend.py`,
+  `test_publish_dir.py`, `validate.py`. Years the file and its page do not state
+  are `"unknown"`, not a guess.
