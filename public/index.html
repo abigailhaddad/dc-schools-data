@@ -148,7 +148,9 @@ function highlight(escaped, terms) {
 }
 
 function queryTerms() {
-  return state.q.toLowerCase().split(/\s+/).filter(Boolean);
+  // a dash-only term ("-", "--") has an empty flexTerm regex that matches every file and
+  // makes highlight() wrap every character in <mark></mark>; treat it like no term.
+  return state.q.toLowerCase().split(/\s+/).filter(t => t && flexTerm(t));
 }
 
 function matches(source) {
