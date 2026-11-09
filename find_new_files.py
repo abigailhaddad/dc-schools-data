@@ -53,6 +53,7 @@ MAX_PAGES = int(os.environ.get("MAX_PAGES", "6000"))
 MAX_PDF_BYTES = 25 * 1024 * 1024
 PDF_BUDGET = int(os.environ.get("PDF_BUDGET", "150"))  # PDF table checks per run; the rest wait for next week
 CACHE = HERE / "discovery_pdf_checked.json"
+PDF_WORKERS = int(os.environ.get("PDF_WORKERS", "6"))
 STATE = HERE / "discovery_state.json"  # last run's coverage, to catch a sudden drop (committed by the workflow)
 MAX_DROP = float(os.environ.get("MAX_COVERAGE_DROP", "5"))  # points below the previous run that count as a broken crawl
 DATA_EXT = re.compile(r"\.(xlsx?|csv|zip)$", re.I)
@@ -240,6 +241,24 @@ def main() -> int:
     budget = PDF_BUDGET
     DATA_HINT = re.compile(r"data|stats|statistic|results|enrollment|attendance|audit|scores?|tables?|allocation|profile|summary|counts?|rates?|report|dashboard|roster|list", re.I)
     order = sorted(new.items(), key=lambda kv: (not DATA_HINT.search(urllib.parse.unquote(kv[0]).rsplit("/", 1)[-1]), kv[0]))
+    # Table-check the uncached PDFs in parallel (pdfplumber is CPU-bound), up to the budget.
+    # Results land in `checked`, so the loop below only reads the cache.
+    if not args.no_pdf and budget > 0:
+        need = [u for u, _ in order
+                if not DATA_EXT.search(u.split("?")[0]) and not DOC_NAME.search(urllib.parse.unquote(u).rsplit("/", 1)[-1])
+                and norm(u) not in checked][:budget]
+        if need:
+            import concurrent.futures as _cf
+            done = 0
+            with _cf.ProcessPoolExecutor(max_workers=PDF_WORKERS) as ex:
+                for u, t in zip(need, ex.map(pdf_has_tables, need, chunksize=1)):
+                    if t is not None:
+                        checked[norm(u)] = t
+                    done += 1
+                    if done % 200 == 0:
+                        print(f"  table-checked {done}/{len(need)}", file=sys.stderr, flush=True)
+                        CACHE.write_text(json.dumps(checked, indent=0, sort_keys=True))  # survive an interrupted run
+            budget = 0
     for u, page in order:
         name = urllib.parse.unquote(u).rsplit("/", 1)[-1]
         if DATA_EXT.search(u.split("?")[0]):
