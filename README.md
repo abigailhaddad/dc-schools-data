@@ -398,7 +398,7 @@ _topics: landing, enrollment, assessment, attendance, graduation, discipline, fi
     - tab **FY19 Title I** (103 rows × 1 cols) — cols: `Title I-A`
     - tab **FY19 Title II** (115 rows × 1 cols) — cols: `Title II-A`
     - tab **FY19 Title III** (35 rows × 1 cols) — cols: `Title III-A`
-  - [`FY19 Performance Oversight — Q88 Attachment 1- (a)-(c); (e)-(i) FY19 NonPublic`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q88%20Attachment%201-%20%28a%29-%28c%29%3B%20%28e%29-%28i%29%20FY19%20NonPublic.xlsx) — **xlsx** — ❌ profile_failed: Unable to read workbook: could not read stylesheet from /Users/abigailhaddad/Documents/repos/schools/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.
+  - [`FY19 Performance Oversight — Q88 Attachment 1- (a)-(c); (e)-(i) FY19 NonPublic`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q88%20Attachment%201-%20%28a%29-%28c%29%3B%20%28e%29-%28i%29%20FY19%20NonPublic.xlsx) — **xlsx** — ❌ profile_failed: Unable to read workbook: could not read stylesheet from /home/runner/work/dc-schools-data/dc-schools-data/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.
 This is most probably because the workbook source files contain some invalid XML.
 Please see the exception for more details.
   - [`FY19 Performance Oversight — Q88 Attachment 2 - (d) FY19 Students Served by Nonpublic`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q88%20Attachment%202%20-%20%28d%29%20FY19%20Students%20Served%20by%20Nonpublic.xlsx) — **xlsx** — 5 tab(s)
@@ -9730,7 +9730,7 @@ Currently flagged `needs_browser` (resolve in a browser):
 - 2019 DC School Report Card and STAR Framework Cross-Tabulated Data File → https://app.box.com/s/tb3ipg32wo48di3ph58llnpim5632fn9
 
 Files that failed to download/profile on the last run:
-- FY19 Performance Oversight — Q88 Attachment 1- (a)-(c); (e)-(i) FY19 NonPublic — `profile_failed: Unable to read workbook: could not read stylesheet from /Users/abigailhaddad/Documents/repos/schools/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.
+- FY19 Performance Oversight — Q88 Attachment 1- (a)-(c); (e)-(i) FY19 NonPublic — `profile_failed: Unable to read workbook: could not read stylesheet from /home/runner/work/dc-schools-data/dc-schools-data/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.
 This is most probably because the workbook source files contain some invalid XML.
 Please see the exception for more details.`
 

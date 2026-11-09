@@ -99850,7 +99850,7 @@
       "special-education"
     ],
     "status": "error",
-    "error": "profile_failed: Unable to read workbook: could not read stylesheet from /Users/abigailhaddad/Documents/repos/schools/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.\nThis is most probably because the workbook source files contain some invalid XML.\nPlease see the exception for more details."
+    "error": "profile_failed: Unable to read workbook: could not read stylesheet from /home/runner/work/dc-schools-data/dc-schools-data/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.\nThis is most probably because the workbook source files contain some invalid XML.\nPlease see the exception for more details."
   },
   "osse-data-reports-fy19-performance-oversight-q88-attachment-2-d-fy19-students-served-by-nonpublic": {
     "id": "osse-data-reports-fy19-performance-oversight-q88-attachment-2-d-fy19-students-served-by-nonpublic",
