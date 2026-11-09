@@ -122,6 +122,14 @@ def main() -> int:
                 and (year is None or f["year"] == year) for f in files):
                 errors.append(f"rule mismatch for tag={tag} owner={owner} year={year}")
 
+    # 5. a dash-only search term ("-", "--") has an empty flexTerm() regex that matches
+    #    everything and makes highlight() wrap every character in <mark></mark>;
+    #    queryTerms() must drop such terms.
+    html = (PUBLIC / "index.html").read_text()
+    qt = re.search(r"function queryTerms\(\)\s*\{(.*?)\n\}", html, re.S)
+    if not qt or "flexTerm(" not in qt.group(1):
+        errors.append("queryTerms() does not drop terms whose flexTerm() is empty (dash-only search)")
+
     for e in errors:
         print(f"  FAIL: {e}")
     n = len(files)
