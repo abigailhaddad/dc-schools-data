@@ -105,6 +105,14 @@ def derive_series(source_id: str, name: str, year):
         return {"series": "School Locations (DCPS + charter)", "label": "DCPS"}
     if source_id == "opendata-charter-locations":
         return {"series": "School Locations (DCPS + charter)", "label": "Charter"}
+    # "Public School Enrollments per DCPS Boundary" was published by DME as one file
+    # per year (SY2016-17 .. SY2023-24), then moved to EdScape under a new name
+    # ("Enrollments per DCPS Boundary", 2025, 2026). One lineage -> one card, so a
+    # search for it shows the newest year next to the old ones. The 2016-17
+    # "by Neighborhood Cluster" file is a different cut, so it stays out.
+    if (source_id in ("dme-enrollment-per-boundary", "edscape-enrollment-patterns")
+            and "per dcps boundary" in low and "neighborhood" not in low):
+        return {"series": "Public School Enrollments per DCPS Boundary", "label": year}
     # EdScape Chapter 4 file names strip down to cryptic one-word titles
     # (Distance, Feeders, GPR, Sector). Give them plain-language titles decoded
     # from their actual contents.
@@ -135,6 +143,13 @@ def derive_series(source_id: str, name: str, year):
         elif "grade" in low: s = "Lottery: Applicants by Grade"
         else: s = "Lottery: Other / research"
         return {"series": s, "label": year}
+    # OSSE school equity reports: one PDF per school (DCPS + charter) plus citywide
+    # reports, per school year. One card per year+sector, school name as the chip.
+    if source_id == "osse-equity-reports":
+        m = re.match(r"OSSE Equity Report (\S+) \u2014 (DCPS|Charter|Citywide) \u2014 (.*)$", name)
+        if m:
+            yr, sector, school = m.groups()
+            return {"series": f"OSSE School Equity Reports {yr} ({sector})", "label": school}
     if source_id == "pcsb-equity-reports":
         if "definition" in low:
             return {"series": "School Equity Reports (per charter school, 2017-18)", "label": "Definitions Guide"}

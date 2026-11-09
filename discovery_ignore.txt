@@ -1,0 +1,363 @@
+# Reviewed 2026-11-09 and declined: documents (guides, questionnaires, translations,
+# plans, letters, methodology/policy docs) rather than data. One URL per line.
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Alternate Survey_English.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Alternate Survey_Spanish.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 3-5_Amharic.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 3-5_Chinese.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 3-5_Spanish.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 6-12_Amharic.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 6-12_Chinese.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 6-12_English.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Survey Grades 6-12_Spanish.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/documents/Fall 2026 Panorama Suvery Grades 3-5_English.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/About-the-Panorama-Surveys.pdf
+https://dcpsstrong.com/wp-content/uploads/2024/01/Amharic_StrategicPlan2023_FINAL.pdf
+https://dcpsstrong.com/wp-content/uploads/2024/01/English_StrategicPlan2023_FINAL.pdf
+https://dcpsstrong.com/wp-content/uploads/2024/01/Spanish_StrategicPlan2023_FINAL.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/documents/SSO Training Catalogue_for website 9.2026rev10.2026.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/(8.26) SSO Model SOPs.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/2023BoundaryStudyImplementationPlan FINAL.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Amharic Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Amharic Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Arabic Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Arabic Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/DC School Connect Working Group Report.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/DC School Emergency Preparedness and Response Playbook Revised 2025.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/French Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/French Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Mandarin Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Mandarin Research Agenda_Approved - Copy.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Russian Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Russian Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Spanish Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Spanish Research Agenda_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Vietnamese Mission and Vision_Approved.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/publication/attachments/Vietnamese Research Agenda_Approved.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(01)DC CAPE ELA_Math Guide- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(02) DC CAPE ELA_Math Guide-SPAN.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(03) DC CAPE ELA_Math Guide-AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(04) DC CAPE ELA_Math Guide- KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(05) DC CAPE ELA_Math Guide-VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(06) DC CAPE ELA_Math Guide- CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(07) DC CAPE ELA_Math Guide-FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(08) 2025 Guide MSAA Score Reports- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(08) 2026 Guide MSAA Score Reports- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(09) 2025 Guide MSAA Score Reports - SP.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(09) 2026 Guide MSAA Score Reports - SP.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(1)DC CAPE ELA_Math Guide- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(10) 2025 Guide MSAA Score Reports- AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(10) 2026 Guide MSAA Score Reports- AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(11) 2025 Guide MSAA Score Reports - KO.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(11) 2026 Guide MSAA Score Reports - KO.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(12) 2025 Guide MSAA Score Reports - VI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(12) 2026 Guide MSAA Score Reports - VI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(13) 2025 Guide MSAA Score Reports - CH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(13) 2026 Guide MSAA Score Reports - CH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(14) 2025 Guide MSAA Score Reports - FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(14) 2026 Guide MSAA Score Reports - FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(15) Sample ELA ISR- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(15) Sample ELA ISR- ENG_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(16) Sample ELA ISR-SPAN.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(16) Sample ELA ISR-SPAN_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(17) Sample ELA ISR-AM_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(18) Sample ELA ISR- KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(18) Sample ELA ISR- KOR_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(19) Sample ELA ISR-VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(19) Sample ELA ISR-VIE_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(2) DC CAPE ELA_Math Guide-SPAN.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(20) Sample ELA ISR- CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(20) Sample ELA ISR- CHI_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(21) Sample ELA ISR- FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(21) Sample ELA ISR- FR_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(22) Sample Math ISR- ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(22) Sample Math ISR- ENG_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(23) Sample Math ISR-SPAN.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(23) Sample Math ISR-SPAN_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(24) Sample Math ISR-AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(24) Sample Math ISR-AM_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(25) Sample Math ISR- KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(25) Sample Math ISR- KOR_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(26) Sample Math ISR-VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(26) Sample Math ISR-VIE_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(27) Sample Math ISR-CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(27) Sample Math ISR-CHI_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(28) Sample Math ISR- FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(28) Sample Math ISR- FR_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(29) 2024 MSAA Sample ISR_ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(29) 2026 MSAA Sample ISR_ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(3) DC CAPE ELA_Math Guide-AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(30) 2024 MSAA Sample ISR_SPA.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(30) 2026 MSAA Sample ISR_SPA.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(31) 2024 MSAA Sample ISR_AMH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(31) 2026 MSAA Sample ISR_AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(32) 2024 MSAA Sample ISR_KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(32) 2026 MSAA Sample ISR_KO.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(33) 2024 MSAA Sample ISR_VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(33) 2026 MSAA Sample ISR_VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(34) 2024 MSAA Sample ISR_CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(34) 2026 MSAA Sample ISR_CH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(35) 2024 MSAA Sample ISR_FRE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(35) 2026 MSAA Sample ISR_FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(4) DC CAPE ELA_Math Guide- KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(5) DC CAPE ELA_Math Guide-VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(6) DC CAPE ELA_Math Guide- CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/(7) DC CAPE ELA_Math Guide-FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/01. 2024 Guide DC CAPE ELA_Math_english.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/02. 2024 Guide DC CAPE ELA_Math_amharic.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/03. 2024 Guide DC CAPE ELA_Math_chinese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/04. 2024 Guide DC CAPE ELA_Math_french.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/05. 2024 Guide DC CAPE ELA_Math_korean.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/06. 2024 Guide DC CAPE ELA_Math_spanish.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/07. 2024 Guide DC CAPE ELA_Math_vietnamese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/08. 2024 Guide to Understanding MSAA Score Reports_EN.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/09. 2024 Guide to Understanding MSAA Score Reports_AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/10. 2024 Guide to Understanding MSAA Score Reports_CH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/11. 2024 Guide to Understanding MSAA Score Reports_FR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/12. 2024 Guide to Understanding MSAA Score Reports_KO.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/13. 2024 Guide to Understanding MSAA Score Reports_SP.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/14. 2024 Guide to Understanding MSAA Score Reports_VI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/15. DC CAPE Sample ISR_ELA_english.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/16. DC CAPE Sample ISR_ELA_amharic.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/17. DC CAPE Sample ISR_ELA_chinese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/18. DC CAPE Sample ISR_ELA_french.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/19. DC Cape Sample ISR_ELA_korean.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/20. DC CAPE Sample ISR_ELA_spanish.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019 School Finance Data Public Release Presentation.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2020-21 LEA Financial Reporting Centralized Expenditure Methodology Document.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021 DC School Report Card School Finance Public Release Presentation.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2021 Report Card and STAR Framework Technical Guide 8.30.21v2.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC School Report Card Technical Guide.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum  - Appendix A (Adjusted Long Term Goals).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum - Engagement Overview and Responses to Public Comments).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum - Public Comments.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum - USED Approval (5.26.22) (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Accountability Addendum_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Long Term Goals Two-Year Shift (Per Accountability Addendum).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Waiver - 1003 Funding Extension_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 DC State Plan Waiver - 1003 funding extension (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2022 ESEA Section 1003(c) Waiver – USED Approval (5.26.22).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023 Calendar Year Selective Service Awareness Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2023 Report Card Technical Guide (January 2024 update).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2024 Report Card Technical Guide - November Updates.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025 Metric Calculation Confirmation (MCC) Policy (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025 Report Card Technical Guide (September 22 2025 Update).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/21. DC CAPE Sample ISR_ELA_vietnamese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/22. DC CAPE Sample ISR_Math_english.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/23. DC CAPE Sample ISR_Math_amharic.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/24. DC CAPE Sample ISR_Math_chinese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/25. DC CAPE Sample ISR Math_french.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/26. DC Cape Sample ISR_Math_korean.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/27. DC CAPE Sample ISR_Math_spanish.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/28. DC CAPE Sample ISR_Math_vietnamese.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/29. 2024 MSAA Sample ISR_ENG.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/30. 2024 MSAA Sample ISR_AMH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/31. 2024 MSAA Sample ISR_CHI.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/32. 2024 MSAA Sample ISR_FRE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/33. 2024 MSAA Sample ISR_KOR.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/34. 2024 MSAA Sample ISR_SPA.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/35. 2024 MSAA Sample ISR_VIE.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Accelerate DC - A Vision for School Improvement FINAL (updated 2025-01-13).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Accelerate DC - A Vision for School Improvement_FINAL Report 09.30.2024.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Attendance Dashboard - User Guide (2026).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Centralized Methodology - School Year 2019-20 - All LEAs vFinal (2).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC ESSA Plan Public Comments 2022.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC ESSA Plan - 2022 (Approved)_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC ESSA Plan - 2022 Amendment (REDLINE VERSION)_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC ESSA Plan - Amendment Approval Letter 6.29.23.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC School Report Card - School Finance Presentation (2021) final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC School Report Card - What's New in 2024.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/FY19 Centralized Methodology - All LEAs v2.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Flexible Scheduling Pilot Program Learning Brief.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Modeling the Cost of Child Care in the District of Columbia 2024.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Modeling the Cost of Care in the District of Columbia 2023_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Modeling the Cost of Child Care in the District of Columbia 2021.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE ESSA State Plan_ August 28_Clean.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE Annual Pre-K Report 2022 (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE Annual Pre-K Report 2023 (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SY2025-2026 DC Educator Data_Preparation and Performance All Files.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018 DC School Report Card and STAR Framework Technical Guide.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019 DC School Report Card and STAR Framework Technical Guide 1.6.20.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2021 Report Card and STAR Framework Technical Guide 8.30.21v2.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2022 DC School Report Card Technical Guide.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2023 Report Card Technical Guide (January 2024 update).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2024 Report Card Technical Guide - July Updates.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSA Detailed Fiscal Summary - Title I, Part A_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Modeling the Cost of Child Care in the District of Columbia - 2016_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE Cost Model Report_2018.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report Card and STAR Framework Technical Guide 2020.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/YRBS_LEA Leader Letter_Signed.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2013 HSA School Health Profile Form (Printable Version).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2015DCH Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2015DCM Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2019DC High School Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2019DC Middle School Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2021 DC HS YRBS Questionnaire_Spanish_FINAL.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2021 DC MS YRBS Questionnaire_Spanish_FINAL.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2021-22 School Health Profiles Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2021DC HS Questionnaire_English_Final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2021DC MS Questionnaire_English_Final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2023DCH Questionnaire_final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2023DCM Questionnaire_final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2025 DC YRBS_Youth Resources for Students.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2025_DC YRBS HS Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2025_DC YRBS MS Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA School Health Profile Form 2011.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA School Health Profile Form_2014_Print Version_FINAL.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/HSA School Health Profile Survey_2018_FINALv6.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SHP Questionnaire SY 2022-23_Final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SHP Questionnaire SY 2024-25_Final (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SY 2023-24 SHP Questionnaire_Final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/SY19-20 SHP_Questions_Website.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/School Health Profile Questionnaire.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/School Health Profile_2015_for distribution.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/School Health Profile_2016__FINAL_v2_12-22-15.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/School Health Profile_2017_FINALv6.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/School Health Profile_2019_Final_1-11-19pdf.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/WNS_NutritionalFactSheet4.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/WNS_YRBS_ATOD_FactSheet_Final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/WNS_YRBS_SexualViolence_FactSheet_020922_final.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/YRBS_Infographic_SchoolLeaders.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/YRBS_Infographic_Teachers.pdf
+https://www.govinfo.gov/content/pkg/BILLS-114s1177enr/pdf/BILLS-114s1177enr.pdf
+https://www.myschooldc.org/sites/default/files/dc/sites/myschooldc/MSDC_Data_Request_Process_011917.pdf
+# Spreadsheets that are templates / measure definitions, not data (reviewed 2026-11-09)
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/ESEA MOE Optional Planning Tool_FY18-FY19_FINAL.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/ESEA MOE Optional Reporting Tool_DYRS_FY18.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Measures in Current DC Accountability Systems.xlsx
+# Blank template (11 rows, 'YEAR ENDED JUNE 30, 20xx'); not data (reviewed 2026-11-09)
+https://dcpcsb.org/wp-content/uploads/2026/08/Schedule-of-Contracts-Over-25000.xlsx
+# Spreadsheets reviewed 2026-11-09 and declined: templates, forms, guidance tools, agency operations (budget, contracts, purchase cards, travel, vacancies), higher-ed, item maps/crosswalks
+https://osse.dc.gov/sites/default/files/2026-09/OSSE HIT Vetted Program List (1).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/2026 Master Responsibility Spreadsheet EDITED.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/2026-27 School Year LEA Data Collection Template (4).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/SY26-27_Data Validation Appendix I.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Individualized Plan of EL Services.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/LODs Not Disclosed Reference Bank_7.24.26 (1).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q101 Attachment- Budget and Expenditures.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q102 Attachment - Intra-District Transfers.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q103 Attachment - Reprogrammings.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q104 Attachment- Special Purpose Revenue.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q105 Attachment-Fixed Costs.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q106 Attachment- Capital Budget.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q110 Attachment- OSSE Vacancies FY19 and FY20 to date.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q116 Attachment 1-Performance Allowances.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q116 Attachment 2-FY19-FY20 Incentive Payments.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q116 Attachment 3- Travel Expenses FY19 & FY20.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q117 Attachment- FY 19-20 Contracts.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q118 Attachment - FY19-20 Contract Modifications.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q119 Attachment 1- FY19 Purchase Card Transactions.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q119 Attachment 2- FY20 Purchase Card Transactions.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q62 Attachment - DCTAG.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q83 Attachment- Grants Awarded to OSSE.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q84 Attachment- FY19 Lapsed Fund Detail.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Quality EL Programs-School Reflection Tool.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/State Complaints Not Investigated_8.25.26.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2015 PARCC Released Item Map.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2016 PARCC MSAA Educator Reports Data Collection Tool Template Updated Oct 12 2016.XLSX
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2016-17 School Year Enrollment Audit Appeal Roster Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2018-19 School Year School Improvement Grant Workplan.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2019-20 School Year LEA Data Collection Template 4.30.2019.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2020-21 School Year LEA Data Collection Template 9.21.20.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2020-21 School Year SIG 1003g Workplan Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2021-22 Discipline Template_0.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2022-23 Accommodations HPEA Template_3.3.23.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2025-26 School Year Discipline Data Collection Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2025-26 School Year LEA Data Collection Template_v2.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2026-27 School Year Discipline Data Collection Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Accommodations HPEA 16 17_Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Accommodations HPEA 2018-19 Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CTE Course Sequence Chart.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Discipline 2022-23 Final Template (1).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Discipline Collection Template SY24-25.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ELA Common Core Crosswalk.xls
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY21 ESSA Workbook for Equitable Services.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY23 MOEquity Exemption Workbook (3).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final 1003(g)_FFY 2009 Application DCPS(LH).xls
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Food Item RFP_IFB Pricing Sheets - Base Year_0.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/High School Health Roster HPEA 2018-19 Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/HighSchool Health Roster_HPEA 16 17_Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Inventory Transfer.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/LEA Data Collection Template - Adult Programs (1).xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Math Common Core Crosswalk.xls
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NSLP Non-Food Item RFP_IFB Pricing Sheets - Base Year.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE_LEA_Requirements_SY25_March 2026.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/PARCC Subclaim Descriptions.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Production Record - SELF-PREP.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Production Record - Vended Version - Blank.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Proposal Evaluation Score Sheet - Vendor RFP.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SP07-2026a Added Sugar Limits Tool.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SY23-24 Discipline Template.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Template for Students Born Outside of the US.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Template_FY24 Charter LEA Spend Plan.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/2023-24 MCC Data Dictionary for LEAs.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/4. REVISED_FY26 OSSE AFE Grant Budget & Finance Tracker Workbook $510K_Rev Match Tab 15A.5.14.25.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/5. FY26 OSSE AFE Key Personnel Workbook.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/6. FY26 OSSE AFE Schedule of Program Offerings Workbook.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/7. SAMPLE FY25 OSSE AFE LESSON PLANNING & CLASSROOM OBSERVATION WORKBOOK w RUBRICS.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/service_content/attachments/8. SAMPLE FY25 OSSE AFE QUARTERLY & YEAR-END REPORTING WORKBOOK.xlsx
+# PDFs with tables reviewed 2026-11-09 and declined: documents, translations, one-pagers, meeting notes, toolkits, agency reports
+https://dcpcsb.org/wp-content/uploads/2026/07/A-New-Way-Forward-on-Charter-School-Academic-Accountability.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/A-New-Way-Forward-on-Charter-School-Academic-Accountability.docx.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/FY-2026-Approved-Auditors-List-2026-02-11.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/Financial-Monitoring-List.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Inova Service Summary.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Parent-University-Resource-List-Talking-With-Your-Child-About-Race.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Process and Requirements to Conduct Research or Obtain Confidential Data_0.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/publication/attachments/SY15-16 Boundaries and Feeders Implementation Summary as of 103114_0.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/page_content/attachments/DC Workforce Pell Occupations List.pdf
+https://dme.dc.gov/sites/default/files/dc/sites/dme/page_content/attachments/Summary of Brief 1 - Earnings and Return on Investment of a UDC Bachelor's Degree.pdf
+https://osse.dc.gov/sites/default/files/2026-09/OSSE HIT Vetted Program Profiles (1).pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Accountability Focus Group PowerPoint_Oct 21 2016.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Accountability Framework Updates and Next Steps Meeting Notes_Oct 26 2016.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Accountability Frameworks Updates and Next Steps PowerPoint_Oct 26 2016.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Calculation of ACCESS LT4D Composite Score 2026-27.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/DC PARCC Score Report Video Translation.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/FY27 Attendance Submission Dates.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/FY27 Subsidy Reimbursement Rates English_10.1.2026.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/School Quality and Student Success and Graduation Rate Meeting Notes_Oct 21 2016.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/documents/Webinar Recap of Oct. 18, 2016 Academic Performance Accountability Measures Meeting PowerPoint.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2019HSA_IDEA_ Integrated Design & Electronic Academy PCS_IDEA PCS_7-2-2019.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/2025 OSSE Report on the Uniform Per Student Funding Formula.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/AI Survey Results Brief 2026.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Capital Quality Observation Data Memo Espanol.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Capital Quality Observation Data Memo.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Consolidated Demographic and Enrollment Process Overview.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DC School Report Card - School Finance Brochure.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/DCTAG 2024-2025 Supporting Documents Checklist.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Early Literacy Task Force Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/IDEA PCS_ Integrated Design & Electronic Academy PCS_HSA2018_2018-07-10.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/LEA-EL-Program-Improvement-Strategies-SY21-22_0.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OL_Materials_Checklist_Jan2025.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE 2019 Annual Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/OSSE_2020_Annual_Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Procurement Process Timeline and Checklist_FINAL.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q120 Attachment 4- Early Intervention Program Audit.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q28 Attachment- August 2019 DL Court Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q34 Attachment- Restorative DC Whole School Implementation School Profiles SY2018-19.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q64 Attachment- DC ReEngagement Center FY 2019 Annual Report.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Q92 Attachment- FY19 HELC Quarterly Reports.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Report Card One Pager_AM.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Report Card One Pager_ES_.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Report Card One Pager_KO.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Report Card One Pager_VI.idmlVIT.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Report Card One Pager_ZH.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/SEL_Toolkit_ASSESSING AND REFLECTING ON SEL DATA FOR  CONTINUOUS IMPROVEMENT_S5.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Serving SWDs Toolkit - Student Data Tool Instructions.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Steps for LMS Account Creation.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/Subject List.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2010attachment_a_pressreleaseslides_2010_enrollment_3142011.pdf
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2013-2014 School Equity Reports Business Rules Schools.pdf
+http://www.myschooldc.org/sites/default/files/u56/SY18-19 MSDC Directory_SPA (FINAL_11.20.17).pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/Citations-of-Fiscal-Concern.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/OSSEs-One-Pager.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/PCSB-2026-01-AAL-2026-07-01.pdf
+https://dcpcsb.org/wp-content/uploads/2026/08/ReviewAndRenewalToolkit.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Community Service FAQs.pdf
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/page_content/attachments/Community Service Opportunities.pdf
+# Reviewed 2026-11-09 after profiling: blank form / one-row log / transcript-ordering links, not data
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/GY 18-19 Program Availability.xlsx
+https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Healthy Tots Wellness Grant Program Site Locations and Patricipants Log.xlsx
+https://dcps.dc.gov/sites/default/files/dc/sites/dcps/service_content/attachments/DCPS School Contact Information.xlsx
