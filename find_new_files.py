@@ -56,6 +56,7 @@ CACHE = HERE / "discovery_pdf_checked.json"
 PDF_WORKERS = int(os.environ.get("PDF_WORKERS", "6"))
 STATE = HERE / "discovery_state.json"  # last run's coverage, to catch a sudden drop (committed by the workflow)
 MAX_DROP = float(os.environ.get("MAX_COVERAGE_DROP", "5"))  # points below the previous run that count as a broken crawl
+OPAQUE_LINK = re.compile(r"https?://[a-z0-9.-]*(?:box\.com/(?:s|v)/[A-Za-z0-9]+|egnyte\.com/(?:dl|fl|dd)/[A-Za-z0-9_-]+)", re.I)
 DATA_EXT = re.compile(r"\.(xlsx?|csv|zip)$", re.I)
 PDF_EXT = re.compile(r"\.pdf$", re.I)
 FOLLOW = re.compile(r"/(page|publication|service|featured-content)/")
@@ -138,6 +139,7 @@ def crawl(sources):
     """Return ({file_url: page_it_was_on}, [source ids that could not be fetched], pages_read, seeds)."""
     session = requests.Session()
     files: dict[str, str] = {}
+    opaque: dict[str, tuple[str, str]] = {}   # share/folder link -> (anchor text, page); Box/Egnyte have no file extension
     unchecked: list[str] = []
     seen: set[str] = set()
     work: list[tuple[str, int]] = []  # (url, depth)
@@ -175,6 +177,11 @@ def crawl(sources):
             if not html:
                 continue
             host = urllib.parse.urlparse(page).netloc
+            for m in re.finditer(r'<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', html, re.S | re.I):
+                om = OPAQUE_LINK.match(m.group(1).replace("&amp;", "&"))
+                if om:
+                    text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", m.group(2)).replace("&nbsp;", " ")).strip()[:90]
+                    opaque.setdefault(om.group(0), (text, page))
             for u in links(html, page):
                 path = u.split("?")[0]
                 if DATA_EXT.search(path) or PDF_EXT.search(path):
@@ -182,7 +189,7 @@ def crawl(sources):
                 elif (depth < DEPTH and u not in seen and FOLLOW.search(u)
                       and urllib.parse.urlparse(u).netloc == host):
                     work.append((u, depth + 1))
-    return files, unchecked, len(seen), seeds
+    return files, unchecked, len(seen), seeds, opaque
 
 
 def pdf_has_tables(url: str) -> bool | None:
@@ -212,7 +219,7 @@ def main() -> int:
     ignored = {norm(l.strip()) for l in ign.read_text().splitlines()
                if l.strip() and not l.startswith("#")} if ign.exists() else set()
 
-    files, unchecked, n_pages, seeds = crawl(srcs)
+    files, unchecked, n_pages, seeds, opaque = crawl(srcs)
     catalog_urls = [f["url"] for f in yaml.safe_load((HERE / "data_files.yaml").read_text())["data_files"]]
     hosts = {urllib.parse.urlparse(u).netloc for u in catalog_urls} | {
         urllib.parse.urlparse(s["url"]).netloc for s in srcs}
@@ -235,6 +242,14 @@ def main() -> int:
     new = {u: p for u, p in files.items()
            if norm(u) not in have and norm(u) not in ignored and not u.startswith("http://ttps")
            and urllib.parse.urlparse(u).netloc in hosts}
+
+    # Box/Egnyte share links: no file extension, and the catalog stores their RESOLVED download URLs
+    # (shared_name / dd token), so compare by the share token. They can only be resolved in a browser
+    # (see CLAUDE.md "Harvesting new files"); this step just makes sure a new one is not invisible.
+    tok = lambda u: re.search(r"/(?:s|v|dl|fl|dd)/([A-Za-z0-9_-]+)$", u).group(1)
+    cat_blob = " ".join(catalog_urls)
+    ign_blob = ign.read_text() if ign.exists() else ""
+    new_opaque = {u: v for u, v in opaque.items() if tok(u) not in cat_blob and tok(u) not in ign_blob}
 
     data, pdfs, skipped_docs, unknown, pending = {}, {}, [], [], []
     checked = json.loads(CACHE.read_text()) if CACHE.exists() else {}
@@ -303,6 +318,9 @@ def main() -> int:
         out.append(f"## {title}: {len(d)}\n")
         out += [f"- {urllib.parse.unquote(u)}\n  - found on {p}" for u, p in d.items()]
         out.append("")
+    out.append(f"## Box / Egnyte links not in the catalog (resolve in a browser): {len(new_opaque)}\n")
+    out += [f"- {u}\n  - {t!r} — found on {p}" for u, (t, p) in sorted(new_opaque.items(), key=lambda kv: kv[1][1])]
+    out.append("")
     if unknown:
         out.append(f"## PDFs that could not be downloaded or read: {len(unknown)}\n")
         out += [f"- {urllib.parse.unquote(u)}" for u in unknown] + [""]
@@ -317,7 +335,7 @@ def main() -> int:
                "data_files.yaml by hand.\n")
     CACHE.write_text(json.dumps(checked, indent=0, sort_keys=True))
     (HERE / "new_files.md").write_text("\n".join(out))
-    print(f"coverage={cov_seen}/{cov_total} ({cov_pct:.1f}%) data={len(data)} pdf_with_tables={len(pdfs)} unreadable={len(unknown)} "
+    print(f"coverage={cov_seen}/{cov_total} ({cov_pct:.1f}%) box_egnyte_new={len(new_opaque)} data={len(data)} pdf_with_tables={len(pdfs)} unreadable={len(unknown)} "
           f"pdf_pending={len(pending)} not_checked_sources={len(unchecked)} docs_skipped={len(skipped_docs)}")
     prev = None
     try:

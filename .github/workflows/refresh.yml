@@ -131,7 +131,7 @@ jobs:
           set -e
           if [ "$rc" -eq 2 ]; then echo "below=yes" >> "$GITHUB_OUTPUT"; grep -E '^COVERAGE_' discover.err >> discover.txt; fi
           [ "$rc" -eq 0 ] || [ "$rc" -eq 2 ]   # any other exit code = the script itself broke
-          n=$(awk '/^## (Spreadsheets|PDFs with extractable)/{f=1} /^## (PDFs that could|PDFs not yet|Not checked)/{f=0} f' new_files.md | grep -cE '^- https?://' || true)
+          n=$(awk '/^## (Spreadsheets|PDFs with extractable|Box)/{f=1} /^## (PDFs that could|PDFs not yet|Not checked)/{f=0} f' new_files.md | grep -cE '^- https?://' || true)
           echo "count=$n" >> "$GITHUB_OUTPUT"
       - name: Open or update an issue if the discovery script itself failed
         if: steps.discover.outcome == 'failure'

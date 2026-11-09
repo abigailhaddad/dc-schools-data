@@ -173,6 +173,10 @@ def derive_series(source_id: str, name: str, year):
         if title not in ("Enrollment Patterns", "Population and Students"):
             return {"series": title + " (EdScape)", "label": year if year and year != "unknown" else "file"}
 
+    # OSSE 2020-21 School-Level Local Assessment Data Files (a Box folder, one PDF per school;
+    # there were no statewide tests that year). One card, school name as the chip.
+    if source_id == "osse-data-reports" and name.startswith("School-Level Local Assessment Data 2020-21"):
+        return {"series": "School-Level Local Assessment Data 2020-21", "label": name.split(" \u2014 ", 1)[-1]}
     # OSSE Data & Reports hub: council performance-oversight attachments (one
     # xlsx per oversight question) and the mobility/re-enrollment series.
     if source_id == "osse-data-reports":
@@ -260,12 +264,14 @@ FILE_TOPIC_RULES = [
     (r"boundary|feeder|in-boundary|attendance zone", "boundaries"),
     (r"facilit|capacity|utilization|modernization", "facilities"),
     (r"enrollment|enrolled", "enrollment"),
-    (r"race|ethnicity|english learner|at[- ]risk|economically|preferred language|demographic", "demographics"),
+    (r"\brace\b|ethnicity|english learner|at[- ]risk|economically|preferred language|demographic", "demographics"),
     (r"accountability|\bstar\b|summative|floors and targets|\bpmf\b|aspire|school quality|\bsqr\b|long term goal|aggregate public|aggregate data file|cross-?tabulated", "accountability"),
     (r"\bequity\b", "equity"),
+    (r"equity report", "accountability"),   # the pre-Report-Card cross-sector equity reports
     (r"dc says|\bclass\b|learning environment|survey|panorama|climate", "school-climate"),
     (r"data dictionary|\bmcc\b|technical guide|metric calculation|reporting standard|definition", "methodology"),
-    (r"directory|course catalog|\bprofile|locations", "profiles"),
+    (r"health profile|school health|healthy schools|nutrition|physical (and health )?education|\bhsa\b", "school-health"),
+    (r"directory|course catalog|(?<!health )\bprofile|locations", "profiles"),
 ]
 
 
@@ -278,6 +284,19 @@ def infer_file_topics(name: str, fallback: list[str]) -> list[str]:
         if t not in seen:
             seen.add(t); out.append(t)
     return out or fallback
+
+
+# Per-school sets (one PDF per school) carry the SCHOOL NAME in the file name, and name
+# words trigger topic rules ("Washington Mathematics and Science Technology PCS" -> test
+# scores, "St. Coletta Special Education PCS" -> special ed, "River Terrace" -> race).
+# For these, infer topics from the series title (which names the dataset, not the school).
+ENTITY_SERIES_PREFIXES = ("OSSE School Equity Reports", "School Health Profiles",
+                          "School-Level Local Assessment Data", "School Equity Reports (per charter school")
+
+
+def _topic_text(rec: dict) -> str:
+    ser = derive_series(rec["source_id"], rec["name"], rec.get("year")).get("series") or ""
+    return ser if ser.startswith(ENTITY_SERIES_PREFIXES) else rec["name"]
 
 
 # `added` (date a row entered data_files.yaml) lives in the YAML, not in the
@@ -305,7 +324,7 @@ def file_for_js(rec: dict, src: dict | None) -> dict:
            "year": rec.get("year"), "status": rec.get("status"),
            # per-FILE topics inferred from the name (accurate); fall back to the
            # file's own tagged topics, then the source's broad list
-           "topics": infer_file_topics(rec["name"], rec.get("topics") or (src or {}).get("topics", []))}
+           "topics": infer_file_topics(_topic_text(rec), rec.get("topics") or (src or {}).get("topics", []))}
     if rec.get("page"):
         out["page"] = rec["page"]
     if ADDED_BY_URL.get(rec["url"]):

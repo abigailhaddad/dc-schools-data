@@ -123,6 +123,18 @@ to update is the wrong shape — a publish directory plus an allow-list is the f
   `infer_file_topics()` (NOT the source's topic list — sources like the Resource
   Library are tagged with everything, which over-tags). Topic chips filter at the
   **series** level (any matching file shows the whole series).
+  - The name rules (`FILE_TOPIC_RULES`) **win**; a file's own `topics:` in
+    `data_files.yaml` is only the fallback when no rule matches. So tagging a new
+    file in the YAML does nothing if its name already matches a rule.
+  - Per-school sets (equity reports, health profiles, local-assessment files) carry a
+    school name in the file name, and name words trigger rules ("Math**ematics** and
+    Science" -> test scores, "Terrace" -> race). For those, topics are inferred from the
+    **series title** instead (`ENTITY_SERIES_PREFIXES` / `_topic_text` in
+    `generate_readme.py`). Add a new per-school series to that tuple.
+  - Only 15 topics have a filter chip (`TOPIC_CHIPS` in `public/index.html`). Others
+    (`equity`, `school-health`, `school-climate`, `student-movement`, `methodology`,
+    `advanced-coursework`, `gis`, `other`) exist but are reachable only by search, so a
+    big set tagged only with one of them is effectively hidden from the chips.
 - **Multi-page series.** A series can span pages (assessment years live on
   different OSSE pages). Each file carries its own `page`; the UI shows per-file
   "↗ page it lives on" links. Every file chip = ⬇ download + ↗ its page.
@@ -193,7 +205,16 @@ full playbook + code snippets):
   Run it on anything you add in bulk. A year match is weak for spreadsheets (a bare
   year can match unrelated numbers), so treat it as confirmation, not proof.
 - **Layer 2 (browser):** resolving Box/Egnyte/ArcGIS links needs the browser, so run
-  the `update-dc-schools-data` skill (optionally scheduled as a cloud agent).
+  the `update-dc-schools-data` skill (optionally scheduled as a cloud agent). The
+  weekly job cannot resolve them, but `find_new_files.py` now lists any Box/Egnyte
+  share link on a crawled page that the catalog does not know (section "Box / Egnyte
+  links not in the catalog"), matched by share token. Resolve the real data ones in a
+  browser (Box: the rendered page gives `shared_name` + `file_id`; a folder's file ids
+  come from the page's own `preview_get_files_metadata` requests while paging; Egnyte:
+  `/dd/<token>` downloads directly, folders need the browser), add them, and put the
+  rest in `discovery_ignore.txt` so they stop being flagged. Download URL for a Box
+  file: `https://app.box.com/index.php?rm=box_download_shared_file&shared_name=<name>&file_id=f_<id>`
+  (works for files inside a shared folder with the folder's `shared_name`).
 - **Adding files by hand:** add rows to `data_files.yaml` (percent-encode the URL),
   run `profile_files.py --only <ids>` (needs the packages in `requirements.txt`,
   including `pdfplumber`), then `generate_readme.py`, `test_frontend.py`,

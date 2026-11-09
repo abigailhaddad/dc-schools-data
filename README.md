@@ -508,6 +508,671 @@ Please see the exception for more details.
     - p3 table (16 rows): `District of Columbia Career and Technical Education Indicators of Performance for the 2017-18 School Year`
     - p4 table (10 rows): `DCPS Career and Technical Education Indicators of Performance for the 2017-18 School Year`
     - p4 table (10 rows): `Friendship PCS Career and Technical Education Indicators of Performance for the 2017-18 School Year`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Heights Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204292618) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — BASIS DC PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205134646) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (18 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Creative Minds International PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204684497) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Richard Wright PCS for Journalism and Media Arts`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204600946) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Shining Stars Montessori Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204446747) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (14 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Scholars PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197332409) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Mundo Verde Bilingual PCS - J.F. Cook`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196890573) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Capital City PCS - High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205144826) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (17 rows): 
+    - p4 table (5 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199707168) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (19 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198841439) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Rocketship PCS - Infinity Community Prep`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198467017) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198442932) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (8 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Inspired Teaching Demonstration PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197513001) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Girls Global Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205094985) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198772950) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (11 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Capitol Riverfront`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198662377) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (9 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Capital Village PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198452191) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (10 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — The Sojourner Truth School PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197654386) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (10 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Social Justice PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197264290) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Promise Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204901366) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204856176) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (4 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - College Preparatory PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204809845) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (3 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Upper School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204635297) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Washington Yu Ying PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197741616) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (4 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Trinidad`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197131210) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Legacy College Preparatory PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205178018) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (3 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Capitol Hill`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204256801) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Petworth`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197734130) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Congress Heights`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197485386) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Shaw`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196965148) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Center City PCS - Brightwood`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198343110) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Digital Pioneers Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204496268) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (7 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Ida B. Wells Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199006089) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Honor Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198139078) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (11 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (12 rows): 
+    - p4 table (12 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — St. Coletta Special Education PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197862160) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Statesmen College Preparatory  Academy for Boys PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197761016) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Bard High School Early College DC (Bard DC)`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197896893) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (20 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (12 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Rocketship PCS - Legacy Prep`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205156541) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (11 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Luke C. Moore High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204802699) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (9 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Inspiring Youth Program`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204703745) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (3 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Duke Ellington School of the Arts`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203782778) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (8 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Phelps Architecture, Construction and Engineering High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198760073) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (17 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Youth Services Center`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197842740) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — H.D. Woodson High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204163624) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (8 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Woodrow Wilson High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199113205) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (21 rows): 
+    - p4 table (14 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Dunbar High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198742898) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (13 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Roosevelt High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198522757) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (19 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ballou STAY High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205135917) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (6 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — School Without Walls High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197380729) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (21 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ballou High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205052908) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — McKinley Technology High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204796373) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (11 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Eastern High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199012840) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (20 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Cardozo Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198980471) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Coolidge High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197870863) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (18 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Roosevelt STAY High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197020059) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (13 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Jefferson Middle School Academy`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205128868) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — McKinley Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204193018) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ron Brown College Preparatory High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198409279) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Columbia Heights Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197778211) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Anacostia High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197771250) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Stuart-Hobson Middle School (Capitol Hill Cluster)`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197029341) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Hart Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204953503) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Sousa Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204660080) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — MacFarland Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198701273) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Kramer Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204184801) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Johnson Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199484150) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Kelly Miller Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197591916) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Browne Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204296562) — **pdf** — 13 pages, **extractable tables** on ~12 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — School Without Walls @ Francis-Stevens`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197994652) — **pdf** — 14 pages, **extractable tables** on ~13 page(s)
+    - p2 table (20 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (21 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Deal Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197828863) — **pdf** — 12 pages, **extractable tables** on ~11 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Eliot-Hine Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198473557) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Benjamin Banneker High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197286083) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (7 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Langley Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197087520) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Capitol Hill Montessori School @ Logan`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204322743) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Dorothy I. Height Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198122104) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Brookland Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196992803) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Whittier Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204266932) — **pdf** — 11 pages, **extractable tables** on ~10 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — King Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199350746) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — J.O. Wilson Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198899351) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Wheatley Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204865022) — **pdf** — 12 pages, **extractable tables** on ~11 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — West Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204347891) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Watkins Elementary School (Capitol Hill Cluster)`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204088442) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Van Ness Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204328289) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Truesdell Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199171967) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Turner Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198708128) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Walker-Jones Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197671310) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Tyler Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205015524) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Tubman Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198977125) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Randle Highlands Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197526779) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Thomas Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204474735) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Smothers Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204344152) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Stanton Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203992827) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Stoddert Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203599221) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Thomson Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198617674) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Takoma Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196721650) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Excel Academy`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204594545) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Shepherd Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204223253) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Malcolm X Elementary School @ Green`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199503168) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (12 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Seaton Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198124773) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Simon Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197367014) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — River Terrace Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204257782) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Savoy Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204222493) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ross Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197316186) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Raymond Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204941952) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Powell Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204907268) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Plummer Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198315679) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Goodwill Excel Center PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198043299) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Payne Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204811491) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Bruce-Monroe Elementary School @ Park View`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204488959) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (20 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (21 rows): 
+    - p4 table (21 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Oyster-Adams Bilingual School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198407078) — **pdf** — 13 pages, **extractable tables** on ~12 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Patterson Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197496643) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Lawrence E. Boone Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197480386) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Noyes Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197067490) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Nalle Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198965292) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Breakthrough Montessori PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198263442) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Rocketship PCS - Rise Academy`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204690213) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (11 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Moten Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199089222) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Marie Reed Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196331008) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Washington Leadership Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204794397) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (12 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (13 rows): 
+    - p4 table (13 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Murch Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197154007) — **pdf** — 11 pages, **extractable tables** on ~10 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204639173) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Key Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204618562) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Mann Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199259546) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Miner Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198330724) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Maury Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203959527) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ludlow-Taylor Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199252346) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204726603) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Lafayette Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204387868) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Leckie Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197884730) — **pdf** — 13 pages, **extractable tables** on ~12 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Washington Global PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197443974) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (11 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (13 rows): 
+    - p4 table (13 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Kingsman Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196929959) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (3 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — LaSalle-Backus Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203686123) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Langdon Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197947233) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Kimball Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204611845) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — The Children's Guild DC PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198923605) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Janney Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198636219) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ketcham Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198323561) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Monument Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197212729) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Hearst Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535528) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Hyde-Addison Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204327346) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Hardy Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198441867) — **pdf** — 11 pages, **extractable tables** on ~10 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Hendley Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204366579) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — District of Columbia International School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198020770) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Houston Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197666340) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — C.W. Harris Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196675472) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Garrison Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198310357) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Garfield Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204253456) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Harmony DC PCS - School of Excellence`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204194291) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (6 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Quest Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203890827) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Northeast Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197379323) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Valor Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197206010) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Eaton Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198302955) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Drew Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196991500) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Lee Montessori PCS - Brookland`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198046773) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — H.D. Cooke Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197982165) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Cleveland Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197539027) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Paul PCS - International High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197312358) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Burroughs Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204778303) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Burrville Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197709241) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203951646) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (13 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Bunker Hill Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197872384) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Achievement Preparatory Academy PCS - Wahler Place Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197326714) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Spring Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196637517) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Brent Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204345433) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Beers Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198589540) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Brightwood Education Campus`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198156737) — **pdf** — 8 pages, **extractable tables** on ~7 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Barnard Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196905363) — **pdf** — 7 pages, **extractable tables** on ~6 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Amidon-Bowen Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204164575) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Bancroft Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203653320) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Ingenuity Prep PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197909956) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (7 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Aiton Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535416) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Bilingual PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204146530) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (5 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Two Rivers PCS - 4th Street`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198834325) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198466947) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Congress Heights`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203997853) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (13 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Sela PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203970738) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Latin American Montessori Bilingual PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198359708) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (10 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Cedar Tree Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203056805) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - Lead Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202562496) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - KEY Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198645429) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Thurgood Marshall Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198432874) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Roots PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198417546) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Paul PCS - Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204806989) — **pdf** — 10 pages, **extractable tables** on ~9 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Capital City PCS - Lower School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884201555776) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (11 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Capital City PCS - Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204813746) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — School-Within-School @ Goding`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198189638) — **pdf** — 6 pages, **extractable tables** on ~5 page(s)
+    - p2 table (21 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (22 rows): 
+    - p4 table (22 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Meridian PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197773261) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (13 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — The SEED PCS of Washington DC`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196379779) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — IDEA PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196593117) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (19 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Early Childhood Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203587019) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (11 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Bridges PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202556496) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Elsie Whitlow Stokes Community Freedom PCS - Brookland`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198641589) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Perry Street Preparatory PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198230618) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197172480) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (12 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Elementary School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196526050) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - AIM Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204533775) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Howard University Middle School of Mathematics and Science PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203553621) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (2 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — KIPP DC - WILL Academy PCS`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202966547) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (10 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Middle School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198827619) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (3 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+  - [`School-Level Local Assessment Data 2020-21 — Cesar Chavez Public Charter Schools for Public Policy`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198508160) — **pdf** — 5 pages, **extractable tables** on ~4 page(s)
+    - p2 table (15 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
+    - p3 table (16 rows): 
+    - p4 table (16 rows): 
+  - [`School-Level Local Assessment Data 2020-21 — Maya Angelou PCS - High School`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198171349) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (13 rows): `LEA ID`, `LEA Name`, `School ID`, `School Name`, `Assessment Tool`, `Tool Type`, `Other Tool Type`, `Source`
 
 ### [DC School Report Card Resource Library (downloads)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
@@ -10966,7 +11631,7 @@ _topics: landing, enrollment, assessment, graduation_
 - **Format:** Web page (links to Egnyte / OSSE)
 - **Updated:** Annual
 - **Years on page:** Current
-- **Notes:** Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript.
+- **Notes:** Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript. SY2024-25 lead testing results are per-LEA subfolders on Egnyte (https://dcpcsb.egnyte.com/fl/qhKF8Kwk9XQR); like the per-school budget/990/audit folders they are linked here, not catalogued.
 
 ### [Charter Student Enrollment](https://dcpcsb.org/data/)
 
@@ -12006,6 +12671,18 @@ _topics: facilities, enrollment_
     - p6 table (5 rows): `Own/Lease`, `# of Facilities`
     - p7 table (4 rows): `Use of Closed DCPS Facilities Remaining in the DCPS Portfolio`, `# of Facilities`
     - p8 table (9 rows): `Agency`, `# of Facilities`
+  - [`Master Facilities Plan 2023 Appendix - DCPS school-level enrollment projections`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=nop46s1bg1xq5l8fwpw67wjb7cp69pvu&file_id=f_1489518032456) — **xlsx** — 2 tab(s)
+    - tab **Notes** (1,048,574 rows × 1 cols) — cols: `Notes`
+    - tab **School-level projections** (119 rows × 8 cols) — cols: `School ID`, `School Name`, `Facility ID`, `SY2020-21 Audited Enrollment`, `SY2021-22 Audited Enrollment`, `SY2022-23 Audited Enrollment`, `SY2023-24 Reported Enrollment`, `SY2027-28 Projected Enrollment`
+  - [`Master Facilities Plan 2023 Appendix - DCPS school modernizations`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jux5cht0q64c24lcyr93ngo8am0ffuvr&file_id=f_1489512998023) — **xlsx** — 2 tab(s)
+    - tab **Notes** (3 rows × 1 cols) — cols: `Notes`
+    - tab **Modernization data** (156 rows × 5 cols) — cols: `School ID`, `Facility ID`, `School`, `Year`, `Modernization Type (Planned and Actual)`
+  - [`Master Facilities Plan 2023 Appendix - Future housing pipeline yields`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=mb5fzhisebrzq1unrxiv7azg0jj6onuj&file_id=f_1489532271959) — **xlsx** — 2 tab(s)
+    - tab **Notes** (17 rows × 1 cols) — cols: `Notes`
+    - tab **Housing pipeline data** (75 rows × 5 cols) — cols: `School ID`, `Elementary school boundary`, `Estimated public elementary school enrollment yield from turnover in senior housing (5 years)`, `Anticipated units from housing developments (2024-2028)`, `Estimated public elementary school students yield from housing development (2024-2028)`
+  - [`Master Facilities Plan 2023 Appendix - Capital Improvements Plan schedule FY24-FY29`](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=o6jyewgstyzg0z660ra5dlf29tiif6l5&file_id=f_1489531846838) — **xlsx** — 2 tab(s)
+    - tab **Notes** (6 rows × 1 cols) — cols: `Note`
+    - tab **CIP FY24-FY29** (47 rows × 7 cols) — cols: `Project`, `FY24`, `FY25`, `FY26`, `FY27`, `FY28`, `FY29`
 
 ### [DME — School Facilities Data (annual) & Edsight facility briefs](https://dme.dc.gov/publications)
 
@@ -12802,7 +13479,7 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 2692 of 2694 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
+**Profiling status (last run):** 2897 of 2899 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 
