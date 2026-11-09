@@ -5103,9 +5103,11486 @@ window.CATALOG = {
        "n_rows": 8
       }
      ]
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Heights Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204292618",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Heights Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — BASIS DC PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205134646",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "BASIS DC PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 18
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Creative Minds International PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204684497",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Creative Minds International PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Richard Wright PCS for Journalism and Media Arts",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204600946",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Richard Wright PCS for Journalism and Media Arts",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Shining Stars Montessori Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204446747",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Shining Stars Montessori Academy PCS",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 14
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 14
+      }
+     ],
+     "syn": "accountability aspire assessment dc cape dc cas msaa parcc pmf proficiency proficient rating school quality sqr standardized test star test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Scholars PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197332409",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Scholars PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Mundo Verde Bilingual PCS - J.F. Cook",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196890573",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Mundo Verde Bilingual PCS - J.F. Cook",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Capital City PCS - High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205144826",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Capital City PCS - High School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 17
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199707168",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Anacostia Middle School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 19
+      }
+     ],
+     "syn": "assessment budget cost dc cape dc cas expenditure finance funding msaa parcc per pupil per-pupil proficiency proficient spending standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198841439",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Two Rivers PCS - Young Middle School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Infinity Community Prep",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198467017",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Rocketship PCS - Infinity Community Prep",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198442932",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "E.L. Haynes PCS - Elementary School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Inspired Teaching Demonstration PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197513001",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Inspired Teaching Demonstration PCS",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Girls Global Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205094985",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Girls Global Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198772950",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "E.L. Haynes PCS - High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Capitol Riverfront",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198662377",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Eagle Academy PCS - Capitol Riverfront",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Capital Village PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198452191",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Capital Village PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — The Sojourner Truth School PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197654386",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "The Sojourner Truth School PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Social Justice PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197264290",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Social Justice PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Promise Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204901366",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Promise Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204856176",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Benning Elementary School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - College Preparatory PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204809845",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - College Preparatory PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Upper School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204635297",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Washington Latin PCS - Upper School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Washington Yu Ying PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197741616",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Washington Yu Ying PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Trinidad",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197131210",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Trinidad",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Legacy College Preparatory PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205178018",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Legacy College Preparatory PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Capitol Hill",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204256801",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Capitol Hill",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Petworth",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197734130",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Petworth",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Congress Heights",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197485386",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Congress Heights",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Shaw",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196965148",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Shaw",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Center City PCS - Brightwood",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198343110",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Center City PCS - Brightwood",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Digital Pioneers Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204496268",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Digital Pioneers Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ida B. Wells Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199006089",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ida B. Wells Middle School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Honor Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198139078",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Honor Academy PCS",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 12
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 12
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — St. Coletta Special Education PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197862160",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "St. Coletta Special Education PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas disabilities disability iep msaa parcc proficiency proficient special education special needs standardized test students with disabilities swd test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Statesmen College Preparatory  Academy for Boys PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197761016",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Statesmen College Preparatory  Academy for Boys PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Bard High School Early College DC (Bard DC)",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197896893",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Bard High School Early College DC (Bard DC)",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Legacy Prep",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205156541",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Rocketship PCS - Legacy Prep",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Luke C. Moore High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204802699",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Luke C. Moore High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Inspiring Youth Program",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204703745",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Inspiring Youth Program",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Duke Ellington School of the Arts",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203782778",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Duke Ellington School of the Arts",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Phelps Architecture, Construction and Engineering High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198760073",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Phelps Architecture, Construction and Engineering High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 17
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Youth Services Center",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197842740",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Youth Services Center",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — H.D. Woodson High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204163624",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "H.D. Woodson High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Woodrow Wilson High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199113205",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Woodrow Wilson High School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 14
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Dunbar High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198742898",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Dunbar High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Roosevelt High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198522757",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Roosevelt High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 19
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ballou STAY High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205135917",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ballou STAY High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — School Without Walls High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197380729",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "School Without Walls High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 21
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ballou High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205052908",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ballou High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — McKinley Technology High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204796373",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "McKinley Technology High School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Eastern High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199012840",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Eastern High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 20
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Cardozo Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198980471",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Cardozo Education Campus",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Coolidge High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197870863",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Coolidge High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 18
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Roosevelt STAY High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197020059",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Roosevelt STAY High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Jefferson Middle School Academy",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205128868",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Jefferson Middle School Academy",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — McKinley Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204193018",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "McKinley Middle School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ron Brown College Preparatory High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198409279",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ron Brown College Preparatory High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Columbia Heights Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197778211",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Columbia Heights Education Campus",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Anacostia High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197771250",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Anacostia High School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment budget cost dc cape dc cas expenditure finance funding msaa parcc per pupil per-pupil proficiency proficient spending standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Stuart-Hobson Middle School (Capitol Hill Cluster)",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197029341",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Stuart-Hobson Middle School (Capitol Hill Cluster)",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Hart Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204953503",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Hart Middle School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Sousa Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204660080",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Sousa Middle School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — MacFarland Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198701273",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "MacFarland Middle School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Kramer Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204184801",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Kramer Middle School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Johnson Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199484150",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Johnson Middle School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Kelly Miller Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197591916",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Kelly Miller Middle School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Browne Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204296562",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Browne Education Campus",
+     "n_pages": 13,
+     "has_tabular_data": true,
+     "n_table_pages": 12,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — School Without Walls @ Francis-Stevens",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197994652",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "School Without Walls @ Francis-Stevens",
+     "n_pages": 14,
+     "has_tabular_data": true,
+     "n_table_pages": 13,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 21
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Deal Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197828863",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Deal Middle School",
+     "n_pages": 12,
+     "has_tabular_data": true,
+     "n_table_pages": 11,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Eliot-Hine Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198473557",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Eliot-Hine Middle School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Benjamin Banneker High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197286083",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Benjamin Banneker High School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Langley Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197087520",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Langley Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Capitol Hill Montessori School @ Logan",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204322743",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Capitol Hill Montessori School @ Logan",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 20
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Dorothy I. Height Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198122104",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Dorothy I. Height Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 19
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Brookland Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196992803",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Brookland Middle School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 20
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Whittier Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204266932",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Whittier Education Campus",
+     "n_pages": 11,
+     "has_tabular_data": true,
+     "n_table_pages": 10,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — King Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199350746",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "King Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — J.O. Wilson Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198899351",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "J.O. Wilson Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Wheatley Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204865022",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Wheatley Education Campus",
+     "n_pages": 12,
+     "has_tabular_data": true,
+     "n_table_pages": 11,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — West Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204347891",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "West Education Campus",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Watkins Elementary School (Capitol Hill Cluster)",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204088442",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Watkins Elementary School (Capitol Hill Cluster)",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Van Ness Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204328289",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Van Ness Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Truesdell Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199171967",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Truesdell Education Campus",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 14
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Turner Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198708128",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Turner Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Walker-Jones Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197671310",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Walker-Jones Education Campus",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 22
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Tyler Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205015524",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Tyler Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Tubman Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198977125",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Tubman Elementary School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Randle Highlands Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197526779",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Randle Highlands Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Thomas Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204474735",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Thomas Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Smothers Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204344152",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Smothers Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Stanton Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203992827",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Stanton Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Stoddert Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203599221",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Stoddert Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Thomson Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198617674",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Thomson Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Takoma Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196721650",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Takoma Education Campus",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Excel Academy",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204594545",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Excel Academy",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Shepherd Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204223253",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Shepherd Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Malcolm X Elementary School @ Green",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199503168",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Malcolm X Elementary School @ Green",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Seaton Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198124773",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Seaton Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Simon Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197367014",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Simon Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — River Terrace Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204257782",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "River Terrace Education Campus",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Savoy Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204222493",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Savoy Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ross Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197316186",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ross Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Raymond Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204941952",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Raymond Education Campus",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Powell Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204907268",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Powell Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Plummer Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198315679",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Plummer Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Goodwill Excel Center PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198043299",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Goodwill Excel Center PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Payne Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204811491",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Payne Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Bruce-Monroe Elementary School @ Park View",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204488959",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Bruce-Monroe Elementary School @ Park View",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 20
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Oyster-Adams Bilingual School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198407078",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Oyster-Adams Bilingual School",
+     "n_pages": 13,
+     "has_tabular_data": true,
+     "n_table_pages": 12,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 22
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Patterson Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197496643",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Patterson Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Lawrence E. Boone Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197480386",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Lawrence E. Boone Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Noyes Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197067490",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Noyes Elementary School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Nalle Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198965292",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Nalle Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Breakthrough Montessori PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198263442",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Breakthrough Montessori PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Rise Academy",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204690213",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Rocketship PCS - Rise Academy",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Moten Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199089222",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Moten Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Marie Reed Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196331008",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Marie Reed Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Washington Leadership Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204794397",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Washington Leadership Academy PCS",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 12
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Murch Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197154007",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Murch Elementary School",
+     "n_pages": 11,
+     "has_tabular_data": true,
+     "n_table_pages": 10,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204639173",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Anacostia Elementary School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment budget cost dc cape dc cas expenditure finance funding msaa parcc per pupil per-pupil proficiency proficient spending standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Key Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204618562",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Key Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Mann Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199259546",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Mann Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Miner Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198330724",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Miner Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Maury Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203959527",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Maury Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ludlow-Taylor Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199252346",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ludlow-Taylor Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 18
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204726603",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Two Rivers PCS - Young Elementary School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Lafayette Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204387868",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Lafayette Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Leckie Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197884730",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Leckie Education Campus",
+     "n_pages": 13,
+     "has_tabular_data": true,
+     "n_table_pages": 12,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Washington Global PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197443974",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Washington Global PCS",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 11
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 13
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Kingsman Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196929959",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Kingsman Academy PCS",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — LaSalle-Backus Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203686123",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "LaSalle-Backus Education Campus",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 14
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Langdon Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197947233",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Langdon Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Kimball Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204611845",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Kimball Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — The Children's Guild DC PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198923605",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "The Children's Guild DC PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Janney Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198636219",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Janney Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ketcham Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198323561",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ketcham Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Monument Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197212729",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Monument Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Hearst Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535528",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Hearst Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Hyde-Addison Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204327346",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Hyde-Addison Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Hardy Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198441867",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Hardy Middle School",
+     "n_pages": 11,
+     "has_tabular_data": true,
+     "n_table_pages": 10,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Hendley Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204366579",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Hendley Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — District of Columbia International School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198020770",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "District of Columbia International School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Houston Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197666340",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Houston Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — C.W. Harris Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196675472",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "C.W. Harris Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Garrison Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198310357",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Garrison Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 4
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Garfield Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204253456",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Garfield Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Harmony DC PCS - School of Excellence",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204194291",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Harmony DC PCS - School of Excellence",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Quest Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203890827",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Quest Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Northeast Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197379323",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Northeast Academy PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Valor Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197206010",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Valor Academy PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Eaton Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198302955",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Eaton Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Drew Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196991500",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Drew Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Lee Montessori PCS - Brookland",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198046773",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Lee Montessori PCS - Brookland",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — H.D. Cooke Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197982165",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "H.D. Cooke Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 21
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Cleveland Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197539027",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Cleveland Elementary School",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Paul PCS - International High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197312358",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Paul PCS - International High School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Burroughs Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204778303",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Burroughs Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Burrville Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197709241",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Burrville Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203951646",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Benning Middle School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Bunker Hill Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197872384",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Bunker Hill Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Achievement Preparatory Academy PCS - Wahler Place Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197326714",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Achievement Preparatory Academy PCS - Wahler Place Elementary School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Spring Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196637517",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Spring Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Brent Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204345433",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Brent Elementary School",
+     "n_pages": 9,
+     "has_tabular_data": true,
+     "n_table_pages": 8,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Beers Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198589540",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Beers Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 6
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Brightwood Education Campus",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198156737",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Brightwood Education Campus",
+     "n_pages": 8,
+     "has_tabular_data": true,
+     "n_table_pages": 7,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Barnard Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196905363",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Barnard Elementary School",
+     "n_pages": 7,
+     "has_tabular_data": true,
+     "n_table_pages": 6,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 14
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Amidon-Bowen Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204164575",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Amidon-Bowen Elementary School",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 20
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Bancroft Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203653320",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Bancroft Elementary School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 16
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Ingenuity Prep PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197909956",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Ingenuity Prep PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Aiton Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535416",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Aiton Elementary School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 8
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Bilingual PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204146530",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Bilingual PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 5
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - 4th Street",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198834325",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Two Rivers PCS - 4th Street",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198466947",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Edgewood Middle School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Congress Heights",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203997853",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Eagle Academy PCS - Congress Heights",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Sela PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203970738",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Sela PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Latin American Montessori Bilingual PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198359708",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Latin American Montessori Bilingual PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Cedar Tree Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203056805",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Cedar Tree Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - Lead Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202562496",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - Lead Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - KEY Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198645429",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - KEY Academy PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Thurgood Marshall Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198432874",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Thurgood Marshall Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Roots PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198417546",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Roots PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Paul PCS - Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204806989",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Paul PCS - Middle School",
+     "n_pages": 10,
+     "has_tabular_data": true,
+     "n_table_pages": 9,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 7,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 8,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 9,
+       "header": [],
+       "n_rows": 22
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Capital City PCS - Lower School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884201555776",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Capital City PCS - Lower School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Capital City PCS - Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204813746",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Capital City PCS - Middle School",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — School-Within-School @ Goding",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198189638",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "School-Within-School @ Goding",
+     "n_pages": 6,
+     "has_tabular_data": true,
+     "n_table_pages": 5,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 21
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 22
+      },
+      {
+       "page": 6,
+       "header": [],
+       "n_rows": 9
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Meridian PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197773261",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Meridian PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — The SEED PCS of Washington DC",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196379779",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "The SEED PCS of Washington DC",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — IDEA PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196593117",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "IDEA PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 19
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Early Childhood Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203587019",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Early Childhood Academy PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 11
+      }
+     ],
+     "syn": "assessment dc cape dc cas early childhood early learning head start msaa parcc pre-k pre-kindergarten prek preschool proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Bridges PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202556496",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Bridges PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Elsie Whitlow Stokes Community Freedom PCS - Brookland",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198641589",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Elsie Whitlow Stokes Community Freedom PCS - Brookland",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Perry Street Preparatory PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198230618",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Perry Street Preparatory PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197172480",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "E.L. Haynes PCS - Middle School",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 12
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Elementary School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196526050",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "DC Prep PCS - Edgewood Elementary School",
+     "n_pages": 3,
+     "has_tabular_data": true,
+     "n_table_pages": 2,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - AIM Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204533775",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - AIM Academy PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Howard University Middle School of Mathematics and Science PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203553621",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Howard University Middle School of Mathematics and Science PCS",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 2
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — KIPP DC - WILL Academy PCS",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202966547",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "KIPP DC - WILL Academy PCS",
+     "n_pages": 4,
+     "has_tabular_data": true,
+     "n_table_pages": 3,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 10
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Middle School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198827619",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Washington Latin PCS - Middle School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 3
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Cesar Chavez Public Charter Schools for Public Policy",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198508160",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Cesar Chavez Public Charter Schools for Public Policy",
+     "n_pages": 5,
+     "has_tabular_data": true,
+     "n_table_pages": 4,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 15
+      },
+      {
+       "page": 3,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 4,
+       "header": [],
+       "n_rows": 16
+      },
+      {
+       "page": 5,
+       "header": [],
+       "n_rows": 7
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
+    },
+    {
+     "name": "School-Level Local Assessment Data 2020-21 — Maya Angelou PCS - High School",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198171349",
+     "kind": "pdf",
+     "year": "2020-21",
+     "status": "ok",
+     "topics": [
+      "assessment"
+     ],
+     "page": "https://osse.dc.gov/page/osse-data-and-reports",
+     "added": "2026-11-09",
+     "series": "School-Level Local Assessment Data 2020-21",
+     "label": "Maya Angelou PCS - High School",
+     "n_pages": 2,
+     "has_tabular_data": true,
+     "n_table_pages": 1,
+     "tables": [
+      {
+       "page": 2,
+       "header": [
+        "LEA ID",
+        "LEA Name",
+        "School ID",
+        "School Name",
+        "Assessment Tool",
+        "Tool Type",
+        "Other Tool Type",
+        "Source",
+        "Format",
+        "Content Area",
+        "Grades",
+        "Student Group",
+        "Number of Eligible Students",
+        "Number of Students Assessed",
+        "Goal",
+        "Number of Assessed Students Meeting or Exceeding Goal"
+       ],
+       "n_rows": 13
+      }
+     ],
+     "syn": "assessment dc cape dc cas msaa parcc proficiency proficient standardized test test results test scores"
     }
    ],
-   "search": "osse data and reports (main landing) osse top-level 'hub of hubs.' best fallback when a specific per-year page url changes. moved from /page/data-and-reports-0 (404 as of 2026-11-01) to /page/osse-data-and-reports; the osse homepage's 'data & reports' link points to the new url. the page's own jump links still use the old address. web portal of links to files & dashboards landing enrollment assessment attendance graduation discipline finance demographics 2016-17 to 2018-19 school, lea and state assessment participation data notes overview: state level ela math lea level ela math school level ela math 2020 ap/ib and sat metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2024-25 mobility data data notes 2024-25 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total adult students measure description charter dcps total pre-k students measure description charter dcps total k-12 students measure description charter dcps total 2023-24 mobility data data notes 2023-24 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2022-23 mobility data data notes 2022-23 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2021-22 mobility data data notes 2021-22 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020-21 mobility data data notes 2020-21 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2019-20 mobility data data notes 2019-20 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2018-19 mobility data data notes 2018-19 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020 mobility and re-enrollment data report data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group domain metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group domain metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group domain metric metric score metric n school year mid-year student mobility 2016-17 school year (council performance-oversight attachment) data notes title oversight 2017 q8 attachment - mobility overall movement sy1415 osse fy 17 poh q6 (a) response - total overall movement, sy 14-15 overall movement sy1516 osse fy 17 poh q6 (a) response - total overall movement, sy 15-16 overall movement sy1617 osse fy 17 poh q8 response- overall movement, sy 16-17 across dc public sectors sy1415 osse fy 17 poh q8 c response- movement across public sectors, sy 14-15 across dc public sectors sy1516 grade osse fy 17 poh q8 c - movement across dc public sectors sy 15-16 across dc public sectors sy1617 grade osse fy 17 poh q8 c- across dc public sectors, sy 16-17 out of dc public sectors sy1415 grade osse fy 17 poh q8 (b)- out of dc public sectors, sy 14-15 out of dc public sect sy1516 grade osse fy 17 poh q8 (b)- out of dc public sector, sy 15-16 out of dc public sectors sy1617 grade osse fy 17 poh q8 b response- out of dc public sectors sy 16-17 into dc public sector sy1415 grade osse fy 18 poh q8 b response- into dc public sector, sy 14-15 into dc public sector sy1516 grade osse fy 17 poh q8 b response- movement into dc public sector, sy 15-16 into dc public sectors sy16-17 grade moved into dc public sectors: sy2016-17 within dc public sector sy1415 grade osse fy 17 poh q8 d, within public sector, sy 14-15 within dc public sector sy1516 grade osse fy 17 poh q8 d response- within dc public sector, sy 15-16 within dc public sector sy16-17 grade moved within a dc public sector: sy2016-17 continuous enrollment osse fy 17 poh q8 e response- continuous enrollment demographics citywide discipline data (council performance-oversight attachment) data_notes title oversight 2017 q10 attachment - discipline school_counts osse fy17 poh q10 response -- number of students disciplined by school school_rates osse fy17 poh q10 response -- number of students disciplined by school school_durations osse fy17 poh q10 response -- duration of discipline by school school_removals osse fy17 poh q10 response -- removals by school lea_counts osse fy17 poh q10 response -- number of students disciplined by lea lea_rates osse fy17 poh q10 response -- number of students disciplined by lea lea_durations osse fy17 poh q10 response -- duration of discipline by lea lea_removals osse fy17 poh q10 response -- removals by lea mid-year student mobility 2014-15 and 2015-16 school years (council performance-oversight attachment) data_notes title q7 attachment- mid-year student mobility.xlsx overall movement sy1415 osse fy16 poh q7 response - overall movement: sy2014-15 overall movement sy1516 osse fy16 poh q7 response - overall movement: sy2015-16 out of dc public sect sy1415 osse fy16 poh q7 response - moved out of dc public sectors: sy2014-15 out of dc public sect sy1516 osse fy16 poh q7 response - moved out of dc public sectors: sy2015-16 into dc public sector sy1415 osse fy16 poh q7 response - moved into dc public sectors: sy2014-15 into dc public sector sy1516 osse fy16 poh q7 response - moved into dc public sectors: sy2015-16 across dc public sect sy1415 osse fy16 poh q7 response - moved between dc public sectors: sy2014-15 across dc public sect sy1516 osse fy16 poh q7 response - moved between dc public sectors: sy2015-16 within dc public sect sy1415 osse fy16 poh q7 response - moved within a dc public sector: sy2014-15 within dc public sect sy1516 osse fy16 poh q7 response - moved within a dc public sector: sy2015-16 continuously enrolled osse fy16 poh q7 response - demographics of continuously enrolled students citywide discipline data (council performance-oversight attachment) data_notes title q9 attachment- discipline data.xlsx school_counts osse fy16 poh q9 response -- number of students disciplined by school school_rates osse fy16 poh q9 response -- number of students disciplined by school school_durations osse fy16 poh q9 response -- duration of discipline by school school_removals osse fy16 poh q9 response -- removals by school lea_counts osse fy16 poh q9 response -- number of students disciplined by lea lea_rates osse fy16 poh q9 response -- number of students disciplined by lea lea_durations osse fy16 poh q9 response -- duration of discipline by lea lea_removals osse fy16 poh q9 response -- removals by lea students by ward, 2012-13 through 2017-18 (council performance-oversight attachment) data_notes title oversight 2017 q2 attachment - student enrollment by ward sy12-13 osse fy17 poh q2 response -- students by ward of residence for each public school sy12-13 sy13-14 osse fy17 poh q2 response -- students by ward of residence for each public school sy13-14 sy14-15 osse fy17 poh q2 response -- students by ward of residence for each public school sy14-15 sy15_16 osse fy17 poh q2 response -- students by ward of residence for each public school sy15-16 sy16_17 osse fy17 poh q2 response -- students by ward of residence for each public school sy16-17 sy17_18 osse fy17 poh q2 response -- students by ward of residence for each public school sy17-18 totals ward sy2012-13 sy2013-14 sy2014-15 sy2015-16 sy2016-17 sy2017-18 private school enrollment, 2014-15 through 2017-18 (council performance-oversight attachment) data notes title q4 attachment- private school enrollment sy14-15, sy15-16, sy16-17, sy17-18 to date.xlsx  sy 14-15 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy14-15 sy 15-16 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy15-16 sy 16-17 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy16-17 to date sy 17-18 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy17-18 to date 2023-24 decp data file overview office of the state superintendent of education state data student group fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) lea data lea code lea name fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) ihe funding institute of higher education (ihe) partner fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) free and reduced-price meals status (council performance-oversight attachment) data notes title q77 attachment - farm status public charter & private school osse fy16 poh q77 response - public charter and private school students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - cep & p2 osse fy16 poh q77 response - dcps (cep and p2) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - traditional osse fy16 poh q77 response - dcps (traditional) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 cep schools osse fy16 poh q77 response - schools participating in the community eligibility provision program at-risk students (council performance-oversight attachment) data_notes title q5 attachment- at-risk.xlsx q5_prioryears osse fy16 poh q5 response -- number of homeless, foster care, tanf eligible, snap eligible, and overage youth by lea for sy13-14, sy14-15, and sy15-16 foster children (council performance-oversight attachment) data_notes title q6 attachment- foster care.xlsx q6_a osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive general education services only q6_b osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive special education services q6_c osse fy16 poh q6 response -- amount that osse pays to enroll an individual student in an out-of-district public school q6_d osse fy16 poh q6 response -- amount that osse spent on sped transportation for children in foster care - fy16 and fy17 to date individual education programs (ieps) (council performance-oversight attachment) data_notes title q49 attachment- ieps.xlsx 2016_q49a osse fy16 poh q49 response - students with ieps by age 2016_q49b osse fy16 poh q49 response - students with ieps by lea 2016_q49c osse fy16 poh q49 response - students with ieps by disability classification 2016_q49c_by_age osse fy16 poh q49 response - students with ieps by disability classification by age 2016_q49c_by_lea osse fy16 poh q49 response - students with ieps by disability classification by lea 2016_q49c_multi_disab osse fy16 poh q49 response - students with multiple disabilities 2016_q49d osse fy16 poh q49 response - percentage of time outside of general education 2016_q49d_by_age osse fy16 poh q49 response - percentage of time outside of general education by age 2016_q49d_by_lea osse fy16 poh q49 response - percentage of time outside of general education by lea 2016_q49d_by_disability osse fy16 poh q49 response - percentage of time outside of general education by disability classification 2016_q49e osse fy16 poh q49 response - students by placement type 2016_q49e_by_age osse fy16 poh q49 response - students by placement type by age 2016_q49e_by_lea osse fy16 poh q49 response - students by placement type by lea 2016_q49e_by_disability osse fy16 poh q49 response - students by placement type by disability 2016_q49h osse fy16 poh q49 response - number of students with specialized instruction in general education setting 2016_q49h_by_age osse fy16 poh q49 response - number of students with specialized instruction in general education setting by age 2016_q49h_by_lea osse fy16 poh q49 response - number of students with specialized instruction in general education setting by lea 2016_q49h_by_disability osse fy16 poh q49 response - number of students with specialized instruction in general education setting by disability 2016_q49i osse fy16 poh q49 response - number of students receiving related services 2016_q49i_by_age osse fy16 poh q49 response - number of students receiving related services by age 2016_q49i_by_lea osse fy16 poh q49 response - number of students receiving related services by lea 2016_q49i_by_disability osse fy16 poh q49 response - number of students receiving related services by disability classification special education exit (council performance-oversight attachment) data_notes title q50 and q51 attachment- sped exit.xlsx 2016_q50 osse fy16 poh q50 and 51 response - sped exits secondary transitions for students with disabilities (council performance-oversight attachment) data_notes title q52 attachment- transitions 2016_q52 osse fy16 poh q52 response - students with disabilities transitioning out of school 2023-24 decp summary one pager ihe funding received by each ihe in sy2023-24 subgroup unique count of students (all terms) percent of students (all terms) school year 2024-25 competency based education report dcps competency-based education course offerings per school ron brown ballou columbia garnet- luke c. cardozo dunbar parcc participation rates 2014-15 school lea code lea name school code school name tested grade subject subgroup participation rate state level ela math lea level ela math school level ela math lea lea code lea name tested grade subject subgroup participation rate state tested grade subject subgroup participation rate data notes overview: fy19 performance oversight — q1 attachment - student enrollment by ward sy14-15 to sy19-20 data_notes office of the state superintendent of education totals ward sy2014-15 sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 sy19-20 lea code lea name school code school name student count sy18_19 lea code lea name school code school name student count sy17_18 lea code lea name school code school name student count sy16_17 lea code lea name school code school name student count sy15_16 lea code lea name school code school name student count sy14_15 school year lea code school code school name ward # of students by ward fy19 performance oversight — q10 attachment 1 - acgr data notes office of the state superintendent of education sy2018-19 lea name school name 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2017-18 lea name school name 5-year graduation 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2016-17 lea name school name 5-year graduation 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2015-16 school name total 5-year graduation 4-year graduation four-year graduation by demographics fy19 performance oversight — q10 attachment 2 - outcomes data notes office of the state superintendent of education 2019_entranceexams lea code school code lea name school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2018_entranceexams lea code school code lea name school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2017_entranceexams lea code lea name school code school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2019_collegeenrollment lea code school code lea name school name number of students enrolled in college number of students in cohort percent enrolled in college 2018_collegeenrollment lea code school code lea name school name number of students enrolled in college number of students in cohort percent enrolled in college 2017_collegeenrollment lea code lea name school code school name number of students enrolled in college by fall 2017 number of students in the cohort college enrollment rate as of fall 2017 2019_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2018_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2017_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2016_outcomes_exams school code school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate outcomes fy19 performance oversight — q13 attachment - parcc and msaa achievement results data notes office of the state superintendent of education state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea me assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea me school code school me assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) fy19 performance oversight — q16 attachment- capacity, enrollment, utilization fy17-19 data_notes office of the state superintendent of education fy17 by ward by program type fy18 by ward by program type fy19 capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs population_estimate 2013-2017 census population estimate fy19 performance oversight — q17 attachment - child development facilities- capacity, rating data_notes office of the state superintendent of education 2019_q17a license number provider name capacity designation ward fy19 performance oversight — q3 attachment - private school enrollment data notes office of the state superintendent of education sy 16-17 school school type pre-school pre-k kindergarten first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelveth ug total sy 17-18 school school type ps k grade 1 grade 2 grade 3 grade 4 grade 5 grade 6 grade 7 grade 8 grade 9 grade 10 grade 11 grade 12 total sy 18-19 school school type ps k grade 1 grade 2 grade 3 grade 4 grade 5 grade 6 grade 7 grade 8 grade 9 grade 10 grade 11 grade 12 total sy18-19 total enrollment school name final sy18-19 enrollment (dc residents only) sy19-20 school name prek (dc residents) prek (total students) k (dc residents) k (total students) grade 1 (dc residents) grade 1 (total students) grade 2 (dc residents) grade 2 (total students) grade 3 (dc residents) grade 3 (total students) grade 4 (dc residents) grade 4 (total students) grade 5 (dc residents) grade 5 (total students) grade 6 (dc residents) grade 6 (total students) grade 7 (dc residents) grade 7 (total students) grade 8 (dc residents) grade 8 (total students) grade 9 (dc residents) grade 9 (total students) grade 10 (dc residents) grade 10 (total students) grade 11 (dc residents) grade 11 (total students) grade 12 (dc residents) grade 12 (total students unsure/no grade (dc residents) unsure/no grade (total students) total number of dc residents total number of students fy19 performance oversight — q38 attachment - ieps overview office of the state superintendent of education codebook office of the state superintendent of education 2019_q38a age as of october 5th students 2019_q38b grade as of october 5th students 2019_q38c lea code lea name students 2019_q38d primary disability students 2019_q38d_by_lea lea code lea name autism deafblindness developmentaldelay emotionaldisturbance hearingimpaired intellectualdisability multipledisabilities orthopedicimpairment otherhealthimpairment specificlearningdisability speechorlanguageimpairment traumaticbraininjury visualimpairment 2019_q38d_by_age age as of october 5th autism deaf-blindness developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2019_q38d_multi_disab disability category students with multiple disabilities 2019_q38e percentage of time outside of general education students 2019_q38e_by_lea lea code lea name less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38e_by_age age as of october 5th less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38e_by_disability primary disability less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38f placement type students 2019_q38f_by_lea lea code lea name a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38f_by_age age as of october 5th a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38f_by_disability primary disability a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38h category students 2019_q38i number of students with specialized instruction in general education setting 2019_q38i_by_lea lea code lea name number of students with specialized instruction in general education setting 2019_q38i_by_age age as of october 5th number of students with specialized instruction in general education setting 2019_q38i_by_disability primary disability number of students with specialized instruction in general education setting 2019_q38j students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_lea lea code lea name students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_age age as of october 5th students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_disability primary disability students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38l dedicated aide specialized instruction in general education specialized instruction outside general education specialized instruction within and outside of general education no specialized instruction total 2019_q38l_by_lea lea code lea name number of students with dedicated aide 2019_q38l_by_age age as of october 5th number of students with dedicated aide 2019_q38l_by_grade grade number of students with dedicated aide 2019_q38l_by_disability primary disability number of students with dedicated aide 2019_q38m environment students fy19 performance oversight — q39 attachment - sped graduation data_notes office of the state superintendent of education 2019_q39 lea code lea name total swd total non-public students students who left specialized education in sy1718 non-public students who left specialized education in sy1819 graduated non-public graduated received iep certificate non-public received iep certificate received ged non-public received ged enrolled in sy1920 np enrolled in sy1920 transferred to regular education non-public transferred to regular education reached maximum age non-public reached maximum age moved non-public moved dropped out non-public dropped out died non-public died fy19 performance oversight — q4 attachment - ell students data_notes office of the state superintendent of education counts by age lea code lea name age sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by grade lea code lea name grade sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by sped lea code lea name sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by ell classification lea code lea name ell classification sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 fy19 performance oversight — q40 attachment - sped exit data notes office of the state superintendent of education 2019_q40 lea code lea name total swds total non-public students students continuing in 2019-20 non-public students continuing in 2019-20 students who completed their education non-public students who completed their education students who exited dc educational system non-public students who exited dc educational system fy19 performance oversight — q41 attachment - sped transitions data_notes office of the state superintendent of education 2019_q41 lea code lea name school code school name number of students with disabilities exiting secondary school number of students with disabilities attending college number of students with disabilities participating in postsecondary training number of students with disabilities employed number of students with disabilities in any postsecondary pathway fy19 performance oversight — q5 attachment - at-risk students data notes office of the state superintendent of education q5-at risk snap tanf homeless cfsa overage fy19 performance oversight — q6 attachment- foster children data_notes office of the state superintendent of education q6_b school system count of general education cfsa students served q6_c school system count of special education cfsa students served q6_e the amount that osse pays to enroll an individual student in an out-of-district public school fy19 performance oversight — q69 attachment-msdc (a-d, f and g) data sheet office of the state superintendent of education sy18_19_participating_schools sy18-19, lottery - participating school list sy19_20_participating_schools sy19-20, lottery - participating school list sy18_19_lottery_seats sy18-19, lottery - seats offered and remaining by school and by grade sy19_20_lottery_seats sy19-20, lottery - seats offered and remaining by school and by grade sy18_19_applications sy18-19, lottery - number of applications by grade sy19_20_applications sy19-20, lottery - number of applications by grade sy18_19_match_rate sy18-19, lottery - match rate by rank on application sy19_20_match_rate sy19-20, lottery - match rate by rank on application average_selections average number of lottery selections fy19 performance oversight — q7 attachment - mid-year student mobility sy18-19 data notes office of the state superintendent of education monthly mobility by state state october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students monthly mobility by lea lea code lea name october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students monthly mobility by school lea code lea name school code school name count of students enrolled on enrollment audit count day october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students fy19 performance oversight — q75 attachment - frp data_notes office of the state superintendent of education lea lea code lea name number of students percentage of students - free, reduced, and cep school lea code lea name school code school name number of students cep school (y/n) percentage of students - free, reduced, and cep school by grade lea code lea name school code school name grade number of students cep school (y/n) percentage of students - free, reduced, and cep fy19 performance oversight — q77 attachment - school gardens data tab office of the state superintendent of education sy18-19 school garden data sy18-19 school garden demographic information (public and public charter schools) sy18-19 school garden point of contact (poc) sy18-19 school garden type(s) sy18-19 school garden curriculum integration reported school garden history active school gardens sy11-12 through sy18-19 osse school garden grant osse school garden grant fy13 through fy20 fy19 performance oversight — q85 attachment- grants awarded by osse data note office of the state superintendent of education grants from osse osse fy19 poh response - grants awarded by osse fy19 performance oversight — q86 attachment- fy16, fy17, fy18, and fy19, title i, ii, iii data notes office of the state superintendent of education fy16 title i rpt cat year allocations spent unspent fy16 title ii rpt cat year allocations spent unspent fy 16 title iii rpt cat year allocations carryover spent unspent status of unspent funds fy17 title i title i-a fy17 title ii organization detail fy17 title iii organization detail fy18 title i  allocations spent unspent/carryover fy 18 title ii  title ii-a allocation spent unspent/carryover fy18 title iii  allocations spent unspent/carryover fy19 title i title i-a fy19 title ii title ii-a fy19 title iii title iii-a fy19 performance oversight — q88 attachment 1- (a)-(c); (e)-(i) fy19 nonpublic fy19 performance oversight — q88 attachment 2 - (d) fy19 students served by nonpublic data notes office of the state superintendent of education 2019_q88d_by_school osse fy19 poh q88(d) response- students in non-public schools by attending school 2019_q88d_by_lea osse fy19 poh q88(d) response- students in non-public schools by responsible lea 2019_q88d_by_age osse fy 19 poh q88(d) response-students in non-public school by age 2019_q88d_by_disability osse fy19 poh q88(d) response- students in non-public schools by primary disability fy19 performance oversight — q9 attachment 1 - discipline data all data notes office of the state superintendent of education school counts and rates lea code lea name school code school name out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent lea counts and rates lea code lea name out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent school durations rates lea code lea name school code school name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent lea durations rates lea code lea name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school multiple oss lea code lea name school code school name count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent lea multiple oss lea code lea name count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent actions by reason reason out-of-school suspensions in-school suspensions expulsions school removals lea code lea name school code school name involuntary removal voluntary removal lea removals lea code lea name involuntary removal voluntary removal fy19 performance oversight — q9 attachment 2 - discipline data student groups data notes office of the state superintendent of education school counts and rates lea code lea name school code school name student group group value out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent lea counts and rates lea code lea name student group group value out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent school durations rates lea code lea name student group group value school code school name student group group value group value less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent lea durations rates lea code lea name student group group value less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school multiple oss lea code lea name school code school name student group group value count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent lea multiple oss lea code lea name student group group value count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent actions by reason reason out-of-school suspensions in-school suspensions expulsions school removals lea code lea name school code school name involuntary removal voluntary removal lea removals lea code lea name involuntary removal voluntary removal fy20 performance oversight — q44 - english language learners overview office of the state superintendent of education counts by age lea code lea name age sy2019-20 sy2020-21 counts by grade lea code lea name grade sy2019-20 sy2020-21 counts by swd status lea code lea name sy2019-20 sy2020-21 counts by ell classification lea code lea name ell classification sy2019-20 sy2020-21 fy20 performance oversight — q45 - at-risk students overview office of the state superintendent of education at-risk counts lea code lea name tanf snap cfsa homeless overage fy20 performance oversight — q46 - mobility overview office of the state superintendent of education monthly mobility by school lea code lea name school code school name count of students enrolled on enrollment audit count day october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students monthly mobility by lea lea code lea name october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students monthly mobility by state state october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students fy20 performance oversight — q49 - graduation (acgr) overview office of the state superintendent of education q49a lea code lea name school code school name fy2020 count of disengaged students fy2020 percent of disengaged students fy2019 count of disengaged students fy2019 percent of disengaged students fy2018 count of disengaged students fy2018 percent of disengaged students fy2017 count of disengaged students fy2017 percent of disengaged students q49b lea code lea name school code school name fy2020 count of postsecondary enrolled students fy2020 percent of postsecondary enrolled students fy2019 count of postsecondary enrolled students fy2019 percent of postsecondary enrolled students fy2018 count of postsecondary enrolled students fy2018 percent of postsecondary enrolled students fy2017 count of postsecondary enrolled students fy2017 percent of postsecondary enrolled students fy20 performance oversight — q53 - childcare overview  office of the state superintendent of education 2020_q53a capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs 2020_q53c fiscal year open facilities closed facilities total facilities percentage of closed facilities 2020_q53d year subsidy amount 2020_q53e license number provider name year fy20 performance oversight — q69 - ieps overview office of the state superintendent of education 2020_q69a age as of october 7th students 2020_q69b grade as of october 7th students 2020_q69c lea code lea name students 2020_q69d primary disability students 2020_q69d_by_lea lea code lea name autism developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2020_q69d_by_age age as of october 7th autism developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2020_q69d_multi_disab disability category students with multiple disabilities 2020_q69e percentage of time outside of general education students 2020_q69e_by_lea lea code lea name percentage of time outside of general education 2020_q69e_by_age age as of october 7th percentage of time outside of general education 2020_q69e_by_disability primary disability percentage of time outside of general education 2020_q69f placement type students 2020_q69f_by_lea lea code lea name a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69f_by_age age as of october 7th a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69f_by_disability primary disability a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69g environment students fy20 performance oversight — q70 - sped graduation overview office of the state superintendent of education 2020_q70a lea code lea name setting sy1920 high school diploma sy1920 iep certificate sy1819 high school diploma sy1819 iep certificate 2020_q70b lea code lea name school code school name number of students with disabilities exiting secondary school number of students with disabilities attending college number of students with disabilities participating in postsecondary training number of students with disabilities employed number of students with disabilities in any postsecondary pathway fy20 performance oversight — q90 - my school dc q90 - lottery seats (sy20-21) school name school grade number of seats offered seats remaining after lottery q90 - lottery seats (sy19-20) school name school grade number of seats offered seats remaining after lottery fy20 performance oversight — q97 - esea titles i, ii, iii funding (fy16-20) fy20 title i title i-a fy20 title ii title ii-a fy20 title iii title iii-a fy19 title i funding stream summary fy19 title ii funding stream summary fy19 title iii funding stream summary fy18 title i funding stream summary fy18 title ii title ii a 2017-2018 fy18 title iii title iii-a 2017-2018 allocations spent unspent fy17 title i funding stream summary fy17 title ii funding stream summary fy17 title iii funding stream summary fy16 title i funding stream summary for title i-a fy16 title ii funding stream summary for title ii-a fy16 title iii funding stream summary for title iii-a fy20 performance oversight — universal health certificate completion as of 3.10.2021 data notes office of the state superintendent of education schools schools n y grand total %n %y fy20 performance oversight — washington metropolitan high school students data 4 2 2021 data notes office of the state superintendent of education sy2021_enrolled_schools  sy2021_lea_name sy2021_school_name students_enrolled_cnt osse car report 2016-17 district of columbia career and technical education indicators of performance school year 2016-17 dcps career and technical education indicators of performance school year 2016-17 friendship pcs career and technical education indicators of performance school year 2016-17 maya angelou pcs career and technical education indicators of performance school year 2016-17 wmst pcs career and technical education indicators of performance school year 2016-17 udc-cc career and technical education indicators of performance school year 2016-17 osse car report 2017-18 district of columbia career and technical education indicators of performance for the 2017-18 school year dcps career and technical education indicators of performance for the 2017-18 school year friendship pcs career and technical education indicators of performance for the 2017-18 school year maya angelou pcs career and technical education indicators of performance for the 2017-18 school year maya angelou pcs career and technical education indicators of performance for the 2017-18 school year udc-cc career and technical education indicators of performance for the 2017-18 school year at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions lottery my school dc waitlist school choice"
+   "search": "osse data and reports (main landing) osse top-level 'hub of hubs.' best fallback when a specific per-year page url changes. moved from /page/data-and-reports-0 (404 as of 2026-11-01) to /page/osse-data-and-reports; the osse homepage's 'data & reports' link points to the new url. the page's own jump links still use the old address. web portal of links to files & dashboards landing enrollment assessment attendance graduation discipline finance demographics 2016-17 to 2018-19 school, lea and state assessment participation data notes overview: state level ela math lea level ela math school level ela math 2020 ap/ib and sat metric scores data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year state metric scores student group metric metric score metric n school year 2024-25 mobility data data notes 2024-25 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total adult students measure description charter dcps total pre-k students measure description charter dcps total k-12 students measure description charter dcps total 2023-24 mobility data data notes 2023-24 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2022-23 mobility data data notes 2022-23 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2021-22 mobility data data notes 2021-22 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020-21 mobility data data notes 2020-21 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2019-20 mobility data data notes 2019-20 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2018-19 mobility data data notes 2018-19 mid-year mobility data office of the state superintendent of education all students measure description charter dcps total compulsory aged students measure description charter dcps total k-12 students measure description charter dcps total pre-k students measure description charter dcps total adult students measure description charter dcps total 2020 mobility and re-enrollment data report data notes office of the state superintendent of education data dictionary office of the state superintendent of education school metric scores lea name lea code school name school code student group metric metric score metric n school year school scores by framework lea name lea code school name school code school framework student group domain metric metric score metric n school year lea metric scores lea name lea code student group metric metric score metric n school year lea scores by framework lea name lea code school framework student group domain metric metric score metric n school year state metric scores student group metric metric score metric n school year state scores by framework school framework student group domain metric metric score metric n school year mid-year student mobility 2016-17 school year (council performance-oversight attachment) data notes title oversight 2017 q8 attachment - mobility overall movement sy1415 osse fy 17 poh q6 (a) response - total overall movement, sy 14-15 overall movement sy1516 osse fy 17 poh q6 (a) response - total overall movement, sy 15-16 overall movement sy1617 osse fy 17 poh q8 response- overall movement, sy 16-17 across dc public sectors sy1415 osse fy 17 poh q8 c response- movement across public sectors, sy 14-15 across dc public sectors sy1516 grade osse fy 17 poh q8 c - movement across dc public sectors sy 15-16 across dc public sectors sy1617 grade osse fy 17 poh q8 c- across dc public sectors, sy 16-17 out of dc public sectors sy1415 grade osse fy 17 poh q8 (b)- out of dc public sectors, sy 14-15 out of dc public sect sy1516 grade osse fy 17 poh q8 (b)- out of dc public sector, sy 15-16 out of dc public sectors sy1617 grade osse fy 17 poh q8 b response- out of dc public sectors sy 16-17 into dc public sector sy1415 grade osse fy 18 poh q8 b response- into dc public sector, sy 14-15 into dc public sector sy1516 grade osse fy 17 poh q8 b response- movement into dc public sector, sy 15-16 into dc public sectors sy16-17 grade moved into dc public sectors: sy2016-17 within dc public sector sy1415 grade osse fy 17 poh q8 d, within public sector, sy 14-15 within dc public sector sy1516 grade osse fy 17 poh q8 d response- within dc public sector, sy 15-16 within dc public sector sy16-17 grade moved within a dc public sector: sy2016-17 continuous enrollment osse fy 17 poh q8 e response- continuous enrollment demographics citywide discipline data (council performance-oversight attachment) data_notes title oversight 2017 q10 attachment - discipline school_counts osse fy17 poh q10 response -- number of students disciplined by school school_rates osse fy17 poh q10 response -- number of students disciplined by school school_durations osse fy17 poh q10 response -- duration of discipline by school school_removals osse fy17 poh q10 response -- removals by school lea_counts osse fy17 poh q10 response -- number of students disciplined by lea lea_rates osse fy17 poh q10 response -- number of students disciplined by lea lea_durations osse fy17 poh q10 response -- duration of discipline by lea lea_removals osse fy17 poh q10 response -- removals by lea mid-year student mobility 2014-15 and 2015-16 school years (council performance-oversight attachment) data_notes title q7 attachment- mid-year student mobility.xlsx overall movement sy1415 osse fy16 poh q7 response - overall movement: sy2014-15 overall movement sy1516 osse fy16 poh q7 response - overall movement: sy2015-16 out of dc public sect sy1415 osse fy16 poh q7 response - moved out of dc public sectors: sy2014-15 out of dc public sect sy1516 osse fy16 poh q7 response - moved out of dc public sectors: sy2015-16 into dc public sector sy1415 osse fy16 poh q7 response - moved into dc public sectors: sy2014-15 into dc public sector sy1516 osse fy16 poh q7 response - moved into dc public sectors: sy2015-16 across dc public sect sy1415 osse fy16 poh q7 response - moved between dc public sectors: sy2014-15 across dc public sect sy1516 osse fy16 poh q7 response - moved between dc public sectors: sy2015-16 within dc public sect sy1415 osse fy16 poh q7 response - moved within a dc public sector: sy2014-15 within dc public sect sy1516 osse fy16 poh q7 response - moved within a dc public sector: sy2015-16 continuously enrolled osse fy16 poh q7 response - demographics of continuously enrolled students citywide discipline data (council performance-oversight attachment) data_notes title q9 attachment- discipline data.xlsx school_counts osse fy16 poh q9 response -- number of students disciplined by school school_rates osse fy16 poh q9 response -- number of students disciplined by school school_durations osse fy16 poh q9 response -- duration of discipline by school school_removals osse fy16 poh q9 response -- removals by school lea_counts osse fy16 poh q9 response -- number of students disciplined by lea lea_rates osse fy16 poh q9 response -- number of students disciplined by lea lea_durations osse fy16 poh q9 response -- duration of discipline by lea lea_removals osse fy16 poh q9 response -- removals by lea students by ward, 2012-13 through 2017-18 (council performance-oversight attachment) data_notes title oversight 2017 q2 attachment - student enrollment by ward sy12-13 osse fy17 poh q2 response -- students by ward of residence for each public school sy12-13 sy13-14 osse fy17 poh q2 response -- students by ward of residence for each public school sy13-14 sy14-15 osse fy17 poh q2 response -- students by ward of residence for each public school sy14-15 sy15_16 osse fy17 poh q2 response -- students by ward of residence for each public school sy15-16 sy16_17 osse fy17 poh q2 response -- students by ward of residence for each public school sy16-17 sy17_18 osse fy17 poh q2 response -- students by ward of residence for each public school sy17-18 totals ward sy2012-13 sy2013-14 sy2014-15 sy2015-16 sy2016-17 sy2017-18 private school enrollment, 2014-15 through 2017-18 (council performance-oversight attachment) data notes title q4 attachment- private school enrollment sy14-15, sy15-16, sy16-17, sy17-18 to date.xlsx  sy 14-15 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy14-15 sy 15-16 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy15-16 sy 16-17 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy16-17 to date sy 17-18 osse fy17 poh q4 response -- enrollment in private and parochial schools in sy17-18 to date 2023-24 decp data file overview office of the state superintendent of education state data student group fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) lea data lea code lea name fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) ihe funding institute of higher education (ihe) partner fall 2023 spring 2024 summer 2024 all terms (fall 2023 - summer 2024) free and reduced-price meals status (council performance-oversight attachment) data notes title q77 attachment - farm status public charter & private school osse fy16 poh q77 response - public charter and private school students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - cep & p2 osse fy16 poh q77 response - dcps (cep and p2) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 dcps - traditional osse fy16 poh q77 response - dcps (traditional) students eligible for free and reduced meals by school and grade - as of sept 1, 2016 cep schools osse fy16 poh q77 response - schools participating in the community eligibility provision program at-risk students (council performance-oversight attachment) data_notes title q5 attachment- at-risk.xlsx q5_prioryears osse fy16 poh q5 response -- number of homeless, foster care, tanf eligible, snap eligible, and overage youth by lea for sy13-14, sy14-15, and sy15-16 foster children (council performance-oversight attachment) data_notes title q6 attachment- foster care.xlsx q6_a osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive general education services only q6_b osse fy16 poh q6 response -- number of foster children enrolled in out-of-district public schools and receive special education services q6_c osse fy16 poh q6 response -- amount that osse pays to enroll an individual student in an out-of-district public school q6_d osse fy16 poh q6 response -- amount that osse spent on sped transportation for children in foster care - fy16 and fy17 to date individual education programs (ieps) (council performance-oversight attachment) data_notes title q49 attachment- ieps.xlsx 2016_q49a osse fy16 poh q49 response - students with ieps by age 2016_q49b osse fy16 poh q49 response - students with ieps by lea 2016_q49c osse fy16 poh q49 response - students with ieps by disability classification 2016_q49c_by_age osse fy16 poh q49 response - students with ieps by disability classification by age 2016_q49c_by_lea osse fy16 poh q49 response - students with ieps by disability classification by lea 2016_q49c_multi_disab osse fy16 poh q49 response - students with multiple disabilities 2016_q49d osse fy16 poh q49 response - percentage of time outside of general education 2016_q49d_by_age osse fy16 poh q49 response - percentage of time outside of general education by age 2016_q49d_by_lea osse fy16 poh q49 response - percentage of time outside of general education by lea 2016_q49d_by_disability osse fy16 poh q49 response - percentage of time outside of general education by disability classification 2016_q49e osse fy16 poh q49 response - students by placement type 2016_q49e_by_age osse fy16 poh q49 response - students by placement type by age 2016_q49e_by_lea osse fy16 poh q49 response - students by placement type by lea 2016_q49e_by_disability osse fy16 poh q49 response - students by placement type by disability 2016_q49h osse fy16 poh q49 response - number of students with specialized instruction in general education setting 2016_q49h_by_age osse fy16 poh q49 response - number of students with specialized instruction in general education setting by age 2016_q49h_by_lea osse fy16 poh q49 response - number of students with specialized instruction in general education setting by lea 2016_q49h_by_disability osse fy16 poh q49 response - number of students with specialized instruction in general education setting by disability 2016_q49i osse fy16 poh q49 response - number of students receiving related services 2016_q49i_by_age osse fy16 poh q49 response - number of students receiving related services by age 2016_q49i_by_lea osse fy16 poh q49 response - number of students receiving related services by lea 2016_q49i_by_disability osse fy16 poh q49 response - number of students receiving related services by disability classification special education exit (council performance-oversight attachment) data_notes title q50 and q51 attachment- sped exit.xlsx 2016_q50 osse fy16 poh q50 and 51 response - sped exits secondary transitions for students with disabilities (council performance-oversight attachment) data_notes title q52 attachment- transitions 2016_q52 osse fy16 poh q52 response - students with disabilities transitioning out of school 2023-24 decp summary one pager ihe funding received by each ihe in sy2023-24 subgroup unique count of students (all terms) percent of students (all terms) school year 2024-25 competency based education report dcps competency-based education course offerings per school ron brown ballou columbia garnet- luke c. cardozo dunbar parcc participation rates 2014-15 school lea code lea name school code school name tested grade subject subgroup participation rate state level ela math lea level ela math school level ela math lea lea code lea name tested grade subject subgroup participation rate state tested grade subject subgroup participation rate data notes overview: fy19 performance oversight — q1 attachment - student enrollment by ward sy14-15 to sy19-20 data_notes office of the state superintendent of education totals ward sy2014-15 sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 sy19-20 lea code lea name school code school name student count sy18_19 lea code lea name school code school name student count sy17_18 lea code lea name school code school name student count sy16_17 lea code lea name school code school name student count sy15_16 lea code lea name school code school name student count sy14_15 school year lea code school code school name ward # of students by ward fy19 performance oversight — q10 attachment 1 - acgr data notes office of the state superintendent of education sy2018-19 lea name school name 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2017-18 lea name school name 5-year graduation 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2016-17 lea name school name 5-year graduation 4-year graduation female male black or african american hispanic or latino of any race white asian american indian or alaskan native native hawaiian or other pacific islander two or more races at-risk students with disabilities english learners sy2015-16 school name total 5-year graduation 4-year graduation four-year graduation by demographics fy19 performance oversight — q10 attachment 2 - outcomes data notes office of the state superintendent of education 2019_entranceexams lea code school code lea name school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2018_entranceexams lea code school code lea name school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2017_entranceexams lea code lea name school code school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate 2019_collegeenrollment lea code school code lea name school name number of students enrolled in college number of students in cohort percent enrolled in college 2018_collegeenrollment lea code school code lea name school name number of students enrolled in college number of students in cohort percent enrolled in college 2017_collegeenrollment lea code lea name school code school name number of students enrolled in college by fall 2017 number of students in the cohort college enrollment rate as of fall 2017 2019_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2018_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2017_outcomes lea code lea name school code school name # students in cohort 4-year graduate iep certificate ged currently enrolled in dc disengaged 2016_outcomes_exams school code school name number of students in the acgr cohort number of students taking a college entrance exam college entrance exam participation rate outcomes fy19 performance oversight — q13 attachment - parcc and msaa achievement results data notes office of the state superintendent of education state performance assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) lea performance lea code lea me assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) school performance school ward lea code lea me school code school me assessment type subject tested grade/subject grade of enrollment subgroup subgroup value percent meeting or exceeding expectations percent level 3+ percent level 1 percent level 2 percent level 3 percent level 4 percent level 5 total number valid test takers percent subclaim level 1 (met or exceeded expectations) percent subclaim level 2 (nearly met expectations) percent subclaim level 3 (below expectations) fy19 performance oversight — q16 attachment- capacity, enrollment, utilization fy17-19 data_notes office of the state superintendent of education fy17 by ward by program type fy18 by ward by program type fy19 capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs population_estimate 2013-2017 census population estimate fy19 performance oversight — q17 attachment - child development facilities- capacity, rating data_notes office of the state superintendent of education 2019_q17a license number provider name capacity designation ward fy19 performance oversight — q3 attachment - private school enrollment data notes office of the state superintendent of education sy 16-17 school school type pre-school pre-k kindergarten first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelveth ug total sy 17-18 school school type ps k grade 1 grade 2 grade 3 grade 4 grade 5 grade 6 grade 7 grade 8 grade 9 grade 10 grade 11 grade 12 total sy 18-19 school school type ps k grade 1 grade 2 grade 3 grade 4 grade 5 grade 6 grade 7 grade 8 grade 9 grade 10 grade 11 grade 12 total sy18-19 total enrollment school name final sy18-19 enrollment (dc residents only) sy19-20 school name prek (dc residents) prek (total students) k (dc residents) k (total students) grade 1 (dc residents) grade 1 (total students) grade 2 (dc residents) grade 2 (total students) grade 3 (dc residents) grade 3 (total students) grade 4 (dc residents) grade 4 (total students) grade 5 (dc residents) grade 5 (total students) grade 6 (dc residents) grade 6 (total students) grade 7 (dc residents) grade 7 (total students) grade 8 (dc residents) grade 8 (total students) grade 9 (dc residents) grade 9 (total students) grade 10 (dc residents) grade 10 (total students) grade 11 (dc residents) grade 11 (total students) grade 12 (dc residents) grade 12 (total students unsure/no grade (dc residents) unsure/no grade (total students) total number of dc residents total number of students fy19 performance oversight — q38 attachment - ieps overview office of the state superintendent of education codebook office of the state superintendent of education 2019_q38a age as of october 5th students 2019_q38b grade as of october 5th students 2019_q38c lea code lea name students 2019_q38d primary disability students 2019_q38d_by_lea lea code lea name autism deafblindness developmentaldelay emotionaldisturbance hearingimpaired intellectualdisability multipledisabilities orthopedicimpairment otherhealthimpairment specificlearningdisability speechorlanguageimpairment traumaticbraininjury visualimpairment 2019_q38d_by_age age as of october 5th autism deaf-blindness developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2019_q38d_multi_disab disability category students with multiple disabilities 2019_q38e percentage of time outside of general education students 2019_q38e_by_lea lea code lea name less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38e_by_age age as of october 5th less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38e_by_disability primary disability less than 20% 20-39% 40-59% 60-79% 80-99% 100% 2019_q38f placement type students 2019_q38f_by_lea lea code lea name a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38f_by_age age as of october 5th a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38f_by_disability primary disability a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in general gen- in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2019_q38h category students 2019_q38i number of students with specialized instruction in general education setting 2019_q38i_by_lea lea code lea name number of students with specialized instruction in general education setting 2019_q38i_by_age age as of october 5th number of students with specialized instruction in general education setting 2019_q38i_by_disability primary disability number of students with specialized instruction in general education setting 2019_q38j students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_lea lea code lea name students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_age age as of october 5th students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38j_by_disability primary disability students with behavioral support services students with occupational therapy students with speech-language pathology students with physical therapy students with orientation and mobility students with audiology 2019_q38l dedicated aide specialized instruction in general education specialized instruction outside general education specialized instruction within and outside of general education no specialized instruction total 2019_q38l_by_lea lea code lea name number of students with dedicated aide 2019_q38l_by_age age as of october 5th number of students with dedicated aide 2019_q38l_by_grade grade number of students with dedicated aide 2019_q38l_by_disability primary disability number of students with dedicated aide 2019_q38m environment students fy19 performance oversight — q39 attachment - sped graduation data_notes office of the state superintendent of education 2019_q39 lea code lea name total swd total non-public students students who left specialized education in sy1718 non-public students who left specialized education in sy1819 graduated non-public graduated received iep certificate non-public received iep certificate received ged non-public received ged enrolled in sy1920 np enrolled in sy1920 transferred to regular education non-public transferred to regular education reached maximum age non-public reached maximum age moved non-public moved dropped out non-public dropped out died non-public died fy19 performance oversight — q4 attachment - ell students data_notes office of the state superintendent of education counts by age lea code lea name age sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by grade lea code lea name grade sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by sped lea code lea name sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 counts by ell classification lea code lea name ell classification sy2015-16 sy2016-17 sy2017-18 sy2018-19 sy2019-20 fy19 performance oversight — q40 attachment - sped exit data notes office of the state superintendent of education 2019_q40 lea code lea name total swds total non-public students students continuing in 2019-20 non-public students continuing in 2019-20 students who completed their education non-public students who completed their education students who exited dc educational system non-public students who exited dc educational system fy19 performance oversight — q41 attachment - sped transitions data_notes office of the state superintendent of education 2019_q41 lea code lea name school code school name number of students with disabilities exiting secondary school number of students with disabilities attending college number of students with disabilities participating in postsecondary training number of students with disabilities employed number of students with disabilities in any postsecondary pathway fy19 performance oversight — q5 attachment - at-risk students data notes office of the state superintendent of education q5-at risk snap tanf homeless cfsa overage fy19 performance oversight — q6 attachment- foster children data_notes office of the state superintendent of education q6_b school system count of general education cfsa students served q6_c school system count of special education cfsa students served q6_e the amount that osse pays to enroll an individual student in an out-of-district public school fy19 performance oversight — q69 attachment-msdc (a-d, f and g) data sheet office of the state superintendent of education sy18_19_participating_schools sy18-19, lottery - participating school list sy19_20_participating_schools sy19-20, lottery - participating school list sy18_19_lottery_seats sy18-19, lottery - seats offered and remaining by school and by grade sy19_20_lottery_seats sy19-20, lottery - seats offered and remaining by school and by grade sy18_19_applications sy18-19, lottery - number of applications by grade sy19_20_applications sy19-20, lottery - number of applications by grade sy18_19_match_rate sy18-19, lottery - match rate by rank on application sy19_20_match_rate sy19-20, lottery - match rate by rank on application average_selections average number of lottery selections fy19 performance oversight — q7 attachment - mid-year student mobility sy18-19 data notes office of the state superintendent of education monthly mobility by state state october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students monthly mobility by lea lea code lea name october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students monthly mobility by school lea code lea name school code school name count of students enrolled on enrollment audit count day october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students march entry, % of students march exit, % of students april entry, % of students april exit, % of students may entry, % of students may exit, % of students fy19 performance oversight — q75 attachment - frp data_notes office of the state superintendent of education lea lea code lea name number of students percentage of students - free, reduced, and cep school lea code lea name school code school name number of students cep school (y/n) percentage of students - free, reduced, and cep school by grade lea code lea name school code school name grade number of students cep school (y/n) percentage of students - free, reduced, and cep fy19 performance oversight — q77 attachment - school gardens data tab office of the state superintendent of education sy18-19 school garden data sy18-19 school garden demographic information (public and public charter schools) sy18-19 school garden point of contact (poc) sy18-19 school garden type(s) sy18-19 school garden curriculum integration reported school garden history active school gardens sy11-12 through sy18-19 osse school garden grant osse school garden grant fy13 through fy20 fy19 performance oversight — q85 attachment- grants awarded by osse data note office of the state superintendent of education grants from osse osse fy19 poh response - grants awarded by osse fy19 performance oversight — q86 attachment- fy16, fy17, fy18, and fy19, title i, ii, iii data notes office of the state superintendent of education fy16 title i rpt cat year allocations spent unspent fy16 title ii rpt cat year allocations spent unspent fy 16 title iii rpt cat year allocations carryover spent unspent status of unspent funds fy17 title i title i-a fy17 title ii organization detail fy17 title iii organization detail fy18 title i  allocations spent unspent/carryover fy 18 title ii  title ii-a allocation spent unspent/carryover fy18 title iii  allocations spent unspent/carryover fy19 title i title i-a fy19 title ii title ii-a fy19 title iii title iii-a fy19 performance oversight — q88 attachment 1- (a)-(c); (e)-(i) fy19 nonpublic fy19 performance oversight — q88 attachment 2 - (d) fy19 students served by nonpublic data notes office of the state superintendent of education 2019_q88d_by_school osse fy19 poh q88(d) response- students in non-public schools by attending school 2019_q88d_by_lea osse fy19 poh q88(d) response- students in non-public schools by responsible lea 2019_q88d_by_age osse fy 19 poh q88(d) response-students in non-public school by age 2019_q88d_by_disability osse fy19 poh q88(d) response- students in non-public schools by primary disability fy19 performance oversight — q9 attachment 1 - discipline data all data notes office of the state superintendent of education school counts and rates lea code lea name school code school name out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent lea counts and rates lea code lea name out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent school durations rates lea code lea name school code school name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent lea durations rates lea code lea name less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school multiple oss lea code lea name school code school name count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent lea multiple oss lea code lea name count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent actions by reason reason out-of-school suspensions in-school suspensions expulsions school removals lea code lea name school code school name involuntary removal voluntary removal lea removals lea code lea name involuntary removal voluntary removal fy19 performance oversight — q9 attachment 2 - discipline data student groups data notes office of the state superintendent of education school counts and rates lea code lea name school code school name student group group value out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent lea counts and rates lea code lea name student group group value out-of-school suspension percent in-school-suspension percent expulsion percent interim removal percent school durations rates lea code lea name student group group value school code school name student group group value group value less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent lea durations rates lea code lea name student group group value less than 2 days percent between 2 and 5 days percent between 6 and 10 days percent 11 days or more percent school multiple oss lea code lea name school code school name student group group value count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent lea multiple oss lea code lea name student group group value count of students with multiple oss percent count of students with 2 oss percent count of students with 3 oss percent count of students with 4 oss percent count of students with 5 oss percent count of students with at least 6 oss percent actions by reason reason out-of-school suspensions in-school suspensions expulsions school removals lea code lea name school code school name involuntary removal voluntary removal lea removals lea code lea name involuntary removal voluntary removal fy20 performance oversight — q44 - english language learners overview office of the state superintendent of education counts by age lea code lea name age sy2019-20 sy2020-21 counts by grade lea code lea name grade sy2019-20 sy2020-21 counts by swd status lea code lea name sy2019-20 sy2020-21 counts by ell classification lea code lea name ell classification sy2019-20 sy2020-21 fy20 performance oversight — q45 - at-risk students overview office of the state superintendent of education at-risk counts lea code lea name tanf snap cfsa homeless overage fy20 performance oversight — q46 - mobility overview office of the state superintendent of education monthly mobility by school lea code lea name school code school name count of students enrolled on enrollment audit count day october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students monthly mobility by lea lea code lea name october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students monthly mobility by state state october entry, % of students october exit, % of students november entry, % of students november exit, % of students december entry, % of students december exit, % of students january entry, % of students january exit, % of students february entry, % of students february exit, % of students fy20 performance oversight — q49 - graduation (acgr) overview office of the state superintendent of education q49a lea code lea name school code school name fy2020 count of disengaged students fy2020 percent of disengaged students fy2019 count of disengaged students fy2019 percent of disengaged students fy2018 count of disengaged students fy2018 percent of disengaged students fy2017 count of disengaged students fy2017 percent of disengaged students q49b lea code lea name school code school name fy2020 count of postsecondary enrolled students fy2020 percent of postsecondary enrolled students fy2019 count of postsecondary enrolled students fy2019 percent of postsecondary enrolled students fy2018 count of postsecondary enrolled students fy2018 percent of postsecondary enrolled students fy2017 count of postsecondary enrolled students fy2017 percent of postsecondary enrolled students fy20 performance oversight — q53 - childcare overview  office of the state superintendent of education 2020_q53a capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs capacity, enrollment, and utilization of infant, toddler, and pre-kindergarten programs 2020_q53c fiscal year open facilities closed facilities total facilities percentage of closed facilities 2020_q53d year subsidy amount 2020_q53e license number provider name year fy20 performance oversight — q69 - ieps overview office of the state superintendent of education 2020_q69a age as of october 7th students 2020_q69b grade as of october 7th students 2020_q69c lea code lea name students 2020_q69d primary disability students 2020_q69d_by_lea lea code lea name autism developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2020_q69d_by_age age as of october 7th autism developmental delay emotional disturbance hearing impaired intellectual disability multiple disabilities orthopedic impairment other health impairment specific learning disability speech or language impairment traumatic brain injury visual impairment 2020_q69d_multi_disab disability category students with multiple disabilities 2020_q69e percentage of time outside of general education students 2020_q69e_by_lea lea code lea name percentage of time outside of general education 2020_q69e_by_age age as of october 7th percentage of time outside of general education 2020_q69e_by_disability primary disability percentage of time outside of general education 2020_q69f placement type students 2020_q69f_by_lea lea code lea name a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69f_by_age age as of october 7th a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69f_by_disability primary disability a - 0-20% outside general education classroom b - 21-60% outside general education classroom c - 61-100% outside general education classroom in early childhood program at least 10 hrs/wk and most services in gen-ed in early childhood program at least 10 hrs/wk and most services outside gen-ed in early childhood program less than 10 hrs/wk and most services in gen-ed in early childhood program less than 10 hrs/wk and most services outside gen-ed correctional facility homebound/hospital residential facility separate class separate school service provider location 2020_q69g environment students fy20 performance oversight — q70 - sped graduation overview office of the state superintendent of education 2020_q70a lea code lea name setting sy1920 high school diploma sy1920 iep certificate sy1819 high school diploma sy1819 iep certificate 2020_q70b lea code lea name school code school name number of students with disabilities exiting secondary school number of students with disabilities attending college number of students with disabilities participating in postsecondary training number of students with disabilities employed number of students with disabilities in any postsecondary pathway fy20 performance oversight — q90 - my school dc q90 - lottery seats (sy20-21) school name school grade number of seats offered seats remaining after lottery q90 - lottery seats (sy19-20) school name school grade number of seats offered seats remaining after lottery fy20 performance oversight — q97 - esea titles i, ii, iii funding (fy16-20) fy20 title i title i-a fy20 title ii title ii-a fy20 title iii title iii-a fy19 title i funding stream summary fy19 title ii funding stream summary fy19 title iii funding stream summary fy18 title i funding stream summary fy18 title ii title ii a 2017-2018 fy18 title iii title iii-a 2017-2018 allocations spent unspent fy17 title i funding stream summary fy17 title ii funding stream summary fy17 title iii funding stream summary fy16 title i funding stream summary for title i-a fy16 title ii funding stream summary for title ii-a fy16 title iii funding stream summary for title iii-a fy20 performance oversight — universal health certificate completion as of 3.10.2021 data notes office of the state superintendent of education schools schools n y grand total %n %y fy20 performance oversight — washington metropolitan high school students data 4 2 2021 data notes office of the state superintendent of education sy2021_enrolled_schools  sy2021_lea_name sy2021_school_name students_enrolled_cnt osse car report 2016-17 district of columbia career and technical education indicators of performance school year 2016-17 dcps career and technical education indicators of performance school year 2016-17 friendship pcs career and technical education indicators of performance school year 2016-17 maya angelou pcs career and technical education indicators of performance school year 2016-17 wmst pcs career and technical education indicators of performance school year 2016-17 udc-cc career and technical education indicators of performance school year 2016-17 osse car report 2017-18 district of columbia career and technical education indicators of performance for the 2017-18 school year dcps career and technical education indicators of performance for the 2017-18 school year friendship pcs career and technical education indicators of performance for the 2017-18 school year maya angelou pcs career and technical education indicators of performance for the 2017-18 school year maya angelou pcs career and technical education indicators of performance for the 2017-18 school year udc-cc career and technical education indicators of performance for the 2017-18 school year school-level local assessment data 2020-21 — kipp dc - heights academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — basis dc pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — creative minds international pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — richard wright pcs for journalism and media arts lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — shining stars montessori academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc scholars pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — mundo verde bilingual pcs - j.f. cook lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — capital city pcs - high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - anacostia middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — two rivers pcs - young middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — rocketship pcs - infinity community prep lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — e.l. haynes pcs - elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — inspired teaching demonstration pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — girls global academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — e.l. haynes pcs - high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — eagle academy pcs - capitol riverfront lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — capital village pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — the sojourner truth school pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — social justice pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - promise academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - benning elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - college preparatory pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — washington latin pcs - upper school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — washington yu ying pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - trinidad lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - legacy college preparatory pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - capitol hill lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - petworth lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - congress heights lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - shaw lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — center city pcs - brightwood lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — digital pioneers academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ida b. wells middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - honor academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — st. coletta special education pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — statesmen college preparatory  academy for boys pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — bard high school early college dc (bard dc) lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — rocketship pcs - legacy prep lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — luke c. moore high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — inspiring youth program lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — duke ellington school of the arts lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — phelps architecture, construction and engineering high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — youth services center lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — h.d. woodson high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — woodrow wilson high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dunbar high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — roosevelt high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ballou stay high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — school without walls high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ballou high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — mckinley technology high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — eastern high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — cardozo education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — coolidge high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — roosevelt stay high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — jefferson middle school academy lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — mckinley middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ron brown college preparatory high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — columbia heights education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — anacostia high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — stuart-hobson middle school (capitol hill cluster) lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — hart middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — sousa middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — macfarland middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kramer middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — johnson middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kelly miller middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — browne education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — school without walls @ francis-stevens lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — deal middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — eliot-hine middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — benjamin banneker high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — langley elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — capitol hill montessori school @ logan lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dorothy i. height elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — brookland middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — whittier education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — king elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — j.o. wilson elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — wheatley education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — west education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — watkins elementary school (capitol hill cluster) lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — van ness elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — truesdell education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — turner elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — walker-jones education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — tyler elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — tubman elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — randle highlands elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — thomas elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — smothers elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — stanton elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — stoddert elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — thomson elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — takoma education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — excel academy lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — shepherd elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — malcolm x elementary school @ green lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — seaton elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — simon elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — river terrace education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — savoy elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ross elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — raymond education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — powell elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — plummer elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — goodwill excel center pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — payne elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — bruce-monroe elementary school @ park view lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — oyster-adams bilingual school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — patterson elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — lawrence e. boone elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — noyes elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — nalle elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — breakthrough montessori pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — rocketship pcs - rise academy lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — moten elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — marie reed elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — washington leadership academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — murch elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - anacostia elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — key elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — mann elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — miner elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — maury elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ludlow-taylor elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — two rivers pcs - young elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — lafayette elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — leckie education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — washington global pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kingsman academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — lasalle-backus education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — langdon elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kimball elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — the children's guild dc pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — janney elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ketcham elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — monument academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — hearst elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — hyde-addison elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — hardy middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — hendley elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — district of columbia international school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — houston elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — c.w. harris elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — garrison elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — garfield elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — harmony dc pcs - school of excellence lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - quest academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - northeast academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - valor academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — eaton elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — drew elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — lee montessori pcs - brookland lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — h.d. cooke elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — cleveland elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — paul pcs - international high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — burroughs elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — burrville elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - benning middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — bunker hill elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — achievement preparatory academy pcs - wahler place elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - spring academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — brent elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — beers elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — brightwood education campus lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — barnard elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — amidon-bowen elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — bancroft elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — ingenuity prep pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — aiton elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc bilingual pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — two rivers pcs - 4th street lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - edgewood middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — eagle academy pcs - congress heights lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — sela pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — latin american montessori bilingual pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — cedar tree academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - lead academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - key academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — thurgood marshall academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — roots pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — paul pcs - middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — capital city pcs - lower school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — capital city pcs - middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — school-within-school @ goding lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — meridian pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — the seed pcs of washington dc lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — idea pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — early childhood academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — bridges pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — elsie whitlow stokes community freedom pcs - brookland lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — perry street preparatory pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — e.l. haynes pcs - middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — dc prep pcs - edgewood elementary school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - aim academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — howard university middle school of mathematics and science pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — kipp dc - will academy pcs lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — washington latin pcs - middle school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — cesar chavez public charter schools for public policy lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal school-level local assessment data 2020-21 — maya angelou pcs - high school lea id lea name school id school name assessment tool tool type other tool type source format content area grades student group number of eligible students number of students assessed goal number of assessed students meeting or exceeding goal at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i english learner english language learner el ell esl multilingual limited english students with disabilities swd disabilities disability special education special needs iep assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout pre-k pre-kindergarten prek preschool early childhood early learning head start accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions lottery my school dc waitlist school choice"
   },
   {
    "id": "osse-report-card-resource-library",
@@ -51097,7 +62574,7 @@ window.CATALOG = {
      "year": "2025-26",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51167,7 +62644,7 @@ window.CATALOG = {
      "year": "2024-25",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51237,7 +62714,7 @@ window.CATALOG = {
      "year": "2023-24",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51307,7 +62784,7 @@ window.CATALOG = {
      "year": "2022-23",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51377,7 +62854,7 @@ window.CATALOG = {
      "year": "2021-22",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51567,7 +63044,7 @@ window.CATALOG = {
      "year": "2019-20",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51751,7 +63228,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -51923,7 +63400,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -52332,7 +63809,7 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -52693,7 +64170,7 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-school-health-profiles",
      "added": "2026-11-01",
@@ -53146,8 +64623,7 @@ window.CATALOG = {
      "year": "2020",
      "status": "ok",
      "topics": [
-      "school-climate",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/healthy-schools-act-reports",
      "added": "2026-11-01",
@@ -53398,7 +64874,8 @@ window.CATALOG = {
      "year": "2012",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/health-and-physical-education-assessment-hpea",
      "added": "2026-11-01",
@@ -53426,7 +64903,8 @@ window.CATALOG = {
      "year": "2011",
      "status": "ok",
      "topics": [
-      "assessment"
+      "assessment",
+      "school-health"
      ],
      "page": "https://osse.dc.gov/service/health-and-physical-education-assessment-hpea",
      "added": "2026-11-01",
@@ -53454,7 +64932,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/watkins-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -53523,7 +65001,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/william-e-doar-jr-pcs-edgewood-health-profile",
      "added": "2026-11-09",
@@ -53594,7 +65072,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/youth-services-center-health-profile",
      "added": "2026-11-09",
@@ -53665,7 +65143,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -53740,7 +65218,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -53815,8 +65293,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -53892,8 +65369,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -53969,8 +65445,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54046,8 +65521,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54123,8 +65597,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54200,8 +65673,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54277,7 +65749,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54352,7 +65824,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54427,7 +65899,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54502,7 +65974,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54577,7 +66049,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54652,7 +66124,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54727,7 +66199,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54802,7 +66274,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54877,7 +66349,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -54952,7 +66424,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55027,7 +66499,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55102,7 +66574,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55177,7 +66649,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55252,7 +66724,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55327,7 +66799,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55402,7 +66874,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55477,7 +66949,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55553,7 +67025,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55628,7 +67100,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55703,7 +67175,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55778,7 +67250,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55853,7 +67325,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -55928,7 +67400,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56003,7 +67475,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56078,7 +67550,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56154,7 +67626,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56229,7 +67701,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56304,7 +67776,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56379,7 +67851,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56454,7 +67926,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56529,7 +68001,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56604,7 +68076,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56679,7 +68151,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56754,7 +68226,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56829,7 +68301,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56904,7 +68376,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -56979,7 +68451,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57054,7 +68526,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57129,7 +68601,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57204,7 +68676,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57279,7 +68751,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57354,7 +68826,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57429,7 +68901,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57504,7 +68976,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57579,7 +69051,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57654,7 +69126,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57729,7 +69201,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57804,7 +69276,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57879,7 +69351,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -57954,7 +69426,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58029,7 +69501,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58104,7 +69576,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58179,7 +69651,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58254,7 +69726,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58329,7 +69801,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58404,7 +69876,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58479,7 +69951,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58554,7 +70026,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58629,7 +70101,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58704,7 +70176,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58779,7 +70251,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58854,7 +70326,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -58929,7 +70401,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59004,7 +70476,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59079,7 +70551,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59154,7 +70626,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59229,7 +70701,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59304,7 +70776,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59379,7 +70851,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59454,7 +70926,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59529,7 +71001,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59604,7 +71076,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59679,7 +71151,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59754,7 +71226,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59829,7 +71301,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59904,7 +71376,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -59979,7 +71451,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60054,7 +71526,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60129,7 +71601,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60204,7 +71676,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60279,7 +71751,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60354,7 +71826,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60429,7 +71901,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60504,7 +71976,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60579,7 +72051,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60654,7 +72126,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60729,7 +72201,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60804,7 +72276,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60879,7 +72351,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -60954,7 +72426,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61029,7 +72501,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61104,7 +72576,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61179,7 +72651,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61254,7 +72726,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61329,7 +72801,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61404,7 +72876,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61438,7 +72910,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61513,7 +72985,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61588,7 +73060,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61663,8 +73135,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "demographics",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61739,7 +73210,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61814,7 +73285,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61889,7 +73360,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -61964,7 +73435,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62039,7 +73510,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62114,7 +73585,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62189,7 +73660,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62264,7 +73735,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62339,7 +73810,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62414,7 +73885,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62489,7 +73960,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62564,7 +74035,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62639,7 +74110,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62714,7 +74185,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62789,7 +74260,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62864,7 +74335,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -62939,7 +74410,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63014,7 +74485,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63089,7 +74560,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63164,7 +74635,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63239,7 +74710,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63314,7 +74785,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63389,7 +74860,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63464,7 +74935,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63539,7 +75010,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63614,7 +75085,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63689,7 +75160,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63764,7 +75235,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63839,7 +75310,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63914,7 +75385,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -63989,7 +75460,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-schools-health-profiles",
      "added": "2026-11-09",
@@ -64064,7 +75535,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64139,7 +75610,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64214,7 +75685,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64289,7 +75760,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64364,7 +75835,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64439,7 +75910,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64514,7 +75985,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64589,8 +76060,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64666,7 +76136,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64741,7 +76211,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64816,7 +76286,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64891,7 +76361,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -64966,7 +76436,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65041,7 +76511,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65116,7 +76586,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65191,7 +76661,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65266,7 +76736,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65341,7 +76811,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65416,7 +76886,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65491,7 +76961,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65566,7 +77036,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65641,7 +77111,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65716,7 +77186,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65791,7 +77261,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65866,7 +77336,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -65941,7 +77411,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66016,8 +77486,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "assessment",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66092,7 +77561,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66167,7 +77636,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66242,7 +77711,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66317,7 +77786,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66392,7 +77861,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66467,7 +77936,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66542,7 +78011,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66617,7 +78086,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66692,7 +78161,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66767,7 +78236,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66842,7 +78311,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66917,7 +78386,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -66992,7 +78461,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67067,7 +78536,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67142,7 +78611,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67217,7 +78686,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67292,7 +78761,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67367,7 +78836,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67442,7 +78911,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67517,7 +78986,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67592,7 +79061,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67667,7 +79136,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67742,7 +79211,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67817,7 +79286,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67892,7 +79361,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -67967,7 +79436,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68042,7 +79511,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68117,7 +79586,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68192,7 +79661,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68267,7 +79736,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68342,7 +79811,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68417,7 +79886,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68492,7 +79961,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68567,7 +80036,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68642,7 +80111,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68717,7 +80186,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68792,7 +80261,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68868,7 +80337,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -68943,8 +80412,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "special-education",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69020,7 +80488,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69095,7 +80563,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69170,7 +80638,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69245,7 +80713,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69320,7 +80788,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69395,7 +80863,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69470,7 +80938,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69545,7 +81013,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69620,7 +81088,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69695,7 +81163,7 @@ window.CATALOG = {
      "year": "2018-19",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2018-19-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69770,7 +81238,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69845,7 +81313,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69920,8 +81388,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -69997,8 +81464,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70074,8 +81540,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70151,8 +81616,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70228,8 +81692,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70305,8 +81768,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70382,7 +81844,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70457,7 +81919,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70532,7 +81994,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70607,7 +82069,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70682,7 +82144,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70757,7 +82219,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70832,7 +82294,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70907,7 +82369,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -70982,7 +82444,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71057,7 +82519,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71132,7 +82594,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71207,7 +82669,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71282,7 +82744,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71357,7 +82819,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71433,7 +82895,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71508,7 +82970,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71583,7 +83045,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71658,7 +83120,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71733,7 +83195,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71808,7 +83270,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71883,7 +83345,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -71958,7 +83420,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72033,7 +83495,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72108,7 +83570,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72183,7 +83645,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72258,7 +83720,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72333,8 +83795,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72410,7 +83871,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72485,7 +83946,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72560,7 +84021,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72635,7 +84096,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72710,7 +84171,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72785,7 +84246,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72860,7 +84321,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -72935,7 +84396,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73010,7 +84471,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73085,7 +84546,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73160,7 +84621,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73235,7 +84696,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73310,7 +84771,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73385,7 +84846,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73460,7 +84921,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73535,7 +84996,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73610,7 +85071,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73685,7 +85146,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73760,7 +85221,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73835,7 +85296,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73910,7 +85371,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -73985,7 +85446,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74060,7 +85521,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74135,7 +85596,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74210,7 +85671,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74285,7 +85746,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74360,7 +85821,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74435,7 +85896,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74510,7 +85971,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74585,7 +86046,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74660,7 +86121,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74735,7 +86196,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74810,7 +86271,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74885,7 +86346,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -74960,7 +86421,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75035,7 +86496,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75110,7 +86571,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75185,7 +86646,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75260,7 +86721,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75335,7 +86796,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75410,7 +86871,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75485,7 +86946,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75560,7 +87021,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75635,7 +87096,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75710,7 +87171,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75785,7 +87246,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75860,7 +87321,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -75935,7 +87396,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76010,7 +87471,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76085,7 +87546,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76161,8 +87622,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "special-education",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76238,7 +87698,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76313,7 +87773,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76388,7 +87848,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76463,7 +87923,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76538,7 +87998,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76613,7 +88073,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76688,7 +88148,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76763,7 +88223,7 @@ window.CATALOG = {
      "year": "2017-18",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/page/2017-18-school-year-dc-public-charter-schools-health-profiles",
      "added": "2026-11-09",
@@ -76838,7 +88298,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-achievement-prep-academy-achievement-preparatory-public-charter-school",
      "added": "2026-11-09",
@@ -76907,8 +88367,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-apple-tree-early-learning-public-charter-school-health-profile-southwest",
      "added": "2026-11-09",
@@ -76984,8 +88443,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-apple-tree-early-learning-southeast-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -77057,7 +88515,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-appletree-early-learning-columbia-heights-public-charter-school-health",
      "added": "2026-11-09",
@@ -77130,7 +88588,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-apple-tree-early-learning-public-charter-school-health-profile-lincoln",
      "added": "2026-11-09",
@@ -77205,7 +88663,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-arts-and-tech-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -77280,7 +88738,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-booker-t-washington-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -77351,7 +88809,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-capital-city-public-charter-school-health-profile-lower",
      "added": "2026-11-09",
@@ -77426,7 +88884,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cedar-tree-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -77497,7 +88955,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-public-charter-school-health-profile-brightwood",
      "added": "2026-11-09",
@@ -77572,7 +89030,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-public-charter-school-health-profile-capitol-hill",
      "added": "2026-11-09",
@@ -77647,7 +89105,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-public-charter-school-health-profile-congress-heights-campus",
      "added": "2026-11-09",
@@ -77722,7 +89180,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-public-charter-school-health-profile-petworth",
      "added": "2026-11-09",
@@ -77797,7 +89255,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-public-charter-school-health-profile-shaw",
      "added": "2026-11-09",
@@ -77872,7 +89330,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-center-city-trinidad-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -77947,7 +89405,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-cesar-chavez-pcs-capitol-hill-health-profile",
      "added": "2026-11-09",
@@ -78019,7 +89477,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-cesar-chavez-pcs-chavez-prep-health-profile",
      "added": "2026-11-09",
@@ -78093,7 +89551,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-cesar-chavez-pcs-parkside-middle-health-profile",
      "added": "2026-11-09",
@@ -78167,7 +89625,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-cesar-chavez-pcs-parkside-upper-health-profile",
      "added": "2026-11-09",
@@ -78241,7 +89699,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cesar-chavez-capitol-hill-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -78312,7 +89770,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cesar-chavez-public-charter-school-health-profile-chavez-prep-campus",
      "added": "2026-11-09",
@@ -78383,7 +89841,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-community-academy-%E2%80%93-amos-iii-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -78452,7 +89910,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-community-academy-public-charter-school-amos-ii-health-profile",
      "added": "2026-11-09",
@@ -78525,7 +89983,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-community-academy-pcs-amos-ii-health-profile",
      "added": "2026-11-09",
@@ -78601,7 +90059,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-community-academy-pcs-amos-i-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -78674,7 +90132,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-community-academy-pcs-amos-i-health-profile",
      "added": "2026-11-09",
@@ -78750,7 +90208,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-community-academy-%E2%80%93-butler-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -78823,7 +90281,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-community-academy-amos-v-health-profile",
      "added": "2026-11-09",
@@ -78895,7 +90353,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-community-academy-capcs-online-health-profile",
      "added": "2026-11-09",
@@ -78970,7 +90428,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-creative-minds-pcs-health-profile",
      "added": "2026-11-09",
@@ -79044,7 +90502,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-dc-bilingual-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -79119,7 +90577,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-dc-bilingual-pcs-health-profile",
      "added": "2026-11-09",
@@ -79193,7 +90651,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-dc-preparatory-academy-pcs-benning-middle-health-profile",
      "added": "2026-11-09",
@@ -79267,7 +90725,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-dc-preparatory-academy-pcs-edgewood-campus-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -79338,7 +90796,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-dc-preparatory-academy-pcs-edgewood-campus-health-profile",
      "added": "2026-11-09",
@@ -79414,7 +90872,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-dc-preparatory-academy-pcs-edgewood-middle-health-profile",
      "added": "2026-11-09",
@@ -79488,7 +90946,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-dc-scholars-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -79563,7 +91021,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-eagle-academy-nj-ave-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -79638,7 +91096,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-ballou-high-school-health-profile",
      "added": "2026-11-09",
@@ -79710,7 +91168,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-benjamin-banneker-high-school-health-profile",
      "added": "2026-11-09",
@@ -79784,7 +91242,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/brent-elementary-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -79855,7 +91313,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-brookland-education-campus-bunker-hill-health-profile",
      "added": "2026-11-09",
@@ -79927,7 +91385,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-coolidge-high-school-health-profile",
      "added": "2026-11-09",
@@ -79999,7 +91457,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-deal-middle-school-health-profile",
      "added": "2026-11-09",
@@ -80071,7 +91529,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/drew-elementary-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -80142,7 +91600,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-drew-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -80214,7 +91672,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-dunbar-high-school-health-profile",
      "added": "2026-11-09",
@@ -80286,7 +91744,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-eastern-high-school-health-profile",
      "added": "2026-11-09",
@@ -80360,7 +91818,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-eaton-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -80433,7 +91891,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-eaton-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -80509,7 +91967,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-eliot-hine-middle-school-health-profile",
      "added": "2026-11-09",
@@ -80581,7 +92039,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-duke-ellington-school-arts-health-profile",
      "added": "2026-11-09",
@@ -80653,7 +92111,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-garfield-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -80728,7 +92186,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hd-cooke-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -80800,7 +92258,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hardy-middle-school-health-profile",
      "added": "2026-11-09",
@@ -80874,7 +92332,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hart-middle-school-health-profile",
      "added": "2026-11-09",
@@ -80946,7 +92404,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hearst-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81018,7 +92476,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hendley-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81088,7 +92546,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-houston-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81160,7 +92618,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/hyde-addison-elementary-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -81235,7 +92693,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hyde-addison-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81307,7 +92765,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-jo-wilson-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81383,7 +92841,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-janney-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81457,7 +92915,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-jefferson-middle-school-health-profile",
      "added": "2026-11-09",
@@ -81529,7 +92987,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-johnson-john-hayden-middle-school-health-profile",
      "added": "2026-11-09",
@@ -81601,7 +93059,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kelly-miller-middle-school-health-profile",
      "added": "2026-11-09",
@@ -81673,7 +93131,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-ketcham-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81743,7 +93201,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-key-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81817,7 +93275,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kimball-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81889,7 +93347,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-king-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -81961,7 +93419,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kramer-middle-school-health-profile",
      "added": "2026-11-09",
@@ -82033,7 +93491,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/ludlow-es-healthy-schools-act-2013-school-health-profile",
      "added": "2026-11-09",
@@ -82132,7 +93590,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-lafayette-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -82206,7 +93664,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-langdon-education-campus-health-profile",
      "added": "2026-11-09",
@@ -82284,7 +93742,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-langley-education-campus-health-profile",
      "added": "2026-11-09",
@@ -82356,7 +93814,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/mamie-d-lee-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -82431,7 +93889,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/mckinley-technology-high-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -82506,7 +93964,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sharpe-health-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -82581,7 +94039,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/shepherd-elementary-school-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -82656,7 +94114,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-wilson-high-school-health-profile",
      "added": "2026-11-09",
@@ -82728,7 +94186,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-democracy-prep-pcs-congress-heights-health-profile",
      "added": "2026-11-09",
@@ -82800,7 +94258,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-aiton-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -82873,7 +94331,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-amidon-bowen-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -82948,7 +94406,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-anacostia-high-school-health-profile",
      "added": "2026-11-09",
@@ -83022,7 +94480,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-bancroft-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83095,7 +94553,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-barnard-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83170,7 +94628,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-beers-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83245,7 +94703,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-banneker-high-school-health-profile",
      "added": "2026-11-09",
@@ -83318,7 +94776,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-browne-education-campus-health-profile",
      "added": "2026-11-09",
@@ -83391,7 +94849,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-bruce-monroe-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83466,7 +94924,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-burroughs-education-campus-health-profile",
      "added": "2026-11-09",
@@ -83537,7 +94995,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-burrville-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83606,7 +95064,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cw-harris-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83677,7 +95135,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-capitol-hill-montessori-logan-school-health-profile",
      "added": "2026-11-09",
@@ -83750,7 +95208,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cardozo-education-campus-health-profile",
      "added": "2026-11-09",
@@ -83823,7 +95281,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-cleveland-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -83894,7 +95352,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-columbia-heights-education-campus-health-profile",
      "added": "2026-11-09",
@@ -83969,7 +95427,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-coolidge-high-school-health-profile",
      "added": "2026-11-09",
@@ -84040,7 +95498,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-deal-middle-school-health-profile",
      "added": "2026-11-09",
@@ -84115,7 +95573,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-eastern-high-school-health-profile",
      "added": "2026-11-09",
@@ -84188,7 +95646,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-eliot-hine-middle-school-health-profile",
      "added": "2026-11-09",
@@ -84259,7 +95717,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ellington-school-arts-school-health-profile",
      "added": "2026-11-09",
@@ -84332,7 +95790,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-garfield-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84403,7 +95861,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-garrison-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84474,7 +95932,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hd-cooke-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84547,7 +96005,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hardy-middle-school-health-profile",
      "added": "2026-11-09",
@@ -84622,7 +96080,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hart-middle-school-health-profile",
      "added": "2026-11-09",
@@ -84695,7 +96153,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hearst-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84770,7 +96228,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hendley-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84845,7 +96303,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-houston-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84914,7 +96372,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-jo-wilson-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -84989,7 +96447,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-janney-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85064,7 +96522,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-jefferson-middle-school-health-profile",
      "added": "2026-11-09",
@@ -85137,7 +96595,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-john-hayden-johnson-middle-school-health-profile",
      "added": "2026-11-09",
@@ -85210,7 +96668,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kelly-miller-middle-school-health-profile",
      "added": "2026-11-09",
@@ -85283,7 +96741,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ketcham-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85358,7 +96816,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-key-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85433,7 +96891,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kimball-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85506,7 +96964,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-king-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85581,7 +97039,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kramer-middle-school-health-profile",
      "added": "2026-11-09",
@@ -85654,7 +97112,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-lafayette-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85729,7 +97187,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-langdon-education-campus-health-profile",
      "added": "2026-11-09",
@@ -85804,7 +97262,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-langley-education-campus-health-profile",
      "added": "2026-11-09",
@@ -85875,7 +97333,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-leckie-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -85944,7 +97402,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ludlow-taylor-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86015,7 +97473,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-luke-c-moore-high-school-health-profile",
      "added": "2026-11-09",
@@ -86086,7 +97544,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-malcolm-x-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86157,7 +97615,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-mann-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86232,7 +97690,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-marie-reed-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86307,7 +97765,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-maury-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86378,7 +97836,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-mckinley-middle-school-health-profile",
      "added": "2026-11-09",
@@ -86451,7 +97909,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-miner-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86524,7 +97982,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-moten-elementary-wilkinson-school-health-profile",
      "added": "2026-11-09",
@@ -86595,7 +98053,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-murch-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86670,7 +98128,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-nalle-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86743,7 +98201,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-noyes-education-campus-health-profile",
      "added": "2026-11-09",
@@ -86816,7 +98274,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-orr-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -86889,7 +98347,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-oyster-bilingual-health-profile",
      "added": "2026-11-09",
@@ -86960,7 +98418,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-patterson-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87035,7 +98493,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-payne-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87108,7 +98566,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-peabody-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87183,7 +98641,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-phelps-school-health-profile",
      "added": "2026-11-09",
@@ -87258,7 +98716,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-plummer-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87333,7 +98791,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-powell-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87408,7 +98866,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-randle-highlands-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87483,7 +98941,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-raymond-education-campus-health-profile",
      "added": "2026-11-09",
@@ -87556,7 +99014,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-roosevelt-high-school-health-profile",
      "added": "2026-11-09",
@@ -87629,7 +99087,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ross-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87704,7 +99162,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-savoy-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -87775,7 +99233,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-school-without-walls-high-school-health-profile",
      "added": "2026-11-09",
@@ -87846,7 +99304,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-school-without-walls-francis-stevens-health-profile",
      "added": "2026-11-09",
@@ -87919,7 +99377,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-school-within-school-peabody-health-profile",
      "added": "2026-11-09",
@@ -87994,7 +99452,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-seaton-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88069,7 +99527,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-simon-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88144,7 +99602,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-smothers-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88217,7 +99675,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-sousa-middle-school-health-profile",
      "added": "2026-11-09",
@@ -88288,7 +99746,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-stanton-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88361,7 +99819,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-stoddert-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88436,7 +99894,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-stuart-hobson-middle-school-health-profile",
      "added": "2026-11-09",
@@ -88511,7 +99969,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-takoma-education-campus-meyer",
      "added": "2026-11-09",
@@ -88582,7 +100040,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-thomas-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88653,7 +100111,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-thomson-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88724,7 +100182,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-truesdell-education-campus-health-profile",
      "added": "2026-11-09",
@@ -88799,7 +100257,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-tubman-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -88870,7 +100328,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-turner-elementary-school-health-profile-green",
      "added": "2026-11-09",
@@ -88945,7 +100403,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-tyler-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -89020,7 +100478,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-walker-jones-health-profile",
      "added": "2026-11-09",
@@ -89093,7 +100551,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-washington-metro-high-school-health-profile",
      "added": "2026-11-09",
@@ -89168,7 +100626,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-watkins-elementary-school-health-profile",
      "added": "2026-11-09",
@@ -89243,7 +100701,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-west-education-campus-health-profile",
      "added": "2026-11-09",
@@ -89318,7 +100776,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-wheatley-education-campus-health-profile",
      "added": "2026-11-09",
@@ -89389,7 +100847,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-whittier-education-campus-health-profile",
      "added": "2026-11-09",
@@ -89462,7 +100920,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-wilson-high-school-health-profile",
      "added": "2026-11-09",
@@ -89535,7 +100993,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hd-woodson-high-school-health-profile",
      "added": "2026-11-09",
@@ -89608,7 +101066,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-youth-services-center-health-profile",
      "added": "2026-11-09",
@@ -89681,7 +101139,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-el-haynes-public-charter-school-health-profile-georgia-ave",
      "added": "2026-11-09",
@@ -89754,7 +101212,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-el-haynes-public-charter-school-health-profile-kansas-ave",
      "added": "2026-11-09",
@@ -89827,7 +101285,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-el-haynes-kansas-ave-high-school-health-profile",
      "added": "2026-11-09",
@@ -89900,8 +101358,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-early-childhood-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -89977,7 +101434,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-excel-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -90052,7 +101509,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-blow-pierce",
      "added": "2026-11-09",
@@ -90127,7 +101584,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-chamberlain",
      "added": "2026-11-09",
@@ -90202,7 +101659,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-collegiate-academy",
      "added": "2026-11-09",
@@ -90277,7 +101734,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-friendship-pcs-blow-pierce-elementary-health-profile",
      "added": "2026-11-09",
@@ -90351,7 +101808,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-friendship-pcs-chamberlain-middle-health-profile",
      "added": "2026-11-09",
@@ -90425,7 +101882,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-friendship-pcs-collegiate-academy-health-profile",
      "added": "2026-11-09",
@@ -90497,7 +101954,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-friendship-pcs-woodridge-elementary-health-profile",
      "added": "2026-11-09",
@@ -90573,7 +102030,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-friendship-pcs-woodridge-middle-health-profile",
      "added": "2026-11-09",
@@ -90645,7 +102102,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-southeast-academy",
      "added": "2026-11-09",
@@ -90720,7 +102177,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-tech-prep",
      "added": "2026-11-09",
@@ -90795,7 +102252,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-friendship-schools-public-charter-school-health-profile-woodridge",
      "added": "2026-11-09",
@@ -90870,7 +102327,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hope-community-public-charter-school-health-profile-lamond",
      "added": "2026-11-09",
@@ -90943,7 +102400,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hope-community-public-charter-school-health-profile-tolson",
      "added": "2026-11-09",
@@ -91018,7 +102475,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-hospitality-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -91093,7 +102550,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-howard-university-middle-school-health-profile",
      "added": "2026-11-09",
@@ -91164,7 +102621,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ideal-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -91239,7 +102696,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-imagine-southeast-health-profile",
      "added": "2026-11-09",
@@ -91312,7 +102769,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-ingenuity-prep-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -91383,7 +102840,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-inspired-teaching-school-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -91456,7 +102913,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-dc-aim-academy-health-profile",
      "added": "2026-11-09",
@@ -91528,7 +102985,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-dc-arts-technology-health-profile",
      "added": "2026-11-09",
@@ -91604,7 +103061,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-dc-connect-pcs-health-profile",
      "added": "2026-11-09",
@@ -91680,7 +103137,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-dc-discover-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -91756,7 +103213,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-dc-grow-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -91832,7 +103289,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-dc-heights-academy-health-profile",
      "added": "2026-11-09",
@@ -91904,7 +103361,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-dc-key-academy-health-profile",
      "added": "2026-11-09",
@@ -91976,7 +103433,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-dc-leap-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -92052,7 +103509,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-dc-promise-academy-health-profile",
      "added": "2026-11-09",
@@ -92124,7 +103581,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-pcs-quest-academy-health-profile",
      "added": "2026-11-09",
@@ -92196,7 +103653,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-kipp-dc-spring-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -92268,7 +103725,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-aim-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92343,7 +103800,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-dc-college-preparatory",
      "added": "2026-11-09",
@@ -92416,7 +103873,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-discover-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92491,7 +103948,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-grow-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92566,7 +104023,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-heights-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92641,7 +104098,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-key-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92716,7 +104173,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-dc-connect-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92791,7 +104248,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-dc-lead-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92866,7 +104323,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-dc-spring-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -92941,7 +104398,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-leap-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93016,7 +104473,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-promise-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93091,7 +104548,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kipp-will-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93166,7 +104623,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-latin-american-montessori-bilingual-lamb-public-charter-school-health",
      "added": "2026-11-09",
@@ -93241,7 +104698,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-layc-career-academy-health-profile",
      "added": "2026-11-09",
@@ -93313,7 +104770,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-mary-mcleod-bethune-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93386,7 +104843,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-maya-angelou-evans-high-health-profile",
      "added": "2026-11-09",
@@ -93459,7 +104916,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-maya-angelou-evans-middle-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93534,7 +104991,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-meridian-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93609,7 +105066,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-meridian-pcs-health-profile",
      "added": "2026-11-09",
@@ -93683,7 +105140,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-roots-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93756,7 +105213,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-mundo-verde-bilingual-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93829,7 +105286,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-national-collegiate-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93900,7 +105357,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-options-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -93973,7 +105430,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-eagle-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -94042,7 +105499,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sela-pcs-sy-2013-2014-school-health-profile",
      "added": "2026-11-09",
@@ -94117,7 +105574,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-paul-public-charter-school-%E2%80%93-high-health-profile",
      "added": "2026-11-09",
@@ -94190,7 +105647,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-paul-pcs-high-school-health-profile",
      "added": "2026-11-09",
@@ -94262,7 +105719,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-paul-public-charter-school-%E2%80%93-middle-health-profile",
      "added": "2026-11-09",
@@ -94335,7 +105792,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-paul-pcs-middle-health-profile",
      "added": "2026-11-09",
@@ -94407,7 +105864,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-perry-street-prep-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -94480,7 +105937,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-perry-street-prep-pcs-health-profile",
      "added": "2026-11-09",
@@ -94552,7 +106009,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-potomac-lighthouse-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -94623,7 +106080,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-potomac-lighthouse-pcs-health-profile",
      "added": "2026-11-09",
@@ -94693,7 +106150,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-high-road-academy-high-school-health-profile",
      "added": "2026-11-09",
@@ -94768,7 +106225,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-high-road-academy-middle-school-health-profile",
      "added": "2026-11-09",
@@ -94843,7 +106300,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-high-road-academy-primary-school-health-profile",
      "added": "2026-11-09",
@@ -94918,7 +106375,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-kingsbury-day-school-health-profile",
      "added": "2026-11-09",
@@ -94993,7 +106450,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-san-miguel-school-health-profile",
      "added": "2026-11-09",
@@ -95065,7 +106522,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-village-academy-health-profile",
      "added": "2026-11-09",
@@ -95138,7 +106595,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-richard-wright-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -95211,7 +106668,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-richard-wright-pcs-health-profile",
      "added": "2026-11-09",
@@ -95285,7 +106742,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-roots-pcs-health-profile",
      "added": "2026-11-09",
@@ -95357,7 +106814,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-seed-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -95430,7 +106887,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-seed-pcs-health-profile",
      "added": "2026-11-09",
@@ -95502,7 +106959,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/anacostia-high-school-health-form",
      "added": "2026-11-09",
@@ -95580,7 +107037,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/apple-tree-columbia-school-health-form",
      "added": "2026-11-09",
@@ -95662,7 +107119,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/appletree-ecapitol-school-health-form",
      "added": "2026-11-09",
@@ -95744,8 +107201,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/apple-tree-early-learning-center-pcs-riverside-health-form",
      "added": "2026-11-09",
@@ -95823,7 +107279,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/ballou-stay-high-school-health-profile",
      "added": "2026-11-09",
@@ -95899,7 +107355,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/benjamin-banneker-high-school-health-form",
      "added": "2026-11-09",
@@ -95975,7 +107431,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/bridges-school-health-form",
      "added": "2026-11-09",
@@ -96053,7 +107509,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/ron-brown-middle-school-health-form",
      "added": "2026-11-09",
@@ -96129,7 +107585,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/choice-academy-middlehigh-school-health-form",
      "added": "2026-11-09",
@@ -96205,7 +107661,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/capitalcity-lower-school-health-form-2nd-submission",
      "added": "2026-11-09",
@@ -96283,7 +107739,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/cardozo-high-school-health-form",
      "added": "2026-11-09",
@@ -96361,7 +107817,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/center-city-brightwood-school-health-form",
      "added": "2026-11-09",
@@ -96439,7 +107895,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/center-city-petworth-school-health-form",
      "added": "2026-11-09",
@@ -96517,7 +107973,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/center-city-congress-heights-school-health-form",
      "added": "2026-11-09",
@@ -96595,7 +108051,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/center-city-trinidad-school-health-form",
      "added": "2026-11-09",
@@ -96673,7 +108129,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/drew-elementary-school",
      "added": "2026-11-09",
@@ -96755,7 +108211,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/community-academy-amos-2-school-health-form",
      "added": "2026-11-09",
@@ -96833,7 +108289,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/coolidge-high-school-health-form",
      "added": "2026-11-09",
@@ -96909,7 +108365,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/deal-middle-school-health-form",
      "added": "2026-11-09",
@@ -96985,7 +108441,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/ellington-school-arts-health-form",
      "added": "2026-11-09",
@@ -97063,7 +108519,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/dunbar-high-school-health-form",
      "added": "2026-11-09",
@@ -97139,7 +108595,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/eastern-high-school-health-form",
      "added": "2026-11-09",
@@ -97215,7 +108671,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/eliot-hine-middle-school-health-form",
      "added": "2026-11-09",
@@ -97291,7 +108747,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/hardy-middle-school-health-form",
      "added": "2026-11-09",
@@ -97369,7 +108825,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/tubman-elementary-school",
      "added": "2026-11-09",
@@ -97447,7 +108903,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/hart-middle-school-health-form",
      "added": "2026-11-09",
@@ -97523,7 +108979,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/hope-community-lamond-school-health-form",
      "added": "2026-11-09",
@@ -97601,7 +109057,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/hope-community-tolson-school-health-form",
      "added": "2026-11-09",
@@ -97679,7 +109135,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/jefferson-middle-school-health-form",
      "added": "2026-11-09",
@@ -97755,7 +109211,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/burroughs-education-campus",
      "added": "2026-11-09",
@@ -97835,7 +109291,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/nalle-elementary-school",
      "added": "2026-11-09",
@@ -97913,7 +109369,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/tyler-elementary-school",
      "added": "2026-11-09",
@@ -97993,7 +109449,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/john-hayden-johnson-middle-school-health-form",
      "added": "2026-11-09",
@@ -98069,7 +109525,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/kippdc-discover-academy-school-health-form",
      "added": "2026-11-09",
@@ -98151,7 +109607,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/kelly-miller-middle-school-health-form",
      "added": "2026-11-09",
@@ -98227,7 +109683,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/kimball-elementary-school",
      "added": "2026-11-09",
@@ -98307,7 +109763,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/kramer-middle-school-health-form",
      "added": "2026-11-09",
@@ -98383,7 +109839,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/luke-c-moore-high-school-health-form",
      "added": "2026-11-09",
@@ -98459,7 +109915,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/king-elementary-school",
      "added": "2026-11-09",
@@ -98541,7 +109997,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/macfarland-middle-school-health-form",
      "added": "2026-11-09",
@@ -98617,7 +110073,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/mckinley-technology-high-school-health-form",
      "added": "2026-11-09",
@@ -98693,7 +110149,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/moten-elementary-school-wilkinson",
      "added": "2026-11-09",
@@ -98771,7 +110227,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/murch-elementary-school",
      "added": "2026-11-09",
@@ -98851,7 +110307,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/patterson-elementary-school",
      "added": "2026-11-09",
@@ -98929,7 +110385,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/phelps-architecture-construction-and-engineering-high-school-health-form",
      "added": "2026-11-09",
@@ -99005,7 +110461,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/roosevelt-stay-high-school-health-form",
      "added": "2026-11-09",
@@ -99085,7 +110541,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/school-without-walls-high-school-health-form",
      "added": "2026-11-09",
@@ -99163,7 +110619,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/seed-school-health-form",
      "added": "2026-11-09",
@@ -99239,7 +110695,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sousa-middle-school-health-form",
      "added": "2026-11-09",
@@ -99315,7 +110771,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/stuart-hobson-middle-school-health-form",
      "added": "2026-11-09",
@@ -99391,7 +110847,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/transition-academy-shadd-health-form",
      "added": "2026-11-09",
@@ -99467,7 +110923,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/washington-metropolitan-high-school-health-form",
      "added": "2026-11-09",
@@ -99543,7 +110999,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/watkins-elementary-school-health-form",
      "added": "2026-11-09",
@@ -99621,7 +111077,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/wilson-high-school-udc-health-form",
      "added": "2026-11-09",
@@ -99697,7 +111153,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/woodson-academy-ron-brown-health-form",
      "added": "2026-11-09",
@@ -99773,7 +111229,7 @@ window.CATALOG = {
      "year": "unknown",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/youth-services-center-health-form",
      "added": "2026-11-09",
@@ -99851,7 +111307,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-sela-pcs-health-profile",
      "added": "2026-11-09",
@@ -99923,7 +111379,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-shining-stars-montessori-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -99995,7 +111451,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-shining-stars-montessori-pcs-health-profile",
      "added": "2026-11-09",
@@ -100071,7 +111527,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-somerset-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100144,7 +111600,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-somerset-preparatory-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -100216,8 +111672,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "special-education",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-st-coletta-special-education-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100293,8 +111748,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "special-education",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-st-coletta-special-education-pcs-health-profile",
      "added": "2026-11-09",
@@ -100364,7 +111818,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-next-step-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100435,7 +111889,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-next-step-pcs-health-profile",
      "added": "2026-11-09",
@@ -100510,7 +111964,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-thurgood-marshall-academy-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100585,7 +112039,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-thurgood-marshall-academy-pcs-health-profile",
      "added": "2026-11-09",
@@ -100657,7 +112111,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-tree-life-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100728,7 +112182,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-tree-life-pcs-health-profile",
      "added": "2026-11-09",
@@ -100798,7 +112252,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-two-rivers-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -100873,7 +112327,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-two-rivers-pcs-health-profile",
      "added": "2026-11-09",
@@ -100949,7 +112403,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-hospitality-senior-high-pcs-health-profile",
      "added": "2026-11-09",
@@ -101021,7 +112475,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-washington-latin-middle-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -101096,7 +112550,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-washington-latin-middle-school-pcs-health-profile",
      "added": "2026-11-09",
@@ -101168,7 +112622,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-washington-latin-upper-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -101243,7 +112697,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-washington-latin-upper-school-pcs-health-profile",
      "added": "2026-11-09",
@@ -101317,8 +112771,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "assessment",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-washington-math-science-technology-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -101391,8 +112844,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "assessment",
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-washington-math-science-technology-pcs-health-profile",
      "added": "2026-11-09",
@@ -101466,7 +112918,7 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-washington-yu-ying-public-charter-school-health-profile",
      "added": "2026-11-09",
@@ -101541,7 +112993,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-washington-yu-ying-pcs-health-profile",
      "added": "2026-11-09",
@@ -101619,7 +113071,7 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "profiles"
+      "school-health"
      ],
      "page": "https://osse.dc.gov/publication/sy-2014-2015-william-e-doar-jr-pcs-health-profile",
      "added": "2026-11-09",
@@ -102230,7 +113682,8 @@ window.CATALOG = {
      "year": "2016",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/equity-reports",
      "added": "2026-11-01",
@@ -102428,7 +113881,8 @@ window.CATALOG = {
      "status": "ok",
      "topics": [
       "demographics",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/publication/equity-report-demographics",
      "added": "2026-11-09",
@@ -102470,7 +113924,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/publication/sy-2013-2014-equity-report-metrics",
      "added": "2026-11-09",
@@ -102500,7 +113955,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102566,7 +114022,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102632,7 +114089,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102698,7 +114156,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102764,7 +114223,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102812,7 +114272,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102878,7 +114339,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -102944,7 +114406,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103010,7 +114473,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103076,7 +114540,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103142,7 +114607,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103208,7 +114674,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103274,7 +114741,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103340,7 +114808,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103406,7 +114875,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103472,7 +114942,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103538,7 +115009,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103604,7 +115076,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103670,7 +115143,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103736,7 +115210,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103796,7 +115271,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103862,7 +115338,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103928,7 +115405,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -103994,7 +115472,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104060,7 +115539,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104126,7 +115606,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104192,7 +115673,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104258,7 +115740,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104326,7 +115809,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104392,7 +115876,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104458,7 +115943,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104524,7 +116010,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104590,7 +116077,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104656,7 +116144,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104722,7 +116211,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104788,7 +116278,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104854,7 +116345,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104920,7 +116412,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -104986,7 +116479,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105052,8 +116546,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "facilities",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105113,7 +116607,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105179,7 +116674,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105245,7 +116741,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105311,7 +116808,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105377,7 +116875,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105443,7 +116942,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105509,7 +117009,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105575,7 +117076,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105641,7 +117143,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105707,7 +117210,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105773,7 +117277,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105839,7 +117344,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105905,7 +117411,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -105971,7 +117478,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106037,7 +117545,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106103,7 +117612,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106173,7 +117683,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106239,7 +117750,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106299,7 +117811,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106365,7 +117878,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106431,7 +117945,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106497,7 +118012,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106563,7 +118079,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106629,7 +118146,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106695,7 +118213,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106761,7 +118280,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106827,7 +118347,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106893,7 +118414,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -106959,7 +118481,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107025,7 +118548,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107091,7 +118615,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107157,7 +118682,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107223,7 +118749,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107283,7 +118810,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107349,7 +118877,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107415,7 +118944,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107481,7 +119011,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107547,7 +119078,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107613,7 +119145,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107679,7 +119212,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107727,7 +119261,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107793,7 +119328,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107859,7 +119395,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107919,7 +119456,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -107985,7 +119523,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108051,7 +119590,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108117,7 +119657,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108177,7 +119718,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108243,7 +119785,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108309,7 +119852,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108375,7 +119919,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108441,7 +119986,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108507,7 +120053,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108573,7 +120120,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108639,7 +120187,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108705,7 +120254,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108771,7 +120321,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108837,7 +120388,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108903,7 +120455,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -108969,7 +120522,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109035,7 +120589,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109101,7 +120656,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109167,7 +120723,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109235,7 +120792,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109301,7 +120859,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109367,7 +120926,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109433,7 +120993,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109499,7 +121060,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109565,7 +121127,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109631,7 +121194,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109691,7 +121255,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109757,7 +121322,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109823,8 +121389,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109884,8 +121450,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -109945,8 +121511,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110006,8 +121572,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110067,8 +121633,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110128,7 +121694,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110194,7 +121761,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110260,7 +121828,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110326,7 +121895,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110386,7 +121956,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110434,7 +122005,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110500,7 +122072,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110566,7 +122139,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110632,7 +122206,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110680,7 +122255,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110740,7 +122316,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110806,7 +122383,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110872,7 +122450,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -110938,7 +122517,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111004,7 +122584,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111070,7 +122651,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111136,7 +122718,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111202,7 +122785,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111268,7 +122852,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111334,7 +122919,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111400,7 +122986,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111466,7 +123053,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111526,7 +123114,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111592,7 +123181,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111658,7 +123248,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111724,7 +123315,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111772,7 +123364,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111832,7 +123425,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111898,7 +123492,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -111964,7 +123559,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112030,7 +123626,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112096,7 +123693,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112162,7 +123760,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112228,7 +123827,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112294,7 +123894,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112360,7 +123961,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112426,7 +124028,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112486,7 +124089,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112552,8 +124156,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112621,7 +124225,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112687,7 +124292,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112753,7 +124359,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112821,7 +124428,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112887,7 +124495,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -112953,7 +124562,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113019,7 +124629,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113085,7 +124696,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113151,7 +124763,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113217,7 +124830,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113285,7 +124899,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113351,7 +124966,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113417,7 +125033,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113483,7 +125100,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113549,8 +125167,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113616,8 +125234,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "special-education",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113683,7 +125301,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113749,7 +125368,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113815,7 +125435,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113875,7 +125496,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -113941,7 +125563,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114007,7 +125630,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114073,7 +125697,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114133,7 +125758,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114193,7 +125819,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114253,7 +125880,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114319,7 +125947,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114385,7 +126014,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114445,7 +126075,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114505,7 +126136,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114571,7 +126203,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114631,7 +126264,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114697,7 +126331,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114763,7 +126398,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114811,7 +126447,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114877,7 +126514,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -114943,7 +126581,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115011,7 +126650,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115059,7 +126699,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115125,7 +126766,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115185,7 +126827,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115251,7 +126894,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115317,7 +126961,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115383,7 +127028,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115443,7 +127089,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115509,7 +127156,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115575,7 +127223,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115641,7 +127290,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115709,7 +127359,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115775,7 +127426,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115835,7 +127487,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115895,7 +127548,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -115961,8 +127615,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "special-education",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116028,7 +127682,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116076,7 +127731,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116142,7 +127798,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116208,7 +127865,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116274,7 +127932,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116340,7 +127999,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116406,8 +128066,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116473,7 +128133,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116539,7 +128200,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116605,7 +128267,8 @@ window.CATALOG = {
      "year": "2013-14",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2013-14-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116653,7 +128316,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116727,7 +128391,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116803,7 +128468,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116877,7 +128543,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -116944,7 +128611,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117011,7 +128679,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117083,7 +128752,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117155,7 +128825,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117222,7 +128893,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117289,7 +128961,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117356,7 +129029,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117426,7 +129100,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117493,7 +129168,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117560,7 +129236,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117627,7 +129304,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117694,7 +129372,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117761,7 +129440,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117828,7 +129508,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117895,7 +129576,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -117962,7 +129644,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118029,7 +129712,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118101,7 +129785,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118168,7 +129853,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118238,7 +129924,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118308,7 +129995,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118375,7 +130063,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118442,7 +130131,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118512,7 +130202,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118586,7 +130277,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118653,7 +130345,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118720,7 +130413,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118790,7 +130484,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118857,7 +130552,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118924,7 +130620,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -118991,7 +130688,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119058,7 +130756,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119125,7 +130824,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119192,7 +130892,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119259,7 +130960,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119326,7 +131028,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119393,7 +131096,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119460,7 +131164,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119527,7 +131232,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119594,7 +131300,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119663,7 +131370,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119730,7 +131438,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119797,7 +131506,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119864,7 +131574,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119931,7 +131642,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -119998,7 +131710,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120067,7 +131780,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120134,7 +131848,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120201,7 +131916,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120268,7 +131984,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120337,7 +132054,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120404,7 +132122,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120471,7 +132190,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120541,7 +132261,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120608,7 +132329,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120675,7 +132397,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120742,7 +132465,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120809,7 +132533,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120876,7 +132601,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -120946,7 +132672,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121013,7 +132740,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121080,7 +132808,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121147,7 +132876,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121214,7 +132944,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121281,7 +133012,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121348,7 +133080,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121415,7 +133148,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121482,7 +133216,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121551,7 +133286,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121611,7 +133347,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121681,7 +133418,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121748,7 +133486,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121815,7 +133554,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121882,7 +133622,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -121949,7 +133690,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122021,7 +133763,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122088,7 +133831,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122155,7 +133899,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122222,7 +133967,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122292,7 +134038,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122359,7 +134106,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122426,7 +134174,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122493,7 +134242,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122560,7 +134310,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122627,7 +134378,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122694,7 +134446,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122761,7 +134514,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122828,7 +134582,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122895,7 +134650,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -122962,7 +134718,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123029,7 +134786,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123096,7 +134854,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123163,7 +134922,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123230,7 +134990,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123299,7 +135060,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123366,7 +135128,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123433,7 +135196,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123501,7 +135265,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123568,7 +135333,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123635,7 +135401,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123702,7 +135469,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123769,7 +135537,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123839,7 +135608,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123909,7 +135679,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -123957,7 +135728,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124024,7 +135796,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124091,8 +135864,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124152,8 +135925,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124213,8 +135986,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124274,8 +136047,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124335,8 +136108,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124396,7 +136169,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124463,7 +136237,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124523,7 +136298,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124585,7 +136361,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124655,7 +136432,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124722,7 +136500,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124789,7 +136568,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124837,7 +136617,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124897,7 +136678,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -124964,7 +136746,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125031,7 +136814,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125098,7 +136882,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125165,7 +136950,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125232,7 +137018,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125299,7 +137086,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125369,7 +137157,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125436,7 +137225,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125506,7 +137296,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125573,7 +137364,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125621,7 +137413,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125688,7 +137481,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125755,7 +137549,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125822,7 +137617,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125889,7 +137685,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -125956,7 +137753,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126023,7 +137821,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126090,7 +137889,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126157,7 +137957,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126224,7 +138025,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126291,7 +138093,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126358,7 +138161,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126432,7 +138236,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126492,7 +138297,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126559,8 +138365,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126627,7 +138433,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126694,7 +138501,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126761,7 +138569,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126828,7 +138637,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126895,7 +138705,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -126962,7 +138773,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127029,7 +138841,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127096,7 +138909,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127166,7 +138980,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127233,7 +139048,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127307,7 +139123,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127374,7 +139191,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127441,7 +139259,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127501,7 +139320,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127568,7 +139388,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127635,8 +139456,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127703,7 +139524,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127770,7 +139592,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127830,7 +139653,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127897,7 +139721,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -127967,7 +139792,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128034,7 +139860,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128094,7 +139921,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128164,7 +139992,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128224,7 +140053,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128284,7 +140114,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128344,7 +140175,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128411,7 +140243,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128478,7 +140311,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128545,7 +140379,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128605,7 +140440,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128672,7 +140508,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128739,7 +140576,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128806,7 +140644,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128866,7 +140705,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -128933,7 +140773,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129000,7 +140841,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129048,7 +140890,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129108,7 +140951,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129175,7 +141019,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129245,7 +141090,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129293,7 +141139,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129360,7 +141207,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129427,7 +141275,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129497,7 +141346,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129545,7 +141395,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129612,7 +141463,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129679,7 +141531,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129746,7 +141599,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129813,7 +141667,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129887,7 +141742,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -129947,7 +141803,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130014,7 +141871,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130074,7 +141932,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130134,7 +141993,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130201,8 +142061,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "special-education",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130262,7 +142122,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130332,7 +142193,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130399,7 +142261,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130466,7 +142329,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130536,8 +142400,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130607,7 +142471,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130674,7 +142539,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130741,7 +142607,8 @@ window.CATALOG = {
      "year": "2014-15",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/service/2014-15-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130789,7 +142656,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130848,7 +142716,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130921,7 +142790,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -130980,7 +142850,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131071,7 +142942,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131164,7 +143036,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131249,7 +143122,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131336,7 +143210,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131432,7 +143307,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131527,7 +143403,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131621,7 +143498,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131716,7 +143594,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131809,7 +143688,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131904,7 +143784,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -131995,7 +143876,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132085,7 +143967,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132181,7 +144064,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132270,7 +144154,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132365,7 +144250,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132456,7 +144342,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132546,7 +144433,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132637,7 +144525,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132726,7 +144615,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132822,7 +144712,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -132914,7 +144805,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133000,7 +144892,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133096,7 +144989,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133192,7 +145086,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133287,7 +145182,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133376,7 +145272,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133466,7 +145363,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133556,7 +145454,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133651,7 +145550,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133739,7 +145639,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133834,7 +145735,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -133922,7 +145824,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134018,7 +145921,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134113,7 +146017,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134202,7 +146107,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134298,7 +146204,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134387,7 +146294,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134478,7 +146386,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134571,7 +146480,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134667,7 +146577,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134759,7 +146670,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134851,7 +146763,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -134941,7 +146854,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135031,7 +146945,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135127,7 +147042,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135219,7 +147135,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135312,7 +147229,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135407,7 +147325,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135494,7 +147413,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135589,7 +147509,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135684,7 +147605,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135772,7 +147694,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135867,7 +147790,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -135963,7 +147887,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136059,7 +147984,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136143,7 +148069,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136233,7 +148160,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136324,7 +148252,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136417,7 +148346,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136513,7 +148443,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136602,7 +148533,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136693,7 +148625,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136784,7 +148717,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136875,7 +148809,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -136971,7 +148906,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137066,7 +149002,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137157,7 +149094,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137249,7 +149187,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137344,7 +149283,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137439,7 +149379,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137535,7 +149476,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137595,7 +149537,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137684,7 +149627,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137775,7 +149719,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137869,7 +149814,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -137965,7 +149911,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138056,8 +150003,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "demographics",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138117,7 +150064,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138205,7 +150153,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138295,7 +150244,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138390,7 +150340,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138481,7 +150432,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138576,7 +150528,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138669,7 +150622,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138765,7 +150719,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138861,7 +150816,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -138950,7 +150906,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139041,7 +150998,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139131,7 +151089,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139226,7 +151185,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139317,7 +151277,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139411,7 +151372,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139506,7 +151468,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139601,7 +151564,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139697,7 +151661,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139786,7 +151751,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139880,7 +151846,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -139970,7 +151937,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140066,7 +152034,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140134,7 +152103,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140227,7 +152197,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140307,7 +152278,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140403,7 +152375,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140497,7 +152470,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140587,7 +152561,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140681,7 +152656,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140775,7 +152751,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140864,7 +152841,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -140912,7 +152890,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141004,7 +152983,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141094,8 +153074,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141163,8 +153143,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141232,8 +153212,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141293,8 +153273,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141354,8 +153334,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141415,7 +153395,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141510,7 +153491,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141584,7 +153566,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141632,7 +153615,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141723,7 +153707,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141817,7 +153802,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141910,7 +153896,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -141958,7 +153945,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142026,7 +154014,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142121,7 +154110,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142212,7 +154202,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142305,7 +154296,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142399,7 +154391,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142493,7 +154486,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142584,7 +154578,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142670,7 +154665,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142761,7 +154757,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142851,7 +154848,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -142941,7 +154939,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143032,7 +155031,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143080,7 +155080,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143164,7 +155165,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143259,7 +155261,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143319,7 +155322,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143414,7 +155418,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143509,7 +155514,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143603,7 +155609,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143698,7 +155705,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143793,7 +155801,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143887,7 +155896,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -143981,7 +155991,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144056,7 +156067,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144151,8 +156163,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144244,7 +156256,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144340,7 +156353,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144434,7 +156448,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144526,7 +156541,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144617,7 +156633,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144707,7 +156724,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144802,7 +156820,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144897,7 +156916,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -144988,7 +157008,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145083,7 +157104,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145178,7 +157200,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145268,7 +157291,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145362,7 +157386,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145457,7 +157482,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145548,7 +157574,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145639,7 +157666,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145733,7 +157761,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145821,7 +157850,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -145916,7 +157946,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146007,8 +158038,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146103,7 +158134,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146195,7 +158227,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146255,7 +158288,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146350,7 +158384,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146438,7 +158473,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146523,7 +158559,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146618,7 +158655,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146678,7 +158716,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146769,7 +158808,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146829,7 +158869,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146897,7 +158938,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -146957,7 +158999,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147053,7 +159096,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147148,7 +159192,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147244,7 +159289,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147312,7 +159358,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147406,7 +159453,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147502,7 +159550,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147598,7 +159647,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147658,7 +159708,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147749,7 +159800,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147844,7 +159896,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147939,7 +159992,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -147987,7 +160041,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148047,7 +160102,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148136,7 +160192,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148217,7 +160274,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148265,7 +160323,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148359,7 +160418,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148444,7 +160504,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148539,7 +160600,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148623,7 +160685,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148671,7 +160734,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148762,7 +160826,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148855,7 +160920,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -148947,7 +161013,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149038,7 +161105,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149113,7 +161181,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149203,7 +161272,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149263,7 +161333,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149337,7 +161408,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149428,8 +161500,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "special-education",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149489,7 +161561,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149578,7 +161651,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149668,7 +161742,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149764,7 +161839,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149824,7 +161900,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -149915,7 +161992,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150011,7 +162089,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150105,8 +162184,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150197,7 +162276,8 @@ window.CATALOG = {
      "year": "2015-16",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2015-16-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150292,7 +162372,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150351,7 +162432,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150424,7 +162506,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150483,7 +162566,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150574,7 +162658,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150668,7 +162753,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150756,7 +162842,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150842,7 +162929,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -150937,7 +163025,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151033,7 +163122,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151127,7 +163217,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151214,7 +163305,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151307,7 +163399,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151402,7 +163495,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151491,7 +163585,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151582,7 +163677,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151678,7 +163774,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151773,7 +163870,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151864,7 +163962,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -151959,7 +164058,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152049,7 +164149,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152141,7 +164242,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152231,7 +164333,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152327,7 +164430,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152421,7 +164525,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152511,7 +164616,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152607,7 +164713,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152702,7 +164809,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152793,7 +164901,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152884,7 +164993,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -152972,7 +165082,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153063,7 +165174,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153159,7 +165271,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153252,7 +165365,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153347,7 +165461,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153438,7 +165553,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153534,7 +165650,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153628,7 +165745,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153718,7 +165836,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153812,7 +165931,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153901,7 +166021,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -153996,7 +166117,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154089,7 +166211,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154184,7 +166307,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154276,7 +166400,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154370,7 +166495,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154459,7 +166585,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154549,7 +166676,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154645,7 +166773,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154736,7 +166865,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154825,7 +166955,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -154919,7 +167050,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155004,7 +167136,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155098,7 +167231,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155189,7 +167323,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155284,7 +167419,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155375,7 +167511,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155465,7 +167602,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155559,7 +167697,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155643,7 +167782,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155734,7 +167874,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155822,7 +167963,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -155915,7 +168057,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156007,7 +168150,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156096,7 +168240,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156187,7 +168332,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156278,7 +168424,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156369,7 +168516,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156463,7 +168611,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156559,7 +168708,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156650,7 +168800,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156742,7 +168893,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156837,7 +168989,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -156932,7 +169085,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157027,7 +169181,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157095,7 +169250,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157185,7 +169341,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157275,7 +169432,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157370,7 +169528,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157464,7 +169623,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157559,8 +169719,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "demographics",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157620,7 +169780,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157687,7 +169848,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157776,7 +169938,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157861,7 +170024,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -157957,7 +170121,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158047,7 +170212,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158143,7 +170309,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158235,7 +170402,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158331,7 +170499,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158427,7 +170596,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158518,7 +170688,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158609,7 +170780,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158698,7 +170870,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158792,7 +170965,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158884,7 +171058,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -158977,7 +171152,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159073,7 +171249,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159164,7 +171341,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159256,7 +171434,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159348,7 +171527,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159443,7 +171623,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159537,7 +171718,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159632,7 +171814,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159692,7 +171875,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159787,7 +171971,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159867,7 +172052,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -159963,7 +172149,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160059,7 +172246,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160149,7 +172337,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160244,7 +172433,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160337,7 +172527,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160422,7 +172613,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160478,7 +172670,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160573,7 +172766,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160663,8 +172857,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160724,8 +172918,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160793,8 +172987,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160854,8 +173048,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160923,8 +173117,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -160984,7 +173178,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161079,7 +173274,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161149,7 +173345,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161237,7 +173434,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161285,7 +173483,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161376,7 +173575,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161471,7 +173671,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161564,7 +173765,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161620,7 +173822,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161688,7 +173891,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161784,7 +173988,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161879,7 +174084,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -161975,7 +174181,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162071,7 +174278,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162167,7 +174375,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162262,7 +174471,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162350,7 +174560,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162441,7 +174652,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162527,7 +174739,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162617,7 +174830,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162710,7 +174924,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162758,7 +174973,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162853,7 +175069,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -162949,7 +175166,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163009,7 +175227,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163105,7 +175324,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163200,7 +175420,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163291,7 +175512,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163386,7 +175608,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163481,7 +175704,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163572,7 +175796,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163667,7 +175892,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163741,7 +175967,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163836,8 +176063,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "early-childhood",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -163911,7 +176138,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164006,7 +176234,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164099,7 +176328,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164190,7 +176420,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164285,7 +176516,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164375,7 +176607,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164471,7 +176704,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164567,7 +176801,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164659,7 +176894,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164754,7 +176990,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164848,7 +177085,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -164938,7 +177176,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165032,7 +177271,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165125,7 +177365,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165216,7 +177457,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165304,7 +177546,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165398,7 +177641,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165472,7 +177716,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165560,7 +177805,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165655,7 +177901,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165746,8 +177993,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165838,7 +178085,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -165932,7 +178180,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166028,7 +178277,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166124,7 +178374,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166215,7 +178466,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166295,7 +178547,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166390,7 +178643,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166450,7 +178704,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166541,7 +178796,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166601,7 +178857,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166661,7 +178918,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166721,7 +178979,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166817,7 +179076,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -166912,7 +179172,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167007,7 +179268,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167067,7 +179329,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167158,7 +179421,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167254,7 +179518,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167350,7 +179615,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167446,7 +179712,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167538,7 +179805,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167633,7 +179901,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167726,7 +179995,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167774,7 +180044,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167848,7 +180119,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -167942,7 +180214,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168023,7 +180296,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168071,7 +180345,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168164,7 +180439,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168250,7 +180526,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168343,7 +180620,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168433,7 +180711,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168481,7 +180760,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168572,7 +180852,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168667,7 +180948,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168757,7 +181039,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168848,7 +181131,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168908,7 +181192,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -168994,7 +181279,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169085,7 +181371,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169159,7 +181446,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169233,7 +181521,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169323,8 +181612,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "special-education",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169398,7 +181687,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169491,7 +181781,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169586,7 +181877,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169682,7 +181974,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169742,7 +182035,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169833,7 +182127,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -169928,7 +182223,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -170021,7 +182317,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -170081,8 +182378,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "assessment",
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -170173,7 +182470,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -170269,7 +182567,8 @@ window.CATALOG = {
      "year": "2016-17",
      "status": "ok",
      "topics": [
-      "equity"
+      "equity",
+      "accountability"
      ],
      "page": "https://osse.dc.gov/page/2016-17-school-year-equity-reports",
      "added": "2026-11-09",
@@ -182129,9 +194428,9 @@ window.CATALOG = {
    "format": "Web page (links to Egnyte / OSSE)",
    "cadence": "Annual",
    "years": "Current",
-   "notes": "Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript.",
+   "notes": "Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript. SY2024-25 lead testing results are per-LEA subfolders on Egnyte (https://dcpcsb.egnyte.com/fl/qhKF8Kwk9XQR); like the per-school budget/990/audit folders they are linked here, not catalogued.",
    "files": [],
-   "search": "public charter school data (sector overview) dc pcsb citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. pcsb moved dcpcsb.org to wordpress in oct 2026; checked 2026-11-01. the old /about-us/public-charter-school-data url now redirects to the school finder; /data/ is the replacement. the headline counters (students, schools, leas) render as 0 without javascript. web page (links to egnyte / osse) landing enrollment assessment graduation assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout discipline suspension suspensions expulsion expulsions"
+   "search": "public charter school data (sector overview) dc pcsb citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. pcsb moved dcpcsb.org to wordpress in oct 2026; checked 2026-11-01. the old /about-us/public-charter-school-data url now redirects to the school finder; /data/ is the replacement. the headline counters (students, schools, leas) render as 0 without javascript. sy2024-25 lead testing results are per-lea subfolders on egnyte (https://dcpcsb.egnyte.com/fl/qhkf8kwk9xqr); like the per-school budget/990/audit folders they are linked here, not catalogued. web page (links to egnyte / osse) landing enrollment assessment graduation assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "pcsb-student-enrollment",
@@ -193478,9 +205777,143 @@ window.CATALOG = {
        "n_rows": 11
       }
      ]
+    },
+    {
+     "name": "Master Facilities Plan 2023 Appendix - DCPS school-level enrollment projections",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=nop46s1bg1xq5l8fwpw67wjb7cp69pvu&file_id=f_1489518032456",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "facilities",
+      "enrollment"
+     ],
+     "page": "https://dme.dc.gov/mfp2023",
+     "added": "2026-11-09",
+     "tabs": [
+      {
+       "name": "Notes",
+       "n_rows": 1048574,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "School-level projections",
+       "n_rows": 119,
+       "columns": [
+        "School ID",
+        "School Name",
+        "Facility ID",
+        "SY2020-21 Audited Enrollment",
+        "SY2021-22 Audited Enrollment",
+        "SY2022-23 Audited Enrollment",
+        "SY2023-24 Reported Enrollment",
+        "SY2027-28 Projected Enrollment"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Master Facilities Plan 2023 Appendix - DCPS school modernizations",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jux5cht0q64c24lcyr93ngo8am0ffuvr&file_id=f_1489512998023",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "facilities"
+     ],
+     "page": "https://dme.dc.gov/mfp2023",
+     "added": "2026-11-09",
+     "tabs": [
+      {
+       "name": "Notes",
+       "n_rows": 3,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "Modernization data",
+       "n_rows": 156,
+       "columns": [
+        "School ID",
+        "Facility ID",
+        "School",
+        "Year",
+        "Modernization Type (Planned and Actual)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Master Facilities Plan 2023 Appendix - Future housing pipeline yields",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=mb5fzhisebrzq1unrxiv7azg0jj6onuj&file_id=f_1489532271959",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "facilities"
+     ],
+     "page": "https://dme.dc.gov/mfp2023",
+     "added": "2026-11-09",
+     "tabs": [
+      {
+       "name": "Notes",
+       "n_rows": 17,
+       "columns": [
+        "Notes"
+       ]
+      },
+      {
+       "name": "Housing pipeline data",
+       "n_rows": 75,
+       "columns": [
+        "School ID",
+        "Elementary school boundary",
+        "Estimated public elementary school enrollment yield from turnover in senior housing (5 years)",
+        "Anticipated units from housing developments (2024-2028)",
+        "Estimated public elementary school students yield from housing development (2024-2028)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Master Facilities Plan 2023 Appendix - Capital Improvements Plan schedule FY24-FY29",
+     "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=o6jyewgstyzg0z660ra5dlf29tiif6l5&file_id=f_1489531846838",
+     "kind": "xlsx",
+     "year": "2023",
+     "status": "ok",
+     "topics": [
+      "facilities"
+     ],
+     "page": "https://dme.dc.gov/mfp2023",
+     "added": "2026-11-09",
+     "tabs": [
+      {
+       "name": "Notes",
+       "n_rows": 6,
+       "columns": [
+        "Note"
+       ]
+      },
+      {
+       "name": "CIP FY24-FY29",
+       "n_rows": 47,
+       "columns": [
+        "Project",
+        "FY24",
+        "FY25",
+        "FY26",
+        "FY27",
+        "FY28",
+        "FY29"
+       ]
+      }
+     ]
     }
    ],
-   "search": "dme — master facilities plans & annual supplements (archive) dme each publication on dme's publications list carries excel appendices: per-school enrollment, facility data, utilization, condition, facility classification, and (2019) 5- and 10-year enrollment projections; mfp 2018 has ~20 tables (a.1-a.25). the 2023 mfp and 2024 supplement are separate sources. found by scanning all 72 pages of dme.dc.gov/publications on 2026-11-01. only the 2025 supplement's pdfs are catalogued; older years' report pdfs are not. excel appendices + pdf reports facilities enrollment mfp 2025 supplement — 2025 mfp annual supplement report types of dcps facilities # facilities school name ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) school name ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) lea name facility address ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) lea name facility address ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24- 25) grade progression sy18-19 sy19-20 - sy23-24 sy24-25 sy25-26 mfp 2025 supplement — 2025 mfp annual supplement appendix 1 contents and notes tab name description a. sy25-26 pcs dgs leases facility id lea id school id school name address status sector dcps facility name b. dcps sy25-26 enroll & utiliz sy24-25 sy25-26 c. pcs sy25-26 enroll & utiliz sy24-25 sy25-26 d. dcps fci facility id facility address ward (2022) dcps facility name school id school name swinging 1 year facility condition index** 5 year facility condition index** 10 year facility condition index** e. pcsb facility survey results public charter school facility needs and conditions, sy25-26 f. dcps modernization status facility id year of completion modernization type facility address dcps facility name lea id school id school name all schools g. cip fy26-31  approved fy26-31 capital improvements plan (cip) sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 h. dcps facility classification school id school name facility id facility address dcps facility name designation for sy25-26 notes mfp 2025 supplement — 2025 mfp annual supplement appendix 2 facility ward agency gross notes facility ward agency gross notes facility ward agency gross notes euclid facility ward (2022) agency gross notes ward mfp 2025 supplement — 2025 mfp annual supplement appendix 3 appendix 3. contents master facilities plan 2025 supplement enrollment projections a.methodology overview enrollment projection methodology overview b.aggregate projections sector school year type count pk to 12/alt grades n change from prior year % change from prior year c.grade band projections sector grade band sy13-14 sy14-15 sy15-16 sy16-17 sy17-18 sy18-19 sy19-20 sy20-21 sy21-22 sy22-23 sy23-24 sy24-25 sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 sy31-32 sy32-33 sy33-34 sy34-35 sy35-36 d.dcps school projections school code school name sy13-14 sy14-15 sy15-16 sy16-17 sy17-18 sy18-19 sy19-20 sy20-21 sy21-22 sy22-23 sy23-24 sy24-25 sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 sy31-32 sy32-33 sy33-34 sy34-35 sy35-36 trend e.births year of birth pk3 entry year actual number of births forecast births mfp 2025 supplement — 2025 mfp annual supplement appendix 4 sector share of pk3 enrollment birth birth to 3-yr later pk3 dcps public charter year capture rate dcps public charter mean mean mfp 2022 supplement — appendix a - dcps sy2021-22 enrollment utilization plans mfp 2022 supp_final sy21-22 dcps utilization school id sy2021-22 school name facility id dcps feeder pattern sy21-22 utilization rate (permanent capacity) sy21-22 utilization rate (permanent + portable capacity) permanent programmatic capacity (school) sy21-22 total programmatic capacity (school) sy21-22 enrollment sy21-22 facility-level utilization (if different from school) percentage point difference from sy20-21 (total) percentage point difference from sy20-21 (permanent) sy21-22 portables sy21-22 swinging off site sy21-22 plan variable definitions variable name variable definition notes & sources notes mfp 2022 supplement — appendix b - dc pcs sy2021-22 enrollment data mfp 2022 supp_final sy21-22 pcs facility data lea id school id(s) sy2021-22 school name(s) sy2021-22 facility address former dcps building, if applicable sy2021-22 audited enrollment sy2021-22 facility program capacity sy2021-22 utilization rate percentage point change from sy2020-21 variable definitions variable name variable definition notes & sources notes mfp 2022 supplement — appendix c - dcps facility classification mfp 2022 supp_final dcps facility class sy21 22 school id school name sy21-22 address sy21-22 designation sy21-22 notes variable definitions variable name variable definition notes & sources notes mfp 2021 supplement — appendix a - dcps sy2020-21 enrollment data sy20-21 dcps utilization school id sy2020-21 school name sy2020-21 school address sy2020-21 facility id sy2020-21 audited enrollment sy2020-21 permanent capacity*** sy2020-21 portable capacity*** sy2020-21 total capacity (permanent + portable capacity) sy2020-21 utilization rate (permanent capacity) sy2020-21 utilization rate (permanent + portable capacity) plan to address high utilization (>=95%) or low utilization (<50%) capacity changes school id sy2020-21 school name sy2020-21 school address sy2020-21 facility id sy2019-20 permanent capacity sy2019-20 portable capacity sy2019-20 total capacity (permanent + portable capacity) sy2020-21 permanent capacity sy2020-21 portable capacity sy2020-21 total capacity (permanent + portable capacity) change in capacity reason for change notes & sources notes mfp 2021 supplement — appendix b - dc pcs sy2020-21 enrollment data sy20-21 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2020-21 audited enrollment sy2020-21 facility program capacity sy2020-21 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2021 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index** 5 year facility condition index** 10 year facility condition index** fy21 dcps water filtration test building location record id floor device type as of october 4th, 2021 device location current filter installation date as of october 4th, 2021 current filter expiration date as of october 4th, 2021 fy21 1st draw - sample id fy21 1st draw results fy21 2nd draw - sample id fy21 2nd draw result fy21 retest 1st draw - sample id fy21 retest 1st draw result fy21 retest 2nd draw - sample id fy21 retest 2nd draw result note notes & sources notes mfp 2021 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy20-21 esri_mapinfo_sheet notes & sources notes mfp 2021 supplement — appendix e - dcps facility classification as of december 2021 dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2020 supplement — appendix a - dcps sy2019-20 enrollment data sy19-20 dcps utilization school id sy2019-20 school name sy2019-20 school address sy2019-20 facility id sy2019-20 audited enrollment sy2019-20 permanent capacity**** sy2019-20 portable capacity**** sy2019-20 total capacity (permanent + portable capacity) sy2019-20 utilization rate (permanent capacity) sy2019-20 utilization rate (permanent + portable capacity) plan to address high/low utilization notes & sources notes mfp 2020 supplement — appendix b - dc pcs sy2019-20 enrollment data sy19-20 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2019-20 audited enrollment sy2019-20 facility program capacity sy2019-20 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2020 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index** 5 year facility condition index** 10 year facility condition index** fy20 dcps water filtration test building location: building name record id floor device type device location current filter installation date as of novmber 2020 current filter expiration date as of novmber 2020 fy20 1st draw - sample id fy20 1st draw result fy20 2nd draw - sample id fy20 2nd draw result fy20 retest 1st draw - sample id fy20 retest 1st draw result fy20 retest 2nd draw - sample id fy20 retest 2nd draw result notes & sources notes mfp 2020 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy19-20 esri_mapinfo_sheet notes & sources notes mfp 2020 supplement — appendix e - dcps facility classifications dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2019 supplement — appendix a - dcps sy2018-19 enrollment data sy18-19 dcps utilization school id sy2018-19 school name sy2018-19 school address sy2018-19 facility id sy2018-19 audited enrollment sy2018-19 permanent capacity*** sy2018-19 portable capacity*** sy2018-19 total capacity (permanent + portable capacity) sy2018-19 utilization rate (permanent capacity) sy2018-19 utilization rate (permanent + portable capacity) expected future capacity sy2023-24 projected enrollment sy2023-24 projected utilization sy2028-29 projected enrollment sy2028-29 projected utilization plan to address high/low utilization notes & sources notes projection methodology introduction mfp 2019 supplement — appendix b - dc pcs sy2018-19 enrollment data sy18-19 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2018-19 audited enrollment sy2018-19 facility program capacity sy2018-19 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2019 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index 5 year facility condition index 10 year facility condition index dcps water filtration tests building location: building name record id floor device type device location current filter installation date as of november 2019 current filter expiration date of novmber 2019 fy19 1st draw - sample id fy19 1st draw result fy19 2nd draw - sample id fy19 2nd draw result fy19 retest 1st draw - sample id fy19 retest 1st draw result fy19 retest 2nd draw - sample id fy19 retest 2nd draw result notes & sources notes mfp 2019 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy18-19 esri_mapinfo_sheet notes & sources notes mfp 2019 supplement — appendix e – dcps 5- and 10-year enrollment projections dcps enrollment projections school id sy2018-19 school name school address facility id projection methodology expected future programmatic capacity sy2023-24 projected in-boundary enrollment sy2023-24 projected out of boundary enrollment sy2023-24 projected feeder enrollment (ms & hs only) sy2023-24 additional programmatic enrollment (pk expansion) sy2023-24 projected total enrollment sy2023-24 projected utilization sy2028-29 projected in-boundary enrollment sy2028-29 projected out of boundary enrollment sy2028-29 projected feeder enrollment (ms & hs only) sy2028-29 additional programmatic enrollment (pk expansion) sy2028-29 projected total enrollment sy2028-29 projected utilization notes on projections notes & sources notes projection methodology introduction mfp 2019 supplement — appendix f - dc pcs 5- and 10-year enrollment estimates sy18-19 pcs enrollment estimate lea id school id(s) campus 5 year enrollment estimates (2024-2025) 10 year enrollment estimates (2029-2030) esri_mapinfo_sheet notes & sources notes mfp 2019 supplement — appendix g - dcps sy2018-19 facility classification dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2018 — a.1 number of school facilities by ward_sector, 2013-2017 appendix a.1 appendix a.1 number of school facilities by ward & sector, 2013-2017 mfp 2018 — a.2 modernization by school, 2002-2008 appendix a.2 appendix a.2 modernization by school, 2002-2008 mfp 2018 — a.3 schools modernized after 2008 appendix a.3 appendix a.3 schools modernized after 2008 mfp 2018 — a.4 facility condition index, schools in district-owned facilities sy2017-18 appendix a.4 appendix a.4 facility condition index, schools in district-owned facilities sy2017-18 mfp 2018 — a.5 facility condition index, schools in non-district owned facilities sy2017-18 appendix a.5 appendix a.5 facility condition index, schools in non-district owned facilities sy2017-18 mfp 2018 — a.7 schools with one or more programs, sy2017-18 appendix a.7 appendix a.7 schools with one or more programs, sy2017-18 mfp 2018 — a.8 historic enrollment share by sector since sy2008-09 appendix a.8 appendix a.8 historic enrollment share by sector since sy2008-09 mfp 2018 — a.9 change in program enrollment, sy2014-15 to sy2017-18 appendix a.9 appendix a.9 change in program enrollment, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.10 programs offered with percent change, sy2014-15 to sy2017-18 appendix a.10 appendix a.10 programs offered with percent change, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.11 programs offered with absolute change, sy2014-15 to sy2017-18 appendix a.11 appendix a.11 programs offered with absolute change, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.12 programs offered by ward, sy2014-15 to sy2017-18 appendix a.12 appendix a.12 programs offered by ward, sy2014-15 to sy2017-18 mfp 2018 — a.13 utilization status sy2017-18 appendix a.13 appendix a.13 utilization status sy2017-18 mfp 2018 — a.14 fy2019-fy2024 cip investment costs by project and year ($us million) appendix a.14 appendix a.14 fy2019-fy2024 cip investment costs by project and year ($us million) mfp 2018 — a.15 pace modernization prioritization rankings appendix a.15 pace prioritization rank school id facility id facility name facility address sector cluster grade band ward date of last major construction through the preceding fiscal year expenditures for major construction projects for the preceding 10 fiscal years per square feet of the school facility school facility condition score based on the most recent assessment completed by dgs average percentage of the school's enrollment growth over the past five school years based on audited enrollment average percentage of facility's building utilization over the past five school years number of in-boundary children who would be served by the facility's educational program divided by the facility's capacity projected percent change in the number of children who would be served by the facility's educational program in the neighborhood cluster over a prospective 6 year time period total number of square feet in the school's feeder pattern that had a major construction in the preceding 10 fiscal years divided by total square footage of the feeder pattern number of at-risk students enrolled in the school based on the current school year enrollment projection mfp 2018 — a.16 dcps sy2017-18 aud enroll, sy2022-23 and sy2027-28 proj enroll by school appendix a.16 appendix a.16 dcps sy2017-18 audited enrollment, sy2022-23 and sy2027-28 projected enrollment by school by in-boundary and out-of-boundary mfp 2018 — a.17 dcps sy2017-18 aud enroll, sy2022-23 and sy2027-28 proj enroll_growthpln appendix a.17 appendix a.17 dcps sy2017-18 audited enrollment, sy2022-23 and sy2027-28 projected enrollment by school and dcps growth plan mfp 2018 — a.18 public charter school growth plans by school appendix a.18 appendix a.18 public charter school growth plans by school mfp 2018 — a.20 dcps gap analysis appendix a.20 appendix a.20 dcps gap analysis esri_mapinfo_sheet mfp 2018 — a.21 pcs gap analysis appendix a.21 appendix a.21 pcs gap analysis mfp 2018 — a.22 pcs gap analysis - lea appendix a.22 appendix a.22 pcs gap analysis - lea mfp 2018 — a.25 gross square feet by facility sy2017-18 appendix a.25 appendix a.25 gross square feet by facility sy2017-18 mfp 2016 supplement — appendix a - dcps sy 2016-17 enrollment data dcps utilization school id sy2016-17 school name sy2016-17 school address sy2016-17 audited enrollment sy2017-18 enrollment projections** sy2016-17 permanent capacity*** sy2016-17 portable capacity*** sy2016-17 total capacity (permanent + portable capacity) sy2016-17 utilization rate (permanent capacity) sy2016-17 utilization rate (permanent + portable capacity) plan to address high/low utilization esri_mapinfo_sheet mfp 2016 supplement — appendix b - pcs sy 2016-17 enrollment data sy16-17 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy16-17 facility program capacity sy16-17 audited enrollment sy16-17 utilization rate sy17-18 enrollment projections esri_mapinfo_sheet mfp 2016 supplement — appendix c - fy17 dcps asset condition ratings sheet1 school id facility name address modernization status (per proposed fy18-23 cip modernization year* gsf (building) crv*** a10 foundations a20 basement construction b10 super structure b20 exterior enclosure b30 roofing c10 interior construction c20 stairs c30 interior finishes d10 conveying systems d20 plumbing d30 hvac d40 fire protection systems d50 electrical systems e10 equipment e20 furnishings f10 special construction g20 site improvements g30 site civil mechanical utilities g40 site electrical utilities z10 general requirements esri_mapinfo_sheet sheet2 mfp 2016 supplement — appendix d - dc pcsb public charter facility survey findings 16-17 sheet1 public charter school facility needs and conditions, 2016-2017 esri_mapinfo_sheet mfp 2016 supplement — appendix e - sy 2016-17 audited enrollment by lea and by school enrollment by lea and by school appendix e: sy2016-17 dcps and public charter school audited enrollment by lea and by school esri_mapinfo_sheet mfp 2016 supplement — appendix f - dcps sy 2016-17 facility classification act classification 2017 school id school name master address d.c. act 20-319 classification notes esri_mapinfo_sheet mfp 2015 — appendix d - sy14-15 audited enrollment by lea and by school enrollment by lea and by school appendix d: sy2014-15 audited enrollment by lea and by school mfp 2015 — appendix a - dcps facility data and utilization plan(s) capacity data lea id school_id school_name total # of std. in sy14-15 reported enrollment capacity sy13-14) utilization facility notes portable dcps capacity? portable capcity included? (yes/no) dgs updating capacity? school_id dcps utilization program # school name school address sy2014-15 audited enrollment sy2015-16 permanent capacity sy2015-16 portable capacity total capacity (permanent + portable) sy2014-15 utilization (includes portable capacity) plan to address high/low utilization mfp 2015 — appendix b - public charter facility data, sy14-15 capacity data_school level lea id (sy14-15) school id(s) (sy14-15) school name(s) (sy14-15) school address(es) (sy14-15) former dcps facility name (if applicable, sy14-15) maximum occupancy (sy14-15, reported by pcsb) total square footage (sy14-15, reported by pcsb) number of students enrolled, (sy14-15 audited enrollment from osse, reported by pcsb) square footage per student (total square footage / total enrollment) lea enrollment ceiling (as of nov. 2014, reported by pcsb) percentage of lea enrollment ceiling filled (lea enrollment / lea enrollment ceiling) facility notes mfp 2015 — appendix c - dcps schools facilities- condition assessment summary (fcs) dcps building condition dat (2 (dcps acr ii) 2012 acr a10: foundations (dcps acr ii) 2012 acr a20: basement construction (dcps acr ii) 2012 acr b20: exterior enclosure (dcps acr ii) 2012 acr b30: roofing (dcps acr ii) 2012 acr c10: interior construction (dcps acr ii) 2012 acr c20: stairs (dcps acr ii) 2012 acr c30: interior finishes (dcps acr ii) 2012 acr d10: conveying systems (dcps acr ii) 2012 acr d20: plumbing (dcps acr ii) 2012 acr d30: hvac (dcps acr ii) 2012 acr d40: fire protection systems (dcps acr ii) 2012 acr d50: electrical systems (dcps acr ii) 2012 acr f10: special construction (dcps acr ii) 2012 acr f20: selective demolition (dcps acr ii) 2012 acr g10: site preparation (dcps acr ii) 2012 acr g20: site improvements (dcps acr ii) 2012 acr g30: site civil/mechanical utilities (dcps acr ii) 2012 acr g40: site electrical utilities (dcps acr ii) 2012 acr z10: general requirements mfp 2015 — appendix e - dcps facility designation list act classification 2014 program # school name school address d.c. act 20-319 classification notes 2016 mfp annual supplement school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 utilization rate (permanent + portable capacity)*** plan to address high/low utilization sy 2016-2017 sy 2016-2017 school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 plan to address high/low utilization sy 2016-2017 school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 utilization rate (permanent + portable capacity)*** plan to address high/low utilization sy 2016-2017 sy 2016-2017 final closed dcps facility landscape as of august 2019 own/lease # of facilities use of closed dcps facilities remaining in the dcps portfolio # of facilities agency # of facilities entity # of facilities status # of facilities gross square feet former dcps facility ward school name owned/ leased former dcps facility ward school name owned/ leased former dcps facility ward school name owned/ leased at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding accountability star school quality sqr pmf aspire rating"
+   "search": "dme — master facilities plans & annual supplements (archive) dme each publication on dme's publications list carries excel appendices: per-school enrollment, facility data, utilization, condition, facility classification, and (2019) 5- and 10-year enrollment projections; mfp 2018 has ~20 tables (a.1-a.25). the 2023 mfp and 2024 supplement are separate sources. found by scanning all 72 pages of dme.dc.gov/publications on 2026-11-01. only the 2025 supplement's pdfs are catalogued; older years' report pdfs are not. excel appendices + pdf reports facilities enrollment mfp 2025 supplement — 2025 mfp annual supplement report types of dcps facilities # facilities school name ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) school name ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) lea name facility address ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24-25) lea name facility address ward sy25-26 enrollment sy25-26 facility capacity utilization % (percentage point change from sy24- 25) grade progression sy18-19 sy19-20 - sy23-24 sy24-25 sy25-26 mfp 2025 supplement — 2025 mfp annual supplement appendix 1 contents and notes tab name description a. sy25-26 pcs dgs leases facility id lea id school id school name address status sector dcps facility name b. dcps sy25-26 enroll & utiliz sy24-25 sy25-26 c. pcs sy25-26 enroll & utiliz sy24-25 sy25-26 d. dcps fci facility id facility address ward (2022) dcps facility name school id school name swinging 1 year facility condition index** 5 year facility condition index** 10 year facility condition index** e. pcsb facility survey results public charter school facility needs and conditions, sy25-26 f. dcps modernization status facility id year of completion modernization type facility address dcps facility name lea id school id school name all schools g. cip fy26-31  approved fy26-31 capital improvements plan (cip) sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 h. dcps facility classification school id school name facility id facility address dcps facility name designation for sy25-26 notes mfp 2025 supplement — 2025 mfp annual supplement appendix 2 facility ward agency gross notes facility ward agency gross notes facility ward agency gross notes euclid facility ward (2022) agency gross notes ward mfp 2025 supplement — 2025 mfp annual supplement appendix 3 appendix 3. contents master facilities plan 2025 supplement enrollment projections a.methodology overview enrollment projection methodology overview b.aggregate projections sector school year type count pk to 12/alt grades n change from prior year % change from prior year c.grade band projections sector grade band sy13-14 sy14-15 sy15-16 sy16-17 sy17-18 sy18-19 sy19-20 sy20-21 sy21-22 sy22-23 sy23-24 sy24-25 sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 sy31-32 sy32-33 sy33-34 sy34-35 sy35-36 d.dcps school projections school code school name sy13-14 sy14-15 sy15-16 sy16-17 sy17-18 sy18-19 sy19-20 sy20-21 sy21-22 sy22-23 sy23-24 sy24-25 sy25-26 sy26-27 sy27-28 sy28-29 sy29-30 sy30-31 sy31-32 sy32-33 sy33-34 sy34-35 sy35-36 trend e.births year of birth pk3 entry year actual number of births forecast births mfp 2025 supplement — 2025 mfp annual supplement appendix 4 sector share of pk3 enrollment birth birth to 3-yr later pk3 dcps public charter year capture rate dcps public charter mean mean mfp 2022 supplement — appendix a - dcps sy2021-22 enrollment utilization plans mfp 2022 supp_final sy21-22 dcps utilization school id sy2021-22 school name facility id dcps feeder pattern sy21-22 utilization rate (permanent capacity) sy21-22 utilization rate (permanent + portable capacity) permanent programmatic capacity (school) sy21-22 total programmatic capacity (school) sy21-22 enrollment sy21-22 facility-level utilization (if different from school) percentage point difference from sy20-21 (total) percentage point difference from sy20-21 (permanent) sy21-22 portables sy21-22 swinging off site sy21-22 plan variable definitions variable name variable definition notes & sources notes mfp 2022 supplement — appendix b - dc pcs sy2021-22 enrollment data mfp 2022 supp_final sy21-22 pcs facility data lea id school id(s) sy2021-22 school name(s) sy2021-22 facility address former dcps building, if applicable sy2021-22 audited enrollment sy2021-22 facility program capacity sy2021-22 utilization rate percentage point change from sy2020-21 variable definitions variable name variable definition notes & sources notes mfp 2022 supplement — appendix c - dcps facility classification mfp 2022 supp_final dcps facility class sy21 22 school id school name sy21-22 address sy21-22 designation sy21-22 notes variable definitions variable name variable definition notes & sources notes mfp 2021 supplement — appendix a - dcps sy2020-21 enrollment data sy20-21 dcps utilization school id sy2020-21 school name sy2020-21 school address sy2020-21 facility id sy2020-21 audited enrollment sy2020-21 permanent capacity*** sy2020-21 portable capacity*** sy2020-21 total capacity (permanent + portable capacity) sy2020-21 utilization rate (permanent capacity) sy2020-21 utilization rate (permanent + portable capacity) plan to address high utilization (>=95%) or low utilization (<50%) capacity changes school id sy2020-21 school name sy2020-21 school address sy2020-21 facility id sy2019-20 permanent capacity sy2019-20 portable capacity sy2019-20 total capacity (permanent + portable capacity) sy2020-21 permanent capacity sy2020-21 portable capacity sy2020-21 total capacity (permanent + portable capacity) change in capacity reason for change notes & sources notes mfp 2021 supplement — appendix b - dc pcs sy2020-21 enrollment data sy20-21 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2020-21 audited enrollment sy2020-21 facility program capacity sy2020-21 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2021 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index** 5 year facility condition index** 10 year facility condition index** fy21 dcps water filtration test building location record id floor device type as of october 4th, 2021 device location current filter installation date as of october 4th, 2021 current filter expiration date as of october 4th, 2021 fy21 1st draw - sample id fy21 1st draw results fy21 2nd draw - sample id fy21 2nd draw result fy21 retest 1st draw - sample id fy21 retest 1st draw result fy21 retest 2nd draw - sample id fy21 retest 2nd draw result note notes & sources notes mfp 2021 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy20-21 esri_mapinfo_sheet notes & sources notes mfp 2021 supplement — appendix e - dcps facility classification as of december 2021 dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2020 supplement — appendix a - dcps sy2019-20 enrollment data sy19-20 dcps utilization school id sy2019-20 school name sy2019-20 school address sy2019-20 facility id sy2019-20 audited enrollment sy2019-20 permanent capacity**** sy2019-20 portable capacity**** sy2019-20 total capacity (permanent + portable capacity) sy2019-20 utilization rate (permanent capacity) sy2019-20 utilization rate (permanent + portable capacity) plan to address high/low utilization notes & sources notes mfp 2020 supplement — appendix b - dc pcs sy2019-20 enrollment data sy19-20 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2019-20 audited enrollment sy2019-20 facility program capacity sy2019-20 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2020 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index** 5 year facility condition index** 10 year facility condition index** fy20 dcps water filtration test building location: building name record id floor device type device location current filter installation date as of novmber 2020 current filter expiration date as of novmber 2020 fy20 1st draw - sample id fy20 1st draw result fy20 2nd draw - sample id fy20 2nd draw result fy20 retest 1st draw - sample id fy20 retest 1st draw result fy20 retest 2nd draw - sample id fy20 retest 2nd draw result notes & sources notes mfp 2020 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy19-20 esri_mapinfo_sheet notes & sources notes mfp 2020 supplement — appendix e - dcps facility classifications dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2019 supplement — appendix a - dcps sy2018-19 enrollment data sy18-19 dcps utilization school id sy2018-19 school name sy2018-19 school address sy2018-19 facility id sy2018-19 audited enrollment sy2018-19 permanent capacity*** sy2018-19 portable capacity*** sy2018-19 total capacity (permanent + portable capacity) sy2018-19 utilization rate (permanent capacity) sy2018-19 utilization rate (permanent + portable capacity) expected future capacity sy2023-24 projected enrollment sy2023-24 projected utilization sy2028-29 projected enrollment sy2028-29 projected utilization plan to address high/low utilization notes & sources notes projection methodology introduction mfp 2019 supplement — appendix b - dc pcs sy2018-19 enrollment data sy18-19 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy2018-19 audited enrollment sy2018-19 facility program capacity sy2018-19 utilization rate notes & sources notes esri_mapinfo_sheet mfp 2019 supplement — appendix c - dcps facility data dcps fca fci data school id(s) school name(s) address facility id ward year of fca current facility condition index 5 year facility condition index 10 year facility condition index dcps water filtration tests building location: building name record id floor device type device location current filter installation date as of november 2019 current filter expiration date of novmber 2019 fy19 1st draw - sample id fy19 1st draw result fy19 2nd draw - sample id fy19 2nd draw result fy19 retest 1st draw - sample id fy19 retest 1st draw result fy19 retest 2nd draw - sample id fy19 retest 2nd draw result notes & sources notes mfp 2019 supplement — appendix d - dc pcs facility data pcsb facility survey results public charter school facility needs and conditions, sy18-19 esri_mapinfo_sheet notes & sources notes mfp 2019 supplement — appendix e – dcps 5- and 10-year enrollment projections dcps enrollment projections school id sy2018-19 school name school address facility id projection methodology expected future programmatic capacity sy2023-24 projected in-boundary enrollment sy2023-24 projected out of boundary enrollment sy2023-24 projected feeder enrollment (ms & hs only) sy2023-24 additional programmatic enrollment (pk expansion) sy2023-24 projected total enrollment sy2023-24 projected utilization sy2028-29 projected in-boundary enrollment sy2028-29 projected out of boundary enrollment sy2028-29 projected feeder enrollment (ms & hs only) sy2028-29 additional programmatic enrollment (pk expansion) sy2028-29 projected total enrollment sy2028-29 projected utilization notes on projections notes & sources notes projection methodology introduction mfp 2019 supplement — appendix f - dc pcs 5- and 10-year enrollment estimates sy18-19 pcs enrollment estimate lea id school id(s) campus 5 year enrollment estimates (2024-2025) 10 year enrollment estimates (2029-2030) esri_mapinfo_sheet notes & sources notes mfp 2019 supplement — appendix g - dcps sy2018-19 facility classification dcps facility classification school id school name address designation note notes & sources notes esri_mapinfo_sheet mfp 2018 — a.1 number of school facilities by ward_sector, 2013-2017 appendix a.1 appendix a.1 number of school facilities by ward & sector, 2013-2017 mfp 2018 — a.2 modernization by school, 2002-2008 appendix a.2 appendix a.2 modernization by school, 2002-2008 mfp 2018 — a.3 schools modernized after 2008 appendix a.3 appendix a.3 schools modernized after 2008 mfp 2018 — a.4 facility condition index, schools in district-owned facilities sy2017-18 appendix a.4 appendix a.4 facility condition index, schools in district-owned facilities sy2017-18 mfp 2018 — a.5 facility condition index, schools in non-district owned facilities sy2017-18 appendix a.5 appendix a.5 facility condition index, schools in non-district owned facilities sy2017-18 mfp 2018 — a.7 schools with one or more programs, sy2017-18 appendix a.7 appendix a.7 schools with one or more programs, sy2017-18 mfp 2018 — a.8 historic enrollment share by sector since sy2008-09 appendix a.8 appendix a.8 historic enrollment share by sector since sy2008-09 mfp 2018 — a.9 change in program enrollment, sy2014-15 to sy2017-18 appendix a.9 appendix a.9 change in program enrollment, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.10 programs offered with percent change, sy2014-15 to sy2017-18 appendix a.10 appendix a.10 programs offered with percent change, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.11 programs offered with absolute change, sy2014-15 to sy2017-18 appendix a.11 appendix a.11 programs offered with absolute change, sy2014-15 to sy2017-18 esri_mapinfo_sheet mfp 2018 — a.12 programs offered by ward, sy2014-15 to sy2017-18 appendix a.12 appendix a.12 programs offered by ward, sy2014-15 to sy2017-18 mfp 2018 — a.13 utilization status sy2017-18 appendix a.13 appendix a.13 utilization status sy2017-18 mfp 2018 — a.14 fy2019-fy2024 cip investment costs by project and year ($us million) appendix a.14 appendix a.14 fy2019-fy2024 cip investment costs by project and year ($us million) mfp 2018 — a.15 pace modernization prioritization rankings appendix a.15 pace prioritization rank school id facility id facility name facility address sector cluster grade band ward date of last major construction through the preceding fiscal year expenditures for major construction projects for the preceding 10 fiscal years per square feet of the school facility school facility condition score based on the most recent assessment completed by dgs average percentage of the school's enrollment growth over the past five school years based on audited enrollment average percentage of facility's building utilization over the past five school years number of in-boundary children who would be served by the facility's educational program divided by the facility's capacity projected percent change in the number of children who would be served by the facility's educational program in the neighborhood cluster over a prospective 6 year time period total number of square feet in the school's feeder pattern that had a major construction in the preceding 10 fiscal years divided by total square footage of the feeder pattern number of at-risk students enrolled in the school based on the current school year enrollment projection mfp 2018 — a.16 dcps sy2017-18 aud enroll, sy2022-23 and sy2027-28 proj enroll by school appendix a.16 appendix a.16 dcps sy2017-18 audited enrollment, sy2022-23 and sy2027-28 projected enrollment by school by in-boundary and out-of-boundary mfp 2018 — a.17 dcps sy2017-18 aud enroll, sy2022-23 and sy2027-28 proj enroll_growthpln appendix a.17 appendix a.17 dcps sy2017-18 audited enrollment, sy2022-23 and sy2027-28 projected enrollment by school and dcps growth plan mfp 2018 — a.18 public charter school growth plans by school appendix a.18 appendix a.18 public charter school growth plans by school mfp 2018 — a.20 dcps gap analysis appendix a.20 appendix a.20 dcps gap analysis esri_mapinfo_sheet mfp 2018 — a.21 pcs gap analysis appendix a.21 appendix a.21 pcs gap analysis mfp 2018 — a.22 pcs gap analysis - lea appendix a.22 appendix a.22 pcs gap analysis - lea mfp 2018 — a.25 gross square feet by facility sy2017-18 appendix a.25 appendix a.25 gross square feet by facility sy2017-18 mfp 2016 supplement — appendix a - dcps sy 2016-17 enrollment data dcps utilization school id sy2016-17 school name sy2016-17 school address sy2016-17 audited enrollment sy2017-18 enrollment projections** sy2016-17 permanent capacity*** sy2016-17 portable capacity*** sy2016-17 total capacity (permanent + portable capacity) sy2016-17 utilization rate (permanent capacity) sy2016-17 utilization rate (permanent + portable capacity) plan to address high/low utilization esri_mapinfo_sheet mfp 2016 supplement — appendix b - pcs sy 2016-17 enrollment data sy16-17 pcs facility data lea id school id(s) campus facility address former dcps building, if applicable sy16-17 facility program capacity sy16-17 audited enrollment sy16-17 utilization rate sy17-18 enrollment projections esri_mapinfo_sheet mfp 2016 supplement — appendix c - fy17 dcps asset condition ratings sheet1 school id facility name address modernization status (per proposed fy18-23 cip modernization year* gsf (building) crv*** a10 foundations a20 basement construction b10 super structure b20 exterior enclosure b30 roofing c10 interior construction c20 stairs c30 interior finishes d10 conveying systems d20 plumbing d30 hvac d40 fire protection systems d50 electrical systems e10 equipment e20 furnishings f10 special construction g20 site improvements g30 site civil mechanical utilities g40 site electrical utilities z10 general requirements esri_mapinfo_sheet sheet2 mfp 2016 supplement — appendix d - dc pcsb public charter facility survey findings 16-17 sheet1 public charter school facility needs and conditions, 2016-2017 esri_mapinfo_sheet mfp 2016 supplement — appendix e - sy 2016-17 audited enrollment by lea and by school enrollment by lea and by school appendix e: sy2016-17 dcps and public charter school audited enrollment by lea and by school esri_mapinfo_sheet mfp 2016 supplement — appendix f - dcps sy 2016-17 facility classification act classification 2017 school id school name master address d.c. act 20-319 classification notes esri_mapinfo_sheet mfp 2015 — appendix d - sy14-15 audited enrollment by lea and by school enrollment by lea and by school appendix d: sy2014-15 audited enrollment by lea and by school mfp 2015 — appendix a - dcps facility data and utilization plan(s) capacity data lea id school_id school_name total # of std. in sy14-15 reported enrollment capacity sy13-14) utilization facility notes portable dcps capacity? portable capcity included? (yes/no) dgs updating capacity? school_id dcps utilization program # school name school address sy2014-15 audited enrollment sy2015-16 permanent capacity sy2015-16 portable capacity total capacity (permanent + portable) sy2014-15 utilization (includes portable capacity) plan to address high/low utilization mfp 2015 — appendix b - public charter facility data, sy14-15 capacity data_school level lea id (sy14-15) school id(s) (sy14-15) school name(s) (sy14-15) school address(es) (sy14-15) former dcps facility name (if applicable, sy14-15) maximum occupancy (sy14-15, reported by pcsb) total square footage (sy14-15, reported by pcsb) number of students enrolled, (sy14-15 audited enrollment from osse, reported by pcsb) square footage per student (total square footage / total enrollment) lea enrollment ceiling (as of nov. 2014, reported by pcsb) percentage of lea enrollment ceiling filled (lea enrollment / lea enrollment ceiling) facility notes mfp 2015 — appendix c - dcps schools facilities- condition assessment summary (fcs) dcps building condition dat (2 (dcps acr ii) 2012 acr a10: foundations (dcps acr ii) 2012 acr a20: basement construction (dcps acr ii) 2012 acr b20: exterior enclosure (dcps acr ii) 2012 acr b30: roofing (dcps acr ii) 2012 acr c10: interior construction (dcps acr ii) 2012 acr c20: stairs (dcps acr ii) 2012 acr c30: interior finishes (dcps acr ii) 2012 acr d10: conveying systems (dcps acr ii) 2012 acr d20: plumbing (dcps acr ii) 2012 acr d30: hvac (dcps acr ii) 2012 acr d40: fire protection systems (dcps acr ii) 2012 acr d50: electrical systems (dcps acr ii) 2012 acr f10: special construction (dcps acr ii) 2012 acr f20: selective demolition (dcps acr ii) 2012 acr g10: site preparation (dcps acr ii) 2012 acr g20: site improvements (dcps acr ii) 2012 acr g30: site civil/mechanical utilities (dcps acr ii) 2012 acr g40: site electrical utilities (dcps acr ii) 2012 acr z10: general requirements mfp 2015 — appendix e - dcps facility designation list act classification 2014 program # school name school address d.c. act 20-319 classification notes 2016 mfp annual supplement school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 utilization rate (permanent + portable capacity)*** plan to address high/low utilization sy 2016-2017 sy 2016-2017 school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 plan to address high/low utilization sy 2016-2017 school name sy 2016-2017 utilization rate (permanent capacity)*** sy 2016-2017 utilization rate (permanent + portable capacity)*** plan to address high/low utilization sy 2016-2017 sy 2016-2017 final closed dcps facility landscape as of august 2019 own/lease # of facilities use of closed dcps facilities remaining in the dcps portfolio # of facilities agency # of facilities entity # of facilities status # of facilities gross square feet former dcps facility ward school name owned/ leased former dcps facility ward school name owned/ leased former dcps facility ward school name owned/ leased master facilities plan 2023 appendix - dcps school-level enrollment projections notes notes school-level projections school id school name facility id sy2020-21 audited enrollment sy2021-22 audited enrollment sy2022-23 audited enrollment sy2023-24 reported enrollment sy2027-28 projected enrollment master facilities plan 2023 appendix - dcps school modernizations notes notes modernization data school id facility id school year modernization type (planned and actual) master facilities plan 2023 appendix - future housing pipeline yields notes notes housing pipeline data school id elementary school boundary estimated public elementary school enrollment yield from turnover in senior housing (5 years) anticipated units from housing developments (2024-2028) estimated public elementary school students yield from housing development (2024-2028) master facilities plan 2023 appendix - capital improvements plan schedule fy24-fy29 notes note cip fy24-fy29 project fy24 fy25 fy26 fy27 fy28 fy29 at-risk economically disadvantaged poverty low-income low income free lunch frpl farms disadvantaged title i assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas finance per-pupil per pupil expenditure spending budget cost funding accountability star school quality sqr pmf aspire rating"
   },
   {
    "id": "dme-school-facilities-data",

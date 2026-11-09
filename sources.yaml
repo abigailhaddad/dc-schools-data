@@ -613,7 +613,7 @@ sources:
     format: "Web page (links to Egnyte / OSSE)"
     cadence: "Annual"
     years: "Current"
-    notes: "Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript."
+    notes: "Citywide charter landing page with sections for school annual reports, student enrollment, attendance and discipline, statewide assessment results, graduation rates and lead testing. PCSB moved dcpcsb.org to WordPress in Oct 2026; checked 2026-11-01. The old /about-us/public-charter-school-data URL now redirects to the school finder; /data/ is the replacement. The headline counters (students, schools, LEAs) render as 0 without JavaScript. SY2024-25 lead testing results are per-LEA subfolders on Egnyte (https://dcpcsb.egnyte.com/fl/qhKF8Kwk9XQR); like the per-school budget/990/audit folders they are linked here, not catalogued."
 
   - id: pcsb-student-enrollment
     name: "Charter Student Enrollment"

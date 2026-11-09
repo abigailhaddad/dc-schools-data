@@ -19855,6 +19855,2056 @@ data_files:
     page: "https://osse.dc.gov/publication/naep-2022-tuda-results-eighth-grade-reading"
     topics: [assessment]
 
+  - id: dme-mfp-archive-master-facilities-plan-2023-appendix-dcps-school-level-enrollment-projections
+    source_id: dme-mfp-archive
+    name: "Master Facilities Plan 2023 Appendix - DCPS school-level enrollment projections"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=nop46s1bg1xq5l8fwpw67wjb7cp69pvu&file_id=f_1489518032456"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-09"
+    page: "https://dme.dc.gov/mfp2023"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-master-facilities-plan-2023-appendix-dcps-school-modernizations
+    source_id: dme-mfp-archive
+    name: "Master Facilities Plan 2023 Appendix - DCPS school modernizations"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jux5cht0q64c24lcyr93ngo8am0ffuvr&file_id=f_1489512998023"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-09"
+    page: "https://dme.dc.gov/mfp2023"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-master-facilities-plan-2023-appendix-future-housing-pipeline-yields
+    source_id: dme-mfp-archive
+    name: "Master Facilities Plan 2023 Appendix - Future housing pipeline yields"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=mb5fzhisebrzq1unrxiv7azg0jj6onuj&file_id=f_1489532271959"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-09"
+    page: "https://dme.dc.gov/mfp2023"
+    topics: [facilities]
+
+  - id: dme-mfp-archive-master-facilities-plan-2023-appendix-capital-improvements-plan-schedule-fy24-fy29
+    source_id: dme-mfp-archive
+    name: "Master Facilities Plan 2023 Appendix - Capital Improvements Plan schedule FY24-FY29"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=o6jyewgstyzg0z660ra5dlf29tiif6l5&file_id=f_1489531846838"
+    kind: xlsx
+    year: "2023"
+    added: "2026-11-09"
+    page: "https://dme.dc.gov/mfp2023"
+    topics: [facilities]
+
+  - id: osse-local-assessment-2020-21-f_884204292618
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Heights Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204292618"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205134646
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — BASIS DC PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205134646"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204684497
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Creative Minds International PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204684497"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204600946
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Richard Wright PCS for Journalism and Media Arts"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204600946"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204446747
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Shining Stars Montessori Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204446747"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197332409
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Scholars PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197332409"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196890573
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Mundo Verde Bilingual PCS - J.F. Cook"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196890573"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205144826
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Capital City PCS - High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205144826"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199707168
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199707168"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198841439
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198841439"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198467017
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Infinity Community Prep"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198467017"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198442932
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198442932"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197513001
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Inspired Teaching Demonstration PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197513001"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205094985
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Girls Global Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205094985"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198772950
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198772950"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198662377
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Capitol Riverfront"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198662377"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198452191
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Capital Village PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198452191"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197654386
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — The Sojourner Truth School PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197654386"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197264290
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Social Justice PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197264290"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204901366
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Promise Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204901366"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204856176
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204856176"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204809845
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - College Preparatory PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204809845"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204635297
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Upper School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204635297"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197741616
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Washington Yu Ying PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197741616"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197131210
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Trinidad"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197131210"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205178018
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Legacy College Preparatory PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205178018"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204256801
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Capitol Hill"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204256801"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197734130
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Petworth"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197734130"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197485386
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Congress Heights"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197485386"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196965148
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Shaw"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196965148"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198343110
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Center City PCS - Brightwood"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198343110"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204496268
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Digital Pioneers Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204496268"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199006089
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ida B. Wells Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199006089"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198139078
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Honor Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198139078"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197862160
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — St. Coletta Special Education PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197862160"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197761016
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Statesmen College Preparatory  Academy for Boys PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197761016"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197896893
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Bard High School Early College DC (Bard DC)"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197896893"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205156541
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Legacy Prep"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205156541"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204802699
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Luke C. Moore High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204802699"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204703745
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Inspiring Youth Program"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204703745"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203782778
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Duke Ellington School of the Arts"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203782778"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198760073
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Phelps Architecture, Construction and Engineering High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198760073"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197842740
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Youth Services Center"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197842740"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204163624
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — H.D. Woodson High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204163624"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199113205
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Woodrow Wilson High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199113205"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198742898
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Dunbar High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198742898"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198522757
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Roosevelt High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198522757"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205135917
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ballou STAY High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205135917"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197380729
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — School Without Walls High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197380729"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205052908
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ballou High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205052908"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204796373
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — McKinley Technology High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204796373"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199012840
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Eastern High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199012840"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198980471
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Cardozo Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198980471"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197870863
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Coolidge High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197870863"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197020059
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Roosevelt STAY High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197020059"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205128868
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Jefferson Middle School Academy"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205128868"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204193018
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — McKinley Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204193018"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198409279
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ron Brown College Preparatory High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198409279"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197778211
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Columbia Heights Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197778211"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197771250
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Anacostia High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197771250"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197029341
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Stuart-Hobson Middle School (Capitol Hill Cluster)"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197029341"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204953503
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Hart Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204953503"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204660080
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Sousa Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204660080"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198701273
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — MacFarland Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198701273"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204184801
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Kramer Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204184801"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199484150
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Johnson Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199484150"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197591916
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Kelly Miller Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197591916"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204296562
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Browne Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204296562"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197994652
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — School Without Walls @ Francis-Stevens"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197994652"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197828863
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Deal Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197828863"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198473557
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Eliot-Hine Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198473557"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197286083
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Benjamin Banneker High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197286083"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197087520
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Langley Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197087520"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204322743
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Capitol Hill Montessori School @ Logan"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204322743"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198122104
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Dorothy I. Height Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198122104"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196992803
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Brookland Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196992803"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204266932
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Whittier Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204266932"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199350746
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — King Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199350746"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198899351
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — J.O. Wilson Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198899351"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204865022
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Wheatley Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204865022"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204347891
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — West Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204347891"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204088442
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Watkins Elementary School (Capitol Hill Cluster)"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204088442"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204328289
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Van Ness Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204328289"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199171967
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Truesdell Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199171967"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198708128
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Turner Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198708128"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197671310
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Walker-Jones Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197671310"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884205015524
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Tyler Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884205015524"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198977125
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Tubman Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198977125"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197526779
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Randle Highlands Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197526779"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204474735
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Thomas Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204474735"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204344152
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Smothers Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204344152"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203992827
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Stanton Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203992827"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203599221
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Stoddert Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203599221"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198617674
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Thomson Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198617674"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196721650
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Takoma Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196721650"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204594545
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Excel Academy"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204594545"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204223253
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Shepherd Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204223253"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199503168
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Malcolm X Elementary School @ Green"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199503168"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198124773
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Seaton Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198124773"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197367014
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Simon Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197367014"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204257782
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — River Terrace Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204257782"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204222493
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Savoy Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204222493"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197316186
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ross Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197316186"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204941952
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Raymond Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204941952"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204907268
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Powell Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204907268"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198315679
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Plummer Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198315679"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198043299
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Goodwill Excel Center PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198043299"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204811491
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Payne Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204811491"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204488959
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Bruce-Monroe Elementary School @ Park View"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204488959"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198407078
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Oyster-Adams Bilingual School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198407078"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197496643
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Patterson Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197496643"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197480386
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Lawrence E. Boone Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197480386"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197067490
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Noyes Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197067490"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198965292
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Nalle Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198965292"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198263442
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Breakthrough Montessori PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198263442"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204690213
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Rocketship PCS - Rise Academy"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204690213"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199089222
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Moten Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199089222"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196331008
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Marie Reed Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196331008"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204794397
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Washington Leadership Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204794397"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197154007
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Murch Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197154007"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204639173
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Anacostia Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204639173"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204618562
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Key Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204618562"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199259546
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Mann Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199259546"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198330724
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Miner Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198330724"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203959527
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Maury Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203959527"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884199252346
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ludlow-Taylor Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884199252346"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204726603
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - Young Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204726603"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204387868
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Lafayette Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204387868"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197884730
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Leckie Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197884730"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197443974
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Washington Global PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197443974"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196929959
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Kingsman Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196929959"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203686123
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — LaSalle-Backus Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203686123"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197947233
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Langdon Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197947233"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204611845
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Kimball Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204611845"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198923605
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — The Children's Guild DC PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198923605"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198636219
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Janney Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198636219"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198323561
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ketcham Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198323561"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197212729
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Monument Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197212729"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197535528
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Hearst Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535528"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204327346
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Hyde-Addison Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204327346"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198441867
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Hardy Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198441867"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204366579
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Hendley Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204366579"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198020770
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — District of Columbia International School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198020770"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197666340
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Houston Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197666340"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196675472
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — C.W. Harris Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196675472"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198310357
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Garrison Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198310357"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204253456
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Garfield Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204253456"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204194291
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Harmony DC PCS - School of Excellence"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204194291"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203890827
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Quest Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203890827"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197379323
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Northeast Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197379323"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197206010
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Valor Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197206010"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198302955
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Eaton Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198302955"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196991500
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Drew Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196991500"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198046773
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Lee Montessori PCS - Brookland"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198046773"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197982165
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — H.D. Cooke Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197982165"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197539027
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Cleveland Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197539027"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197312358
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Paul PCS - International High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197312358"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204778303
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Burroughs Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204778303"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197709241
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Burrville Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197709241"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203951646
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Benning Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203951646"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197872384
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Bunker Hill Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197872384"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197326714
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Achievement Preparatory Academy PCS - Wahler Place Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197326714"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196637517
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Spring Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196637517"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204345433
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Brent Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204345433"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198589540
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Beers Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198589540"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198156737
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Brightwood Education Campus"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198156737"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196905363
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Barnard Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196905363"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204164575
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Amidon-Bowen Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204164575"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203653320
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Bancroft Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203653320"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197909956
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Ingenuity Prep PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197909956"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197535416
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Aiton Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197535416"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204146530
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Bilingual PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204146530"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198834325
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Two Rivers PCS - 4th Street"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198834325"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198466947
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198466947"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203997853
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Eagle Academy PCS - Congress Heights"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203997853"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203970738
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Sela PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203970738"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198359708
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Latin American Montessori Bilingual PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198359708"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203056805
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Cedar Tree Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203056805"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884202562496
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - Lead Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202562496"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198645429
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - KEY Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198645429"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198432874
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Thurgood Marshall Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198432874"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198417546
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Roots PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198417546"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204806989
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Paul PCS - Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204806989"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884201555776
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Capital City PCS - Lower School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884201555776"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204813746
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Capital City PCS - Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204813746"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198189638
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — School-Within-School @ Goding"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198189638"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197773261
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Meridian PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197773261"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196379779
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — The SEED PCS of Washington DC"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196379779"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196593117
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — IDEA PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196593117"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203587019
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Early Childhood Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203587019"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884202556496
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Bridges PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202556496"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198641589
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Elsie Whitlow Stokes Community Freedom PCS - Brookland"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198641589"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198230618
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Perry Street Preparatory PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198230618"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884197172480
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — E.L. Haynes PCS - Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884197172480"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884196526050
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — DC Prep PCS - Edgewood Elementary School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884196526050"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884204533775
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - AIM Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884204533775"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884203553621
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Howard University Middle School of Mathematics and Science PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884203553621"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884202966547
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — KIPP DC - WILL Academy PCS"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884202966547"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198827619
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Washington Latin PCS - Middle School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198827619"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198508160
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Cesar Chavez Public Charter Schools for Public Policy"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198508160"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
+  - id: osse-local-assessment-2020-21-f_884198171349
+    source_id: osse-data-reports
+    name: "School-Level Local Assessment Data 2020-21 — Maya Angelou PCS - High School"
+    url: "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=b96uvjbl6jvg5nrg1wb7scw0dabayn9x&file_id=f_884198171349"
+    kind: pdf
+    year: "2020-21"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/osse-data-and-reports"
+    topics: [assessment]
+
   - id: edscape-births-to-k-ratio-2025
     source_id: edscape
     name: "Population and Students \u2014 EdScape Chapter 1 Births to K Ratio 2025"

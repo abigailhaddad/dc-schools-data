@@ -116,7 +116,10 @@ def check(f: dict) -> dict:
         r["flags"].append(f"bytes are not a {f['kind']}")
     link = anchor_text(f["page"], f["url"]) if f.get("page") else None
     r["link"] = link
-    if f.get("page") and link is None:
+    # Box/Egnyte entries are stored as RESOLVED download URLs (the page links the share URL), so
+    # "is this exact URL on the page" cannot be tested for them; the download itself is the check.
+    opaque = any(h in f["url"] for h in ("box.com", "egnyte.com"))
+    if f.get("page") and link is None and not opaque:
         r["flags"].append("URL not linked on its source page now")
     txt = content_text(f["kind"], b)
     hay = " ".join([txt, link or "", urllib.parse.unquote(f["url"]), f.get("page", "")])
