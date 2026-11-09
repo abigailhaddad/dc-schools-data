@@ -12045,6 +12045,966 @@ data_files:
     page: "https://osse.dc.gov/page/2016-17-school-year-equity-reports"
     topics: [accountability]
 
+  - id: osse-yrbs-2017-dc-middle-school-summary-tables
+    source_id: osse-yrbs
+    name: "2017 DC Middle School Summary Tables"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Summary%20Tables.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/page/2017-dc-yrbs-data-files"
+    topics: [school-climate]
+
+  - id: osse-graduation-adjustedcohortgraduationratesschoolbyschool20112012
+    source_id: osse-graduation
+    name: "AdjustedCohortGraduationRatesSchoolbySchool20112012"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AdjustedCohortGraduationRatesSchoolbySchool20112012.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/2011-2012-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: osse-finance-ppe-allocation-memo-to-lea
+    source_id: osse-finance-ppe
+    name: "Allocation Memo to LEA"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Allocation%20Memo%20to%20LEA.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy16-academic-quality-and-early-childhood-allocations-memo"
+    topics: [finance]
+
+  - id: osse-enrollment-audit-annual-enrollment-overview-2011-to-2012
+    source_id: osse-enrollment-audit
+    name: "Annual Enrollment Overview 2011 to 2012"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Annual%20Enrollment%20Overview%202011%20to%202012.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/2011-2012-enrollment-audit-overview"
+    topics: [enrollment]
+
+  - id: osse-special-ed-annual-performance-report-2005-2006
+    source_id: osse-special-ed
+    name: "Annual Performance Report 2005-2006"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Annual%20Performance%20Report%202005-2006.pdf"
+    kind: pdf
+    year: "2005-06"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/annual-performance-report-2005-2006"
+    topics: [special-education]
+
+  - id: osse-finance-ppe-attachment-a-preliminary-soar-academic-quality-allocations
+    source_id: osse-finance-ppe
+    name: "Attachment A Preliminary SOAR Academic Quality Allocations"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Attachment%20A%20Preliminary%20SOAR%20Academic%20Quality%20Allocations.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/summary-soar-act-application-changes-based-stakeholder-feedback"
+    topics: [finance]
+
+  - id: osse-finance-ppe-cares-act-esser-allocation-2-3-21
+    source_id: osse-finance-ppe
+    name: "CARES Act ESSER Allocation 2.3.21"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CARES%20Act%20ESSER%20Allocation_2.3.21.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/lea-cares-esser-final-allocations"
+    topics: [finance]
+
+  - id: osse-special-ed-crt-6664-web-update-report-to-the-public-ffy-2019-fcl-review-jb
+    source_id: osse-special-ed
+    name: "CRT 6664 WEB UPDATE Report to the Public FFY 2019 FCL REVIEW jb"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CRT%206664%20WEB%20UPDATE%20Report%20to%20the%20Public%20FFY%202019_FCL%20REVIEW%20jb.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-ffy2019"
+    topics: [special-education]
+
+  - id: osse-early-learning-child-care-rate-and-utilization-report
+    source_id: osse-early-learning
+    name: "Child Care Rate and Utilization Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Child%20Care%20Rate%20and%20Utilization%20Report.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/june-2015-child-care-report-cost-living-and-monthly-utilization"
+    topics: [early-childhood]
+
+  - id: osse-special-ed-child-count-comparative-data-summary-2009-2012-v-5-2013
+    source_id: osse-special-ed
+    name: "Child Count - Comparative Data Summary 2009 - 2012.v.5.2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Child%20Count%20-%20Comparative%20Data%20Summary%202009%20-%202012.v.5.2013.pdf"
+    kind: pdf
+    year: "2009"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/service/special-education-data-management-analysis-and-reporting"
+    topics: [special-education]
+
+  - id: osse-graduation-cohort-grad-rates410
+    source_id: osse-graduation
+    name: "Cohort Grad Rates410"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cohort%20Grad%20Rates410_0.pdf"
+    kind: pdf
+    year: "2010-11"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/2010-2011-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: osse-cep-community-eligibility-provision-cep-eligibility-data-memo-feb-2020
+    source_id: osse-cep
+    name: "Community Eligibility Provision (CEP) Eligibility Data Memo Feb. 2020"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Eligibility%20Provision%20%28CEP%29%20Eligibility%20Data%20Memo%20Feb.%202020.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/community-eligibility-provision-cep-resources"
+    topics: [finance]
+
+  - id: osse-assessment-archive-dc-cas-results
+    source_id: osse-assessment-archive
+    name: "DC CAS Results"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20CAS%20Results.pdf"
+    kind: pdf
+    year: "2012-13"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-cas-results-sy-2012-2013"
+    topics: [assessment]
+
+  - id: osse-early-learning-dc-child-care-subsidy-program-data-fy26-q3
+    source_id: osse-early-learning
+    name: "DC Child Care Subsidy Program Data FY26 Q3"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20Child%20Care%20Subsidy%20Program%20Data%20FY26%20Q3.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-child-care-subsidy-program-program-data"
+    topics: [early-childhood]
+
+  - id: osse-special-ed-dc-fy-2006-public-reporting-table-part-b-indicators
+    source_id: osse-special-ed
+    name: "DC FY 2006 Public Reporting Table Part B Indicators"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20FY%202006%20Public%20Reporting%20Table%20Part%20B%20Indicators.pdf"
+    kind: pdf
+    year: "2006"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-fy-2006-public-reporting-table-part-b-indicators"
+    topics: [special-education]
+
+  - id: osse-early-learning-dc-childcare-subsidy-data-fy26-q2-updates
+    source_id: osse-early-learning
+    name: "DC Childcare Subsidy Data FY26 Q2 Updates"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC_Childcare_Subsidy_Data_FY26%20Q2%20Updates.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-child-care-subsidy-program-program-data"
+    topics: [early-childhood]
+
+  - id: osse-educator-workforce-dc-educator-workforce-report-10-2019-0
+    source_id: osse-educator-workforce
+    name: "DC Educator Workforce Report 10.2019 0"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC_Educator_Workforce_Report_10.2019_0_0.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-teacher-workforce-report-2019"
+    topics: [educators]
+
+  - id: osse-finance-ppe-esser-ii-equivalent-allocation-table-4-1-21
+    source_id: osse-finance-ppe
+    name: "ESSER II & Equivalent Allocation Table 4-1-21"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20II%20%26%20Equivalent%20Allocation%20Table_4-1-21.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/lea-crrsa-esser-ii-preliminary-allocations"
+    topics: [finance]
+
+  - id: osse-finance-ppe-esser-iii-arp-finalallocations
+    source_id: osse-finance-ppe
+    name: "ESSER III ARP FinalAllocations"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20III_ARP%20FinalAllocations.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/lea-esser-iii-arp-final-allocation"
+    topics: [finance]
+
+  - id: osse-finance-ppe-esser-ii-crrsa-finalallocations-website-upload
+    source_id: osse-finance-ppe
+    name: "ESSER II  CRRSA FinalAllocations Website Upload"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20II_%20CRRSA%20FinalAllocations_Website%20Upload.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/lea-esser-ii-crrsa-final-allocation"
+    topics: [finance]
+
+  - id: osse-early-learning-education-requirement-report-july-2026
+    source_id: osse-early-learning
+    name: "Education Requirement Report July 2026"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Education%20Requirement%20Report%20July%202026.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/education-requirements-trends-dc-early-childhood-workforce"
+    topics: [early-childhood]
+
+  - id: osse-enrollment-audit-enrollment-audit-data-school-by-school-2011-2012
+    source_id: osse-enrollment-audit
+    name: "Enrollment Audit Data School by School 2011-2012"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Enrollment%20Audit%20Data%20School%20by%20School%202011-2012.pdf"
+    kind: pdf
+    year: "2011-20"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/enrollment-audit-data-school-school-2011-2012"
+    topics: [enrollment]
+
+  - id: osse-special-ed-ffy-2007-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2007 Annual Performance Report – Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202007%20Annual%20Performance%20Report%20%E2%80%93%20Part%20B.pdf"
+    kind: pdf
+    year: "2007"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2007-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2008-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2008 Annual Performance Report – Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202008%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C.pdf"
+    kind: pdf
+    year: "2008"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2008-annual-performance-report-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2008-annual-performance-report-part
+    source_id: osse-special-ed
+    name: "FFY 2008 Annual Performance Report – Part"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202008%20Annual%20Performance%20Report%20%E2%80%93%20Part.pdf"
+    kind: pdf
+    year: "2008"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2008-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2009-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2009 Annual Performance Report – Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202009%20Annual%20Performance%20Report%20%E2%80%93%20Part%20B.pdf"
+    kind: pdf
+    year: "2009"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2009-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2009-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2009 Annual Performance Report – Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202009%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C.pdf"
+    kind: pdf
+    year: "2009"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2009-annual-performance-report-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2011-annual-performace-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2011 Annual Performace Report - Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202011%20Annual%20Performace%20Report%20-%20Part%20C%5B1%5D.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2011-annual-performance-report-%E2%80%93-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2011-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2011 Annual Performance Report Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202011%20Annual%20Performance%20Report%20Part%20B.pdf"
+    kind: pdf
+    year: "2011"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2011-annual-performance-report-idea-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2012-annual-performance-report
+    source_id: osse-special-ed
+    name: "FFY 2012 Annual Performance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202012%20Annual%20Performance%20Report.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2012-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2012-public-reporting-revised-on-12-9-2014
+    source_id: osse-special-ed
+    name: "FFY 2012 Public Reporting Revised on 12 9 2014"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202012%20Public%20Reporting_Revised%20on%2012%209%202014.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-idea-part-b-lea-report-ffy-2012"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2013-apr-public-reporting-revised-2-1-2016
+    source_id: osse-special-ed
+    name: "FFY 2013 APR Public Reporting revised 2 1 2016"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20APR%20Public%20Reporting_revised%202%201%202016.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-idea-part-b-lea-report-ffy-2013"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2013-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2013 Annual Performance Report  Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20Annual%20Performance%20Report%20%20Part%20C.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2013-annual-performance-report-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2013-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2013 Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20Annual%20Performance%20Report%20-%20Part%20B.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2013-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2014-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2014 Annual Performance Report – Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C_0.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2012-annual-performance-report-%E2%80%93-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2014-annual-performance-report-part-c-2
+    source_id: osse-special-ed
+    name: "FFY 2014 Annual Performance Report – Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C_1.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2014"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2014-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2014 Annual Performance Report- Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report-%20Part%20B.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2014-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2015-apr-report-to-the-public
+    source_id: osse-special-ed
+    name: "FFY 2015 APR Report to the Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202015%20APR%20Report%20to%20the%20Public_0.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2015"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2015-annual-performance-report-part-b-july-16-2018
+    source_id: osse-special-ed
+    name: "FFY 2015 Annual Performance Report-Part B July 16, 2018"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202015%20Annual%20Performance%20Report-Part%20B_July%2016%2C%202018.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2015-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2016-apr-report-to-the-public
+    source_id: osse-special-ed
+    name: "FFY 2016 APR Report to the Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20APR%20Report%20to%20the%20Public.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2016"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2016-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2016 Annual Performance Report- Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20Annual%20Performance%20Report-%20Part%20B.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2016-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2016-public-reporting
+    source_id: osse-special-ed
+    name: "FFY 2016 Public Reporting"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20Public%20Reporting.pdf"
+    kind: pdf
+    year: "2016"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2016"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2017-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2017 Annual Performance Report-Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202017%20Annual%20Performance%20Report-Part%20B.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2017-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2017-idea-part-b-report-to-the-public-10-23-19
+    source_id: osse-special-ed
+    name: "FFY 2017 IDEA Part B Report to the Public 10.23.19"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202017%20IDEA%20Part%20B%20Report%20to%20the%20Public%2010.23.19.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2017"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2018-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2018 Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20Annual%20Performance%20Report%20-%20Part%20B.pdf"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2018-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2018-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY 2018 Annual Performance Report Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20Annual%20Performance%20Report%20Part%20C.pdf"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2018"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2018-idea-part-b-report-to-the-public
+    source_id: osse-special-ed
+    name: "FFY 2018 IDEA Part B Report to the Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20IDEA%20Part%20B%20Report%20to%20the%20Public.pdf"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2018"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2019-annual-performance-report-part-b
+    source_id: osse-special-ed
+    name: "FFY 2019 Annual Performance Report - Part B"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202019%20Annual%20Performance%20Report%20-%20Part%20B.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy-2019-annual-performance-report-part-b"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy-2019-idea-part-b-report-to-the-public
+    source_id: osse-special-ed
+    name: "FFY 2019 IDEA Part B Report to the Public"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202019%20IDEA%20Part%20B%20Report%20to%20the%20Public.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2019"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy19-state-performance-plan-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY19 State Performance Plan Annual Performance Report Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY19%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C.pdf"
+    kind: pdf
+    year: "2019"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/ffy19-state-performance-plan-annual-performance-report-part-c"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy2020-state-performance-plan-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY2020 State Performance Plan Annual Performance Report Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2020%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C%20.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2020-ffy2020-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy2021-state-performance-plan-annual-performance-report-part-c
+    source_id: osse-special-ed
+    name: "FFY2021 State Performance Plan Annual Performance Report Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2021%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C%20.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2021-ffy2021-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-ffy2022-state-performance-plan-spp-annual-performance-report-apr-part-c
+    source_id: osse-special-ed
+    name: "FFY2022 State Performance Plan (SPP) Annual Performance Report (APR) Part C"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2022%20State%20Performance%20Plan%20%28SPP%29%20Annual%20Performance%20Report%20%28APR%29%20Part%20C.pdf"
+    kind: pdf
+    year: "2022"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2022-ffy2022-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-fy-2018-19-dc-osse-adult-and-family-education-annual-performance-report
+    source_id: osse-special-ed
+    name: "FY 2018-19 DC OSSE Adult and Family Education Annual Performance Report"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY%202018-19%20DC%20OSSE%20Adult%20and%20Family%20Education%20Annual%20Performance%20Report.pdf"
+    kind: pdf
+    year: "2018-19"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/fy-2018-19-dc-osse-adult-and-family-education-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-finance-ppe-fy22-title-i-iv-final-allocations-2021-09-30
+    source_id: osse-finance-ppe
+    name: "FY22 Title I-IV Final Allocations 2021-09-30"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY22%20Title%20I-IV%20Final%20Allocations_2021-09-30_0.pdf"
+    kind: pdf
+    year: "2021-09"
+    added: "2026-11-09"
+    page: "https://dcpcsb.org/school-finances-funding/"
+    topics: [finance]
+
+  - id: osse-early-learning-fy25-q1-q2-data
+    source_id: osse-early-learning
+    name: "FY25 Q1-Q2 Data"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q1-Q2%20Data.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy25-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-early-learning-fy25-q3-data-slides
+    source_id: osse-early-learning
+    name: "FY25 Q3 Data Slides"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q3%20Data%20Slides%20%281%29.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy25-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-early-learning-fy25-q4-data-slides
+    source_id: osse-early-learning
+    name: "FY25 Q4 Data Slides"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q4%20Data%20Slides%20%283%29.pdf"
+    kind: pdf
+    year: "2025"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy25-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-early-learning-fy26-q1-data-slides
+    source_id: osse-early-learning
+    name: "FY26 Q1 Data Slides"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q1%20Data%20Slides.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy26-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-early-learning-fy26-q2-data-slides
+    source_id: osse-early-learning
+    name: "FY26 Q2 Data Slides"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q2%20Data%20Slides.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy26-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-early-learning-fy26-q3-pay-equity-fund-data-slides
+    source_id: osse-early-learning
+    name: "FY26 Q3 Pay Equity Fund Data Slides"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q3%20Pay%20Equity%20Fund%20Data%20Slides%20.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/early-childhood-educator-pay-equity-fund-fy26-quarterly-data"
+    topics: [early-childhood]
+
+  - id: osse-enrollment-audit-final-report-enrollment-audit-october-7-2013
+    source_id: osse-enrollment-audit
+    name: "Final Report - Enrollment Audit October 7 2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final%20Report%20-%20Enrollment%20Audit%20October%207%202013.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/sy-2013-2014-general-education-enrollment-audit-data-and-overview"
+    topics: [enrollment]
+
+  - id: osse-enrollment-audit-final-report-enrollment-audit-report-3-11-13
+    source_id: osse-enrollment-audit
+    name: "Final Report Enrollment Audit Report 3 11 13"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final%20Report%20Enrollment%20Audit%20Report%203%2011%2013%20%282%29.pdf"
+    kind: pdf
+    year: "2012-13"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/2012-2013-fall-enrollment-report"
+    topics: [enrollment]
+
+  - id: osse-naep-naep-state-results-eighth-grade-mathematics
+    source_id: osse-naep
+    name: "NAEP State Results - Eighth Grade Mathematics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Eighth%20Grade%20Mathematics_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-state-results-eighth-grade-mathematics-0"
+    topics: [assessment]
+
+  - id: osse-naep-naep-state-results-eighth-grade-reading
+    source_id: osse-naep
+    name: "NAEP State Results - Eighth Grade Reading"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Eighth%20Grade%20Reading%20_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-state-results-eighth-grade-reading"
+    topics: [assessment]
+
+  - id: osse-naep-naep-state-results-fourth-grade-mathematics
+    source_id: osse-naep
+    name: "NAEP State Results - Fourth Grade Mathematics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Fourth%20Grade%20Mathematics_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-state-results-fourth-grade-mathematics"
+    topics: [assessment]
+
+  - id: osse-naep-naep-state-results-fourth-grade-reading
+    source_id: osse-naep
+    name: "NAEP State Results - Fourth Grade Reading"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Fourth%20Grade%20Reading%20_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-state-results-fourth-grade-reading"
+    topics: [assessment]
+
+  - id: osse-naep-naep-tuda-results-eighth-grade-mathematics
+    source_id: osse-naep
+    name: "NAEP TUDA Results - Eighth Grade Mathematics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Eighth%20Grade%20Mathematics_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-tuda-results-eighth-grade-mathematics"
+    topics: [assessment]
+
+  - id: osse-naep-naep-tuda-results-eighth-grade-reading
+    source_id: osse-naep
+    name: "NAEP TUDA Results - Eighth Grade Reading"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Eighth%20Grade%20Reading_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-tuda-results-eighth-grade-reading-1"
+    topics: [assessment]
+
+  - id: osse-naep-naep-tuda-results-fourth-grade-mathematics
+    source_id: osse-naep
+    name: "NAEP TUDA Results - Fourth Grade Mathematics"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Fourth%20Grade%20Mathematics_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-tuda-results-fourth-grade-mathematics"
+    topics: [assessment]
+
+  - id: osse-naep-naep-tuda-results-fourth-grade-reading
+    source_id: osse-naep
+    name: "NAEP TUDA Results - Fourth Grade Reading"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Fourth%20Grade%20Reading_0.pdf"
+    kind: pdf
+    year: "unknown"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/naep-tuda-results-fourth-grade-reading"
+    topics: [assessment]
+
+  - id: osse-data-reports-osse-car-report-2016-17
+    source_id: osse-data-reports
+    name: "OSSE CAR Report 2016-17"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20CAR%20Report%202016-17.pdf"
+    kind: pdf
+    year: "2016-17"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/carl-d-perkins-application-forms"
+    topics: [other]
+
+  - id: osse-data-reports-osse-car-report-2017-18
+    source_id: osse-data-reports
+    name: "OSSE CAR Report 2017-18"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20CAR%20Report%202017-18.pdf"
+    kind: pdf
+    year: "2017-18"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/carl-d-perkins-application-forms"
+    topics: [other]
+
+  - id: osse-finance-ppe-osse-pcsrfg-fy22-notice-of-preliminary-allocations-final-oct-2021
+    source_id: osse-finance-ppe
+    name: "OSSE PCSRFG FY22 - Notice of Preliminary Allocations FINAL (Oct 2021)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20PCSRFG%20FY22%20-%20Notice%20of%20Preliminary%20Allocations_FINAL%20%28Oct%202021%29%20%281%29.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/fy22-public-charter-school-reopening-facilities-grant-notice-preliminary-allocations"
+    topics: [finance]
+
+  - id: osse-finance-ppe-osse-pcsrg-fy21-notice-of-final-allocations-final
+    source_id: osse-finance-ppe
+    name: "OSSE PCSRG FY21 - Notice of Final Allocations FINAL"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20PCSRG%20FY21%20-%20Notice%20of%20Final%20Allocations_FINAL.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/public-charter-school-reopening-grant-fiscal-year-2021-fy21-announcement-final"
+    topics: [finance]
+
+  - id: osse-graduation-osseadjustedcohortgraduationratesschoolbyschoolsubgroup-2
+    source_id: osse-graduation
+    name: "OSSEAdjustedCohortGraduationRatesSchoolbySchoolSubgroup-2"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSEAdjustedCohortGraduationRatesSchoolbySchoolSubgroup-2.pdf"
+    kind: pdf
+    year: "2011-12"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/2011-2012-adjusted-cohort-graduation-rate"
+    topics: [graduation]
+
+  - id: osse-special-ed-report-to-the-public-2010-dc-cas-alternate-2010-sy-2009-2010
+    source_id: osse-special-ed
+    name: "Report to the Public - 2010 DC CAS Alternate 2010 SY 2009 - 2010"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%202010%20DC%20CAS%20Alternate%202010%20SY%202009%20-%202010.pdf"
+    kind: pdf
+    year: "2010"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-dc-cas-alternate-2010-sy-2009-2010"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-2010-dc-cas-lep-nep-data-with-lea-and-school-codes
+    source_id: osse-special-ed
+    name: "Report to the Public - 2010 DC CAS LEP-NEP Data with LEA and School Codes"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%202010%20DC%20CAS%20LEP-NEP%20Data%20with%20LEA%20and%20School%20Codes.pdf"
+    kind: pdf
+    year: "2010"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-dc-cas-alternate-2010-sy-2009-2010"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2015
+    source_id: osse-special-ed
+    name: "Report to the Public - Part C FFY 2015"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%20Part%20C%20FFY%202015.pdf"
+    kind: pdf
+    year: "2015"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2015"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2017
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2017"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2017.pdf"
+    kind: pdf
+    year: "2017"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-ffy2017"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2018
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2018"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2018.pdf"
+    kind: pdf
+    year: "2018"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-ffy2018"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2020
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2020"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2020.pdf"
+    kind: pdf
+    year: "2020"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2020-ffy2020-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2021
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2021"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2021.pdf"
+    kind: pdf
+    year: "2021"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2021-ffy2021-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2022
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2022"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2022.pdf"
+    kind: pdf
+    year: "2022"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2022-ffy2022-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-ffy2023
+    source_id: osse-special-ed
+    name: "Report to the Public FFY2023"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2023.pdf"
+    kind: pdf
+    year: "2023"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/federal-fiscal-year-2023-ffy2023-report-public-and-annual-performance-report"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-b-ffy-2008-lea-performance-on-apr-indicators
+    source_id: osse-special-ed
+    name: "Report to the Public Part B FFY 2008 LEA Performance on APR Indicators"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202008%20LEA%20Performance%20on%20APR%20Indicators.pdf"
+    kind: pdf
+    year: "2008"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2008-lea-performance-apr-indicators"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-b-ffy-2009-lea-performance-on-apr-indicators
+    source_id: osse-special-ed
+    name: "Report to the Public Part B FFY 2009 LEA Performance on APR Indicators"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202009%20LEA%20Performance%20on%20APR%20Indicators.pdf"
+    kind: pdf
+    year: "2009"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2009-lea-performance-apr-indicators"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-b-ffy-2014
+    source_id: osse-special-ed
+    name: "Report to the Public Part B FFY 2014"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202014.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-b-ffy-2014"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2008
+    source_id: osse-special-ed
+    name: "Report to the Public Part C FFY 2008"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202008.pdf"
+    kind: pdf
+    year: "2008"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2008"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2009
+    source_id: osse-special-ed
+    name: "Report to the Public Part C FFY 2009"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202009.pdf"
+    kind: pdf
+    year: "2009"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2009"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2012
+    source_id: osse-special-ed
+    name: "Report to the Public Part C FFY 2012"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202012%5B1%5D_0.pdf"
+    kind: pdf
+    year: "2012"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2012"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2013
+    source_id: osse-special-ed
+    name: "Report to the Public Part C FFY 2013"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202013.pdf"
+    kind: pdf
+    year: "2013"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2013"
+    topics: [special-education]
+
+  - id: osse-special-ed-report-to-the-public-part-c-ffy-2014
+    source_id: osse-special-ed
+    name: "Report to the Public Part C FFY 2014"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202014_0.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/report-public-part-c-ffy-2014"
+    topics: [special-education]
+
+  - id: osse-enrollment-audit-sy13-14-enrollment-audit-overview-2-26-2014
+    source_id: osse-enrollment-audit
+    name: "SY13-14 Enrollment Audit Overview (2.26.2014)"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SY13-14%20Enrollment%20Audit%20Overview%20%282.26.2014%29%5B1%5D.pdf"
+    kind: pdf
+    year: "2014"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/sy-2013-2014-general-education-enrollment-audit-data-and-overview"
+    topics: [enrollment]
+
+  - id: osse-enrollment-audit-school-by-school-sy13-14-enrollment-audit
+    source_id: osse-enrollment-audit
+    name: "School by School SY13-14 Enrollment Audit"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20by%20School%20SY13-14%20Enrollment%20Audit_0.pdf"
+    kind: pdf
+    year: "2013-14"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/sy-2013-2014-general-education-enrollment-audit-data-and-overview"
+    topics: [enrollment]
+
+  - id: osse-early-learning-subsidy-program-data-fy26-q1
+    source_id: osse-early-learning
+    name: "Subsidy Program Data FY26 Q1"
+    url: "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Subsidy%20Program%20Data%20FY26%20Q1.pdf"
+    kind: pdf
+    year: "2026"
+    added: "2026-11-09"
+    page: "https://osse.dc.gov/publication/dc-child-care-subsidy-program-program-data"
+    topics: [early-childhood]
+
   - id: edscape-births-to-k-ratio-2025
     source_id: edscape
     name: "Population and Students \u2014 EdScape Chapter 1 Births to K Ratio 2025"

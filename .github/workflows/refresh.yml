@@ -119,16 +119,34 @@ jobs:
           PDF_BUDGET=300 python find_new_files.py 2>discover.err | grep -E '^coverage=' | tee discover.txt
           rc=${PIPESTATUS[0]}
           set -e
-          if [ "$rc" -eq 2 ]; then echo "below=yes" >> "$GITHUB_OUTPUT"; cat discover.err | tail -3 >> discover.txt; fi
+          if [ "$rc" -eq 2 ]; then echo "below=yes" >> "$GITHUB_OUTPUT"; grep -E '^COVERAGE_' discover.err >> discover.txt; fi
           [ "$rc" -eq 0 ] || [ "$rc" -eq 2 ]   # any other exit code = the script itself broke
           n=$(awk '/^## (Spreadsheets|PDFs with extractable)/{f=1} /^## (PDFs that could|PDFs not yet|Not checked)/{f=0} f' new_files.md | grep -cE '^- https?://' || true)
           echo "count=$n" >> "$GITHUB_OUTPUT"
+      - name: Open or update an issue if the discovery script itself failed
+        if: steps.discover.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Catalog discovery: the discovery script failed"
+          run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          body="$(printf 'The weekly new-file discovery step failed, so no new files were looked for this week. The refresh and deploy still ran. Run: %s\n\nLast lines of stderr:\n\n%s\n' "$run_url" "$(tail -20 discover.err 2>/dev/null)")"
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then gh issue comment "$existing" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+      - name: Keep the full discovery report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-files-report
+          path: new_files.md
+          if-no-files-found: ignore
+          retention-days: 30
       - name: Save the PDF-check cache
         if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add discovery_pdf_checked.json
+          git add discovery_pdf_checked.json discovery_state.json
           if ! git diff --cached --quiet; then
             git commit -m "Update new-file discovery cache"
             git push
@@ -141,7 +159,7 @@ jobs:
         run: |
           title="Catalog discovery: new data files on source pages"
           run_url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
-          body="$(printf '%s candidate file(s) found that are not in data_files.yaml (0 with a coverage warning below means the crawl missed known files and may be missing new ones). Run: %s\n\n%s\n\nAdd the real data files to data_files.yaml (or list declined URLs in discovery_ignore.txt), then re-run profile_files.py.\n\n%s\n' "$N" "$run_url" "$(cat discover.txt)" "$(head -c 50000 new_files.md)")"
+          body="$(printf '%s candidate file(s) found that are not in data_files.yaml.\n\nThe full report is attached to this run as the "new-files-report" artifact (this issue shows only the first 50,000 characters). If the coverage line below is under its floor, the crawl missed files we already have, so it may be missing new ones too.\n\nRun: %s\n\n%s\n\nAdd the real data files to data_files.yaml (or list declined URLs in discovery_ignore.txt), then re-run profile_files.py.\n\n%s\n' "$N" "$run_url" "$(cat discover.txt)" "$(head -c 50000 new_files.md)")"
           existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
           if [ -n "$existing" ]; then
             gh issue comment "$existing" --body "$body"

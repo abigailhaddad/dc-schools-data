@@ -20,3 +20,7 @@ venv/
 # macOS metadata
 .DS_Store
 .wrangler/
+
+# generated reports (the weekly workflow uploads new_files.md as an artifact)
+new_files.md
+verify_report.md

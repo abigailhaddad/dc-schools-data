@@ -53,6 +53,8 @@ MAX_PAGES = int(os.environ.get("MAX_PAGES", "6000"))
 MAX_PDF_BYTES = 25 * 1024 * 1024
 PDF_BUDGET = int(os.environ.get("PDF_BUDGET", "150"))  # PDF table checks per run; the rest wait for next week
 CACHE = HERE / "discovery_pdf_checked.json"
+STATE = HERE / "discovery_state.json"  # last run's coverage, to catch a sudden drop (committed by the workflow)
+MAX_DROP = float(os.environ.get("MAX_COVERAGE_DROP", "5"))  # points below the previous run that count as a broken crawl
 DATA_EXT = re.compile(r"\.(xlsx?|csv|zip)$", re.I)
 PDF_EXT = re.compile(r"\.pdf$", re.I)
 FOLLOW = re.compile(r"/(page|publication|service|featured-content)/")
@@ -269,7 +271,8 @@ def main() -> int:
     out.append(f"Pages read: {n_pages} (cap {MAX_PAGES}). Files seen: {len(files)}.\n")
     out.append(f"Seeds (pages listed up front): {seeds}\n")
     out.append(f"**Crawl coverage check:** {cov_seen} of {cov_total} crawlable catalogued files were seen "
-               f"again on the crawled pages ({cov_pct:.1f}%; floor {MIN_COVERAGE:.0f}%). A file we already "
+               f"again on the crawled pages ({cov_pct:.1f}%; floor {MIN_COVERAGE:.0f}%; alerts on a drop of more than "
+               f"{MAX_DROP:.0f} points from the previous run). A file we already "
                "have that the crawl can't re-find means a new file in the same place could be missed too. "
                f"{n_opaque} Box/Egnyte/ArcGIS files can't be re-found by any page crawl and are excluded; "
                "they need the browser harvest. Some unseen files are simply no longer linked "
@@ -297,8 +300,23 @@ def main() -> int:
     (HERE / "new_files.md").write_text("\n".join(out))
     print(f"coverage={cov_seen}/{cov_total} ({cov_pct:.1f}%) data={len(data)} pdf_with_tables={len(pdfs)} unreadable={len(unknown)} "
           f"pdf_pending={len(pending)} not_checked_sources={len(unchecked)} docs_skipped={len(skipped_docs)}")
+    prev = None
+    try:
+        prev = json.loads(STATE.read_text()).get("coverage_pct")
+    except (OSError, ValueError):
+        pass
+    bad = []
     if cov_pct < MIN_COVERAGE:
-        print(f"COVERAGE_BELOW_FLOOR {cov_pct:.1f}% < {MIN_COVERAGE:.0f}%", file=sys.stderr)
+        bad.append(f"COVERAGE_BELOW_FLOOR {cov_pct:.1f}% < {MIN_COVERAGE:.0f}%")
+    if prev is not None and prev - cov_pct > MAX_DROP:
+        bad.append(f"COVERAGE_DROPPED {prev:.1f}% -> {cov_pct:.1f}% (more than {MAX_DROP:.0f} points since the last run)")
+    # Record this run either way, so one bad week doesn't become next week's baseline silently:
+    # keep the higher of (previous, now) while a drop is unresolved.
+    keep = max(cov_pct, prev) if (prev is not None and bad) else cov_pct
+    STATE.write_text(json.dumps({"coverage_pct": round(keep, 1), "last_run_pct": round(cov_pct, 1)}, indent=1))
+    if bad:
+        for b in bad:
+            print(b, file=sys.stderr)
         return 2
     return 0
 
