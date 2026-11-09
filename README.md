@@ -500,6 +500,14 @@ Please see the exception for more details.
   - [`FY20 Performance Oversight — Washington Metropolitan High School Students data 4 2 2021`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Washington%20Metropolitan%20High%20School_Students_data_4_2_2021%20%283%29.xlsx) — **xlsx** — 2 tab(s)
     - tab **Data Notes** (9 rows × 1 cols) — cols: `Office of the State Superintendent of Education`
     - tab **SY2021_Enrolled_Schools ** (32 rows × 3 cols) — cols: `SY2021_Lea_Name`, `SY2021_school_name`, `Students_enrolled_cnt`
+  - [`OSSE CAR Report 2016-17`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20CAR%20Report%202016-17.pdf) — **pdf** — 5 pages, **extractable tables** on ~3 page(s)
+    - p3 table (16 rows): `District of Columbia Career and Technical Education Indicators of Performance School Year 2016-17`
+    - p4 table (10 rows): `DCPS Career and Technical Education Indicators of Performance School Year 2016-17`
+    - p4 table (10 rows): `Friendship PCS Career and Technical Education Indicators of Performance School Year 2016-17`
+  - [`OSSE CAR Report 2017-18`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20CAR%20Report%202017-18.pdf) — **pdf** — 5 pages, **extractable tables** on ~3 page(s)
+    - p3 table (16 rows): `District of Columbia Career and Technical Education Indicators of Performance for the 2017-18 School Year`
+    - p4 table (10 rows): `DCPS Career and Technical Education Indicators of Performance for the 2017-18 School Year`
+    - p4 table (10 rows): `Friendship PCS Career and Technical Education Indicators of Performance for the 2017-18 School Year`
 
 ### [DC School Report Card Resource Library (downloads)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
@@ -1883,6 +1891,10 @@ _topics: assessment_
     - tab **Sheet1** (246 rows × 2 cols) — cols: `Math`, `Reading`
   - [`DCCAS Unofficial LEA Results-2`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCCAS%20Unofficial%20LEA%20Results-2.xlsx) — **xlsx** — 1 tab(s)
     - tab **Sheet1** (50 rows × 3 cols) — cols: `LEA`, `Math`, `Reading`
+  - [`DC CAS Results`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20CAS%20Results.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (3 rows): 
+    - p1 table (2 rows): 
+    - p1 table (2 rows): 
 
 ### [Audited Enrollment Reports & Data](https://osse.dc.gov/enrollment)
 
@@ -1972,6 +1984,30 @@ _topics: enrollment, demographics_
     - p1 table (62 rows): `DCPS`
     - p2 table (63 rows): `471`, `DCPS`, `Reported`, `Ellington School of the Arts`, `509`, `146`, `152`, `116`
     - p3 table (63 rows): `DCPS`, `Final`, `251`, `15`, `34`, `25`, `37`, `27`
+  - [`Annual Enrollment Overview 2011 to 2012`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Annual%20Enrollment%20Overview%202011%20to%202012.pdf) — **pdf** — 11 pages, **extractable tables** on ~7 page(s)
+    - p5 table (15 rows): 
+    - p6 table (12 rows): `DCPS & PCS`
+    - p7 table (14 rows): 
+  - [`Enrollment Audit Data School by School 2011-2012`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Enrollment%20Audit%20Data%20School%20by%20School%202011-2012.pdf) — **pdf** — 6 pages, **extractable tables** on ~6 page(s)
+    - p1 table (46 rows): `School`, `By Grade`, `ELL`, `Special Education`
+    - p2 table (48 rows): `School`, `By Grade`, `ELL`, `Special Education`
+    - p3 table (48 rows): `School`, `By Grade`, `ELL`, `Special Education`
+  - [`Final Report - Enrollment Audit October 7 2013`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final%20Report%20-%20Enrollment%20Audit%20October%207%202013.pdf) — **pdf** — 49 pages, **extractable tables** on ~35 page(s)
+    - p1 table (5 rows): 
+    - p1 table (3 rows): 
+    - p7 table (25 rows): `Student Enrollment`, `OSSE`, `Audited Enrollment`
+  - [`Final Report Enrollment Audit Report 3 11 13`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Final%20Report%20Enrollment%20Audit%20Report%203%2011%2013%20%282%29.pdf) — **pdf** — 37 pages, **extractable tables** on ~29 page(s)
+    - p1 table (5 rows): 
+    - p1 table (3 rows): 
+    - p6 table (27 rows): `Student Enrollment`, `OSSE`, `Audited Enrollment`
+  - [`SY13-14 Enrollment Audit Overview (2.26.2014)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/SY13-14%20Enrollment%20Audit%20Overview%20%282.26.2014%29%5B1%5D.pdf) — **pdf** — 9 pages, **extractable tables** on ~8 page(s)
+    - p2 table (4 rows): `2012-13 Audited Enrollment`, `2013-14 Unaudited Count Enrollment`, `2013-14 Final Enrollment`, `2013-14 Final Enrollment minus Unaudited Enrollment (Percent Change)`
+    - p3 table (2 rows): `2001/02`, `2002/03`, `2003/04`, `2004/05`, `2005/06`, `2006/07`, `2007/08`, `2008/09`
+    - p4 table (12 rows): `Grade`, `2012-13 Audited Enrollment Data`, `2013-14 Unaudited Enrollment Data`, `2013-14 Final Enrollment Data`, `2013-14 Final Enrollment minus Unaudited Enrollment`, `Percent Change Between 2013-14 Final and Unaudited Enrollment`
+  - [`School by School SY13-14 Enrollment Audit`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/School%20by%20School%20SY13-14%20Enrollment%20Audit_0.pdf) — **pdf** — 6 pages, **extractable tables** on ~6 page(s)
+    - p1 table (39 rows): `SCHOOL`, `Grade`, `AO`, `UN`, `ELL`, `Special Education`
+    - p2 table (46 rows): `SCHOOL`, `Grade`, `AO`, `UN`, `ELL`, `Special Education`
+    - p3 table (41 rows): `SCHOOL`, `Grade`, `AO`, `UN`, `ELL`, `Special Education`
 
 ### [Report Card Aggregate Enrollment Data (demographics file)](https://osse.dc.gov/page/dc-school-report-card-resource-library)
 
@@ -2071,6 +2107,201 @@ _topics: demographics, special-education_
     - tab **Other Activities Maxmiums** (63 rows × 81 cols) — cols: `State Level Activities: Other State Level Activities`, `1.0130522088353415`, `1.0130522088353415`, `1.0130522088353415`, `1.0130522088353415`, `1.0353617443012884`, `1.0353617443012884`, `1.0353617443012884`, `1.0353617443012884`, `1.036551862771375`, `1.036551862771375`, `1.036551862771375` …
     - tab **State-Level Activities** (278 rows × 4 cols) — cols: `District of Columbia`, `FFY`, `2026`, `Select Area`
     - tab **Summary Table** (98 rows × 1 cols) — cols: `FISCAL YEAR 2026 ALLOCATIONS FOR GRANTS TO STATES INDIVIDUALS WITH DISABILITIES EDUCATION ACT - PART B, SECTION 611 - TABLE I`
+  - [`Annual Performance Report 2005-2006`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Annual%20Performance%20Report%202005-2006.pdf) — **pdf** — 36 pages, **extractable tables** on ~26 page(s)
+    - p2 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p2 table (3 rows): `GRADUATION RATE`, `2005 Goal 73`, `2006 GOAL`, `2007 GOAL`, `2008 GOAL`, `2014 GOAL`
+    - p2 table (2 rows): `Goal 73`
+  - [`CRT 6664 WEB UPDATE Report to the Public FFY 2019 FCL REVIEW jb`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CRT%206664%20WEB%20UPDATE%20Report%20to%20the%20Public%20FFY%202019_FCL%20REVIEW%20jb.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (16 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Child Count - Comparative Data Summary 2009 - 2012.v.5.2013`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Child%20Count%20-%20Comparative%20Data%20Summary%202009%20-%202012.v.5.2013.pdf) — **pdf** — 54 pages, **extractable tables** on ~37 page(s)
+    - p7 table (5 rows): `Child Count Year`, `Total Enrollment`, `Change from Previous Year`, `% Change from Previous Year`
+    - p8 table (9 rows): `Race`, `FFY 2009`, `FFY 2010`, `FFY 2011`, `FFY 2012`
+    - p9 table (6 rows): 
+  - [`DC FY 2006 Public Reporting Table Part B Indicators`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20FY%202006%20Public%20Reporting%20Table%20Part%20B%20Indicators.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (35 rows): `District of Columbia FFY 2006 Public Reporting Table: Part B Indicators`
+    - p2 table (35 rows): `District of Columbia FFY 2006 Public Reporting Table: Part B Indicators`
+  - [`FFY 2007 Annual Performance Report – Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202007%20Annual%20Performance%20Report%20%E2%80%93%20Part%20B.pdf) — **pdf** — 146 pages, **extractable tables** on ~66 page(s) (scan capped)
+    - p5 table (4 rows): `Measurement: Measurement for youth with IEPs should be the same measurement for all youth.`
+    - p9 table (4 rows): `Measurement: The total number of students with IEPs dropping out grades 7-12 divided by the total membership in grades 7-12.`
+    - p14 table (2 rows): `FFY`, `Measurable and Rigorous Target`, `Actual Target Data`
+  - [`FFY 2008 Annual Performance Report – Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202008%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C.pdf) — **pdf** — 72 pages, **extractable tables** on ~56 page(s)
+    - p6 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p6 table (7 rows): `Measurement Categories`, `Number of Children`
+    - p8 table (4 rows): `Improvement Activities`, `Timelines & Resources`, `Status`
+  - [`FFY 2008 Annual Performance Report – Part`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202008%20Annual%20Performance%20Report%20%E2%80%93%20Part.pdf) — **pdf** — 90 pages, **extractable tables** on ~37 page(s)
+    - p5 table (2 rows): `Measurement: Measurement for youth with IEPs should be the same measurement for all youth.`
+    - p5 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p6 table (5 rows): `# of graduates with IEPs receiving a regular diploma`, `328`
+  - [`FFY 2009 Annual Performance Report – Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202009%20Annual%20Performance%20Report%20%E2%80%93%20Part%20B.pdf) — **pdf** — 137 pages, **extractable tables** on ~81 page(s) (scan capped)
+    - p6 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p8 table (5 rows): `# of graduates with IEPs receiving a regular diploma`, `359`
+    - p9 table (5 rows): `COMPLETED ACTIVITIES`
+  - [`FFY 2009 Annual Performance Report – Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202009%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C.pdf) — **pdf** — 89 pages, **extractable tables** on ~72 page(s)
+    - p4 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p4 table (7 rows): `Measurement Categories`, `Number of Children`
+    - p7 table (3 rows): `Improvement Activities`, `Timelines & Resources`, `Status`
+  - [`FFY 2011 Annual Performace Report - Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202011%20Annual%20Performace%20Report%20-%20Part%20C%5B1%5D.pdf) — **pdf** — 74 pages, **extractable tables** on ~51 page(s)
+    - p5 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p5 table (3 rows): `a. Number of infants and toddlers with IFSPs who receive the early intervention services on their IFSPs in a timely manner`, `438`
+    - p7 table (2 rows): `1. Number of findings of noncompliance the State made during FFY 2010 (the period from July 1, 2010, through June 30, 2011)`, `1`
+  - [`FFY 2011 Annual Performance Report Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202011%20Annual%20Performance%20Report%20Part%20B.pdf) — **pdf** — 141 pages, **extractable tables** on ~88 page(s) (scan capped)
+    - p8 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p10 table (4 rows): `CONTINUING IMPROVEMENT ACTIVITIES`
+    - p11 table (6 rows): `CONTINUING IMPROVEMENT ACTIVITIES`
+  - [`FFY 2012 Annual Performance Report`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202012%20Annual%20Performance%20Report.pdf) — **pdf** — 134 pages, **extractable tables** on ~94 page(s) (scan capped)
+    - p8 table (2 rows): `FFY`, `Measurable and Rigorous Target`
+    - p10 table (4 rows): `CONTINUING ACTIVITIES`
+    - p11 table (4 rows): `CONTINUING ACTIVITIES`
+  - [`FFY 2012 Public Reporting Revised on 12 9 2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202012%20Public%20Reporting_Revised%20on%2012%209%202014.pdf) — **pdf** — 55 pages, **extractable tables** on ~49 page(s)
+    - p7 table (23 rows): 
+    - p8 table (30 rows): 
+    - p9 table (30 rows): 
+  - [`FFY 2013 APR Public Reporting revised 2 1 2016`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20APR%20Public%20Reporting_revised%202%201%202016.pdf) — **pdf** — 31 pages, **extractable tables** on ~30 page(s)
+    - p2 table (42 rows): `Indicator 1 Graduation Percent of youth with IEPs graduating from high school with a regular diploma.`
+    - p3 table (5 rows): `FFY 2013 State Target`, `44%`
+    - p4 table (43 rows): `Indicator 2 Dropout Percent of youth with IEPs dropping out of high school.`
+  - [`FFY 2013 Annual Performance Report  Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20Annual%20Performance%20Report%20%20Part%20C.pdf) — **pdf** — 53 pages, **extractable tables** on ~44 page(s)
+    - p2 table (2 rows): `Introduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p4 table (3 rows): `include: regular meetings of the Interagency Coordinating Council, monthly meetings with providers and partner agencies, expansion of OSSE’s Division of Early Learning’s web page, and regular communications to stakeholders. Together, these tools create a feedback loop which allows for continuous improvement and stakeholder involvement. OSSE met in December 2014 and January 2015 with the ICC, EIS Programs and Medicaid partners to discuss FFY 2013 performance and the targets for FFY 2013 - FFY 2018. Historical data as well as national data were reviewed to solicit feedback and discussion. The sessions generated lively discussion and participants indicated that it was important to discuss the proposed targets in light of the upcoming changes in the Part C eligibility criteria (25% delay in one or more area) and the new initiatives in the District, such as the Maternal, Infant, and Early Childhood Home Visiting Program (MIECHV) and the Head Start Quality Improvement Network. The OSSE considered all suggestions in the setting of final targets. Reporting to the Public: How and where the State reported to the public on the FFY 2012 performance of each EIS Program or Provider located in the State on the targets in the SPP/APR as soon as practicable, but no later than 120 days following the State’s submission of its FFY 2012 APR, as required by 34 CFR §300.602(b)(1)(i)(A); and a description of where, on its Web site, a complete copy of the State’s SPP, including any revision if the State has revised the SPP that it submitted with its FFY 2012 APR in 2014, is available. The District reported to the public on the FFY 2012 performance on the targets in the SPP by publishing the Annual Performance Report (APR) on OSSE's website at: http://osse.dc.gov/publication/ffy-2012-annual-performance-report-–- part-c on July 15, 2014. There were no revisions to the District’s SPP that was submitted with the FFY 2012 APR. A complete copy of the SPP can be found at: http://osse.dc.gov/publication/revised-state-performance-plan-2005-2012-part-c. In accordance with 34 CFR §303.702(b)(1)(i)(A), on July 15, 2014, OSSE posted the performance of each early intervention program located in the District on the targets in the SPP/APR. The posting was made not later than 120 days following the submission our FFY 2012 APR: http://osse.dc.gov/publication/report-public-part-c-ffy-2012.`
+    - p5 table (6 rows): `Indicator 1: Timely provision of services`
+  - [`FFY 2013 Annual Performance Report - Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202013%20Annual%20Performance%20Report%20-%20Part%20B.pdf) — **pdf** — 98 pages, **extractable tables** on ~74 page(s)
+    - p1 table (2 rows): `Introduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p5 table (7 rows): `The State monitors and enforces the IDEA in accordance with 34 CFR sections 300.600-300.609. OSSE requires all instances of noncompliance to be corrected, and upon issuance of a finding of noncompliance, requires correction of each instance of noncompliance and subsequent verification of proper systemic implementation in accordance with OSEP Memo 09-02. OSSE uses a variety of tools to support LEA correction of noncompliance. For example, OSSE has created the District of Columbia Corrective Action Tracking System (DC-CATS) to provide LEAs with a simple way to track findings of noncompliance, track timelines for correction of each finding of noncompliance, and submit evidence of correction for each finding of noncompliance. OSSE also utilizes corrective action plans (CAPs) and continuous improvement plans (CIPs) with LEAs who have extensive, systemic, or reoccurring areas of noncompliance. These plans emphasize high-leverage corrective or improvement activities which are aimed to create measurable improvement such as professional development, creation or amendment of policies and/or procedures, and targeted technical assistance. OSSE also employs a range of corrections and sanctions during the annual LEA determinations process. As required by section 34 CFR sections 300.600(a) and 300.604 OSSE will apply the following enforcement actions to programs based on the program’s Determination Level: Determination Level Enforcement Actions[1] Meets Requirements None Needs Assistance State shall take one or more of the following actions if the LEA receives this dete consecutive years: · Advise the LEA of available sources of technical assistance and require the entities · Direct the use of funds · Impose special conditions In addition, the State must prohibit the LEA from reducing the LEA's maintenan §300.203 for any fiscal year Needs Intervention If the LEA receives this determination for 3 or more consecutive years, the State described above, and shall take one or more of the following: · Require a corrective action plan or improvement plan if the State determine to correct the problem within one year · Require the LEA to enter into a compliance agreement if the State has reaso cannot correct the problem within one year · Recover funds · Withhold further payments Needs Substantial Intervention At any time that the State determines that the LEA needs substantial interventio the actions described above, and require one or more of the following: · Recover funds · Withhold further payments [1] Any withholding of funds will comport with 34 CFR §30.605 which provides for reasonable notice and an opportunity for a hearing. Effective Dispute Resolution`
+    - p7 table (5 rows): `partnering with leading education consultants to provide onsite, targeted data driven technical assistance to priority schools targeted for OSSE intervention as determined by ESEA waiver requirements and IDEA metrics. The consultants assist LEAs in conducting a root-cause analysis of LEA issues, assessing infrastructure, and matching resources. Additionally, the consultants work directly with LEA and school leaders to develop and implement the Common Core and research based interventions such as Positive Behavior Intervention and Supports (PBIS), Universal Design for Learning, and Response to Intervention (RtI). For schools in priority status for three years, OSSE provides on-site coaching, job-alike collaboration with colleagues, and a “line of credit,” a limited amount of funds to support identified reform efforts that the coaches support. OSSE is also providing targeted TA to LEAs whose re-evaluation backlog persists across quarterly reporting periods. I. Below is an overview of the technical assistance sources from which the State received assistance related to the results for which the State received a score of zero on the Part B Results Driven Accountability Matrix- 2014: Indicator 13: Secondary Transition: OSSE has continued to collaborate with the National Secondary Transition Technical Assistance Center (NSTTAC) after successfully pursuing a technical assistance opportunity offered to States. In addition, OSSE participated in a technical assistance session offered by OSEP in the area of secondary transition on July 21, 2014. 4th and 8th grade NAEP results (reading/math): DC’s rate of improvement in NAEP scores for students with disabilities has outpaced the national average over the past several years. OSSE has actively collaborated with a national consultant, Cross and Joftus, to develop an outcomes-based root cause analysis process to utilize with LEAs that experience longstanding challenges related to both compliance and academic performance. Longstanding Noncompliance: OSSE has primarily worked with OSEP to address challenges related to closing out longstanding noncompliance in a manner that is appropriate and meets requirements pursuant to OSEP Memorandum 09-02. II. Below is an overview of the actions the State took as a result of that technical assistance: Indicator 13: Secondary Transition:`
+  - [`FFY 2014 Annual Performance Report – Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C_0.pdf) — **pdf** — 64 pages, **extractable tables** on ~46 page(s)
+    - p2 table (4 rows): `Introduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p5 table (3 rows): `A complete copy of the SPP can be found at: http://osse.dc.gov/publication/ffy-2013-annual-performance-report-%E2%80 %93-part-c. In accordance with 34 CFR §303.702(b)(1)(i)(A), OSSE posted the performance of each early intervention program located in the District on the targets in the SPP/APR: http://osse.dc.gov/publication/report-public-part-c-ffy-2013. Attachments File Name Uploaded By Uploaded Date No APR attachments found. Actions required in FFY 2013 response None`
+    - p6 table (9 rows): `Indicator 1: Timely provision of services`
+  - [`FFY 2014 Annual Performance Report – Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report%20%E2%80%93%20Part%20C_1.pdf) — **pdf** — 64 pages, **extractable tables** on ~46 page(s)
+    - p2 table (4 rows): `Introduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p5 table (3 rows): `A complete copy of the SPP can be found at: http://osse.dc.gov/publication/ffy-2013-annual-performance-report-%E2%80 %93-part-c. In accordance with 34 CFR §303.702(b)(1)(i)(A), OSSE posted the performance of each early intervention program located in the District on the targets in the SPP/APR: http://osse.dc.gov/publication/report-public-part-c-ffy-2013. Attachments File Name Uploaded By Uploaded Date No APR attachments found. Actions required in FFY 2013 response None`
+    - p6 table (9 rows): `Indicator 1: Timely provision of services`
+  - [`FFY 2014 Annual Performance Report- Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202014%20Annual%20Performance%20Report-%20Part%20B.pdf) — **pdf** — 132 pages, **extractable tables** on ~105 page(s) (scan capped)
+    - p1 table (4 rows): `Introduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p11 table (3 rows): `reporting document to the State website no later than 120 days following the State's submission of the APR. The District of Columbia's public reporting documents are available at: http://osse.dc.gov/service/specialized-education-data-and-reports Attachments File Name Uploaded By Uploaded Date No APR attachments found. Actions required in FFY 2013 response None`
+    - p12 table (8 rows): `Indicator 1: Graduation Historical Data and Targets`
+  - [`FFY 2015 APR Report to the Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202015%20APR%20Report%20to%20the%20Public_0.pdf) — **pdf** — 33 pages, **extractable tables** on ~31 page(s)
+    - p3 table (46 rows): 
+    - p4 table (12 rows): `FFY 2015 State Target`, `49.80%`
+    - p5 table (47 rows): 
+  - [`FFY 2015 Annual Performance Report-Part B July 16, 2018`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202015%20Annual%20Performance%20Report-Part%20B_July%2016%2C%202018.pdf) — **pdf** — 71 pages, **extractable tables** on ~57 page(s)
+    - p2 table (9 rows): `ntroduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p6 table (5 rows): `staff understand their obligations under the IDEA, and to ensure that the LEA has access to and is using all available state data systems. OSSE staff also reviews basic compliance requirements as necessary to ensure that LEA staff understand process timelines. To ensure that parents understand their rights and the various dispute resolution options, OSSE monitors LEAs and public agencies to ensure that procedural safeguards are provided in accordance with 34 CFR §300.504(a). In addition, OSSE has a parent and community outreach team that provides education and information to parents seeking information about the various dispute resolution options available to them under the IDEA. Targeted Technical Assistance and Professional Development See Technical Assistance System and Professional Development System, discussed below.`
+    - p7 table (5 rows): `OSSE has primarily worked with OSEP to address challenges related to closing out longstanding noncompliance in a manner that is appropriate and meets requirements pursuant to OSEP Memorandum 09-02. Below is an overview of the actions the State took as a result of that technical assistance: Indicator 13: Secondary Transition: OSSE continues to participate in the RBA CSLC and utilizes partnerships created with other states to refine elements of the moniroting process. OSSE staff members who attended the RBA CSLC conference presented information to other key members of OSSE involved in the work on secondary transition. This presentation encouraged OSSE to explore additional opportunities to increase secondary transition compliance rates. In addition, OSSE provided technical assistance sessions to all LEAs in the District that serve students aged 16-21. In addition, OSSE now conducts monthly cross team secondary transition status sessions to review secondary transition data and discuss ways to improve the secondary transition review process. 4th and 8th grade NAEP results (reading/math): OSSE continues to utilize the root cause analysis process as a component of its State intervention model for struggling schools. Through this model, OSSE works with identified LEAs to develop a targeted, evidence-based support plan to enhance instructional and behavioral practices. This plan is designed to accelerate outcomes for children with disabilities. Longstanding Noncompliance: OSSE continues to work directly with LEAs to provide clear, consistent, and timely technical assistance related to closing out longstanding noncompliance in a manner that is appropriate and meets requirements pursuant to OSEP Memorandum 09-02.OSSE's LEA monitoring team has implemented effective strategies to ensure that LEAs are correcting findings of noncompliance as soon as possible.`
+  - [`FFY 2016 APR Report to the Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20APR%20Report%20to%20the%20Public.pdf) — **pdf** — 34 pages, **extractable tables** on ~32 page(s)
+    - p2 table (46 rows): 
+    - p3 table (14 rows): `FFY 2016 State Target`, `54.80%`
+    - p4 table (47 rows): 
+  - [`FFY 2016 Annual Performance Report- Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20Annual%20Performance%20Report-%20Part%20B.pdf) — **pdf** — 74 pages, **extractable tables** on ~63 page(s)
+    - p2 table (9 rows): `ntroduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p2 table (4 rows): `FFY 2016, children in the District of Columbia were served by 66 LEAs, including the District of Columbia Public Schools (DCPS) and 65 public charter`
+    - p6 table (5 rows): `To ensure that parents understand their rights and the various dispute resolution options, OSSE monitors LEAs and public agencies to ensure that procedural safeguards are provided in accordance with 34 CFR §300.504(a). In addition, OSSE has a parent and community outreach team that provides education and information to parents seeking information about the various dispute resolution options available to them under the IDEA. Targeted Technical Assistance and Professional Development See Technical Assistance System and Professional Development System, discussed below. Indicator 8- Parent Involvement Survey Revisions In FFY 2015, OSSE made revisions to the parent survey in response to feedback from the State Advisory Board suggesting a need to simplify the survey. During these revisions, the survey item that collected information about the respondent’s LEA and school was removed. The same survey was used in FFY 2016 and respondent's LEA and school information was not collected in FFY 2016 due to the same oversight. In preparation for the FFY 2017 survey administration, OSSE will conduct a comprehensive review of the survey to ensure that all required elements are included.`
+  - [`FFY 2016 Public Reporting`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202016%20Public%20Reporting.pdf) — **pdf** — 5 pages, **extractable tables** on ~2 page(s)
+    - p4 table (9 rows): `Indicator 1`, `Timely Provision of`
+    - p4 table (4 rows): `Indicator 2`, `Services in Natural`
+    - p5 table (8 rows): `Indicator 8A`, `Early Childhood Transition: Steps and Services`
+  - [`FFY 2017 Annual Performance Report-Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202017%20Annual%20Performance%20Report-Part%20B.pdf) — **pdf** — 78 pages, **extractable tables** on ~67 page(s)
+    - p2 table (9 rows): `ntroduction to the State Performance Plan (SPP)/Annual Performance Report (APR)`
+    - p6 table (5 rows): `See Technical Assistance System and Professional Development System, discussed below. Indicator 8- Parent Involvement Survey Revisions In FFY 2016, the survey item that collected information about the respondent’s LEA and school was removed and therefore this information was not available for publicly reporting on Indicator 8 by LEA. For FFY 2017 survey administration (distributed in 2018 to ensure respondents could provide responses based on a full school year), OSSE ensured that the respondent’s LEA was collected and all requirements were included in the survey. Moving forward, OSSE will ensure that this data is reported at the LEA-level for public reporting.`
+    - p7 table (8 rows): `4th and 8th grade NAEP results (reading/math): OSSE continues to refine its monitoring approach with an eye toward making important shifts that support improved academic outcomes. In 2016-2017, OSSE utilized the root cause analysis process as a component of its State intervention model for struggling schools. This analysis included a focus on students with disabilities. Through this model, OSSE worked with identified LEAs to develop a targeted, evidence-based support plan to enhance instructional and behavioral practices. This plan is designed to accelerate outcomes for children with disabilities. Longstanding Noncompliance: OSSE continues to work directly with LEAs to provide clear, consistent, and timely technical assistance related to closing out longstanding noncompliance in a manner that is appropriate and meets requirements pursuant to OSEP Memorandum 09-02. OSSE's LEA monitoring team has implemented effective strategies to ensure that LEAs are correcting findings of noncompliance as soon as possible, including making revisions to the corrective action tracking system, DC-CATS. The revisions have been implemented to improve tracking of noncompliance, corrective actions and timelines for both OSSE and the LEAs.`
+  - [`FFY 2017 IDEA Part B Report to the Public 10.23.19`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202017%20IDEA%20Part%20B%20Report%20to%20the%20Public%2010.23.19.pdf) — **pdf** — 32 pages, **extractable tables** on ~31 page(s)
+    - p2 table (48 rows): 
+    - p3 table (18 rows): `FFY 2017 State Target`, `60.00%`
+    - p4 table (48 rows): 
+  - [`FFY 2018 Annual Performance Report - Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20Annual%20Performance%20Report%20-%20Part%20B.pdf) — **pdf** — 62 pages, **extractable tables** on ~50 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p6 table (2 rows): `States may report data for children with disabilities using either the four-year adjusted cohort graduation rate required under the ESEA or an extended-`
+    - p6 table (4 rows): `Baseline`, `2011`, `39.00%`
+  - [`FFY 2018 Annual Performance Report Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20Annual%20Performance%20Report%20Part%20C.pdf) — **pdf** — 41 pages, **extractable tables** on ~30 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p4 table (4 rows): `Baseline`, `2005`, `37.00%`
+    - p4 table (2 rows): `FFY`, `2018`, `2019`
+  - [`FFY 2018 IDEA Part B Report to the Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202018%20IDEA%20Part%20B%20Report%20to%20the%20Public.pdf) — **pdf** — 34 pages, **extractable tables** on ~33 page(s)
+    - p2 table (48 rows): 
+    - p3 table (27 rows): `FFY 2018 State Target`, `60.00%`
+    - p4 table (48 rows): 
+  - [`FFY 2019 Annual Performance Report - Part B`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202019%20Annual%20Performance%20Report%20-%20Part%20B.pdf) — **pdf** — 60 pages, **extractable tables** on ~49 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p7 table (2 rows): `States may report data for children with disabilities using either the four-year adjusted cohort graduation rate required under the ESEA or an extended-`
+    - p7 table (2 rows): `Baseline Year`, `Baseline Data`
+  - [`FFY 2019 IDEA Part B Report to the Public`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY%202019%20IDEA%20Part%20B%20Report%20to%20the%20Public.pdf) — **pdf** — 34 pages, **extractable tables** on ~33 page(s)
+    - p2 table (47 rows): 
+    - p3 table (26 rows): `FFY 2019 State Target`, `52.70%`
+    - p4 table (47 rows): 
+  - [`FFY19 State Performance Plan Annual Performance Report Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY19%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C.pdf) — **pdf** — 37 pages, **extractable tables** on ~22 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p6 table (2 rows): `Baseline Year`, `Baseline Data`
+    - p6 table (3 rows): `FFY`, `2014`, `2015`, `2016`, `2017`, `2018`
+  - [`FFY2020 State Performance Plan Annual Performance Report Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2020%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C%20.pdf) — **pdf** — 49 pages, **extractable tables** on ~31 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p6 table (2 rows): `Baseline Year`, `Baseline Data`
+    - p6 table (3 rows): `FFY`, `2015`, `2016`, `2017`, `2018`, `2019`
+  - [`FFY2021 State Performance Plan Annual Performance Report Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2021%20State%20Performance%20Plan%20Annual%20Performance%20Report%20Part%20C%20.pdf) — **pdf** — 51 pages, **extractable tables** on ~32 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p6 table (2 rows): `Baseline Year`, `Baseline Data`
+    - p6 table (3 rows): `FFY`, `2016`, `2017`, `2018`, `2019`, `2020`
+  - [`FFY2022 State Performance Plan (SPP) Annual Performance Report (APR) Part C`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FFY2022%20State%20Performance%20Plan%20%28SPP%29%20Annual%20Performance%20Report%20%28APR%29%20Part%20C.pdf) — **pdf** — 68 pages, **extractable tables** on ~48 page(s)
+    - p2 table (4 rows): `Provide sufficient detail to ensure that the Secretary and the public are informed of and understand the State’s systems designed to drive improved`
+    - p7 table (2 rows): `Baseline Year`, `Baseline Data`
+    - p7 table (3 rows): `FFY`, `2017`, `2018`, `2019`, `2020`, `2021`
+  - [`FY 2018-19 DC OSSE Adult and Family Education Annual Performance Report`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY%202018-19%20DC%20OSSE%20Adult%20and%20Family%20Education%20Annual%20Performance%20Report.pdf) — **pdf** — 10 pages, **extractable tables** on ~5 page(s)
+    - p3 table (5 rows): 
+    - p4 table (10 rows): 
+    - p4 table (7 rows): 
+  - [`Report to the Public - 2010 DC CAS Alternate 2010 SY 2009 - 2010`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%202010%20DC%20CAS%20Alternate%202010%20SY%202009%20-%202010.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (17 rows): `Math Assessment Administered`
+    - p1 table (17 rows): `Reading Assessment Administered`
+    - p2 table (8 rows): `LEA`, `Frequency`, `Percent`
+  - [`Report to the Public - 2010 DC CAS LEP-NEP Data with LEA and School Codes`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%202010%20DC%20CAS%20LEP-NEP%20Data%20with%20LEA%20and%20School%20Codes.pdf) — **pdf** — 6 pages, **extractable tables** on ~6 page(s)
+    - p1 table (42 rows): `School Name`, `LEA Code`, `School Id`, `Tested W/Accom`, `Tested W/O Accom`, `Total Spec Ed Tested`
+    - p2 table (44 rows): `School Name`, `LEA Code`, `School Id`, `Tested W/Accom`, `Tested W/O Accom`, `Total Spec Ed Tested`
+    - p3 table (45 rows): `School Name`, `LEA Code`, `School Id`, `Tested W/Accom`, `Tested W/O Accom`, `Total Spec Ed Tested`
+  - [`Report to the Public - Part C FFY 2015`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20-%20Part%20C%20FFY%202015.pdf) — **pdf** — 5 pages, **extractable tables** on ~2 page(s)
+    - p4 table (8 rows): `Indicator 1`, `Timely Provision of`
+    - p4 table (4 rows): `Indicator 2`, `Services in Natural`
+    - p5 table (8 rows): `Indicator 8A`, `Early Childhood Transition –`
+  - [`Report to the Public FFY2017`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2017.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (32 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public FFY2018`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2018.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (32 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public FFY2020`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2020.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (25 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public FFY2021`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2021.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (32 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public FFY2022`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2022.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (32 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public FFY2023`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20FFY2023.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (32 rows): `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public Part B FFY 2008 LEA Performance on APR Indicators`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202008%20LEA%20Performance%20on%20APR%20Indicators.pdf) — **pdf** — 9 pages, **extractable tables** on ~7 page(s)
+    - p3 table (4 rows): `Symbol`, `Definition`
+    - p4 table (26 rows): `Notes`, `DCPS % excludes District Charters`, `DCPS % excludes District Charters`, `N size for Indicator 3 is 25`
+    - p5 table (28 rows): `Notes`, `DCPS % excludes District Charters`, `DCPS % excludes District Charters`, `Met AYP?`, `Participation Rate for Reading and Math (Elementary & Secondary)`
+  - [`Report to the Public Part B FFY 2009 LEA Performance on APR Indicators`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202009%20LEA%20Performance%20on%20APR%20Indicators.pdf) — **pdf** — 32 pages, **extractable tables** on ~26 page(s)
+    - p6 table (32 rows): `Percent of Youth with IEPs`
+    - p7 table (21 rows): `Percent of Youth with IEPs`
+    - p7 table (14 rows): `Percent of youth with IEPs`
+  - [`Report to the Public Part B FFY 2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20B%20FFY%202014.pdf) — **pdf** — 29 pages, **extractable tables** on ~28 page(s)
+    - p2 table (42 rows): `Indicator 1 Graduation Percent of youth with IEPs graduating from high school with a regular diploma.`
+    - p3 table (9 rows): `FFY 2014 State Target`, `45.80%`
+    - p4 table (43 rows): `Indicator 2 Dropout Percent of youth with IEPs dropping out of high school.`
+  - [`Report to the Public Part C FFY 2008`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202008.pdf) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (2 rows): `Symbol`, `Definition`
+    - p3 table (10 rows): `Indicator`, `1`, `7`, `8A`, `8B`, `8C`
+  - [`Report to the Public Part C FFY 2009`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202009.pdf) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (2 rows): `Symbol`, `Definition`
+    - p3 table (13 rows): `3A`, `3B`, `3C`
+    - p3 table (12 rows): `Indicator`, `4A`, `4B`, `4C`, `5`, `6`, `7`, `8A`
+  - [`Report to the Public Part C FFY 2012`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202012%5B1%5D_0.pdf) — **pdf** — 4 pages, **extractable tables** on ~2 page(s)
+    - p3 table (2 rows): `Symbol`, `Definition`
+    - p4 table (12 rows): `se`, `Child Outcomes`, `Family Outcomes`, `Child Find`, `Transition`
+  - [`Report to the Public Part C FFY 2013`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202013.pdf) — **pdf** — 6 pages, **extractable tables** on ~3 page(s)
+    - p4 table (9 rows): `Indicator 1`, `Timely Provision of`
+    - p5 table (9 rows): `Indicator 2`, `Services in Natural`
+    - p6 table (9 rows): `Indicator 8A`, `Early Childhood Transition –`
+  - [`Report to the Public Part C FFY 2014`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Report%20to%20the%20Public%20Part%20C%20FFY%202014_0.pdf) — **pdf** — 6 pages, **extractable tables** on ~3 page(s)
+    - p4 table (10 rows): `Timely Provision of`
+    - p5 table (10 rows): `Services in Natural`
+    - p6 table (10 rows): `Early Childhood Transition –`
 
 ### [School Year Attendance Reporting (chronic absenteeism/truancy)](https://osse.dc.gov/page/2024-25-school-year-attendance-reporting)
 
@@ -2325,6 +2556,14 @@ _topics: graduation_
   - [`2009 District of Columbia Graduation Rates`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2009_District_of_Columbia_Graduation_Rates.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
     - p1 table (34 rows): `SCHOOL`, `GRADUATION RATE`
     - p2 table (4 rows): `LEAs with more than one high school`, `GRADUATION RATE`
+  - [`AdjustedCohortGraduationRatesSchoolbySchool20112012`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/AdjustedCohortGraduationRatesSchoolbySchool20112012.pdf) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p1 table (33 rows): `HIGH SCHOOL`, `2011 ACGR`, `2012 GRADUATES`, `2012 ACGR`
+    - p1 table (33 rows): `HIGH SCHOOL`, `2011 ACGR`, `2012 GRADUATES`, `2012 ACGR`
+    - p2 table (4 rows): `Overall [1]`, `2011 ACGR`, `2012 Cohort`, `2012 Graduates`, `2012 ACGR`
+  - [`Cohort Grad Rates410`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Cohort%20Grad%20Rates410_0.pdf) — **pdf** — 2 pages, **extractable tables** on ~1 page(s)
+    - p2 table (4 rows): `Adjusted Cohort Graduation Method`
+  - [`OSSEAdjustedCohortGraduationRatesSchoolbySchoolSubgroup-2`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSEAdjustedCohortGraduationRatesSchoolbySchoolSubgroup-2.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (14 rows): `SUBGROUP`, `2011 ACGR`, `2012 GRADUATES`, `2012 ACGR`
 
 ### [OSSE Discipline Report ('State of Discipline')](https://osse.dc.gov/page/discipline-report)
 
@@ -2410,6 +2649,31 @@ _topics: finance_
     - tab **First Annual Report** (51 rows × 1 cols) — cols: `The Coronavirus Aid, Relief, and Economic Security (CARES) Act`
   - [`UPSFF Historical Non-Resident Rates`](https://osse.dc.gov/sites/default/files/dc/sites/osse/page_content/attachments/UPSFF%20Historical%20%28Non-Resident%20Rates%29.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
     - p1 table (2 rows): `Non-Resident Tuition FY2024 FY2023 FY2022 FY2021 FY2020 FY2019 FY2018 FY2017 FY2016 FY2015`
+  - [`Allocation Memo to LEA`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Allocation%20Memo%20to%20LEA.pdf) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (8 rows): `AppleTree Early Learning Public Charter School`
+    - p3 table (63 rows): `LEA Name`, `Academic Quality Allocation`, `Early Childhood Allocation`, `Total`, `Grant Contact`
+  - [`Attachment A Preliminary SOAR Academic Quality Allocations`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Attachment%20A%20Preliminary%20SOAR%20Academic%20Quality%20Allocations.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (38 rows): `2015-16`
+    - p2 table (34 rows): `Enrollment`
+  - [`CARES Act ESSER Allocation 2.3.21`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/CARES%20Act%20ESSER%20Allocation_2.3.21.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (50 rows): `LEA Name`, `TOTAL Allocation*`, `FY20 Spending`, `Balance for FY21 EGMS Application**`
+  - [`ESSER II & Equivalent Allocation Table 4-1-21`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20II%20%26%20Equivalent%20Allocation%20Table_4-1-21.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (48 rows): `LEA Name`, `ESSER II Preliminary*`, `ESSER II Equivalent`
+    - p2 table (14 rows): `LEA Name`, `ESSER II Preliminary*`, `ESSER II Equivalent`
+  - [`ESSER III ARP FinalAllocations`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20III_ARP%20FinalAllocations.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (56 rows): `LEA Name`, `ESSER III‐ARP Total Allocation`, `Evidence Based Interventions (20%)*`, `Remaining Funds (80%)`
+  - [`ESSER II  CRRSA FinalAllocations Website Upload`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/ESSER%20II_%20CRRSA%20FinalAllocations_Website%20Upload.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (60 rows): `LEA Name`, `ESSER II ‐CRRSA Total Allocation`, `ESSER II Equivalent Total Allocation`
+  - [`FY22 Title I-IV Final Allocations 2021-09-30`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY22%20Title%20I-IV%20Final%20Allocations_2021-09-30_0.pdf) — **pdf** — 2 pages, **extractable tables** on ~2 page(s)
+    - p1 table (43 rows): `LEA Name`, `Title I-A`, `Title II-A`, `Title III-A`, `Title IV-A`
+    - p2 table (17 rows): `LEA Name`, `Title I-A`, `Title II-A`, `Title III-A`, `Title IV-A`
+  - [`OSSE PCSRFG FY22 - Notice of Preliminary Allocations FINAL (Oct 2021)`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20PCSRFG%20FY22%20-%20Notice%20of%20Preliminary%20Allocations_FINAL%20%28Oct%202021%29%20%281%29.pdf) — **pdf** — 9 pages, **extractable tables** on ~3 page(s)
+    - p3 table (40 rows): `LEA`, `LEA Name`, `Allocation`
+    - p4 table (31 rows): `130 Latin American Montessori Bilingual PCS $ 163,934.43`
+    - p5 table (2 rows): `LEA`, `All School Names in Facility`, `Facility Address`, `Facility ID`
+  - [`OSSE PCSRG FY21 - Notice of Final Allocations FINAL`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/OSSE%20PCSRG%20FY21%20-%20Notice%20of%20Final%20Allocations_FINAL.pdf) — **pdf** — 3 pages, **extractable tables** on ~2 page(s)
+    - p2 table (39 rows): `LEA Name`, `Final Allocation`
+    - p3 table (29 rows): `Mary McLeod Bethune PCS`, `$0.00`
 
 ### [DC Educator Workforce Data](https://osse.dc.gov/page/dc-educator-workforce-data)
 
@@ -2965,6 +3229,8 @@ _topics: educators_
     - p1 table (2 rows): `Total School Staff`, `Teachers`, `Principals`, `Special Education Support Staff`, `Paraprofessionals`, `Students`, `LEAs and SPAs*`, `Schools`
     - p1 table (2 rows): `TEACHER RETENTION In the 2024-25 school year, 84 percent of teachers were retained as teachers in DC, and 76 percent of teachers were retained as teachers in the same school`, `PRINCIPAL RETENTION In the 2024-25 school year, 83 percent of principals were retained as principals in DC, and 78 percent of principals were retained`
     - p2 table (3 rows): `2024-25 District of Columbia Educator Retention Brief`
+  - [`DC Educator Workforce Report 10.2019 0`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC_Educator_Workforce_Report_10.2019_0_0.pdf) — **pdf** — 41 pages, **extractable tables** on ~1 page(s)
+    - p14 table (28 rows): 
 
 ### [Pre-Kindergarten Reports ('State of Pre-K in DC')](https://osse.dc.gov/publication/pre-kindergarten-reports-state-pre-k-district-columbia)
 
@@ -3107,6 +3373,48 @@ _topics: early-childhood, finance_
     - p1 table (132 rows): `License Number`, `Facility Name`, `License Type`, `Physical Address`, `Ward`, `License Issue Date`, `License Expiration`, `Point of Contact`
     - p2 table (132 rows): `CDC-102931`, `Early Childhood Academy Public Charter School`, `Full License`, `885 Barnaby ST, SE, Washington, District of Columbia 20032`, `8`, `3/19/2026`, `6/30/2027`, `Wendy Edwards`
     - p3 table (132 rows): `CDC-102801`, `Love and Care Child Development Center`, `Full License`, `402 Galloway ST, NE, Washington , District of Columbia 20011`, `5`, `4/15/2024`, `4/30/2027`, `Taneika Ruff`
+  - [`Child Care Rate and Utilization Report`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Child%20Care%20Rate%20and%20Utilization%20Report.pdf) — **pdf** — 5 pages, **extractable tables** on ~1 page(s)
+    - p5 table (17 rows): `ELIGIBILITY CATEGORY`, `Total`, `5/1/14`, `6/1/14`, `7/1/14`, `8/1/14`, `9/1/14`, `10/1/14`
+  - [`DC Child Care Subsidy Program Data FY26 Q3`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC%20Child%20Care%20Subsidy%20Program%20Data%20FY26%20Q3.pdf) — **pdf** — 18 pages, **extractable tables** on ~16 page(s)
+    - p3 table (2 rows): `DC Child Care Subsidy Program Spending, FY19-FY26 to Date $126.8 M $118.5 M $111.5 M $107.6 M $105.5 M $97.1 M $90.9 M $85.0 M FY 19 FY20 FY21 FY22 FY23 FY24 FY25 FY26* *FY26 spending to date includes October 2025 - June 2026.`
+    - p4 table (2 rows): `DC Child Care Subsidy Program FY26 Q3 Monthly Spending to Date $13.1 M $12.5 M $12.5 M April 2026 May 2026 June 2026`
+    - p5 table (2 rows): `DC Child Care Subsidy Program Enrollment FY26 Q3`
+  - [`DC Childcare Subsidy Data FY26 Q2 Updates`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DC_Childcare_Subsidy_Data_FY26%20Q2%20Updates.pdf) — **pdf** — 18 pages, **extractable tables** on ~14 page(s)
+    - p3 table (2 rows): 
+    - p4 table (2 rows): 
+    - p6 table (2 rows): 
+  - [`Education Requirement Report July 2026`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Education%20Requirement%20Report%20July%202026.pdf) — **pdf** — 4 pages, **extractable tables** on ~3 page(s)
+    - p2 table (11 rows): 
+    - p2 table (15 rows): 
+    - p3 table (12 rows): 
+  - [`FY25 Q1-Q2 Data`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q1-Q2%20Data.pdf) — **pdf** — 15 pages, **extractable tables** on ~7 page(s)
+    - p6 table (2 rows): `Distribution of FY25 Q1 awards by CDF Payroll Funding Formula components $0.6m, 4% $0.5m, 3% $0.1m, 1% $1.8m, 12% Base Award Administrative Enhancement Equity Adjustment $1.1m, 8% Child Development Home (CDH) Infant/Toddler Enhancement Miscellaneous Adjustments $10.6m, 72%`
+    - p7 table (2 rows): `350 3 300 3 61 250 2 200 2 1 150 1 243 100 50 0 Providers Participating Non-Participating`
+    - p7 table (2 rows): `61`
+  - [`FY25 Q3 Data Slides`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q3%20Data%20Slides%20%281%29.pdf) — **pdf** — 10 pages, **extractable tables** on ~4 page(s)
+    - p5 table (2 rows): `Distribution of FY25 Q3 awards by CDF Payroll Funding Formula components 0.7m, 4% 0.5m, 3% 0.1m, 1% 2.3m, 14% Base Award Administrative Enhancement Equity Adjustment Child Development Home (CDH) 1.2m, 7% Infant/Toddler Enhancement Miscellaneous Adjustments 11.8m, 71%`
+    - p6 table (2 rows): `350 350 300 62 300 250 250 200 200 150 150 259 100 100 50 50 0 0 Providers Participating Non-Participating`
+    - p6 table (2 rows): `62`
+  - [`FY25 Q4 Data Slides`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY25%20Q4%20Data%20Slides%20%283%29.pdf) — **pdf** — 10 pages, **extractable tables** on ~4 page(s)
+    - p5 table (2 rows): `Distribution of FY25 Q4 awards by CDF Payroll Funding Formula components 0.7m, 4% 0.02m, 0% 0.14m, 1% 2.5m, 15% Base Award Administrative Enhancement Subsidy Equity Adjustment 1.3m, 8% Child Development Home (CDH) Enhancement Infant/Toddler Equity Adjustment Miscellaneous Adjustments 12.3m, 73%`
+    - p6 table (2 rows): `51`
+    - p6 table (2 rows): `31`
+  - [`FY26 Q1 Data Slides`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q1%20Data%20Slides.pdf) — **pdf** — 10 pages, **extractable tables** on ~4 page(s)
+    - p5 table (2 rows): `Distribution of FY26 Q1 awards by CDF Payroll Funding Formula components 0.5m, 4% 0.1m, 0% 0.1m, 1% 2.1m, 15% Base Award Administrative Enhancement Subsidy Equity Adjustment 1.0m, 7% Child Development Home (CDH) Enhancement Infant/Toddler Equity Adjustment Miscellaneous Adjustments 10.2m, 73%`
+    - p6 table (2 rows): `62`
+    - p6 table (2 rows): `28`
+  - [`FY26 Q2 Data Slides`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q2%20Data%20Slides.pdf) — **pdf** — 10 pages, **extractable tables** on ~3 page(s)
+    - p6 table (2 rows): `61`
+    - p6 table (2 rows): `43`
+    - p6 table (2 rows): `28`
+  - [`FY26 Q3 Pay Equity Fund Data Slides`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/FY26%20Q3%20Pay%20Equity%20Fund%20Data%20Slides%20.pdf) — **pdf** — 10 pages, **extractable tables** on ~4 page(s)
+    - p5 table (2 rows): `Distribution of FY26 Q3 awards by CDF Payroll Funding Formula components $0.6 M -$0.4 M $0.1 M $2.4 M Base Award Administrative Enhancement Subsidy Equity Adjustment Child Development Home (CDH) Enhancement $1.0 M Infant/Toddler Equity Adjustment Miscellaneous Adjustments $10.4 M`
+    - p6 table (2 rows): `61`
+    - p6 table (2 rows): `44`
+  - [`Subsidy Program Data FY26 Q1`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Subsidy%20Program%20Data%20FY26%20Q1.pdf) — **pdf** — 18 pages, **extractable tables** on ~16 page(s)
+    - p3 table (2 rows): `DC Child Care Subsidy Program Spending, FY19-FY26 To Date $126.8 M $118.5 M $111.5 M $105.5 M $97.1 M $90.9 M $85.0 M $34.2 M FY 19 FY20 FY21 FY22 FY23 FY24 FY25 FY26* *FY26 spending to date includes October-December 2025.`
+    - p4 table (2 rows): `DC Child Care Subsidy Program FY26 Monthly Spending To Date $12.1 M $11.7 M $10.5 M October November December`
+    - p5 table (2 rows): `DC Child Care Subsidy Program Enrollment FY26 Q1`
 
 ### [DC ESSA State Plan](https://osse.dc.gov/essa)
 
@@ -3297,6 +3605,10 @@ _topics: school-climate, demographics_
     - p1 table (3 rows): 
     - p12 table (8 rows): `Alcohol, Tobacco and Other Drugs`
     - p12 table (2 rows): 
+  - [`2017 DC Middle School Summary Tables`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/2017%20DC%20Middle%20School%20Summary%20Tables.pdf) — **pdf** — 54 pages, **extractable tables** on ~54 page(s)
+    - p1 table (2 rows): `22 00 11 77 YY OO UU TT HH RR II SS KK BB EE HH AA VV II OO RR SS UU RR VV EE YY RR EE SS UU LL TT SS DDiissttrriicctt ooff CCoolluummbbiiaa ((IInncclluuddiinngg CChhaarrtteerr SScchhoooollss)) MMiiddddllee SScchhooooll SSuurrvveeyy SSuummmmaarryy TTaabblleess -- WWeeiigghhtteedd DDaattaa`
+    - p2 table (2 rows): `22 00 11 77 YY OO UU TT HH RR II SS KK BB EE HH AA VV II OO RR SS UU RR VV EE YY RR EE SS UU LL TT SS DDiissttrriicctt ooff CCoolluummbbiiaa ((IInncclluuddiinngg CChhaarrtteerr SScchhoooollss)) MMiiddddllee SScchhooooll SSuurrvveeyy SSuummmmaarryy TTaabblleess -- WWeeiigghhtteedd DDaattaa`
+    - p3 table (2 rows): `22 00 11 77 YY OO UU TT HH RR II SS KK BB EE HH AA VV II OO RR SS UU RR VV EE YY RR EE SS UU LL TT SS DDiissttrriicctt ooff CCoolluummbbiiaa ((IInncclluuddiinngg CChhaarrtteerr SScchhoooollss)) MMiiddddllee SScchhooooll SSuurrvveeyy SSuummmmaarryy TTaabblleess -- WWeeiigghhtteedd DDaattaa`
 
 ### [NAEP (Nation's Report Card) — DC and DCPS results](https://osse.dc.gov/service/national-assessment-educational-progress-naep)
 
@@ -3343,6 +3655,34 @@ _topics: assessment_
     - p1 table (3 rows): `52*`, `38*`, `9*`
     - p1 table (2 rows): `Lower Than 11 Districts`, `Not Significantly Different From 7 Districts`, `Higher Than 8 Districts`
     - p1 table (16 rows): `Percentage at or above NAEP`
+  - [`NAEP State Results - Eighth Grade Mathematics`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Eighth%20Grade%20Mathematics_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `77*`, `17*`, `4*`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP State Results - Eighth Grade Reading`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Eighth%20Grade%20Reading%20_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `56*`, `32*`, `10*`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP State Results - Fourth Grade Mathematics`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Fourth%20Grade%20Mathematics_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `76*`, `19*`, `5*`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP State Results - Fourth Grade Reading`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20State%20Results%20-%20Fourth%20Grade%20Reading%20_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `73*`, `17*`, `8*`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP TUDA Results - Eighth Grade Mathematics`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Eighth%20Grade%20Mathematics_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `71*`, `23*`, `5*`
+    - p1 table (2 rows): `Lower Than 16 Districts`, `Not Significantly Different From 3 Districts`, `Higher Than 1 District`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP TUDA Results - Eighth Grade Reading`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Eighth%20Grade%20Reading_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `52`, `38*`, `9*`
+    - p1 table (2 rows): `Lower Than 15 Districts`, `Not Significantly Different From 3 Districts`, `Higher Than 2 Districts`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP TUDA Results - Fourth Grade Mathematics`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Fourth%20Grade%20Mathematics_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `64*`, `29*`, `6*`
+    - p1 table (2 rows): `Lower Than 7 Districts`, `Not Significantly Different From 6 Districts`, `Higher Than 7 Districts`
+    - p1 table (2 rows): `Percentage at or above`
+  - [`NAEP TUDA Results - Fourth Grade Reading`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/NAEP%20TUDA%20Results%20-%20Fourth%20Grade%20Reading_0.pdf) — **pdf** — 1 pages, **extractable tables** on ~1 page(s)
+    - p1 table (3 rows): `69*`, `22*`, `8*`
+    - p1 table (2 rows): `Lower Than 7 Districts`, `Not Significantly Different From 5 Districts`, `Higher Than 8 Districts`
+    - p1 table (2 rows): `Percentage at or above`
 
 ### [Healthy Schools Act — School Health Profiles, HSA reports, health & PE assessment](https://osse.dc.gov/service/healthy-schools-act-school-health-profiles)
 
@@ -3513,6 +3853,8 @@ _topics: school-climate, profiles_
     - p8 table (4 rows): `No.`, `Description`, `Source`, `Other Details`
     - p10 table (7 rows): `NAME OF FACILITY REQUIRED TO PARTICIPATE IN CACFP`, `FACILITY ADDRESS`, `WARD`, `PARTICIPATION IN CACFP`
     - p10 table (4 rows): `NAME OF FACILITY`
+  - [`Community Eligibility Provision (CEP) Eligibility Data Memo Feb. 2020`](https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Community%20Eligibility%20Provision%20%28CEP%29%20Eligibility%20Data%20Memo%20Feb.%202020.pdf) — **pdf** — 3 pages, **extractable tables** on ~1 page(s)
+    - p2 table (10 rows): `Due Date`, `Responsible Party`, `Action`
 
 ### [OSSE Equity Reports (2012-17)](https://osse.dc.gov/page/equity-reports)
 
@@ -9722,7 +10064,7 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 1911 of 1913 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
+**Profiling status (last run):** 2007 of 2009 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 
