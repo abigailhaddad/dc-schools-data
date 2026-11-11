@@ -4,17 +4,31 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DC Schools Data — Source Finder</title>
+<meta name="description" content="Search the data files published by OSSE, DCPS, DC PCSB and other DC K-12 public school sources: file names, tabs, columns, topics and years. Unofficial and independent.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="DC Schools Data — Source Finder">
+<meta property="og:description" content="Search the data files published by OSSE, DCPS, DC PCSB and other DC K-12 public school sources. Unofficial and independent.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231b365d'/%3E%3Ctext x='16' y='23' font-size='18' font-family='sans-serif' font-weight='700' text-anchor='middle' fill='%23fff'%3EDC%3C/text%3E%3C/svg%3E">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
   body { background:#f6f7f9; }
   .topbar { background:#1b365d; color:#fff; }
   .src-card { background:#fff; border:1px solid #e3e6ea; border-radius:.5rem; padding:1rem 1.25rem; margin-bottom:.85rem; }
   .src-card h5 { margin-bottom:.35rem; }
-  .topic-tag { font-size:.72rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
+  .topic-tag { font-size:.8rem; background:#eef1f5; color:#345; border-radius:1rem; padding:.1rem .55rem; margin-right:.25rem; display:inline-block; }
   .topic-btn { font-size:.82rem; cursor:pointer; background:#fff; border:1px solid #c5ccd6; color:#234; border-radius:1rem; padding:.18rem .75rem; margin:.15rem .3rem .15rem 0; display:inline-block; }
   .topic-btn:hover { border-color:#1b365d; }
   .topic-btn.active { background:#1b365d; color:#fff; border-color:#1b365d; }
-  .filterbar { position:sticky; top:0; z-index:20; background:#f6f7f9; padding:.6rem 0 .3rem; border-bottom:1px solid #e3e6ea; }
+  .filterbar { background:#f6f7f9; padding:.6rem 0 .3rem; border-bottom:1px solid #e3e6ea; }
+  /* sticky only where it fits: on a phone the filter bar is over half the screen */
+  @media (min-width: 992px) { .filterbar { position:sticky; top:0; z-index:20; } }
+  /* long unbroken dataset names pushed the page wider than a phone screen */
+  .src-card, .overlap-card { overflow-wrap:anywhere; }
+  .src-card h5, .src-card h6 { min-width:0; }
+  @media (max-width: 767.98px) {
+    .year-chip { padding:.3rem .6rem; }
+    .topic-btn { padding:.3rem .8rem; }
+  }
   .year-chip { font-size:.8rem; background:#e7f0fa; color:#1b365d; border:1px solid #c5d8ec; border-radius:.35rem; padding:.12rem .5rem; margin:.12rem .25rem .12rem 0; display:inline-block; text-decoration:none; }
   .year-chip:hover { background:#1b365d; color:#fff; }
   .filepair { display:inline-flex; margin:.12rem .4rem .12rem 0; }
@@ -40,7 +54,8 @@
   .cov-table th, .cov-table td { border:1px solid #e9edf1; padding:.25rem .45rem; text-align:center; white-space:nowrap; }
   .cov-table thead th { background:#1b365d; color:#fff; position:sticky; top:0; z-index:2; }
   .cov-table th.topic, .cov-table td.topic { text-align:left; position:sticky; left:0; background:#fff; z-index:1; font-weight:600; color:#234; }
-  .cov-table thead th.topic { background:#1b365d; z-index:3; }
+  .cov-table thead th.topic { background:#1b365d; color:#fff; z-index:3; }
+  .cov-table thead th.tot { background:#1b365d; color:#fff; }
   .cov-table td.tot, .cov-table th.tot { font-weight:600; background:#f1f4f8; }
   .cov-cell { cursor:pointer; color:#234; }
   .cov-cell:hover { outline:2px solid #d97706; outline-offset:-2px; }
@@ -52,7 +67,7 @@
 
 <div class="topbar py-3 mb-3">
   <div class="container">
-    <h3 class="mb-0">DC K-12 Public Schools — Data Source Finder</h3>
+    <h1 class="h3 mb-0">DC K-12 Public Schools — Data Source Finder</h1>
     <div class="small opacity-75" id="subtitle">loading…</div>
     <div class="small mt-1">
       Unofficial, independent project — <strong>not affiliated with</strong> OSSE, DCPS, DC PCSB, DME, or the DC government.
@@ -395,6 +410,12 @@ function emptyFilesMessage() {
     + " Try fewer words, or open the <b>Coverage</b> tab to see everything by topic &amp; year.</div>";
 }
 
+// The file list has hundreds of dataset cards; draw FILES_PAGE at a time.
+// The count line above the list still reports the full total.
+const FILES_PAGE = 50;
+let filesLimit = FILES_PAGE;
+let filesKey = "";
+
 function renderFiles() {
   const terms = queryTerms();
   // terms + their synonyms, used to highlight everywhere a hit's reason shows
@@ -453,11 +474,15 @@ function renderFiles() {
     list = list.filter(g => g.files.some(x => isNew(x.file)));
 
   const shownFiles = list.reduce((n, g) => n + g.files.length, 0);
+  const key = [state.q, state.owner, state.topic, state.year, state.newOnly].join("|");
+  if (key !== filesKey) { filesKey = key; filesLimit = FILES_PAGE; }
+  const visible = list.slice(0, filesLimit);
   document.getElementById("count").textContent =
-    list.length + " dataset series · " + shownFiles + " files";
+    list.length + " dataset series · " + shownFiles + " files"
+    + (list.length > visible.length ? " (showing the first " + visible.length + " series)" : "");
 
   document.getElementById("files").innerHTML = list.length
-    ? list.map(g => {
+    ? visible.map(g => {
         const items = g.files.slice().sort((a, b) =>
           (yearNum(chipLabel(a)) - yearNum(chipLabel(b))) || chipLabel(a).localeCompare(chipLabel(b)));
         const latest = items[items.length - 1];
@@ -515,8 +540,19 @@ function renderFiles() {
           + matchHtml
           + '<div class="file-cols mb-1"><b>⬇</b> download · <b>↗</b> source page</div><div>' + chips + "</div></div>";
       }).join("")
+      + (list.length > visible.length
+        ? '<div class="text-center my-3"><button id="files-more" class="btn btn-outline-secondary">Show '
+          + Math.min(FILES_PAGE, list.length - visible.length) + " more dataset series ("
+          + (list.length - visible.length) + " not shown yet)</button></div>"
+        : "")
     : emptyFilesMessage();
 }
+
+document.getElementById("files").addEventListener("click", e => {
+  if (!e.target.closest("#files-more")) return;
+  filesLimit += FILES_PAGE;
+  renderFiles();
+});
 
 // shade a coverage cell by how many files it holds, relative to the busiest cell
 function covBg(n, max) {
