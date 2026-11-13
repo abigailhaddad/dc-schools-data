@@ -1,0 +1,4 @@
+# Weekly workflow: merge the discovery cache as a union of keys when its commit is
+# rebased onto a newer main (see merge_json_union.py). Inert unless the driver is configured.
+discovery_pdf_checked.json merge=jsonunion
+discovery_state.json merge=jsonunion

@@ -97,6 +97,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Hand-made PRs often edit the discovery cache too, so a line-based rebase of the
+          # cache commit can conflict. .gitattributes routes those two files to a key-union
+          # merge (merge_json_union.py); this turns it on. Other files still conflict loudly.
+          git config merge.jsonunion.driver "python3 merge_json_union.py %O %A %B %P"
           # main can move during this ~75-minute run (a merge, another bot commit). A plain
           # `git push` is then rejected ("fetch first") and, worse, the working tree is
           # stale. Rebase onto the latest main and retry; give up loudly if that conflicts.
@@ -159,6 +163,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Hand-made PRs often edit the discovery cache too, so a line-based rebase of the
+          # cache commit can conflict. .gitattributes routes those two files to a key-union
+          # merge (merge_json_union.py); this turns it on. Other files still conflict loudly.
+          git config merge.jsonunion.driver "python3 merge_json_union.py %O %A %B %P"
           # main can move during this ~75-minute run (a merge, another bot commit). A plain
           # `git push` is then rejected ("fetch first") and, worse, the working tree is
           # stale. Rebase onto the latest main and retry; give up loudly if that conflicts.
@@ -172,7 +180,7 @@ jobs:
           git add discovery_pdf_checked.json discovery_state.json
           if ! git diff --cached --quiet; then
             git commit -m "Update new-file discovery cache"
-            push_rebased || { echo "::warning::Could not push the discovery cache (main moved and the rebase conflicted)."; exit 1; }
+            push_rebased || { echo "::warning::Could not push the discovery cache (main moved and the rebase conflicted)."; git reset --hard origin/main; exit 1; }
           fi
       - name: Open or update an issue for new data files
         if: (steps.discover.outputs.count != '' && steps.discover.outputs.count != '0') || steps.discover.outputs.below == 'yes'
