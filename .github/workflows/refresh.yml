@@ -47,6 +47,10 @@ jobs:
           cp -f file_profiles.json file_profiles.prev.json
           python profile_files.py --refresh
           python generate_readme.py
+      - name: Install Playwright (test_frontend.py pages the Files tab in a real browser)
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
       - name: Front-end invariants (no empty topic chips)
         run: python test_frontend.py
       - name: Publish-dir guard (allow-list, 25 MiB/file, no private paths)
