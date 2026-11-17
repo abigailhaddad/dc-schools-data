@@ -76796,7 +76796,9 @@
       "accountability",
       "enrollment"
     ],
-    "profile": {
+    "status": "error",
+    "error": "download_failed: 500 Server Error: Internal Server Error for url: https://hub.arcgis.com/api/v3/datasets/b48c7faa47bd48ddb3184eff4b4cdf60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1",
+    "last_good_profile": {
       "kind": "csv",
       "n_rows": 6765,
       "n_columns": 12,
@@ -76816,7 +76818,7 @@
       ],
       "columns_truncated": false
     },
-    "status": "ok"
+    "last_ok_url": "https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0"
   },
   "opendata-star-framework-scores-csv": {
     "id": "opendata-star-framework-scores-csv",
@@ -248848,10 +248850,10 @@
   "osse-school-health-unknown-watkins-elementary": {
     "id": "osse-school-health-unknown-watkins-elementary",
     "source_id": "osse-school-health",
-    "name": "School Health Profile (year not stated) — Watkins Elementary",
+    "name": "School Health Profile 2012-13 — Watkins Elementary",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Watkins%20Elementary%20School%20Health%20Profile.pdf",
     "kind": "pdf",
-    "year": "unknown",
+    "year": "2012-13",
     "page": "https://osse.dc.gov/publication/watkins-elementary-school-health-profile",
     "topics": [
       "other"
@@ -249054,10 +249056,10 @@
   "osse-school-health-unknown-william-e-doar-jr-pcs-edgewood": {
     "id": "osse-school-health-unknown-william-e-doar-jr-pcs-edgewood",
     "source_id": "osse-school-health",
-    "name": "School Health Profile (year not stated) — William E Doar Jr PCS Edgewood",
+    "name": "School Health Profile 2012-13 — William E Doar Jr PCS Edgewood",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/William%20E.%20Doar%2C%20Jr.%20PCS%20-%20Edgewood%20Health%20Profile.pdf",
     "kind": "pdf",
-    "year": "unknown",
+    "year": "2012-13",
     "page": "https://osse.dc.gov/publication/william-e-doar-jr-pcs-edgewood-health-profile",
     "topics": [
       "other"
@@ -249262,10 +249264,10 @@
   "osse-school-health-unknown-youth-services-center": {
     "id": "osse-school-health-unknown-youth-services-center",
     "source_id": "osse-school-health",
-    "name": "School Health Profile (year not stated) — Youth Services Center",
+    "name": "School Health Profile 2012-13 — Youth Services Center",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/Youth%20Services%20Center%20Health%20Profile.pdf",
     "kind": "pdf",
-    "year": "unknown",
+    "year": "2012-13",
     "page": "https://osse.dc.gov/publication/youth-services-center-health-profile",
     "topics": [
       "other"
@@ -313461,10 +313463,10 @@
   "osse-school-health-unknown-ludlow": {
     "id": "osse-school-health-unknown-ludlow",
     "source_id": "osse-school-health",
-    "name": "School Health Profile (year not stated) — LUDLOW",
+    "name": "School Health Profile 2012-13 — LUDLOW",
     "url": "https://osse.dc.gov/sites/default/files/dc/sites/osse/publication/attachments/DCPS_LUDLOW_final.pdf",
     "kind": "pdf",
-    "year": "unknown",
+    "year": "2012-13",
     "page": "https://osse.dc.gov/publication/ludlow-es-healthy-schools-act-2013-school-health-profile",
     "topics": [
       "other"
