@@ -1919,7 +1919,8 @@ _topics: accountability, assessment, attendance, graduation, discipline, enrollm
 - **Data files (profiled):**
   - [`School STAR Scores (CSV export)`](https://opendata.dc.gov/api/download/v1/items/90b2efbd069842f29817615611619c9b/csv?layers=0) — **csv** — 203 rows × 9 cols
     - cols: `LEA_Code`, `LEA_Name`, `School_Code`, `School_Name`, `School_Type`, `Ward`, `STAR_Score`, `STAR_Rating`, `ObjectId`
-  - [`School STAR Enrollment (CSV export)`](https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0) — **csv** — ❌ download_failed: 500 Server Error: Internal Server Error for url: https://hub.arcgis.com/api/v3/datasets/b48c7faa47bd48ddb3184eff4b4cdf60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1
+  - [`School STAR Enrollment (CSV export)`](https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0) — **csv** — 6,765 rows × 12 cols
+    - cols: `LEA_Code`, `LEA_Name`, `School_Code`, `School_Name`, `School_Type`, `Ward`, `Student_Group`, `Grade`, `Metric`, `Metric_Score`, `School_Year`, `ObjectId`
   - [`School STAR Framework Scores (CSV export)`](https://opendata.dc.gov/api/download/v1/items/297b7dd14d4a4a759b33435c57e1b6e4/csv?layers=0) — **csv** — 248 rows × 13 cols
     - cols: `LEA_Code`, `LEA_Name`, `School_Code`, `School_Name`, `School_Type`, `Ward`, `School_Framework`, `Framework_Weight`, `Framework_Points_Earned`, `Framework_Points_Possible`, `Framework_STAR_Score`, `Framework_STAR_Rating`
   - [`School STAR Student Group Scores (CSV export)`](https://opendata.dc.gov/api/download/v1/items/db72f81db024485f818f0f41a43aeec4/csv?layers=0) — **csv** — 1,163 rows × 14 cols
@@ -13478,7 +13479,7 @@ Where it appears:
 
 ## Known gaps & files needing a browser
 
-**Profiling status (last run):** 2896 of 2899 catalogued files download and profile cleanly · 1 still need a browser to resolve · 2 failed.
+**Profiling status (last run):** 2897 of 2899 catalogued files download and profile cleanly · 1 still need a browser to resolve · 1 failed.
 
 Many high-value files (OSSE assessment results, PCSB finance/equity docs) are published behind **Box.com / Egnyte share links** or on **JS-rendered pages** with no scrapeable direct URL. Those are harvested with a browser (Playwright) via the update skill and added to `data_files.yaml` — which is why most now resolve. Box `file_id`s change year to year, so they need periodic re-resolving.
 
@@ -13486,7 +13487,6 @@ Currently flagged `needs_browser` (resolve in a browser):
 - 2019 DC School Report Card and STAR Framework Cross-Tabulated Data File → https://app.box.com/s/tb3ipg32wo48di3ph58llnpim5632fn9
 
 Files that failed to download/profile on the last run:
-- School STAR Enrollment (CSV export) — `download_failed: 500 Server Error: Internal Server Error for url: https://hub.arcgis.com/api/v3/datasets/b48c7faa47bd48ddb3184eff4b4cdf60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1`
 - FY19 Performance Oversight — Q88 Attachment 1- (a)-(c); (e)-(i) FY19 NonPublic — `profile_failed: Unable to read workbook: could not read stylesheet from /home/runner/work/dc-schools-data/dc-schools-data/data_cache/osse-data-reports-fy19-performance-oversight-q88-attachment-1-a-c-e-i-fy19-nonpublic.xlsx.
 This is most probably because the workbook source files contain some invalid XML.
 Please see the exception for more details.`

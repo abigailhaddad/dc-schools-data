@@ -1,7 +1,7 @@
 window.CATALOG = {
  "last_verified": "2026-11",
- "generated": "2026-11-17",
- "new_since": "2026-05-18",
+ "generated": "2026-11-23",
+ "new_since": "2026-05-24",
  "owners": [
   {
    "key": "OSSE",
@@ -25010,15 +25010,28 @@ window.CATALOG = {
      "url": "https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0",
      "kind": "csv",
      "year": "2017-18",
-     "status": "error",
+     "status": "ok",
      "topics": [
       "enrollment",
       "accountability"
      ],
      "page": "https://opendata.dc.gov/datasets/DCGIS::school-star-enrollment/about",
      "added": "2026-11-01",
-     "columns": [],
-     "n_rows": null,
+     "columns": [
+      "LEA_Code",
+      "LEA_Name",
+      "School_Code",
+      "School_Name",
+      "School_Type",
+      "Ward",
+      "Student_Group",
+      "Grade",
+      "Metric",
+      "Metric_Score",
+      "School_Year",
+      "ObjectId"
+     ],
+     "n_rows": 6765,
      "syn": "accountability aspire pmf rating school quality sqr star"
     },
     {
@@ -25081,7 +25094,7 @@ window.CATALOG = {
      "syn": "accountability aspire pmf rating school quality sqr star"
     }
    ],
-   "search": "dc school report card (public interactive site) osse cross-sector (dcps + charter). osse.dc.gov/dcschoolreportcard redirects here. the old dcschoolreportcard.org hostname returns a blank 503 (checked aug 2026, real browser too) — do not link it. for analysis use the resource library files. interactive web app (search/browse; not bulk download) accountability assessment attendance graduation discipline enrollment demographics profiles school star scores (csv export) lea_code lea_name school_code school_name school_type ward star_score star_rating objectid school star enrollment (csv export) school star framework scores (csv export) lea_code lea_name school_code school_name school_type ward school_framework framework_weight framework_points_earned framework_points_possible framework_star_score framework_star_rating objectid school star student group scores (csv export) lea_code lea_name school_code school_name school_type ward school_framework student_group student_group_points_earned student_group_points_possible student_group_score framework_points_earned framework_points_possible objectid assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions"
+   "search": "dc school report card (public interactive site) osse cross-sector (dcps + charter). osse.dc.gov/dcschoolreportcard redirects here. the old dcschoolreportcard.org hostname returns a blank 503 (checked aug 2026, real browser too) — do not link it. for analysis use the resource library files. interactive web app (search/browse; not bulk download) accountability assessment attendance graduation discipline enrollment demographics profiles school star scores (csv export) lea_code lea_name school_code school_name school_type ward star_score star_rating objectid school star enrollment (csv export) lea_code lea_name school_code school_name school_type ward student_group grade metric metric_score school_year objectid school star framework scores (csv export) lea_code lea_name school_code school_name school_type ward school_framework framework_weight framework_points_earned framework_points_possible framework_star_score framework_star_rating objectid school star student group scores (csv export) lea_code lea_name school_code school_name school_type ward school_framework student_group student_group_points_earned student_group_points_possible student_group_score framework_points_earned framework_points_possible objectid assessment proficiency proficient test scores test results standardized test parcc dc cape msaa dc cas attendance absenteeism chronic absenteeism chronic absence truancy graduation acgr graduation rate cohort graduation dropout accountability star school quality sqr pmf aspire rating discipline suspension suspensions expulsion expulsions"
   },
   {
    "id": "osse-star-technical-guide",

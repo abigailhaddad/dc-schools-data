@@ -76796,9 +76796,7 @@
       "accountability",
       "enrollment"
     ],
-    "status": "error",
-    "error": "download_failed: 500 Server Error: Internal Server Error for url: https://hub.arcgis.com/api/v3/datasets/b48c7faa47bd48ddb3184eff4b4cdf60_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1",
-    "last_good_profile": {
+    "profile": {
       "kind": "csv",
       "n_rows": 6765,
       "n_columns": 12,
@@ -76818,7 +76816,7 @@
       ],
       "columns_truncated": false
     },
-    "last_ok_url": "https://opendata.dc.gov/api/download/v1/items/b48c7faa47bd48ddb3184eff4b4cdf60/csv?layers=0"
+    "status": "ok"
   },
   "opendata-star-framework-scores-csv": {
     "id": "opendata-star-framework-scores-csv",
